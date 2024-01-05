@@ -1,0 +1,5114 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Home = 3,7,5,8
+WildBattleBGM = fireleafbattle.ogg
+TrainerBattleBGM = DiamondTrainer.ogg
+WildVictoryME = PkmRS_Victory2.ogg
+TrainerVictoryME = OmegaVict.ogg
+SurfBGM = Surfing.mid
+BicycleBGM = Bike.ogg
+PlayerA = POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf,boy_run,boy_surf,boy_fish_offset,boy_fish_offset
+PlayerB = POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf,girl_run,girl_surf,girl_fish_offset,girl_fish_offset
+#-------------------------------
+[022]
+# Towns
+#-------------------------------
+[028]
+# National Park
+Outdoor = true
+ShowArea = true
+MapPosition = 1,14,4
+BattleBack = Forest
+#-------------------------------
+[029]
+# National Park Entrance
+Bicycle = true
+MapPosition = 1,14,4
+#-------------------------------
+[030]
+# National Park Pavillion
+MapPosition = 1,14,4
+#-------------------------------
+[031]
+# Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[032]
+# Routes
+#-------------------------------
+[033]
+# Pallet Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,11
+#-------------------------------
+[042]
+# Pallet House
+HealingSpot = 42,8,3
+MapPosition = 0,6,11
+#-------------------------------
+[043]
+# Viridian City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,8
+#-------------------------------
+[048]
+# Professor Oak's Lab
+MapPosition = 0,6,11
+#-------------------------------
+[076]
+# Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,9
+MapSize = 1,111
+#-------------------------------
+[077]
+# Viridian House
+MapPosition = 0,5,8
+#-------------------------------
+[078]
+# Viridian Pokémon Center
+MapPosition = 0,5,8
+HealingSpot = 78,7,4
+#-------------------------------
+[079]
+# Gate
+Bicycle = true
+#-------------------------------
+[080]
+# Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,5
+MapSize = 1,101
+#-------------------------------
+[081]
+# Viridian Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+MapPosition = 0,5,6
+#-------------------------------
+[082]
+# Pewter City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,5,4
+#-------------------------------
+[083]
+# Pewter House
+MapPosition = 0,5,4
+#-------------------------------
+[084]
+# Pewter Pokémon Center
+MapPosition = 0,5,4
+HealingSpot = 84,7,4
+#-------------------------------
+[085]
+# Opelucid Gym
+MapPosition = 4,10,1
+#-------------------------------
+[086]
+# Pewter Gym
+MapPosition = 0,5,4
+#-------------------------------
+[087]
+# Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,4
+MapSize = 3,111
+#-------------------------------
+[088]
+# Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,4
+Dungeon = false
+MapSize = 2,11
+#-------------------------------
+[089]
+# Cerulean City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,5
+MapPosition = 0,12,4
+MapSize = 2,11
+#-------------------------------
+[090]
+# Mt Moon B1F
+ShowArea = true
+Environment = Cave
+MapPosition = 0,9,4
+#-------------------------------
+[091]
+# Cerulean House
+MapPosition = 0,12,4
+MapSize = 2,11
+#-------------------------------
+[092]
+# Mt Moon 1F
+ShowArea = true
+Environment = Cave
+MapPosition = 0,9,4
+#-------------------------------
+[093]
+# Cerulean Pokémon Center
+MapPosition = 0,13,4
+HealingSpot = 93,7,4
+#-------------------------------
+[094]
+# Professor Cerise's Lab
+ShowArea = true
+#-------------------------------
+[095]
+# Cerulean Gym
+MapPosition = 0,13,4
+#-------------------------------
+[096]
+# Bike Shop
+#-------------------------------
+[097]
+# Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,5
+MapSize = 1,11
+#-------------------------------
+[098]
+# Route 5 Daycare
+MapPosition = 0,13,6
+#-------------------------------
+[099]
+# Route 9 Gem Shop
+MapPosition = 4,9,2
+#-------------------------------
+[100]
+# Hidden Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,6
+MapSize = 1,1001
+#-------------------------------
+[101]
+# Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+MapPosition = 0,13,9
+MapSize = 1,11
+#-------------------------------
+[102]
+# Cinnabar Power Shop
+MapPosition = 0,16,17
+#-------------------------------
+[103]
+# Route 24 Pokémon Center
+MapPosition = 0,13,10
+HealingSpot = 103,7,4
+#-------------------------------
+[104]
+# Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,11
+MapSize = 1,111
+#-------------------------------
+[105]
+# Route 25 House
+MapPosition = 0,13,11
+#-------------------------------
+[106]
+# Route 25
+MapPosition = 0,13,11
+#-------------------------------
+[107]
+# Bill's Lighthouse
+ShowArea = true
+MapPosition = 0,13,13
+#-------------------------------
+[108]
+# Vermilion City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,14
+MapSize = 2,11
+#-------------------------------
+[109]
+# Vermilion House
+MapPosition = 0,13,14
+MapSize = 2,11
+#-------------------------------
+[110]
+# Vermilion Pokémon Center
+MapPosition = 0,13,14
+HealingSpot = 110,7,4
+#-------------------------------
+[111]
+# Malie Item Shop
+MapPosition = 6,23,14
+#-------------------------------
+[112]
+# Vermilion Gym
+MapPosition = 0,13,14
+#-------------------------------
+[113]
+# Vermilion Pokémon Fan Club
+MapPosition = 0,13,14
+#-------------------------------
+[114]
+# S.S. Anne
+#-------------------------------
+[115]
+# S.S. Anne 1F
+ShowArea = true
+MapPosition = 0,13,15
+#-------------------------------
+[116]
+# S.S. Anne Rooms
+MapPosition = 0,13,15
+#-------------------------------
+[117]
+# S.S. Anne B1F
+ShowArea = true
+MapPosition = 0,13,15
+#-------------------------------
+[118]
+# S.S. Anne Rooms
+MapPosition = 0,13,15
+#-------------------------------
+[119]
+# S.S. Anne 2F
+ShowArea = true
+MapPosition = 0,13,15
+#-------------------------------
+[120]
+# S.S. Anne Rooms
+MapPosition = 0,13,15
+#-------------------------------
+[121]
+# S.S. Anne Room
+MapPosition = 0,13,15
+#-------------------------------
+[122]
+# S.S. Anne
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,15
+#-------------------------------
+[123]
+# S.S. Anne 3F
+ShowArea = true
+MapPosition = 0,13,14
+#-------------------------------
+[124]
+# Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+Weather = Sun,5
+MapPosition = 0,15,13
+MapSize = 1,11
+#-------------------------------
+[125]
+# Underground Path
+ShowArea = true
+MapPosition = 0,15,13
+#-------------------------------
+[126]
+# Underground Path
+ShowArea = true
+Bicycle = true
+MapPosition = 0,15,8
+MapSize = 1,100001
+#-------------------------------
+[127]
+# Underground Path
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[128]
+# Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,5
+MapPosition = 0,15,8
+MapSize = 2,11
+#-------------------------------
+[129]
+# Laverre Scarf Shop
+MapPosition = 5,14,5
+#-------------------------------
+[130]
+# Saffron City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,13,7
+MapSize = 2,1111
+#-------------------------------
+[131]
+# Saffron House
+MapPosition = 0,13,7
+MapSize = 2,1111
+#-------------------------------
+[132]
+# Saffron Pokémon Center
+MapPosition = 0,13,8
+HealingSpot = 132,7,4
+#-------------------------------
+[133]
+# Cable Club
+MapPosition = 4,3,13
+#-------------------------------
+[134]
+# Silph Co.
+MapPosition = 0,13,8
+#-------------------------------
+[135]
+# Magnet Train
+MapPosition = 0,13,7
+#-------------------------------
+[136]
+# Saffron Gym
+MapPosition = 0,14,7
+#-------------------------------
+[137]
+# Lavender Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,65
+MapPosition = 0,20,8
+#-------------------------------
+[138]
+# Zarude's Den
+#-------------------------------
+[139]
+# Lavender House
+MapPosition = 0,20,8
+#-------------------------------
+[140]
+# Lavender Pokémon Center
+MapPosition = 0,20,8
+HealingSpot = 140,7,4
+#-------------------------------
+[142]
+# Route 38
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,12,2
+MapSize = 2,11
+#-------------------------------
+[143]
+# Pokémon Tower 1F
+ShowArea = true
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[144]
+# Pokémon Tower 2F
+ShowArea = true
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[145]
+# Pokémon Tower 3F
+ShowArea = true
+Weather = Fog,100
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[146]
+# Pokémon Tower 4F
+ShowArea = true
+Weather = Fog,100
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[147]
+# Pokémon Tower 5F
+ShowArea = true
+Weather = Fog,100
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[148]
+# Pokémon Tower 6F
+ShowArea = true
+Weather = Fog,100
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[149]
+# Pokémon Tower 7F
+ShowArea = true
+Weather = Fog,100
+Environment = Graveyard
+MapPosition = 0,20,8
+#-------------------------------
+[150]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,12,8
+#-------------------------------
+[151]
+# EXAMPLE MAP
+#-------------------------------
+[152]
+# Celadon City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,10,8
+MapSize = 2,11
+#-------------------------------
+[153]
+# Celadon House
+MapPosition = 0,11,8
+#-------------------------------
+[154]
+# Celadon Pokémon Center
+MapPosition = 0,11,8
+HealingSpot = 154,7,4
+#-------------------------------
+[155]
+# Celadon Dept. 1F
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[156]
+# Celadon Dept. 2F
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[157]
+# Celadon Dept. 3F
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[158]
+# Celadon Dept. 4F
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[159]
+# Celadon Dept. 5F
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[160]
+# Celadon Dept. Rooftop
+Outdoor = true
+ShowArea = true
+MapPosition = 0,10,8
+#-------------------------------
+[161]
+# Celadon Dept. Elevator
+#-------------------------------
+[162]
+# Game Corner
+#-------------------------------
+[163]
+# Celadon Gym
+MapPosition = 0,10,8
+#-------------------------------
+[164]
+# Fighting Dojo
+MapPosition = 0,14,7
+#-------------------------------
+[165]
+# P1 Grand Prix
+MapPosition = 0,10,8
+#-------------------------------
+[166]
+# Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,8
+MapSize = 2,11
+#-------------------------------
+[167]
+# Hoenn Battle Frontier
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[168]
+# Gringey City Power Plant
+ShowArea = true
+MapPosition = 0,8,8
+#-------------------------------
+[169]
+# Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = true
+MapPosition = 0,8,9
+MapSize = 1,1111
+#-------------------------------
+[170]
+# Route 18
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,8,13
+MapSize = 2,11
+#-------------------------------
+[171]
+# Wyndon
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,5
+MapPosition = 7,8,7
+#-------------------------------
+[172]
+# Wyndon House
+MapPosition = 7,8,7
+#-------------------------------
+[173]
+# Wyndon Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 173,7,4
+#-------------------------------
+[174]
+# Fuchsia City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+BicycleAlways = false
+MapPosition = 0,10,13
+MapSize = 2,11
+#-------------------------------
+[175]
+# Fuchsia House
+MapPosition = 0,10,13
+MapSize = 2,11
+#-------------------------------
+[176]
+# Fuchsia Pokémon Center
+MapPosition = 0,10,13
+HealingSpot = 176,7,4
+#-------------------------------
+[177]
+# Wyndon Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[178]
+# Fuchsia Gym
+MapPosition = 0,9,13
+#-------------------------------
+[179]
+# Safari Zone
+MapPosition = 0,11,13
+#-------------------------------
+[180]
+# Safari Zone Kanto
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[181]
+# Route 19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,9,14
+MapSize = 3,111
+#-------------------------------
+[182]
+# Route 19 House
+MapPosition = 0,10,14
+#-------------------------------
+[183]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+Weather = Fog,10
+MapPosition = 7,8,7
+#-------------------------------
+[184]
+# Cinnabar Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,16,17
+#-------------------------------
+[185]
+# Cinnabar House
+MapPosition = 0,16,17
+#-------------------------------
+[186]
+# Cinnabar Pokémon Center
+MapPosition = 0,16,17
+HealingSpot = 186,7,4
+#-------------------------------
+[187]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[188]
+# Pewter Museum of Science
+MapPosition = 0,5,4
+#-------------------------------
+[189]
+# Pokémon Mansion 1F
+ShowArea = true
+MapPosition = 0,16,17
+#-------------------------------
+[190]
+# Pokémon Mansion 2F
+ShowArea = true
+MapPosition = 0,16,17
+#-------------------------------
+[191]
+# Pokémon Mansion 3F
+ShowArea = true
+MapPosition = 0,16,17
+#-------------------------------
+[192]
+# Pokémon Mansion B1F
+ShowArea = true
+MapPosition = 0,16,17
+#-------------------------------
+[193]
+# Cinnabar Gym
+Environment = Volcano
+MapPosition = 0,18,17
+#-------------------------------
+[194]
+# Viridian Gym
+MapPosition = 0,5,8
+#-------------------------------
+[195]
+# Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,2,8
+MapSize = 3,111
+#-------------------------------
+[196]
+# Indigo Plateau
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,2,7
+MapSize = 2,11
+#-------------------------------
+[197]
+# Indigo Plateau
+MapPosition = 0,2,7
+#-------------------------------
+[198]
+# Kanto Pokemon League
+MapPosition = 0,2,7
+#-------------------------------
+[199]
+# Indigo Rock
+MapPosition = 0,2,7
+#-------------------------------
+[200]
+# Indigo Water
+MapPosition = 0,2,7
+#-------------------------------
+[201]
+# Indigo Ice
+MapPosition = 0,2,7
+#-------------------------------
+[202]
+# Indigo Grass
+MapPosition = 0,2,7
+#-------------------------------
+[203]
+# Indigo Stadium
+MapPosition = 0,2,7
+#-------------------------------
+[204]
+# Kanto
+#-------------------------------
+[205]
+# Kanto
+#-------------------------------
+[206]
+# Orange Archipelago
+#-------------------------------
+[207]
+# Valencia House
+#-------------------------------
+[208]
+# Valencia Island Blimp
+#-------------------------------
+[209]
+# Valencia Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,30
+#-------------------------------
+[210]
+# Valencia Pokémon Center
+HealingSpot = 210,7,4
+#-------------------------------
+[211]
+# Tangelo Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
+[212]
+# Tangelo House
+#-------------------------------
+[213]
+# Tangelo Pokémon Center
+HealingSpot = 213,7,4
+#-------------------------------
+[214]
+# EXAMPLE MAP
+ShowArea = false
+#-------------------------------
+[215]
+# Mikan Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[216]
+# Mikan House
+#-------------------------------
+[217]
+# Mikan Pokémon Center
+HealingSpot = 217,7,4
+#-------------------------------
+[218]
+# Mikan Gym
+#-------------------------------
+[219]
+# Navel House
+#-------------------------------
+[220]
+# Navel Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[221]
+# Navel Pokémon Center
+HealingSpot = 221,7,4
+#-------------------------------
+[222]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+Weather = Rain,10
+MapPosition = 7,8,7
+#-------------------------------
+[223]
+# Navel Rock 1F
+ShowArea = true
+#-------------------------------
+[224]
+# Navel Rock B1F
+ShowArea = true
+#-------------------------------
+[225]
+# Navel Rock 2F
+ShowArea = true
+#-------------------------------
+[226]
+# Navel Rock 3F
+ShowArea = true
+#-------------------------------
+[227]
+# Navel Gym
+Outdoor = true
+Bicycle = true
+#-------------------------------
+[228]
+# Seven Grapefruit Islands
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[229]
+# Grapefruit Pokémon Center
+HealingSpot = 228,7,4
+#-------------------------------
+[230]
+# Grapefruit House
+#-------------------------------
+[231]
+# Trovita Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[232]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+Weather = Sun,10
+MapPosition = 7,8,7
+#-------------------------------
+[233]
+# Trovita House
+#-------------------------------
+[234]
+# Trovita Pokémon Center
+HealingSpot = 234,7,4
+#-------------------------------
+[235]
+# Trovita Gym
+#-------------------------------
+[236]
+# Ascorbia Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,30
+#-------------------------------
+[237]
+# Ascorbia House
+#-------------------------------
+[238]
+# Ascrobia Pokémon Center
+HealingSpot = 238,7,4
+#-------------------------------
+[239]
+# Ascorbia House
+#-------------------------------
+[240]
+# Kumquat Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[241]
+# Kumquat Pokémon Center
+HealingSpot = 241,7,4
+#-------------------------------
+[242]
+# Kumquat House
+#-------------------------------
+[243]
+# Galar
+#-------------------------------
+[244]
+# Kumquat Gym
+#-------------------------------
+[245]
+# Pummelo Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[246]
+# Pummelo Pokémon Center
+HealingSpot = 246,7,4
+#-------------------------------
+[247]
+# Pummelo Stadium
+#-------------------------------
+[248]
+# Johto
+#-------------------------------
+[249]
+# Johto
+#-------------------------------
+[250]
+# Route 45
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,23,7
+MapSize = 2,1111
+#-------------------------------
+[251]
+# New Bark Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,22,8
+#-------------------------------
+[252]
+# New Bark House
+MapPosition = 1,22,8
+#-------------------------------
+[253]
+# Professor Elm's Lab
+MapPosition = 1,22,8
+HealingSpot = 253,2,6
+#-------------------------------
+[254]
+# Route 29
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,20,8
+MapSize = 2,11
+#-------------------------------
+[255]
+# Route 29
+Outdoor = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 1,20,7
+#-------------------------------
+[256]
+# Cherrygrove City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,5
+MapPosition = 1,19,8
+#-------------------------------
+[257]
+# Cherrygrove House
+MapPosition = 1,19,8
+#-------------------------------
+[258]
+# Cherrygrove Pokémon Center
+HealingSpot = 258,7,4
+#-------------------------------
+[259]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+Weather = Snow,10
+MapPosition = 7,8,7
+#-------------------------------
+[260]
+# Route 30
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,19,5
+MapSize = 1,111
+#-------------------------------
+[261]
+# Hoenn Battle Frontier
+#-------------------------------
+[262]
+# Violet City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,17,4
+MapSize = 2,1111
+#-------------------------------
+[263]
+# Violet House
+MapPosition = 1,17,4
+MapSize = 2,1111
+#-------------------------------
+[264]
+# Violet Pokémon Center
+MapPosition = 1,18,5
+HealingSpot = 264,7,4
+#-------------------------------
+[265]
+# Dragonite Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[266]
+# Sprout Tower
+ShowArea = true
+MapPosition = 1,18,4
+#-------------------------------
+[267]
+# Violet Gym
+MapPosition = 1,17,4
+#-------------------------------
+[268]
+# Route 32
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,17,6
+MapSize = 1,1111
+#-------------------------------
+[269]
+# Charicific Valley
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,17,7
+#-------------------------------
+[270]
+# Route 33
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,60
+MapPosition = 1,17,10
+MapSize = 2,11
+#-------------------------------
+[271]
+# Azalea Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+MapPosition = 1,16,10
+#-------------------------------
+[272]
+# Azalea House
+MapPosition = 1,16,10
+#-------------------------------
+[273]
+# Azalea Pokémon Center
+MapPosition = 1,16,10
+HealingSpot = 273,7,4
+#-------------------------------
+[274]
+# Wyndon Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[275]
+# Slowpoke Well
+ShowArea = true
+MapPosition = 1,16,10
+#-------------------------------
+[276]
+# Azalea Gym
+MapPosition = 1,16,10
+#-------------------------------
+[277]
+# Ilex Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+MapPosition = 1,14,10
+#-------------------------------
+[278]
+# Pokémon Swap Meet
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,13,10
+#-------------------------------
+[279]
+# Swap Meet Pokémon Center
+MapPosition = 1,13,10
+HealingSpot = 279,7,4
+#-------------------------------
+[280]
+# Route 34
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,14,8
+MapSize = 1,11
+#-------------------------------
+[281]
+# Element Islands
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+#-------------------------------
+[282]
+# Goldenrod City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,14,6
+MapSize = 2,1111
+#-------------------------------
+[283]
+# Goldenrod House
+MapPosition = 1,14,6
+MapSize = 2,1111
+#-------------------------------
+[284]
+# Goldenrod Pokémon Center
+MapPosition = 1,14,7
+HealingSpot = 284,7,4
+#-------------------------------
+[285]
+# Goldenrod Dept. 1F
+ShowArea = true
+MapPosition = 1,15,7
+#-------------------------------
+[286]
+# Goldenrod Dept. 2F
+ShowArea = true
+MapPosition = 1,15,7
+#-------------------------------
+[287]
+# Goldenrod Dept. 4F
+ShowArea = true
+MapPosition = 1,15,7
+#-------------------------------
+[288]
+# Goldenrod Dept. 5F
+ShowArea = true
+MapPosition = 1,15,7
+#-------------------------------
+[289]
+# Goldenrod Dept. Elevator
+#-------------------------------
+[290]
+# Goldenrod Dept. 3F
+ShowArea = true
+MapPosition = 1,15,7
+#-------------------------------
+[291]
+# Goldenrod Tunnel
+ShowArea = true
+Bicycle = true
+MapPosition = 1,14,7
+#-------------------------------
+[292]
+# Goldenrod Gym
+MapPosition = 1,15,6
+#-------------------------------
+[293]
+# Route 35
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,14,4
+MapSize = 1,11
+#-------------------------------
+[294]
+# Route 36
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,15,4
+MapSize = 2,1111
+#-------------------------------
+[295]
+# Ruins of Alph
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,6
+#-------------------------------
+[296]
+# Ruins of Alph
+MapPosition = 1,16,6
+#-------------------------------
+[297]
+# Ruins of Alph House
+MapPosition = 1,16,6
+#-------------------------------
+[298]
+# Route 37
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,30
+MapPosition = 1,15,3
+MapSize = 2,11
+#-------------------------------
+[299]
+# Ecruteak City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,50
+MapPosition = 1,14,1
+MapSize = 2,1111
+#-------------------------------
+[300]
+# Ecruteak House
+MapPosition = 1,14,2
+#-------------------------------
+[301]
+# Ecruteak Pokémon Center
+MapPosition = 1,15,2
+HealingSpot = 301,7,4
+#-------------------------------
+[302]
+# Desert Resort
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+Environment = Cave
+#-------------------------------
+[303]
+# Burned Tower
+ShowArea = true
+MapPosition = 1,14,1
+#-------------------------------
+[304]
+# Kimono Dance Theater
+MapPosition = 1,15,2
+#-------------------------------
+[305]
+# Ecruteak Gym
+Weather = Fog,100
+MapPosition = 1,14,2
+#-------------------------------
+[306]
+# Route 39
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,30
+MapPosition = 1,11,2
+MapSize = 1,11
+#-------------------------------
+[307]
+# Route 39 House
+MapPosition = 1,11,2
+#-------------------------------
+[308]
+# Olivine City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,30
+MapPosition = 1,11,4
+#-------------------------------
+[309]
+# Olivine House
+MapPosition = 1,11,4
+#-------------------------------
+[310]
+# Olivine Pokémon Center
+MapPosition = 1,11,4
+HealingSpot = 310,7,4
+#-------------------------------
+[311]
+# Colossus Ruins
+ShowArea = true
+#-------------------------------
+[312]
+# Glitter Lighthouse 1F
+ShowArea = true
+MapPosition = 1,11,4
+#-------------------------------
+[313]
+# Glitter Lighthouse 2F
+ShowArea = true
+MapPosition = 1,11,4
+#-------------------------------
+[314]
+# Glitter Lighthouse 3F
+ShowArea = true
+MapPosition = 1,11,4
+#-------------------------------
+[315]
+# Glitter Lighthouse 4F
+ShowArea = true
+MapPosition = 1,11,4
+#-------------------------------
+[316]
+# Glitter Lighthouse 5F
+ShowArea = true
+MapPosition = 1,11,4
+#-------------------------------
+[317]
+# Cianwood City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,4,10
+#-------------------------------
+[318]
+# Cianwood House
+MapPosition = 1,4,10
+#-------------------------------
+[319]
+# Cianwood Pokémon Center
+MapPosition = 1,4,10
+HealingSpot = 319,7,4
+#-------------------------------
+[320]
+# Safari Zone Johto
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[321]
+# Cianwood Gym
+MapPosition = 1,4,10
+#-------------------------------
+[322]
+# Ogi Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[323]
+# Red Rock Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 323,23,30
+#-------------------------------
+[324]
+# Red Rock House
+#-------------------------------
+[325]
+# Red Rock Pokémon Center
+HealingSpot = 325,7,4
+#-------------------------------
+[326]
+# Red Rock Pokémon Mart
+#-------------------------------
+[327]
+# Whirl Cup
+#-------------------------------
+[328]
+# Yellow Rock Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[329]
+# Blue Rock Isle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[330]
+# Olivine Gym
+MapPosition = 1,11,4
+#-------------------------------
+[331]
+# Route 42
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,16,2
+MapSize = 4,1111
+#-------------------------------
+[332]
+# Route 42 Day Care
+MapPosition = 1,16,2
+#-------------------------------
+[333]
+# Route 43
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,40
+MapPosition = 1,19,1
+#-------------------------------
+[334]
+# Lake of Rage
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,100
+MapPosition = 1,19,0
+#-------------------------------
+[335]
+# Mahogany Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,30
+MapPosition = 1,20,0
+#-------------------------------
+[336]
+# Mahogany House
+MapPosition = 1,20,0
+#-------------------------------
+[337]
+# Mahogany Pokémon Center
+MapPosition = 1,20,0
+HealingSpot = 337,7,4
+#-------------------------------
+[338]
+# Route 229
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+#-------------------------------
+[339]
+# Mahogany Gym
+MapPosition = 1,20,0
+#-------------------------------
+[340]
+# Route 44
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,10
+MapPosition = 1,21,0
+MapSize = 2,11
+#-------------------------------
+[341]
+# Ice Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 1,22,0
+MapSize = 1,1000001
+#-------------------------------
+[342]
+# Blackthorn City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,21,7
+MapSize = 2,11
+#-------------------------------
+[343]
+# Blackthorn House
+MapPosition = 1,21,7
+#-------------------------------
+[344]
+# Blackthorn Pokémon Center
+MapPosition = 1,21,7
+HealingSpot = 344,7,4
+#-------------------------------
+[345]
+# Resort Area
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+#-------------------------------
+[346]
+# Blackthorn Gym
+MapPosition = 1,21,7
+#-------------------------------
+[347]
+# Dragon's Den
+ShowArea = true
+Bicycle = true
+MapPosition = 1,21,6
+DarkMap = true
+#-------------------------------
+[348]
+# Dragon Holy Land
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,21,5
+#-------------------------------
+[349]
+# Silver Conference
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 1,23,6
+#-------------------------------
+[350]
+# Johto Pokemon League
+MapPosition = 1,23,6
+#-------------------------------
+[351]
+# Silver Elimination
+MapPosition = 1,23,6
+#-------------------------------
+[352]
+# Round Robin 1
+MapPosition = 1,23,6
+#-------------------------------
+[353]
+# Round Robin 2
+MapPosition = 1,23,6
+#-------------------------------
+[354]
+# Silver Stadium
+MapPosition = 1,23,6
+#-------------------------------
+[355]
+# Hoenn
+#-------------------------------
+[356]
+# Hoenn
+#-------------------------------
+[357]
+# Littleroot Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,6,11
+#-------------------------------
+[358]
+# Littleroot House
+MapPosition = 2,6,11
+#-------------------------------
+[359]
+# Professor Birch's Lab
+MapPosition = 2,6,11
+HealingSpot = 359,11,6
+#-------------------------------
+[360]
+# Route 101
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,6,10
+#-------------------------------
+[361]
+# Oldale Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,6,9
+#-------------------------------
+[362]
+# Oldale House
+MapPosition = 2,6,9
+#-------------------------------
+[363]
+# Oldale Pokémon Center
+MapPosition = 2,6,9
+HealingSpot = 363,7,4
+#-------------------------------
+[364]
+# Resort Area House
+#-------------------------------
+[365]
+# Route 102
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,5,9
+#-------------------------------
+[366]
+# Petalburg City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,4,9
+#-------------------------------
+[367]
+# Petalburg House
+MapPosition = 2,4,9
+#-------------------------------
+[368]
+# Petalburg Pokémon Center
+MapPosition = 2,4,9
+HealingSpot = 368,7,4
+#-------------------------------
+[369]
+# Mauville City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+#-------------------------------
+[370]
+# Route 104
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,3,7
+MapSize = 1,101
+#-------------------------------
+[371]
+# Petalburg Woods
+ShowArea = true
+Bicycle = true
+MapPosition = 2,3,8
+#-------------------------------
+[372]
+# Route 104 House
+MapPosition = 2,3,7
+#-------------------------------
+[373]
+# Rustboro City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,3,6
+#-------------------------------
+[374]
+# Rustboro House
+MapPosition = 2,3,6
+#-------------------------------
+[375]
+# Rustboro School
+MapPosition = 2,3,6
+#-------------------------------
+[376]
+# Rustboro Pokémon Center
+MapPosition = 2,3,6
+HealingSpot = 376,7,4
+#-------------------------------
+[377]
+# Galar
+#-------------------------------
+[378]
+# Rustboro Gym
+MapPosition = 2,3,6
+#-------------------------------
+[379]
+# Dewford Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,80
+MapPosition = 2,3,14
+#-------------------------------
+[380]
+# Dewford House
+MapPosition = 2,3,14
+#-------------------------------
+[381]
+# Dewford Pokémon Center
+MapPosition = 2,3,14
+HealingSpot = 381,7,4
+#-------------------------------
+[382]
+# Granite Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 2,3,13
+#-------------------------------
+[383]
+# Route 106
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,2,13
+#-------------------------------
+[384]
+# Dewford Gym
+MapPosition = 2,3,14
+#-------------------------------
+[385]
+# Route 106
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,100
+MapPosition = 2,1,13
+#-------------------------------
+[386]
+# Route 109
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,20
+MapPosition = 2,12,11
+#-------------------------------
+[387]
+# Slateport City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,9
+MapSize = 2,1111
+#-------------------------------
+[388]
+# Slateport House
+MapPosition = 2,12,9
+MapSize = 2,1001
+#-------------------------------
+[389]
+# Slateport Pokémon Center
+MapPosition = 2,12,9
+HealingSpot = 389,7,4
+#-------------------------------
+[390]
+# Cerise Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[391]
+# Oceanic Museum
+MapPosition = 2,13,9
+#-------------------------------
+[392]
+# Slateport Contest
+MapPosition = 2,12,9
+#-------------------------------
+[393]
+# Route 110
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,12,6
+MapSize = 1,111
+#-------------------------------
+[394]
+# Mauville City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,10
+MapPosition = 2,12,5
+MapSize = 2,11
+#-------------------------------
+[395]
+# Mauville House
+MapPosition = 2,13,5
+#-------------------------------
+[396]
+# Mauville Pokémon Center
+MapPosition = 2,13,5
+HealingSpot = 396,7,4
+#-------------------------------
+[397]
+# Wild Area
+Outdoor = true
+ShowArea = false
+Bicycle = true
+Weather = Sandstorm,10
+MapPosition = 7,8,7
+#-------------------------------
+[398]
+# Mauville Gym
+MapPosition = 2,12,5
+#-------------------------------
+[399]
+# Route 111
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,10
+MapPosition = 2,12,2
+MapSize = 1,111
+#-------------------------------
+[400]
+# Mirage Kingdom
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,13,3
+#-------------------------------
+[401]
+# Route 111 House
+MapPosition = 2,12,2
+MapSize = 1,11
+#-------------------------------
+[402]
+# Route 113
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,50
+MapPosition = 2,11,2
+#-------------------------------
+[403]
+# Fallabor Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,2
+#-------------------------------
+[404]
+# Fallarbor House
+MapPosition = 2,10,2
+#-------------------------------
+[405]
+# Fallarbor Pokémon Center
+MapPosition = 2,10,2
+HealingSpot = 405,7,4
+#-------------------------------
+[406]
+# Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
+#-------------------------------
+[407]
+# Fallarbor Contest
+MapPosition = 2,10,2
+#-------------------------------
+[408]
+# Lavaridge Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,10,3
+#-------------------------------
+[409]
+# Fiery Path
+ShowArea = true
+Bicycle = true
+MapPosition = 2,9,2
+MapSize = 1,11
+#-------------------------------
+[410]
+# Lavaridge House
+MapPosition = 2,10,3
+#-------------------------------
+[411]
+# Lavaridge Pokémon Center
+MapPosition = 2,10,3
+HealingSpot = 411,7,4
+#-------------------------------
+[412]
+# Kanto Power Plant
+#-------------------------------
+[413]
+# Lavaridge Gym
+MapPosition = 2,10,3
+#-------------------------------
+[414]
+# Route 112
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,10
+MapPosition = 2,11,3
+#-------------------------------
+[415]
+# Valley of Steel
+ShowArea = true
+Bicycle = true
+MapPosition = 2,11,3
+#-------------------------------
+[416]
+# Petalburg Gym
+MapPosition = 2,4,9
+#-------------------------------
+[417]
+# Route 118
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,14,5
+MapSize = 2,11
+#-------------------------------
+[418]
+# Route 119
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,15,2
+MapSize = 1,111
+#-------------------------------
+[419]
+# Fortree City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,16,2
+MapSize = 2,1111
+#-------------------------------
+[420]
+# Fortree House
+MapPosition = 2,16,2
+MapSize = 2,1110
+#-------------------------------
+[421]
+# Fortree Pokémon Center
+MapPosition = 2,16,2
+HealingSpot = 421,7,4
+#-------------------------------
+[422]
+# Slumbering Weald
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,100
+MapPosition = 7,8,7
+#-------------------------------
+[423]
+# Fortree Gym
+MapPosition = 2,16,2
+#-------------------------------
+[424]
+# Route 120
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 2,18,2
+MapSize = 1,1111
+#-------------------------------
+[425]
+# Route 121
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,19,5
+MapSize = 2,11
+#-------------------------------
+[426]
+# Lilycove City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,21,4
+MapSize = 2,1111
+#-------------------------------
+[427]
+# Lilycove House
+MapPosition = 2,21,4
+MapSize = 2,1111
+#-------------------------------
+[428]
+# Lilycove Pokémon Center
+MapPosition = 2,21,4
+HealingSpot = 428,7,4
+#-------------------------------
+[429]
+# Lilycove Contest
+MapPosition = 2,21,5
+#-------------------------------
+[430]
+# Weather Instiitute
+MapPosition = 2,15,2
+#-------------------------------
+[431]
+# Lilycove Dept. 1F
+ShowArea = true
+MapPosition = 2,21,4
+#-------------------------------
+[432]
+# Lilycove Dept. 2F
+ShowArea = true
+MapPosition = 2,21,4
+#-------------------------------
+[433]
+# Lilycove Dept. 3F
+ShowArea = true
+MapPosition = 2,21,4
+#-------------------------------
+[434]
+# Lilycove Dept. 4F
+ShowArea = true
+MapPosition = 2,21,4
+#-------------------------------
+[435]
+# Lilycove Dept. 5F
+ShowArea = true
+MapPosition = 2,21,4
+#-------------------------------
+[436]
+# Lilycove Dept. Elevator
+#-------------------------------
+[437]
+# Mossdeep City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,27,11
+MapSize = 2,1111
+#-------------------------------
+[438]
+# Mossdeep House
+MapPosition = 2,27,11
+MapSize = 2,1111
+#-------------------------------
+[439]
+# Mossdeep Pokémon Center
+MapPosition = 2,27,11
+HealingSpot = 439,7,4
+#-------------------------------
+[440]
+# Hammerlocke
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[441]
+# Mossdeep Space Center
+MapPosition = 2,28,11
+#-------------------------------
+[442]
+# Mossdeep Gym
+MapPosition = 2,27,11
+#-------------------------------
+[443]
+# Izabe Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,18,10
+MapSize = 4,01001001
+#-------------------------------
+[444]
+# Izabe House
+MapPosition = 2,18,10
+MapSize = 4,01001001
+#-------------------------------
+[445]
+# Purika Pokémon Center
+MapPosition = 2,19,10
+HealingSpot = 445,7,4
+#-------------------------------
+[446]
+# Riyado Pokémon Center
+MapPosition = 2,18,11
+HealingSpot = 446,7,4
+#-------------------------------
+[447]
+# Cerosi Pokémon Center
+MapPosition = 2,21,11
+HealingSpot = 447,7,4
+#-------------------------------
+[448]
+# Hammerlocke House
+MapPosition = 7,8,7
+#-------------------------------
+[449]
+# Purika Contest
+MapPosition = 2,19,10
+#-------------------------------
+[450]
+# Izabe Desert
+Outdoor = true
+Weather = Sandstorm,100
+Environment = Sand
+MapPosition = 2,19,11
+#-------------------------------
+[451]
+# Izabe Forest
+Environment = Forest
+MapPosition = 2,18,10
+#-------------------------------
+[452]
+# Hammerlocke Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 452,7,4
+#-------------------------------
+[453]
+# Izabe Cave
+Environment = Cave
+MapPosition = 2,20,11
+#-------------------------------
+[454]
+# Sootopolis City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,25,16
+MapSize = 2,1111
+#-------------------------------
+[455]
+# Sootopolis House
+MapPosition = 2,25,16
+MapSize = 2,11
+#-------------------------------
+[456]
+# Sootopolis Pokémon Center
+MapPosition = 2,26,16
+HealingSpot = 456,7,4
+#-------------------------------
+[457]
+# Hammerlocke Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[458]
+# Sootopolis Gym
+MapPosition = 2,25,16
+#-------------------------------
+[459]
+# Pacifidlog Town
+Outdoor = true
+ShowArea = true
+Bicycle = false
+MapPosition = 2,14,16
+MapSize = 2,11
+#-------------------------------
+[460]
+# Pacifidlog House
+MapPosition = 2,14,16
+MapSize = 2,11
+#-------------------------------
+[461]
+# Pacifidlog Pokémon Center
+MapPosition = 2,14,16
+HealingSpot = 461,7,4
+#-------------------------------
+[462]
+# Pacifidlog Contest
+MapPosition = 2,14,16
+#-------------------------------
+[463]
+# Ever Grande Conference
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,20,17
+MapSize = 2,1111
+#-------------------------------
+[464]
+# Hoenn Pokemon League
+MapPosition = 2,20,17
+#-------------------------------
+[465]
+# Ever Grande Elimination
+MapPosition = 2,20,17
+#-------------------------------
+[466]
+# Ever Grande Doubles
+MapPosition = 2,20,17
+#-------------------------------
+[467]
+# Grande Top 32
+MapPosition = 2,20,17
+#-------------------------------
+[468]
+# Grande Top 16
+MapPosition = 2,20,17
+#-------------------------------
+[469]
+# Grande Top 8
+MapPosition = 2,20,17
+#-------------------------------
+[470]
+# Ever Grande Doubles 2
+MapPosition = 2,20,17
+#-------------------------------
+[471]
+# Ever Grande Doubles 1
+MapPosition = 2,20,17
+#-------------------------------
+[472]
+# Lavaridge Day Care
+MapPosition = 2,10,3
+#-------------------------------
+[473]
+# Battle Factory
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,40
+MapPosition = 0,10,3
+#-------------------------------
+[474]
+# Battle Factory
+MapPosition = 0,10,3
+HealingSpot = 474,23,8
+#-------------------------------
+[475]
+# Battle Factory Stage
+MapPosition = 0,10,3
+#-------------------------------
+[476]
+# Battle Arena
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,11,7
+#-------------------------------
+[477]
+# Saffron Contest
+MapPosition = 0,14,8
+#-------------------------------
+[478]
+# Battle Arena
+MapPosition = 0,11,7
+#-------------------------------
+[479]
+# Battle Arena Stage
+MapPosition = 0,11,7
+#-------------------------------
+[480]
+# Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,20,9
+MapSize = 1,11
+#-------------------------------
+[481]
+# Route 12 Breeding Center
+MapPosition = 0,20,10
+#-------------------------------
+[482]
+# Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,11
+MapSize = 3,111
+#-------------------------------
+[483]
+# Battle Dome Stage
+MapPosition = 0,18,11
+#-------------------------------
+[484]
+# Battle Dome
+MapPosition = 0,18,11
+HealingSpot = 484,20,20
+#-------------------------------
+[485]
+# Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,18,12
+MapSize = 1,11
+#-------------------------------
+[486]
+# Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,17,13
+#-------------------------------
+[487]
+# Safari Zone Hoenn
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[488]
+# Battle Pike
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,13
+#-------------------------------
+[489]
+# Battle Pike
+MapPosition = 0,11,13
+HealingSpot = 489,14,45
+#-------------------------------
+[490]
+# Battle Pike Stage
+MapPosition = 0,11,13
+#-------------------------------
+[491]
+# Metallica Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,90
+MapPosition = 0,22,15
+MapSize = 2,11
+#-------------------------------
+[492]
+# Battle Palace
+MapPosition = 0,23,15
+HealingSpot = 492,10,13
+#-------------------------------
+[493]
+# Battle Palace Stage
+Outdoor = true
+Weather = Sun,100
+MapPosition = 0,23,15
+#-------------------------------
+[494]
+# Route 26
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,2,9
+MapSize = 1,1111
+#-------------------------------
+[495]
+# Route 26 House
+MapPosition = 0,2,10
+MapSize = 1,11
+#-------------------------------
+[496]
+# Battle Tower
+MapPosition = 0,2,12
+HealingSpot = 496,10,13
+#-------------------------------
+[497]
+# Battle Tower Challenge
+MapPosition = 0,2,12
+#-------------------------------
+[498]
+# Battle Tower Stage
+MapPosition = 0,2,12
+#-------------------------------
+[499]
+# Battle Pyramid
+Outdoor = true
+Bicycle = true
+MapPosition = 0,4,4
+#-------------------------------
+[500]
+# Battle Pyramid
+MapPosition = 0,4,4
+HealingSpot = 500,9,14
+#-------------------------------
+[501]
+# Sinnoh
+#-------------------------------
+[502]
+# Battle Pyramid Stage
+MapPosition = 0,4,4
+#-------------------------------
+[503]
+# Sinnoh
+#-------------------------------
+[504]
+# Sandgem House
+MapPosition = 3,6,12
+#-------------------------------
+[505]
+# Sandgem Pokémon Center
+MapPosition = 3,6,12
+HealingSpot = 505,7,4
+#-------------------------------
+[506]
+# Route 202
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,11
+#-------------------------------
+[507]
+# Sandgem Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,12
+#-------------------------------
+[508]
+# Tower Summit
+Outdoor = true
+ShowArea = true
+MapPosition = 7,8,7
+#-------------------------------
+[509]
+# Professor Rowan's Lab
+MapPosition = 3,6,12
+HealingSpot = 509,7,4
+#-------------------------------
+[510]
+# Route 201
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 3,4,12
+MapSize = 2,11
+#-------------------------------
+[511]
+# Route 202
+Outdoor = true
+ShowArea = false
+Bicycle = true
+MapPosition = 3,6,11
+#-------------------------------
+[512]
+# Lake Verity
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,4,11
+#-------------------------------
+[513]
+# Twinleaf Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,5
+MapPosition = 3,4,13
+#-------------------------------
+[514]
+# Twinleaf House
+MapPosition = 3,4,13
+#-------------------------------
+[515]
+# Jubilife City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,10
+#-------------------------------
+[516]
+# Jubilife House
+MapPosition = 3,6,10
+#-------------------------------
+[517]
+# Cero Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[518]
+# Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[519]
+# Jubilife Pokémon Center
+MapPosition = 3,6,10
+HealingSpot = 519,7,4
+#-------------------------------
+[520]
+# Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,20
+MapPosition = 7,8,7
+#-------------------------------
+[521]
+# Route 203
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,7,10
+MapSize = 2,11
+#-------------------------------
+[522]
+# Oreburgh Gate
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 3,9,10
+#-------------------------------
+[523]
+# Oreburgh City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,10,10
+MapSize = 2,11
+#-------------------------------
+[524]
+# Oreburgh House
+MapPosition = 3,10,10
+MapSize = 2,11
+#-------------------------------
+[525]
+# Oreburgh Pokémon Center
+MapPosition = 3,11,10
+HealingSpot = 525,7,4
+#-------------------------------
+[526]
+# Stow-on-Side
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[527]
+# Oreburgh Mining Museum
+MapPosition = 3,11,10
+#-------------------------------
+[528]
+# Oreburgh Mine
+ShowArea = true
+MapPosition = 3,11,11
+#-------------------------------
+[529]
+# Route 204
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,7
+MapSize = 1,101
+#-------------------------------
+[530]
+# Oreburgh Gym
+MapPosition = 3,10,10
+#-------------------------------
+[531]
+# Ravaged Path
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 3,6,8
+#-------------------------------
+[532]
+# Floaroma Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,60
+MapPosition = 3,6,4
+#-------------------------------
+[533]
+# Floaroma House
+MapPosition = 3,6,4
+#-------------------------------
+[534]
+# Floaroma Pokémon Center
+MapPosition = 3,6,4
+HealingSpot = 534,7,4
+#-------------------------------
+[535]
+# Stow-on-Side House
+MapPosition = 7,8,7
+#-------------------------------
+[536]
+# Floaroma Contest
+MapPosition = 3,6,4
+#-------------------------------
+[537]
+# Floaroma Meadow
+Outdoor = true
+ShowArea = true
+Bicycle = false
+MapPosition = 3,6,3
+#-------------------------------
+[538]
+# Route 205
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,50
+MapPosition = 3,7,3
+MapSize = 2,1110
+#-------------------------------
+[539]
+# Route 205 House
+MapPosition = 3,7,3
+#-------------------------------
+[540]
+# Eterna Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+MapPosition = 3,7,3
+#-------------------------------
+[541]
+# Eterna City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,11,3
+MapSize = 2,1110
+#-------------------------------
+[542]
+# Eterna House
+MapPosition = 3,11,3
+MapSize = 2,11
+#-------------------------------
+[543]
+# Eterna Pokémon Center
+MapPosition = 3,11,3
+HealingSpot = 543,7,4
+#-------------------------------
+[544]
+# Stow-on-Side Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[545]
+# Eterna Gym
+MapPosition = 3,11,4
+#-------------------------------
+[546]
+# Route 206
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 3,11,5
+MapSize = 1,1111
+#-------------------------------
+[547]
+# Route 206 Gate
+Bicycle = true
+MapPosition = 3,11,5
+#-------------------------------
+[548]
+# Route 206
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,11,5
+MapSize = 1,1111
+#-------------------------------
+[549]
+# Route 206 Gate
+Bicycle = true
+MapPosition = 3,11,8
+#-------------------------------
+[550]
+# Route 207
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,11,9
+#-------------------------------
+[551]
+# Hearthome City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,13,8
+MapSize = 2,1111
+#-------------------------------
+[552]
+# Hearthome House
+MapPosition = 3,13,8
+MapSize = 2,1111
+#-------------------------------
+[553]
+# Hearthome Pokémon Fan Club
+MapPosition = 3,14,9
+#-------------------------------
+[554]
+# Hearthome Pokémon Center
+MapPosition = 3,13,8
+HealingSpot = 554,7,4
+#-------------------------------
+[555]
+# Stow-on-Side Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 555,7,4
+#-------------------------------
+[556]
+# Hearthome Contest
+MapPosition = 3,13,8
+#-------------------------------
+[557]
+# Battle Hall
+MapPosition = 3,13,9
+#-------------------------------
+[558]
+# Battle Hall Stadium
+MapPosition = 3,13,9
+#-------------------------------
+[559]
+# Battle Hall Stadium
+MapPosition = 3,13,9
+#-------------------------------
+[560]
+# Battle Hall Stadium
+MapPosition = 3,13,9
+#-------------------------------
+[561]
+# Battle Hall Stadium
+MapPosition = 3,13,9
+#-------------------------------
+[562]
+# Route 209
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,15,8
+MapSize = 2,0111
+#-------------------------------
+[563]
+# Solaceon Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,10
+MapPosition = 3,16,7
+#-------------------------------
+[564]
+# Solaceon House
+MapPosition = 3,16,7
+#-------------------------------
+[565]
+# Solaceon Day Care
+MapPosition = 3,16,7
+#-------------------------------
+[566]
+# Solaceon Pokémon Center
+MapPosition = 3,16,7
+HealingSpot = 566,7,4
+#-------------------------------
+[567]
+# Glimwood Tangle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,1
+MapPosition = 7,8,7
+#-------------------------------
+[568]
+# Solaceon Contest
+MapPosition = 3,16,7
+#-------------------------------
+[569]
+# Solaceon Ruins
+Outdoor = false
+ShowArea = true
+Bicycle = true
+MapPosition = 3,17,7
+#-------------------------------
+[570]
+# Route 210
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,16,5
+MapSize = 1,11
+#-------------------------------
+[571]
+# Route 210 House
+MapPosition = 3,16,3
+MapSize = 1,1010
+#-------------------------------
+[572]
+# Route 215
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,80
+MapPosition = 3,17,5
+MapSize = 3,111
+#-------------------------------
+[573]
+# Route 215 gate
+#-------------------------------
+[574]
+# Veilstone City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,5
+MapSize = 2,1111
+#-------------------------------
+[575]
+# Veilstone House
+MapPosition = 3,20,5
+MapSize = 2,0110
+#-------------------------------
+[576]
+# Veilstone Pokémon Center
+MapPosition = 3,21,5
+HealingSpot = 576,7,4
+#-------------------------------
+[577]
+# Veilstone Dept. 1F
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[578]
+# Veilstone Dept. 2F
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[579]
+# Veilstone Dept. 3F
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[580]
+# Veilstone Dept. 4F
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[581]
+# Veilstone Dept. 5F
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[582]
+# Veilstone Dept. Rooftop
+Outdoor = true
+ShowArea = true
+MapPosition = 3,20,5
+#-------------------------------
+[583]
+# Veilstone Dept. Elevator
+#-------------------------------
+[584]
+# Veilstone Gym
+MapPosition = 3,20,6
+#-------------------------------
+[585]
+# Route 214
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,21,7
+MapSize = 1,111
+#-------------------------------
+[586]
+# Ballonlea
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+MapPosition = 7,8,7
+#-------------------------------
+[587]
+# Valor Lakefront
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,21,11
+MapSize = 1,111
+#-------------------------------
+[588]
+# Valor Lakefront House
+MapPosition = 3,21,12
+MapSize = 1,11
+HealingSpot = 588,9,5
+#-------------------------------
+[589]
+# Seven Stars Restaurant
+ShowArea = true
+MapPosition = 3,21,12
+#-------------------------------
+[590]
+# Lake Valor
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,20,11
+#-------------------------------
+[591]
+# Lake Valor Contest
+MapPosition = 3,21,12
+#-------------------------------
+[592]
+# Route 213
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,19,12
+MapSize = 2,1101
+#-------------------------------
+[593]
+# Route 213 House
+MapPosition = 3,20,12
+#-------------------------------
+[594]
+# Pastoria City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 3,17,12
+MapSize = 2,1111
+#-------------------------------
+[595]
+# Safari Zone Sinnoh
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[596]
+# Ballonlea House
+MapPosition = 7,8,7
+#-------------------------------
+[597]
+# Pastoria House
+MapPosition = 3,17,12
+MapSize = 2,1111
+#-------------------------------
+[598]
+# Pastoria Pokémon Center
+MapPosition = 3,17,12
+HealingSpot = 598,7,4
+#-------------------------------
+[599]
+# Ballonlea Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 599,7,4
+#-------------------------------
+[600]
+# Pastoria Gym
+MapPosition = 3,17,12
+#-------------------------------
+[601]
+# Route 212
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 3,13,10
+MapSize = 2,10101011
+#-------------------------------
+[602]
+# Ballonlea Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[603]
+# Pokémon Mansion
+ShowArea = true
+MapPosition = 3,13,11
+#-------------------------------
+[604]
+# Trophy Garden
+Outdoor = true
+ShowArea = true
+MapPosition = 3,13,11
+#-------------------------------
+[605]
+# Route 212 House
+MapPosition = 2,13,13
+#-------------------------------
+[606]
+# Route 210
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,14,3
+MapSize = 3,111001
+#-------------------------------
+[607]
+# Celestic Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,13,3
+#-------------------------------
+[608]
+# Celestic House
+MapPosition = 3,13,3
+#-------------------------------
+[609]
+# Celestic Contest
+MapPosition = 3,13,3
+#-------------------------------
+[610]
+# Celestic Ruins
+MapPosition = 3,13,3
+#-------------------------------
+[611]
+# Hearthome Gym
+MapPosition = 3,14,8
+#-------------------------------
+[612]
+# Route 218
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,30
+MapPosition = 3,5,10
+#-------------------------------
+[613]
+# Canalave City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 613,34,23
+Weather = Storm,10
+MapPosition = 3,3,10
+MapSize = 1,11
+#-------------------------------
+[614]
+# Canalave House
+MapPosition = 3,3,10
+MapSize = 1,11
+#-------------------------------
+[615]
+# Canalave Pokémon Center
+MapPosition = 3,3,10
+HealingSpot = 615,7,4
+#-------------------------------
+[616]
+# Castle of Chivalry
+ShowArea = true
+#-------------------------------
+[617]
+# Canalave Gym
+MapPosition = 3,3,10
+#-------------------------------
+[618]
+# Iron Island
+Outdoor = true
+ShowArea = true
+MapPosition = 3,3,16
+#-------------------------------
+[619]
+# Route 211
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,20
+MapPosition = 3,24,10
+#-------------------------------
+[620]
+# Route 216
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+Environment = Snow
+MapPosition = 3,23,9
+MapSize = 2,11
+#-------------------------------
+[621]
+# Route 216 House
+MapPosition = 3,23,9
+#-------------------------------
+[622]
+# Route 217
+Outdoor = true
+ShowArea = true
+Weather = Blizzard,100
+Environment = Snow
+MapPosition = 3,23,6
+MapSize = 1,111
+#-------------------------------
+[623]
+# Route 217 House
+MapPosition = 3,23,7
+#-------------------------------
+[624]
+# Lake Acuity
+Outdoor = true
+ShowArea = true
+MapPosition = 3,23,5
+#-------------------------------
+[625]
+# Snowpoint City
+Outdoor = true
+ShowArea = true
+MapPosition = 3,24,5
+MapSize = 1,11
+#-------------------------------
+[626]
+# Snowpoint House
+MapPosition = 3,24,5
+#-------------------------------
+[627]
+# Snowpoint Pokémon Center
+MapPosition = 3,24,6
+HealingSpot = 627,7,4
+#-------------------------------
+[628]
+# Mt. Coronet
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+#-------------------------------
+[629]
+# Snowpoint Gym
+MapPosition = 3,24,5
+#-------------------------------
+[630]
+# Route 222
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,22,12
+MapSize = 2,11
+#-------------------------------
+[631]
+# Route 222 House
+MapPosition = 3,23,12
+#-------------------------------
+[632]
+# Sunnyshore City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,24,11
+MapSize = 2,1111
+#-------------------------------
+[633]
+# Sunnyshore House
+MapPosition = 3,24,11
+MapSize = 2,1110
+#-------------------------------
+[634]
+# Sunnyshore Stone Shop
+MapPosition = 3,24,11
+#-------------------------------
+[635]
+# Sunnyshore Pokémon Center
+MapPosition = 3,24,12
+HealingSpot = 635,7,4
+#-------------------------------
+[636]
+# Ballonlea Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[637]
+# Sunnyshore Tower
+MapPosition = 3,25,12
+#-------------------------------
+[638]
+# Lake Verity Cave
+Environment = Cave
+MapPosition = 3,4,11
+#-------------------------------
+[639]
+# Lake Valor Cave
+Environment = Cave
+MapPosition = 3,20,11
+#-------------------------------
+[640]
+# Lake Acuity Cave
+Environment = Cave
+MapPosition = 3,23,5
+#-------------------------------
+[641]
+# Sunnyshore Gym
+MapPosition = 3,24,11
+#-------------------------------
+[642]
+# Lily of the Valley Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 3,27,16
+MapSize = 2,1111
+#-------------------------------
+[643]
+# Sinnoh Pokemon League
+ShowArea = true
+MapPosition = 3,27,16
+#-------------------------------
+[644]
+# Lily Basic
+MapPosition = 3,27,16
+#-------------------------------
+[645]
+# Lily Top 16
+MapPosition = 3,27,16
+#-------------------------------
+[646]
+# Lily Top 8
+MapPosition = 3,27,16
+#-------------------------------
+[647]
+# Lily Top 4
+MapPosition = 3,27,16
+#-------------------------------
+[648]
+# Old Chateau
+MapPosition = 3,3,10
+#-------------------------------
+[649]
+# Unova
+#-------------------------------
+[650]
+# Unova
+#-------------------------------
+[651]
+# Nuvema Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,21,19
+#-------------------------------
+[652]
+# Nuvema House
+MapPosition = 4,21,19
+#-------------------------------
+[653]
+# Professor Juniper's Lab
+MapPosition = 4,21,19
+HealingSpot = 653,11,9
+#-------------------------------
+[654]
+# Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,21,18
+#-------------------------------
+[655]
+# Accumula Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 655,31,22
+MapPosition = 4,21,17
+#-------------------------------
+[656]
+# Accumula House
+MapPosition = 4,21,17
+#-------------------------------
+[657]
+# Accumula Pokémon Center
+MapPosition = 4,21,17
+HealingSpot = 657,7,4
+#-------------------------------
+[658]
+# Accumula House
+MapPosition = 4,21,17
+#-------------------------------
+[659]
+# Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,40
+MapPosition = 4,20,15
+MapSize = 2,111110
+#-------------------------------
+[660]
+# Striaton City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,60
+MapPosition = 4,20,14
+MapSize = 2,11
+#-------------------------------
+[661]
+# Striaton House
+MapPosition = 4,21,14
+#-------------------------------
+[662]
+# Striaton Pokémon Center
+MapPosition = 4,21,14
+HealingSpot = 662,7,4
+#-------------------------------
+[663]
+# Striaton Gym
+MapPosition = 4,21,14
+#-------------------------------
+[664]
+# Dreamyard
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,22,14
+#-------------------------------
+[665]
+# Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,18,13
+MapSize = 3,111110
+#-------------------------------
+[666]
+# Route 3 Day Care
+MapPosition = 4,18,14
+#-------------------------------
+[667]
+# Route 3 House
+MapPosition = 4,20,13
+#-------------------------------
+[668]
+# Wellspring Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 4,18,13
+#-------------------------------
+[669]
+# Nacrene City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,16,14
+MapSize = 2,11
+#-------------------------------
+[670]
+# Pinwheel Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+MapPosition = 4,15,14
+#-------------------------------
+[671]
+# Nacrene House
+MapPosition = 4,16,14
+MapSize = 2,11
+#-------------------------------
+[672]
+# Nacrene Pokémon Center
+MapPosition = 4,16,14
+HealingSpot = 672,7,4
+#-------------------------------
+[673]
+# Nacrene Museum
+MapPosition = 4,16,14
+#-------------------------------
+[674]
+# Nacrene Gym
+MapPosition = 4,16,14
+#-------------------------------
+[675]
+# Pinwheel Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+MapPosition = 4,15,14
+#-------------------------------
+[676]
+# Skyarrow Bridge
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,90
+MapPosition = 4,15,12
+MapSize = 1,11
+#-------------------------------
+[677]
+# Castelia City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,15,9
+MapSize = 2,111111
+#-------------------------------
+[678]
+# Castelia House
+MapPosition = 4,15,9
+MapSize = 2,111111
+#-------------------------------
+[679]
+# Castelia Pokémon Center
+MapPosition = 4,16,11
+HealingSpot = 679,7,4
+#-------------------------------
+[680]
+# Castelia House
+MapPosition = 4,16,11
+#-------------------------------
+[681]
+# Castelia Gym
+MapPosition = 4,15,10
+#-------------------------------
+[682]
+# Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,14,7
+MapSize = 2,1111
+#-------------------------------
+[683]
+# Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,14,6
+#-------------------------------
+[684]
+# Club Battle
+MapPosition = 4,14,6
+#-------------------------------
+[685]
+# Club Battle Room
+MapPosition = 4,14,6
+#-------------------------------
+[686]
+# Nimbasa City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,14,4
+MapSize = 3,111111
+#-------------------------------
+[687]
+# Nimbasa House
+MapPosition = 4,14,5
+#-------------------------------
+[688]
+# Musical Theater
+MapPosition = 4,15,4
+#-------------------------------
+[689]
+# Battle Subway
+MapPosition = 4,15,5
+#-------------------------------
+[690]
+# Stadium
+MapPosition = 4,14,4
+#-------------------------------
+[691]
+# Nimbasa Pokémon Center
+MapPosition = 4,14,5
+HealingSpot = 691,7,4
+#-------------------------------
+[692]
+# Nimbasa Gym
+MapPosition = 4,16,5
+#-------------------------------
+[693]
+# Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,12,4
+MapSize = 2,11
+#-------------------------------
+[694]
+# Driftveil City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,3,12
+MapSize = 1,11
+#-------------------------------
+[695]
+# Driftveil Drawbridge
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[696]
+# Driftveil House
+MapPosition = 4,3,12
+MapSize = 1,11
+#-------------------------------
+[697]
+# Driftveil Pokémon Center
+MapPosition = 4,3,12
+HealingSpot = 697,7,4
+#-------------------------------
+[698]
+# Milos Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,100
+#-------------------------------
+[699]
+# Driftveil Market
+MapPosition = 4,3,13
+#-------------------------------
+[700]
+# Milos Island
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[701]
+# Driftveil Gym
+MapPosition = 4,3,12
+#-------------------------------
+[702]
+# Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,1,10
+MapSize = 2,101101
+#-------------------------------
+[703]
+# Route 6 House
+MapPosition = 4,1,10
+MapSize = 2,1001
+#-------------------------------
+[704]
+# Chargestone Cave 1F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,1,10
+#-------------------------------
+[705]
+# Chargestone Cave B1F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,1,10
+#-------------------------------
+[706]
+# Chargestone Cave B2F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,1,10
+#-------------------------------
+[707]
+# Mistralton City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 4,2,9
+MapSize = 2,1111
+#-------------------------------
+[708]
+# Mistralton House
+MapPosition = 4,2,9
+MapSize = 1101,
+#-------------------------------
+[709]
+# Mistralton Pokémon Center
+MapPosition = 4,3,9
+HealingSpot = 709,7,4
+#-------------------------------
+[710]
+# Mistralton Gym
+MapPosition = 4,2,9
+#-------------------------------
+[711]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,3,6
+MapSize = 2,011110
+#-------------------------------
+[712]
+# Route 7 House
+MapPosition = 4,3,7
+MapSize = 2,0110
+#-------------------------------
+[713]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,5,7
+#-------------------------------
+[714]
+# Clubsplosion
+MapPosition = 4,5,7
+#-------------------------------
+[715]
+# Clubsplosion  Room
+MapPosition = 4,5,7
+#-------------------------------
+[716]
+# Mistralton Tower 1F
+ShowArea = true
+MapPosition = 4,3,7
+#-------------------------------
+[717]
+# Mistralton Tower 2F
+ShowArea = true
+MapPosition = 4,3,7
+#-------------------------------
+[718]
+# Mistralton Tower 3F
+ShowArea = true
+MapPosition = 4,3,7
+#-------------------------------
+[719]
+# Mistralton Tower 4F
+ShowArea = true
+MapPosition = 4,3,7
+#-------------------------------
+[720]
+# Mistralton Tower Roof
+Outdoor = true
+ShowArea = true
+MapPosition = 4,3,7
+#-------------------------------
+[721]
+# Twist Mountain
+Outdoor = true
+ShowArea = true
+MapPosition = 4,4,6
+#-------------------------------
+[722]
+# Twist Mountain 1F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,4,6
+#-------------------------------
+[723]
+# Twist Mountain 2F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,4,6
+#-------------------------------
+[724]
+# Twist Mountain 3F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,4,6
+#-------------------------------
+[725]
+# Icirrus City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,80
+MapPosition = 4,5,5
+MapSize = 2,1111
+#-------------------------------
+[726]
+# Icirrus House
+MapPosition = 4,5,5
+MapSize = 2,1011
+#-------------------------------
+[727]
+# Icirrus Pokémon Fan Club
+MapPosition = 4,5,5
+#-------------------------------
+[728]
+# Icirrus Pokémon Center
+MapPosition = 4,5,6
+HealingSpot = 728,7,4
+#-------------------------------
+[729]
+# Icirrus Gym
+MapPosition = 4,5,5
+#-------------------------------
+[730]
+# Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,60
+MapPosition = 4,6,2
+MapSize = 2,11
+#-------------------------------
+[731]
+# Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,8,2
+MapSize = 2,11
+#-------------------------------
+[732]
+# Shopping Mall Nine 1F
+MapPosition = 4,8,2
+#-------------------------------
+[733]
+# Shopping Mall Nine 2F
+MapPosition = 4,8,2
+#-------------------------------
+[734]
+# Shopping Mall Nine 3F
+MapPosition = 4,8,2
+#-------------------------------
+[735]
+# Shopping Mall Nine 4F
+MapPosition = 4,8,2
+#-------------------------------
+[736]
+# Shopping Mall Nine 5F
+MapPosition = 4,8,2
+#-------------------------------
+[737]
+# Shopping Mall Nine Elevator
+#-------------------------------
+[738]
+# Virbank City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,17,18
+MapSize = 2,11
+#-------------------------------
+[739]
+# Virbank House
+MapPosition = 4,17,18
+MapSize = 2,11
+#-------------------------------
+[740]
+# Virbank Pokémon Center
+MapPosition = 4,17,18
+HealingSpot = 740,7,4
+#-------------------------------
+[741]
+# Virbank Gym
+MapPosition = 4,18,18
+#-------------------------------
+[742]
+# Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,17,4
+#-------------------------------
+[743]
+# Undella Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,17,3
+#-------------------------------
+[744]
+# Undella House
+MapPosition = 4,17,3
+#-------------------------------
+[745]
+# Undella Pokémon Center
+MapPosition = 4,17,3
+HealingSpot = 745,7,4
+#-------------------------------
+[746]
+# Cynthia's Villa
+MapPosition = 4,17,3
+#-------------------------------
+[747]
+# Junior Cup
+MapPosition = 4,17,3
+#-------------------------------
+[748]
+# Junior Cup Room
+MapPosition = 4,17,3
+#-------------------------------
+[749]
+# Undella Bay
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,22,3
+#-------------------------------
+[750]
+# Mistralton Cave
+ShowArea = true
+Environment = Cave
+MapPosition = 4,2,11
+#-------------------------------
+[751]
+# Twist Mountain 4F
+ShowArea = true
+Environment = Cave
+MapPosition = 4,4,6
+#-------------------------------
+[752]
+# Pinwheel Forest
+Outdoor = true
+ShowArea = true
+Environment = Forest
+MapPosition = 4,15,14
+#-------------------------------
+[753]
+# Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,17,2
+#-------------------------------
+[754]
+# Opelucid City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,10,1
+MapSize = 1,11
+#-------------------------------
+[755]
+# Opelucid House
+MapPosition = 4,10,1
+MapSize = 1,11
+#-------------------------------
+[756]
+# Opelucid Pokémon Center
+MapPosition = 4,10,2
+HealingSpot = 756,7,4
+#-------------------------------
+[757]
+# Vetress City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,10,0
+#-------------------------------
+[758]
+# Unova Pokemon League
+MapPosition = 4,10,0
+#-------------------------------
+[759]
+# Vetress 128
+MapPosition = 4,10,0
+#-------------------------------
+[760]
+# Vetress 64
+MapPosition = 4,10,0
+#-------------------------------
+[761]
+# Vetress 32
+MapPosition = 4,10,0
+#-------------------------------
+[762]
+# Vetress 16
+MapPosition = 4,10,0
+#-------------------------------
+[763]
+# Vetress 8
+MapPosition = 4,10,0
+#-------------------------------
+[764]
+# Oak's Corral
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,11
+#-------------------------------
+[765]
+# Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,16,18
+#-------------------------------
+[766]
+# Route 19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,15,18
+#-------------------------------
+[767]
+# Aspertia City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,15,19
+#-------------------------------
+[768]
+# Aspertia House
+MapPosition = 4,15,19
+#-------------------------------
+[769]
+# Aspertia Pokémon Center
+MapPosition = 4,15,19
+HealingSpot = 769,7,4
+#-------------------------------
+[770]
+# Aspertia Gym
+MapPosition = 4,15,19
+#-------------------------------
+[771]
+# White Ruins
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,14,19
+#-------------------------------
+[772]
+# Pallet Town-Red
+MapPosition = 10,4,2
+#-------------------------------
+[773]
+# Viridian Gym-Blue
+MapPosition = 10,4,1
+#-------------------------------
+[774]
+# Mt. Coronet
+ShowArea = true
+MapPosition = 3,12,9
+#-------------------------------
+[775]
+# Indigo Plateau-Green
+MapPosition = 10,2,1
+#-------------------------------
+[776]
+# Viridian Forest-Yellow
+MapPosition = 10,4,0
+#-------------------------------
+[777]
+# New Bark Town-Gold
+MapPosition = 10,5,8
+#-------------------------------
+[778]
+# Viridian City-Silver
+MapPosition = 10,5,1
+#-------------------------------
+[779]
+# Ecruteak City-Crystal
+MapPosition = 10,7,7
+#-------------------------------
+[780]
+# Slateport City-Ruby
+MapPosition = 10,17,10
+#-------------------------------
+[781]
+# Littleroot Town-Sapphire
+MapPosition = 10,16,13
+#-------------------------------
+[782]
+# Battle Tower-Emerald
+MapPosition = 10,2,2
+#-------------------------------
+[783]
+# Iron Island-Diamond
+MapPosition = 10,26,8
+#-------------------------------
+[784]
+# Pastoria City-Pearl
+MapPosition = 10,27,7
+#-------------------------------
+[785]
+# Mt. Coronet-Platinum
+MapPosition = 10,25,5
+#-------------------------------
+[786]
+# Unova Pokemon League-Black
+MapPosition = 10,10,16
+#-------------------------------
+[787]
+# Nimbasa City-White
+MapPosition = 10,9,18
+#-------------------------------
+[788]
+# Route 19 House
+MapPosition = 0,9,14
+#-------------------------------
+[789]
+# Kalos
+#-------------------------------
+[790]
+# Kalos
+#-------------------------------
+[791]
+# Aspertia City-Whitley
+MapPosition = 10,11,19
+#-------------------------------
+[792]
+# Virbank City-Blake
+MapPosition = 10,12,18
+#-------------------------------
+[793]
+# Lumiose City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,13,8
+MapSize = 3,111111111
+#-------------------------------
+[794]
+# Lumiose House
+MapPosition = 5,13,8
+MapSize = 3,011101111
+#-------------------------------
+[795]
+# Lumiose Pokémon Center
+MapPosition = 5,14,10
+HealingSpot = 795,7,4
+#-------------------------------
+[796]
+# Professor Sycamore's Lab
+MapPosition = 5,13,10
+HealingSpot = 796,3,9
+#-------------------------------
+[797]
+# Lumiose Gate
+#-------------------------------
+[798]
+# Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,14,11
+#-------------------------------
+[799]
+# Santalune City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,14,12
+#-------------------------------
+[800]
+# Santalune House
+MapPosition = 5,14,12
+#-------------------------------
+[801]
+# Santalune Pokémon Center
+MapPosition = 5,14,12
+HealingSpot = 801,7,4
+#-------------------------------
+[802]
+# Santalune Gym
+MapPosition = 5,14,12
+#-------------------------------
+[803]
+# Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,13,12
+#-------------------------------
+[804]
+# Camphrier Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,12,12
+#-------------------------------
+[805]
+# Camphrier House
+MapPosition = 5,12,12
+#-------------------------------
+[806]
+# Camphrier Pokémon Center
+MapPosition = 5,12,12
+HealingSpot = 806,7,4
+#-------------------------------
+[807]
+# Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,12,11
+#-------------------------------
+[808]
+# Parfum Palace
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,12,10
+#-------------------------------
+[809]
+# Parfum Palace
+MapPosition = 5,12,10
+#-------------------------------
+[810]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,8,12
+#-------------------------------
+[811]
+# Route 7 Day Care
+MapPosition = 5,8,12
+#-------------------------------
+[812]
+# Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,7,12
+#-------------------------------
+[813]
+# Cyllage City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,7,11
+#-------------------------------
+[814]
+# Cyllage House
+MapPosition = 5,7,11
+#-------------------------------
+[815]
+# Cyllage Pokémon Center
+MapPosition = 5,7,11
+HealingSpot = 815,7,4
+#-------------------------------
+[816]
+# Cyllage Gym
+MapPosition = 5,7,11
+#-------------------------------
+[817]
+# Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,7,10
+#-------------------------------
+[818]
+# Geosenge Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,7,9
+#-------------------------------
+[819]
+# Geosenge House
+MapPosition = 5,7,9
+#-------------------------------
+[820]
+# Geosenge Pokémon Center
+MapPosition = 5,7,9
+HealingSpot = 820,7,4
+#-------------------------------
+[821]
+# Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,8,9
+#-------------------------------
+[822]
+# Reflection Cave
+ShowArea = true
+Environment = Cave
+MapPosition = 5,9,9
+#-------------------------------
+[823]
+# Shalour City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,9,8
+#-------------------------------
+[824]
+# Shalour House
+MapPosition = 5,9,8
+#-------------------------------
+[825]
+# Shalour Pokémon Center
+MapPosition = 5,9,8
+HealingSpot = 825,7,4
+#-------------------------------
+[826]
+# Shalour Gym
+MapPosition = 5,9,8
+#-------------------------------
+[827]
+# Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,20
+MapPosition = 5,10,8
+#-------------------------------
+[828]
+# Coumarine City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,70
+MapPosition = 5,11,8
+MapSize = 1,11
+#-------------------------------
+[829]
+# Coumarine House
+MapPosition = 5,11,8
+MapSize = 1,11
+#-------------------------------
+[830]
+# Coumarine Pokémon Center
+MapPosition = 5,11,9
+HealingSpot = 830,7,4
+#-------------------------------
+[831]
+# Coumarine Gym
+MapPosition = 5,11,9
+#-------------------------------
+[832]
+# Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+MapPosition = 5,12,9
+#-------------------------------
+[833]
+# Lumiose Gym
+MapPosition = 5,14,9
+#-------------------------------
+[834]
+# Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,30
+MapPosition = 5,14,6
+#-------------------------------
+[835]
+# Laverre City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,14,4
+MapSize = 1,11
+#-------------------------------
+[836]
+# Laverre House
+MapPosition = 5,14,4
+MapSize = 1,11
+#-------------------------------
+[837]
+# Laverre Pokémon Fan Club
+MapPosition = 5,14,4
+#-------------------------------
+[838]
+# Poké Ball Factory
+MapPosition = 5,14,4
+#-------------------------------
+[839]
+# Laverre Pokémon Center
+MapPosition = 5,14,5
+HealingSpot = 839,7,4
+#-------------------------------
+[840]
+# Laverre Gym
+MapPosition = 5,14,5
+#-------------------------------
+[841]
+# Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,15,5
+#-------------------------------
+[842]
+# Dendemille Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,30
+MapPosition = 5,16,4
+MapSize = 1,11
+#-------------------------------
+[843]
+# Dendemille House
+MapPosition = 5,16,4
+#-------------------------------
+[844]
+# Dendemille Pokémon Center
+MapPosition = 5,16,5
+HealingSpot = 844,7,4
+#-------------------------------
+[845]
+# Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+MapPosition = 5,17,5
+MapSize = 3,101
+#-------------------------------
+[846]
+# Frost Cavern 1F
+ShowArea = true
+Environment = Cave
+MapPosition = 5,18,5
+#-------------------------------
+[847]
+# Frost Cavern 2F
+ShowArea = true
+Environment = Cave
+MapPosition = 5,18,5
+#-------------------------------
+[848]
+# Frost Cavern 3F
+ShowArea = true
+Environment = Cave
+MapPosition = 5,18,5
+#-------------------------------
+[849]
+# Anistar City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,20,5
+#-------------------------------
+[850]
+# Anistar House
+MapPosition = 5,20,5
+#-------------------------------
+[851]
+# Anistar Pokémon Center
+MapPosition = 5,20,5
+HealingSpot = 851,7,4
+#-------------------------------
+[852]
+# Anistar Sundial
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,20,4
+#-------------------------------
+[853]
+# Anistar Gym
+MapPosition = 5,20,5
+#-------------------------------
+[854]
+# Route 18
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,20,6
+#-------------------------------
+[855]
+# Route 18 House
+MapPosition = 5,20,6
+#-------------------------------
+[856]
+# Couriway Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,20,7
+MapSize = 1,11
+#-------------------------------
+[857]
+# Couriway House
+MapPosition = 5,20,8
+#-------------------------------
+[858]
+# Couriway Pokémon Center
+MapPosition = 5,20,7
+HealingSpot = 858,7,4
+#-------------------------------
+[859]
+# Route 19
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,20,9
+#-------------------------------
+[860]
+# Route 21
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,19,9
+#-------------------------------
+[861]
+# Terminus Cave
+ShowArea = true
+Environment = Cave
+MapPosition = 5,21,9
+#-------------------------------
+[862]
+# Terminus Cave
+ShowArea = true
+Environment = Cave
+MapPosition = 5,21,9
+#-------------------------------
+[863]
+# Snowbelle City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,50
+MapPosition = 5,18,9
+#-------------------------------
+[864]
+# Snowbelle House
+MapPosition = 5,18,9
+#-------------------------------
+[865]
+# Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,50
+MapPosition = 5,18,10
+#-------------------------------
+[866]
+# Snowbelle Gym
+MapPosition = 5,18,9
+#-------------------------------
+[867]
+# Snowbelle Pokémon Center
+MapPosition = 5,18,9
+HealingSpot = 867,7,4
+#-------------------------------
+[868]
+# Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,17,9
+#-------------------------------
+[869]
+# Kalos Pokemon League
+MapPosition = 5,13,8
+#-------------------------------
+[870]
+# Lumiose 64
+MapPosition = 5,13,8
+#-------------------------------
+[871]
+# Lumiose 32
+MapPosition = 5,13,8
+#-------------------------------
+[872]
+# Lumiose 16
+MapPosition = 5,13,8
+#-------------------------------
+[873]
+# Lumiose 8
+MapPosition = 5,13,8
+#-------------------------------
+[874]
+# Lumiose 4
+MapPosition = 5,13,8
+#-------------------------------
+[875]
+# Lumiose Final
+MapPosition = 5,13,8
+#-------------------------------
+[876]
+# Lumiose City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 5,13,8
+MapSize = 3,111111111
+#-------------------------------
+[877]
+# Lumiose Gym
+MapPosition = 5,14,9
+#-------------------------------
+[878]
+# Prism Tower
+Outdoor = true
+ShowArea = true
+MapPosition = 5,14,9
+#-------------------------------
+[879]
+# Geosenge Town-X
+MapPosition = 10,22,13
+#-------------------------------
+[880]
+# Shalour City-Y
+MapPosition = 10,23,12
+#-------------------------------
+[881]
+# Driftveil Battle House
+MapPosition = 4,3,13
+#-------------------------------
+[882]
+# Safari Zone Unova
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[883]
+# Safari Zone Kalos
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[884]
+# Route 124
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 2,24,8
+MapSize = 2,11
+#-------------------------------
+[885]
+# Pledge Grove
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 4,16,17
+#-------------------------------
+[886]
+# Icirrus Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 4,5,4
+#-------------------------------
+[887]
+# Alola
+#-------------------------------
+[888]
+# Alola
+#-------------------------------
+[889]
+# Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+MapPosition = 6,8,7
+MapSize = 1,101
+#-------------------------------
+[890]
+# Route 1 House
+MapPosition = 6,8,7
+#-------------------------------
+[891]
+# Pokémon School
+ShowArea = true
+MapPosition = 6,8,7
+HealingSpot = 891,6,16
+#-------------------------------
+[892]
+# Kukui's House
+MapPosition = 6,8,9
+HealingSpot = 892,22,20
+#-------------------------------
+[893]
+# Melemele Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,9,7
+#-------------------------------
+[894]
+# Hau'oli City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,50
+MapPosition = 6,5,7
+MapSize = 2,1111
+#-------------------------------
+[895]
+# Hau'oli House
+MapPosition = 6,5,7
+MapSize = 2,0110
+#-------------------------------
+[896]
+# Hau'oli Pokémon Center
+MapPosition = 6,5,8
+HealingSpot = 896,7,4
+#-------------------------------
+[897]
+# Hau'oli Outskirts
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,1,4
+MapSize = 2,111111
+#-------------------------------
+[898]
+# Hau'oli Shopping Mall
+MapPosition = 6,6,7
+#-------------------------------
+[899]
+# Hau'oli Tunnel
+MapPosition = 6,6,7
+#-------------------------------
+[900]
+# Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,20
+MapPosition = 6,5,5
+MapSize = 2,1111
+#-------------------------------
+[901]
+# Route 3
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,8,5
+MapSize = 1,11
+#-------------------------------
+[902]
+# Iki Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,7,4
+MapSize = 1,11
+#-------------------------------
+[903]
+# Iki House
+MapPosition = 6,7,4
+MapSize = 1,11
+#-------------------------------
+[904]
+# Iki Pokémon Center
+MapPosition = 6,7,5
+HealingSpot = 904,7,4
+#-------------------------------
+[905]
+# Verdant Cavern
+ShowArea = true
+Environment = Cave
+MapPosition = 6,6,6
+#-------------------------------
+[906]
+# Paniola Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,13,9
+#-------------------------------
+[907]
+# Paniola Ranch
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,13,8
+MapSize = 2,11
+#-------------------------------
+[908]
+# Paniola House
+MapPosition = 6,13,8
+MapSize = 2,0110
+#-------------------------------
+[909]
+# Paniola Pokémon Center
+MapPosition = 6,13,9
+HealingSpot = 909,7,4
+#-------------------------------
+[910]
+# Melemele Meadow
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,7,6
+#-------------------------------
+[911]
+# Route 5
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,14,6
+MapSize = 1,11
+#-------------------------------
+[912]
+# Brooklet Hill
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,13,6
+#-------------------------------
+[913]
+# Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,13,5
+MapSize = 1,101
+#-------------------------------
+[914]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,14,5
+#-------------------------------
+[915]
+# Wela Volcano Park
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,15,5
+#-------------------------------
+[916]
+# Lush Jungle
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,15,6
+#-------------------------------
+[917]
+# Ruins of Life
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,14,9
+#-------------------------------
+[918]
+# Aether Paradise
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,11,13
+#-------------------------------
+[919]
+# Aether Paradise
+MapPosition = 6,11,13
+HealingSpot = 904,8,10
+#-------------------------------
+[920]
+# Ten Carat Hill
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,7,9
+#-------------------------------
+[921]
+# Vast Poni Canyon
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,3,12
+MapSize = 1,11
+#-------------------------------
+[922]
+# Altar of the Sunne
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,3,12
+#-------------------------------
+[923]
+# Ultra Deep Space
+ShowArea = true
+Environment = UltraSpace
+MapPosition = 10,26,18
+#-------------------------------
+[924]
+# Mount Lanakila
+Outdoor = true
+ShowArea = true
+Environment = Cave
+Weather = Blizzard,100
+MapPosition = 6,22,12
+MapSize = 1,11
+#-------------------------------
+[925]
+# Iki Town-Sun
+MapPosition = 10,1,16
+#-------------------------------
+[926]
+# Aether Paradise-Moon
+MapPosition = 10,2,18
+#-------------------------------
+[927]
+# Royal Avenue
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,15,8
+MapSize = 2,11
+#-------------------------------
+[928]
+# Royal House
+MapPosition = 6,15,8
+MapSize = 2,11
+#-------------------------------
+[929]
+# Royal Pokémon Center
+MapPosition = 6,15,8
+HealingSpot = 929,7,4
+#-------------------------------
+[930]
+# Battle Royal Dome
+MapPosition = 6,15,8
+#-------------------------------
+[931]
+# Battle Royal Dome
+MapPosition = 6,15,8
+#-------------------------------
+[932]
+# Tapu Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+MapPosition = 6,22,16
+#-------------------------------
+[933]
+# Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+MapPosition = 6,22,17
+#-------------------------------
+[934]
+# Tapu House
+MapPosition = 6,22,16
+#-------------------------------
+[935]
+# Tapu Pokémon Center
+MapPosition = 6,22,16
+HealingSpot = 935,7,4
+#-------------------------------
+[936]
+# Thrifty Megamart
+MapPosition = 6,23,17
+#-------------------------------
+[937]
+# Haina Desert
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sandstorm,100
+Environment = Sand
+MapPosition = 6,22,15
+#-------------------------------
+[938]
+# Ruins of Abundance
+Environment = Sand
+MapPosition = 6,22,14
+#-------------------------------
+[939]
+# Mount Lanakila Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave
+MapPosition = 6,22,11
+#-------------------------------
+[940]
+# Mount Hokulani
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Cave
+Weather = Snow,30
+MapPosition = 6,21,10
+MapSize = 1,11
+#-------------------------------
+[941]
+# Battle Royal Dome
+MapPosition = 6,15,8
+#-------------------------------
+[942]
+# Ultra Ruin
+Outdoor = true
+ShowArea = true
+Environment = UltraSpace
+MapPosition = 10,6,12
+#-------------------------------
+[943]
+# Safari Zone Alola
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[944]
+# Seafolk Village
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,2,17
+#-------------------------------
+[945]
+# Poni Wilds
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,2,16
+#-------------------------------
+[946]
+# Seafolk House
+MapPosition = 6,2,17
+#-------------------------------
+[947]
+# Seafolk Pokémon Center
+MapPosition = 6,2,17
+HealingSpot = 947,7,4
+#-------------------------------
+[948]
+# Ancient Poni Path
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,3,16
+#-------------------------------
+[949]
+# Poni Breaker Coast
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,4,16
+#-------------------------------
+[950]
+# Ruins of Hope
+ShowArea = true
+MapPosition = 6,5,16
+#-------------------------------
+[951]
+# Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,24,15
+MapSize = 1,11
+#-------------------------------
+[952]
+# Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,23,15
+#-------------------------------
+[953]
+# Malie City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Sun,10
+MapPosition = 6,23,14
+#-------------------------------
+[954]
+# Malie House
+MapPosition = 6,23,14
+#-------------------------------
+[955]
+# Malie Pokémon Center
+MapPosition = 6,23,14
+HealingSpot = 955,7,4
+#-------------------------------
+[956]
+# Kantonian Gym
+MapPosition = 6,23,14
+#-------------------------------
+[957]
+# Manalo Stadium
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 6,26,4
+#-------------------------------
+[958]
+# Alola Pokemon League
+MapPosition = 6,26,4
+#-------------------------------
+[959]
+# Manalo Royal
+MapPosition = 6,26,4
+#-------------------------------
+[960]
+# Manalo 16
+MapPosition = 6,26,4
+#-------------------------------
+[961]
+# Manalo 8
+MapPosition = 6,26,4
+#-------------------------------
+[962]
+# Manalo 4
+MapPosition = 6,26,4
+#-------------------------------
+[963]
+# Manalo Finals
+MapPosition = 6,26,4
+#-------------------------------
+[964]
+# Verdanturf Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 2,10,5
+HealingSpot = 964,21,11
+#-------------------------------
+[965]
+# Route 117
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,20
+MapPosition = 2,11,5
+#-------------------------------
+[966]
+# Verdanturf House
+MapPosition = 2,10,5
+#-------------------------------
+[967]
+# Verdanturf Contest
+MapPosition = 2,10,5
+#-------------------------------
+[968]
+# Kanto Grand Festival
+MapPosition = 0,3,7
+#-------------------------------
+[969]
+# Jubilife Contest
+MapPosition = 3,6,10
+#-------------------------------
+[970]
+# Spear Pillar
+ShowArea = true
+MapPosition = 3,12,9
+#-------------------------------
+[971]
+# Pokémon Mart
+#-------------------------------
+[972]
+# Stow-on-Side Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[975]
+# Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[976]
+# Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,10
+MapPosition = 7,8,7
+#-------------------------------
+[977]
+# Spikemuth
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[978]
+# Spikemuth Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 978,7,4
+#-------------------------------
+[979]
+# Seafoam Islands
+ShowArea = true
+#-------------------------------
+[980]
+# Hammerlocke Stadium
+MapPosition = 7,8,7
+#-------------------------------
+[981]
+# Freezington
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,90
+MapPosition = 7,8,7
+#-------------------------------
+[982]
+# Freezington House
+MapPosition = 7,8,7
+HealingSpot = 982,28,23
+#-------------------------------
+[983]
+# Crown Tundra
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+MapPosition = 7,8,7
+#-------------------------------
+[984]
+# Safari Zone Galar
+Outdoor = true
+Bicycle = true
+MapPosition = 0,11,13
+SafariMap = true
+#-------------------------------
+[985]
+# Wedgehurst
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 7,8,7
+#-------------------------------
+[986]
+# Wedgehurst House
+MapPosition = 7,8,7
+#-------------------------------
+[987]
+# Wedgehurst Pokémon Center
+MapPosition = 7,8,7
+HealingSpot = 987,7,4
+#-------------------------------
+[988]
+# Professor Magnolia's Lab
+MapPosition = 7,8,7
+HealingSpot = 988,2,7
+#-------------------------------
+[989]
+# Split-Decision Ruins
+ShowArea = true
+MapPosition = 7,8,7
+#-------------------------------
+[990]
+# Mt. Coronet - Past
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Snow,30
+MapPosition = 9,8,7
+#-------------------------------
+[991]
+# Route 20
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[992]
+# Route 20 Cave
+ShowArea = true
+Bicycle = true
+Environment = Cave

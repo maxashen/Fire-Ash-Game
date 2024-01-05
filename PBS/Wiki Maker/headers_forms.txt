@@ -1,0 +1,48 @@
+    "FormName": "",
+    "BaseStats": "",
+    "Abilities": "",
+    "HiddenAbility": "",
+    "Types": "",
+    "Moves": [],
+    "TutorMoves": [],
+    "EggMoves": [],
+    "WildItems": ["","",""],
+    "Evolutions": "",
+    "EggGroups": ""
+
+
+FormName
+MegaStone
+BaseStats
+BaseEXP
+Abilities
+HiddenAbility
+Height
+Weight
+Pokedex
+Generation
+BattlerEnemyY
+Type1
+Type2
+Color
+BattlerPlayerX
+BattlerPlayerY
+BattlerEnemyX
+BattlerShadowSize
+TutorMoves
+EggMoves
+WildItemUncommon
+Evolutions
+Compatibility
+Moves
+Habitat
+EffortPoints
+Shape
+Kind
+WildItemCommon
+BattlerShadowX
+FrontSpriteScale
+BackSpriteScale
+MegaMessage
+PokedexForm
+WildItemRare

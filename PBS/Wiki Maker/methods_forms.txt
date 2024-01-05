@@ -1,0 +1,10 @@
+LevelNight <-
+Item <-
+Happiness <-
+Level <-
+CriticalHits <-
+None <-
+HasMove <-
+DayHoldItem <-
+DamageDone <-
+LevelEvening <-

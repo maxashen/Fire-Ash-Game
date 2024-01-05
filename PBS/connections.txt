@@ -1,0 +1,330 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Route 1 (76) - Pallet Town (33)
+76,East,1,33,West,0
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Viridian City (43) - Route 22 (195)
+43,West,0,195,East,4
+# Viridian City (43) - Route 2 (80)
+43,North,0,80,South,1
+# Viridian City (43) - Route 1 (76)
+43,South,3,76,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Route 2 (80) - Pewter City (82)
+80,North,0,82,South,6
+# Route 3 (87) - Pewter City (82)
+87,West,0,82,East,8
+# Route 4 (88) - Cerulean City (89)
+88,East,0,89,West,2
+# Route 5 (97) - Route 4 (88)
+97,West,0,88,East,58
+# Route 5 (97) - Cerulean City (89)
+97,North,0,89,South,0
+# Route 24 (101) - Route 25 (104)
+101,South,0,104,North,10
+# Vermilion City (108) - Route 25 (104)
+108,North,0,104,South,0
+# Route 11 (124) - Vermilion City (108)
+124,West,13,108,East,0
+# Route 10 (406) - Vermilion City (108)
+406,West,0,108,East,42
+# Route 10 (406) - Route 11 (124)
+406,North,0,124,South,0
+# Route 8 (128) - Lavender Town (137)
+128,East,4,137,West,0
+# Route 10 (518) - Lavender Town (137)
+518,South,9,137,North,0
+# Route 38 (142) - Route 39 (306)
+142,West,1,306,East,0
+# Wild Area (183) - Wild Area (232)
+183,North,0,232,South,2
+# Wild Area (187) - Wild Area (183)
+187,West,0,183,East,0
+# Wild Area (222) - Wild Area (183)
+222,North,1,183,South,0
+# Wild Area (259) - Wild Area (183)
+259,North,0,183,South,49
+# Wild Area (397) - Wild Area (183)
+397,South,0,183,North,47
+# Wild Area (187) - Wild Area (232)
+187,North,0,232,South,57
+# Wild Area (222) - Wild Area (187)
+222,North,56,187,South,0
+# Wild Area (259) - Wild Area (187)
+259,North,6,187,South,0
+# Wild Area (397) - Wild Area (187)
+397,South,8,187,North,0
+# Route 26 (494) - Route 22 (195)
+494,North,0,195,South,23
+# Wild Area (259) - Wild Area (222)
+259,West,0,222,East,0
+# Wild Area (397) - Wild Area (232)
+397,West,0,232,East,0
+# Route 45 (250) - New Bark Town (251)
+250,West,12,251,East,0
+# Silver Conference (349) - Route 45 (250)
+349,South,0,250,North,0
+# New Bark Town (251) - Route 29 (254)
+251,West,4,254,East,0
+# Silver Conference (349) - New Bark Town (251)
+349,West,57,251,East,0
+# Route 29 (254) - Cherrygrove City (256)
+254,West,0,256,East,0
+# Route 30 (260) - Route 29 (254)
+260,South,43,254,North,0
+# Route 30 (260) - Cherrygrove City (256)
+260,South,0,256,North,7
+# Violet City (262) - Route 32 (268)
+262,South,0,268,North,14
+# Route 32 (268) - Route 33 (270)
+268,South,0,270,North,0
+# Azalea Town (271) - Route 32 (268)
+271,East,0,268,West,119
+# Azalea Town (271) - Route 33 (270)
+271,East,21,270,West,0
+# Goldenrod City (282) - Route 34 (280)
+282,South,16,280,North,0
+# Route 36 (294) - Route 37 (298)
+294,North,2,298,South,0
+# Route 37 (298) - Ecruteak City (299)
+298,North,0,299,South,14
+# Olivine City (308) - Route 39 (306)
+308,North,0,306,South,0
+# Route 42 (331) - Route 43 (333)
+331,North,126,333,South,0
+# Lake of Rage (334) - Route 43 (333)
+334,South,2,333,North,0
+# Mahogany Town (335) - Lake of Rage (334)
+335,West,0,334,East,4
+# Route 44 (340) - Mahogany Town (335)
+340,West,6,335,East,0
+# Resort Area (345) - Route 229 (338)
+345,North,2,338,South,0
+# Route 101 (360) - Littleroot Town (357)
+360,South,0,357,North,10
+# Route 101 (360) - Route 102 (365)
+360,West,0,365,East,32
+# Oldale Town (361) - Route 101 (360)
+361,South,0,360,North,0
+# Oldale Town (361) - Route 102 (365)
+361,West,8,365,East,0
+# Petalburg City (366) - Route 102 (365)
+366,East,14,365,West,0
+# Petalburg City (366) - Route 104 (370)
+366,West,0,370,East,60
+# Rustboro City (373) - Route 104 (370)
+373,South,3,370,North,0
+# Route 112 (414) - Route 109 (386)
+414,East,318,386,West,0
+# Slateport City (387) - Route 109 (386)
+387,South,24,386,North,0
+# Slateport City (387) - Route 110 (393)
+387,North,18,393,South,0
+# Route 110 (393) - Mauville City (394)
+393,North,0,394,South,5
+# Verdanturf Town (964) - Route 110 (393)
+964,South,85,393,North,0
+# Mauville City (394) - Route 111 (399)
+394,North,11,399,South,0
+# Route 117 (965) - Mauville City (394)
+965,East,0,394,West,1
+# Route 111 (399) - Route 112 (414)
+399,West,8,414,East,0
+# Fallabor Town (403) - Route 113 (402)
+403,East,0,402,West,9
+# Lavaridge Town (408) - Route 112 (414)
+408,East,0,414,West,2
+# Route 118 (417) - Route 119 (418)
+417,North,35,418,South,0
+# Fortree City (419) - Route 119 (418)
+419,West,7,418,East,0
+# Fortree City (419) - Route 120 (424)
+419,East,0,424,West,2
+# Route 121 (425) - Route 120 (424)
+425,West,0,424,East,93
+# Lilycove City (426) - Route 121 (425)
+426,West,9,425,East,0
+# Route 13 (482) - Route 12 (480)
+482,North,67,480,South,0
+# Route 13 (482) - Route 14 (485)
+482,South,2,485,North,0
+# Route 15 (486) - Route 14 (485)
+486,East,0,485,West,24
+# Route 202 (506) - Jubilife City (515)
+506,North,0,515,South,4
+# Sandgem Town (507) - Route 202 (506)
+507,North,0,506,South,12
+# Route 201 (510) - Route 202 (506)
+510,North,54,506,South,0
+# Route 201 (510) - Sandgem Town (507)
+510,East,0,507,West,0
+# Twinleaf Town (513) - Route 201 (510)
+513,North,0,510,South,12
+# Twinleaf Town (513) - Jubilife City (515)
+513,East,0,515,West,118
+# Jubilife City (515) - Route 204 (529)
+515,North,8,529,South,0
+# Route 218 (612) - Jubilife City (515)
+612,East,0,515,West,7
+# Oreburgh City (523) - Route 207 (550)
+523,North,44,550,South,0
+# Route 204 (529) - Floaroma Town (532)
+529,North,0,532,South,0
+# Floaroma Town (532) - Route 205 (538)
+532,East,0,538,West,71
+# Eterna City (541) - Route 205 (538)
+541,West,6,538,East,0
+# Route 211 (619) - Eterna City (541)
+619,West,0,541,East,0
+# Route 216 (620) - Eterna City (541)
+620,South,0,541,North,37
+# Route 206 (548) - Route 207 (550)
+548,South,0,550,North,9
+# Route 209 (562) - Solaceon Town (563)
+562,North,47,563,South,0
+# Solaceon Town (563) - Route 210 (570)
+563,North,0,570,South,71
+# Route 215 (572) - Route 210 (570)
+572,West,0,570,East,51
+# Valor Lakefront (587) - Route 214 (585)
+587,North,25,585,South,0
+# Valor Lakefront (587) - Route 222 (630)
+587,East,11,630,West,0
+# Route 212 (601) - Pastoria City (594)
+601,East,81,594,West,0
+# Celestic Town (607) - Route 210 (606)
+607,East,5,606,West,0
+# Route 216 (620) - Route 211 (619)
+620,South,38,619,North,0
+# Route 217 (622) - Route 216 (620)
+622,South,6,620,North,0
+# Snowpoint City (625) - Lake Acuity (624)
+625,West,7,624,East,0
+# Nuvema Town (651) - Route 1 (654)
+651,North,25,654,South,0
+# Accumula Town (655) - Route 1 (654)
+655,South,11,654,North,0
+# Route 2 (659) - Striaton City (660)
+659,North,0,660,South,14
+# Pinwheel Forest (670) - Nacrene City (669)
+670,East,0,669,West,4
+# Castelia City (677) - Skyarrow Bridge (676)
+677,South,0,676,North,4
+# Route 6 (702) - Driftveil City (694)
+702,East,50,694,West,0
+# Mistralton City (707) - Route 7 (711)
+707,North,18,711,South,0
+# Route 8 (730) - Icirrus City (725)
+730,South,8,725,North,0
+# Route 19 (766) - Route 20 (765)
+766,East,0,765,West,8
+# Santalune City (799) - Route 4 (798)
+799,North,0,798,South,11
+# Camphrier Town (804) - Route 5 (803)
+804,East,0,803,West,28
+# Route 7 (810) - Camphrier Town (804)
+810,East,0,804,West,16
+# Route 6 (807) - Parfum Palace (808)
+807,North,0,808,South,0
+# Route 8 (812) - Route 7 (810)
+812,East,0,810,West,0
+# Cyllage City (813) - Route 7 (810)
+813,South,63,810,North,0
+# Cyllage City (813) - Route 8 (812)
+813,South,15,812,North,0
+# Cyllage City (813) - Route 10 (817)
+813,North,0,817,South,23
+# Geosenge Town (818) - Route 10 (817)
+818,South,10,817,North,0
+# Geosenge Town (818) - Route 11 (821)
+818,East,8,821,West,0
+# Route 12 (827) - Coumarine City (828)
+827,East,2,828,West,0
+# Laverre City (835) - Route 14 (834)
+835,South,0,834,North,3
+# Route 21 (860) - Route 19 (859)
+860,East,0,859,West,0
+# Route 1 (889) - Hau'oli City (894)
+889,West,20,894,East,0
+# Route 2 (900) - Hau'oli City (894)
+900,South,4,894,North,0
+# Route 3 (901) - Iki Town (902)
+901,West,0,902,East,22
+# Paniola Town (906) - Paniola Ranch (907)
+906,North,11,907,South,0
+# Royal Avenue (927) - Paniola Ranch (907)
+927,West,0,907,East,1
+# Route 5 (911) - Paniola Ranch (907)
+911,South,0,907,North,13
+# Ruins of Life (917) - Paniola Ranch (907)
+917,North,0,907,South,43
+# Route 5 (911) - Route 8 (913)
+911,West,0,913,East,15
+# Route 5 (911) - Route 7 (914)
+911,North,0,914,South,0
+# Route 7 (914) - Route 8 (913)
+914,West,7,913,East,0
+# Route 12 (951) - Tapu Village (932)
+951,West,45,932,East,0
+# Route 14 (933) - Tapu Village (932)
+933,North,0,932,South,0
+# Route 14 (933) - Route 12 (951)
+933,East,0,951,West,67
+# Poni Wilds (945) - Ancient Poni Path (948)
+945,East,11,948,West,0
+# Route 11 (952) - Route 12 (951)
+952,East,7,951,West,0
+# Malie City (953) - Route 11 (952)
+953,South,0,952,North,0
+# Route 117 (965) - Verdanturf Town (964)
+965,West,0,964,East,4
+# Fuchsia City (174) - Route 19 (181)
+174,South,0,181,North,78
+# Route 20 (991) - Route 19 (181)
+991,North,0,181,South,13
+# Route 18 (170) - Fuchsia City (174)
+170,East,0,174,West,16
+# Route 17 (169) - Route 18 (170)
+169,South,6,170,North,0
+# Route 16 (166) - Route 17 (169)
+166,South,1,169,North,0
+# Celadon City (152) - Route 16 (166)
+152,West,0,166,East,1
+# Route 7 (150) - Celadon City (152)
+150,West,0,152,East,5

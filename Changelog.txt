@@ -1,0 +1,35 @@
+Changes from 3.4:
+
+# Fixed in 3.4.1:
+- Hawlucha appearing too early in Oak's Lab
+- Hoopa not being able to to be obtained
+- Fly still being disabled when talking to the girl outside Mt. Coronet on Route 207
+- Not being able to purchase items in the Veilstone Game Corner
+- Nerfed the Brilliant Judge
+- Kantonian Exeggutor and Sandslash spawning in Aether Paradise and Mount Lanakila Cave respectively
+
+# Fixed in 3.4.2:
+- Pink Shellos spawning in Route 210 (North)
+- Stats not going up after using a Hyper Trainer (to fix your Pokémon talk to the guy next to the Hyper Trainer)
+- Low Key Toxtricity not being obtainable
+- Pokédex not working as intended for old save files
+- Safari Zone Galar being open too early
+- Olivia's Lycanroc not being in its Midday Form sometimes
+- Being able to go up a cliff face on Route 7 in Galar (don't save there)
+
+# Fixed in 3.4.3
+- Fixed Milcery crashing the game
+- Player can restore team and Fly by fainting
+- Zephyr Badge + Galar Dex fixed by going to Oak's lab
+- PC Boxes fixed for Debug when opening it + seen Bill
+- Ability Capsules only working after a Pokémon evolves
+
+Added in 3.5 Beta V1:
+- Grandeur Club, with 7 challenges
+- Kanto League rematch, with you able to become the Indigo League Champion
+
+Added in 3.5 Beta V3:
+- Added more items available for purchase in the vending machine and the Chef Mart
+- Wonder Trade in Pokémon Centers
+- More NPCs in challenges
+
