@@ -19409,7 +19409,7 @@ Pokemon = URSHIFU,90
     Name = Spirit
     Moves = AERIALACE,DETECT,CLOSECOMBAT,SURGINGSTRIKES
     Form = 1
-    Nature = Hardy
+    Nature = HARDY
 #-------------------------------
 [POKEMONTRAINER_Casey,Casey]
 LoseText = "WHAT HAPPENED!?"
