@@ -43891,6 +43891,7 @@ Pokemon = GOLEM,100
 Pokemon = LYCANROC,100
     Moves = SANDSTORM,FIREFANG,PSYCHICFANGS,ROCKSLIDE
     Gender = male
+    Form = 0
     AbilityIndex = 1
     Item = SMOOTHROCK
     IV = 25
