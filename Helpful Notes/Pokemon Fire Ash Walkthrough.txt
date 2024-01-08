@@ -1,5 +1,5 @@
 Pokemon Fire Ash Walkthrough 
-Accurate up to version 3.5
+Accurate up to version 3.5.1
 
 NOTES:
 Some of the information in this walkthrough may be incorrect; I will correct this ASAP.
@@ -22,7 +22,11 @@ Enter Oak's Lab. The machine in the middle of the room will heal your party. Go 
 
 Take the Pokeball with the ICONIC Pikachu, though he won't be spending much time in the Pokeball from now on. Grab Pikachu off the table. Upon doing so, you'll get your first outfit. Grab the Pokedex and the five Pokeballs on your way out.
 
-If you go to the house to the right of the house you first came out of, you can talk to the girl to get a Town Map, which currently only has maps until the Alola Region. Leave Pallet Town to the west, where you'll find your mom waiting for you. She'll give you the Running Shoes and wish you luck on your journey.
+If you go to the house to the right of the house you first came out of, you can talk to the girl to get a Town Map, which currently only has maps until the Alola Region.
+
+South of your house is a guy who tells you that the Speed Up key is F7 and the Quick Save Button is left Alt by default. These can be changed through a menu which can be accessed by pressing F1.
+
+Leave Pallet Town to the west, where you'll find your mom waiting for you. She'll give you the Running Shoes and wish you luck on your journey.
 
 --------
 ROUTE 1:
@@ -47,6 +51,8 @@ ICONIC BATTLE
 TR Jessie and James
 Ekans LV 4
 Koffing LV 4
+
+In every Pokémon Centre, there’s also now a person in the top left corner who allows you to initiate Wonder Trades!
 
 The pokemart sells:
 Poke Ball - 200
@@ -86,7 +92,10 @@ Antidote: In tall grass in the SE part of the forest.
 Potion: In the NW part of the forest.
 
 Exit north.
+
+---------------------
 ROUTE 2 (North Side):
+---------------------
 Continue north to Pewter City. You can’t use HMs outside of battle in the game (apart from Fly), so you won’t be able to access the house behind the cut tree.
 
 ------------
@@ -16748,44 +16757,48 @@ Hydreigon LV 63
 
 Then talk to Latios and head back to Pallet Town.
 
-Upon arrival, you’ll hear the full version of the ICONIC first Japanese Pokémon opening. This’ll be the only time it plays in Pallet Town (though as many times as you want before you go elsewhere), so savour it! If you want to hear it again though, here’s the link: 【公式】アニメ「ポケットモンスター」屋外広告｜新宿ウォール456
+Upon arrival, you’ll hear the full version of the ICONIC first Japanese Pokémon opening. This’ll be the only time it plays in Pallet Town (though as many times as you want before you go elsewhere), so savour it! If you want to hear it again though, here’s the link: https://youtu.be/ZccKUMgLRE8
 
 Once you’ve savoured the moment, talk to Gary who blocks you way to Oak’s lab again, like he did at the start of your journey. Then go upstairs and talk to Prof. Oak. He’ll say a few wise words and then the credits will roll again (except you can skip them this time round). And that’s it, that’s the end of the main story of the game!
-* THE END...*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*... OR NOT.*
 
+*************
+* THE END...*
+*************
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*************
+*... OR NOT.*
+*************
 ------------------------------
 POST-GAME CONTENT AND BATTLES:
 ------------------------------
@@ -16799,6 +16812,7 @@ DNA Splicers - Icirrus Cave, where Kyurem was. Used to fuse Kyurem with Reshiram
 Zygarde Cube - Terminus Cave, where Zygarde was. Used to change Zygarde’s form and ability (no Zygarde Cells required, fortunately).
 Ultranecrozium Z - Ultra Deep Space, where Lusamine was. Used to change Dusk Mane Necrozma or Dawn Wings Necrozma into Ultra Necrozma in battle and use its exclusive Z-move, Light that Burns the Sky.
 Reins of Unity - Freezington, where Calyrex was. Used to allow Calyrex to ride on (fuse with) Glastrier or Spectrier.
+??? - Talking to Oak with your dex completed! Used to allow *r***s to change forms in battle.
 
 Then let's take the rematches by chronological category:
 Side note: Only new Pokémon/Trainers will be highlighted, many existing rematches (mainly characters that showed up again in Journeys) had their levels increased.
@@ -17247,7 +17261,75 @@ Orbeetle LV 70 (G-Max)
 
 Once you beat him he’ll offer you a LV 15 Beedrill that holds a Honey and knows the moves Skull Bash, Reflect, Mimic and Substitute.
 
-OK, that's all the rematch battles with people Ash knows rather well -- what's next? Next, we go to Driftveil City, in Unova.
+OK, that's all the rematch battles with people Ash knows rather well -- what's next? Remember that you were forced to “lose” in the Leagues like Ash did? We can now go back and rechallenge the Indigo League and win it this time!
+INDIGO LEAGUE REMATCH:
+To get started, we can talk to the woman to the left of the entrance, who lets you enter the league. Unlike last time, you can now do the stages in any order you’d like, so let’s go from right to left, starting with the Rock stage.
+ICONIC LEAGUE BATTLE
+Tamer Matt (3v3)
+Rapidash LV 90
+Poliwrath LV 90
+Nidoking LV 90
+
+Next is the Ice stage:
+ICONIC LEAGUE BATTLE
+Tamer Pete (3v3)
+Rhyperior LV 90
+Arcanine LV 90
+Cloyster LV 90
+
+After that is the Water stage:
+ICONIC LEAGUE BATTLE
+Juggler Mandi (3v3)
+Exeggutor LV 90
+Kingdra LV 90
+Crobat LV 90
+
+And last is the Grass stage:
+ICONIC LEAGUE BATTLE
+Aroma Lady Jeanette (3v3)
+Beedrill LV 90
+Scizor LV 90
+Bellsprout LV 90
+
+Next are the battles in the Indigo Stadium, on the far left, starting with Ritchie (who Ash lost to):
+ICONIC LEAGUE BATTLE
+Picnicker Ritchie (3v3)
+Butterfree LV 93 (Happy)
+Pikachu LV 94 (Sparky)
+Charmeleon LV 93 (Zippo)
+
+Next is the trainer Richie lost to:
+ICONIC LEAGUE BATTLE
+Cool Trainer Assunta (3v3)
+Rhyperior LV 94
+Venomoth LV 94
+Venusaur LV 95
+
+Next is Harrison (since he mentioned he was going to challenge the Indigo League after losing in the semifinals in the Johto League):
+ICONIC LEAGUE BATTLE
+Kecleon LV 95
+Sneasel LV 96
+Hypno LV 96
+Steelix LV 97
+Houndoom LV 97
+Blaziken LV 98
+
+And last is Gary (since they never got to battle in the Indigo League):
+ICONIC LEAGUE BATTLE
+Nidoqueen LV 97
+Hatterene LV 97
+Arcanine LV 98
+Electivire LV 98
+Umbreon LV 99
+Blastoise LV 100
+
+And that’s how you win the Indigo League! Beating it also gives you another opportunity to catch Mewtwo, Articuno, Zapdos and Moltres, but ONLY if you failed to catch them before (e.g. if you didn’t know you had to catch Mewtwo in the Viridian Gym). The 3 birds will be where they were before, whereas Mewtwo will be on Route 4, in the area behind the fence, east of the entrance leading to the Battle Factory (it’s as close to it as we could get to Cerulean Cave).
+
+The Pokémon that you select in any of the league battles will have the Indigo Ribbon on them after that battle.
+
+I also heard a rumour that the other leagues will be added eventually, so stay tuned!
+
+Next, we go to Driftveil City, in Unova, for even more rematches!
 
 ---------------
 DRIFTVEIL CITY:
@@ -17791,195 +17873,197 @@ Probopass LV 63
 
 There's a healer and a PC right in each house, so you can fight to your heart's content.
 
-OK, so what now? Well, believe it or not, there is yet ANOTHER set of bonus battles! To access it, go to Oak's Lab in Pallet Town and check the machine that has appeared in the SE corner of Oak's upstairs room. Here, you can fight Pokedex Holders, which are basically the heroes of the Pokemon Adventures manga. You always end up in some game location with the opponent. The locations look like normal places you've been to (or places you're going to visit in the future) but they are actually separate dimensions and you can't exit them in any way except the portal that will return you back to Prof. Oak’s lab.
+OK, so what now? Well, believe it or not, there is yet ANOTHER set of bonus battles! To access it, go to Oak's Lab in Pallet Town and check the machine that has appeared in the SW corner of Oak's upstairs room. Here, you can fight Pokedex Holders, which are basically the heroes of the Pokemon Adventures manga. You always end up in some game location with the opponent. The locations look like normal places you've been to (or places you're going to visit in the future) but they are actually separate dimensions and you can't exit them in any way except the portal that will return you back to Prof. Oak’s lab.
 
 The Pokedex Holders are:
 
 Gen 1:
 Red, the Fighter, in Pallet Town
-Poliwrath (Poli) LV 60
-Aerodactyl (Aero) LV 60
-Gyarados (Gyara) LV 60
-Venusaur (Saur) LV 60 (Mega)
-Pikachu (Pika) LV 60
-Snorlax (Snor) LV 60
+Poliwrath (Poli) LV 90
+Aerodactyl (Aero) LV 90
+Gyarados (Gyara) LV 90
+Venusaur (Saur) LV 90 (Mega)
+Pikachu (Pika) LV 90
+Snorlax (Snor) LV 90
 
 Blue, the Trainer, in Viridian Gym
-Scizor LV 60
-Golduck LV 60
-Charizard LV 60 (Mega Y) 
-Rhyperior LV 60
-Machamp LV 60
-Porygon2 LV 60
+Scizor LV 90
+Golduck LV 90
+Charizard LV 90 (Mega Y) 
+Rhyperior LV 90
+Machamp LV 90
+Porygon2 LV 90
 
 Green, the Evolver, at Indigo Plateau
-Wigglytuff (Jiggly) LV 55
-Blastoise (Blasty) LV 55 (Mega)
-Granbull LV 55
-Nidoqueen (Nido) LV 55
-Ditto (Ditty) LV 55
-Clefable (Clefy) LV 55
+Wigglytuff (Jiggly) LV 90
+Blastoise (Blasty) LV 90 (Mega)
+Granbull LV 90
+Nidoqueen (Nido) LV 90
+Ditto (Ditty) LV 90
+Clefable (Clefy) LV 90
 
 Yellow, the Healer, in Viridian Forest
-Raticate (Ratty) LV 50
-Golem (Gravvy) LV 50
-Pikachu (Chuchu) LV 50
-Omastar (Omny) LV 50
-Dodrio (Dody) LV 50
-Butterfree (Kitty) LV 50
+Raticate (Ratty) LV 90
+Golem (Gravvy) LV 90
+Pikachu (Chuchu) LV 90
+Omastar (Omny) LV 90
+Dodrio (Dody) LV 90
+Butterfree (Kitty) LV 90
 
 Gen 2:
 Gold, the Hatcher, in New Bark Town
-Ambipom (Aibo) LV 55
-Sunflora (Sunbo) LV 55
-Politoed (Polibo) LV 55
-Typhlosion (Exbo) LV 55 
-Togekiss (Togebo) LV 55
-Pichu (Pibu) LV 55
+Ambipom (Aibo) LV 90
+Sunflora (Sunbo) LV 90
+Politoed (Polibo) LV 90
+Typhlosion (Exbo) LV 90 
+Togekiss (Togebo) LV 90
+Pichu (Pibu) LV 90
 
 Silver, the Exchanger, in Viridian City
-Weavile LV 55
-Kingdra LV 55
-Feraligatr LV 55
-Ursaring LV 55
-Honchkrow LV 55
-Gyarados LV 55 (Shiny)
+Weavile LV 90
+Kingdra LV 90
+Feraligatr LV 90
+Ursaring LV 90
+Honchkrow LV 90
+Gyarados LV 90 (Shiny)
 
 Crystal, the Catcher, in Ecruteak City
-Arcanine (Archy) LV 55
-Cubone (Bonee) LV 55
-Meganium (Megaree) LV 55
-Hitmonchan (Monlee) LV 55
-Xatu (Natee) LV 55
-Parasect (Parasee) LV 55
+Arcanine (Archy) LV 90
+Cubone (Bonee) LV 90
+Meganium (Megaree) LV 90
+Hitmonchan (Monlee) LV 90
+Xatu (Natee) LV 90
+Parasect (Parasee) LV 90
 
 Gen 3:
 Ruby, the Charmer, in Slateport City
-Mightyena (Nana) LV 55
-Swampert (Mumu) LV 55 (Mega)
-Milotic (Feefee) LV 55
-Gardevoir (Rara) LV 55 (Mega)
-Delcatty (Kiki) LV 55
-Castform (Fofo) LV 55
+Mightyena (Nana) LV 90
+Swampert (Mumu) LV 90 (Mega)
+Milotic (Feefee) LV 90
+Gardevoir (Rara) LV 90 (Mega)
+Delcatty (Kiki) LV 90
+Castform (Fofo) LV 90
 
 Sapphire, the Conqueror, in Littleroot Town
-Aggron (Rono) LV 55
-Donphan (Phando) LV 55
-Tropius (Troppy) LV 55
-Blaziken (Chic) LV 55 (Mega)
-Wailord (Lorry) LV 55
-Gallade (Kirly) LV 55 (Mega)
+Aggron (Rono) LV 90
+Donphan (Phando) LV 90
+Tropius (Troppy) LV 90
+Blaziken (Chic) LV 90 (Mega)
+Wailord (Lorry) LV 90
+Gallade (Kirly) LV 90 (Mega)
 
 Emerald, the Calmer, in Battle Tower
-Sceptile LV 55 (Mega)
-Sudowoodo LV 55
-Dusclops LV 55
-Snorlax LV 55
-Mr. Mime LV 55
-Mantine LV 55
+Sceptile LV 90 (Mega)
+Sudowoodo LV 90
+Dusclops LV 90
+Snorlax LV 90
+Mr. Mime LV 90
+Mantine LV 90
 
 Gen 4:
 Diamond, the Empathizer, on Iron Island
-Munchlax (Lax) LV 55
-Regigigas (Reg) LV 55
-Bastiodon (Don) LV 55
-Torterra (Tru) LV 55
-Lickilicky (Kit) LV 55
-Rotom LV 55
+Munchlax (Lax) LV 90
+Regigigas (Reg) LV 90
+Bastiodon (Don) LV 90
+Torterra (Tru) LV 90
+Lickilicky (Kit) LV 90
+Rotom LV 90
 
 Pearl, the Determiner, in Pastoria City
-Chatot (Chatler) LV 55
-Infernape (Chimler) LV 55
-Buizel (Zeller) LV 55
-Luxray (Rayler) LV 55
-Diglett (Digler) LV 55
-Tauros (Tauler) LV 55
+Chatot (Chatler) LV 90
+Infernape (Chimler) LV 90
+Buizel (Zeller) LV 90
+Luxray (Rayler) LV 90
+Diglett (Digler) LV 90
+Tauros (Tauler) LV 90
 
 Platinum, the Understander, on Mt. Coronet
-Rapidash LV 55
-Lopunny LV 55
-Empoleon LV 55
-Froslass LV 55
-Cherrim LV 55
-Pachirisu LV 55
+Rapidash LV 90
+Lopunny LV 90
+Empoleon LV 90
+Froslass LV 90
+Cherrim LV 90
+Pachirisu LV 90
 
 Gen 5:
 Black, the Dreamer, at Unova Pokemon League
-Braviary (Brav) LV 55
-Emboar (Bo) LV 55
-Galvantula (Tula) LV 55
-Carracosta (Costa) LV 55
-Musharna (Musha) LV 55
+Braviary (Brav) LV 90
+Emboar (Bo) LV 90
+Galvantula (Tula) LV 90
+Carracosta (Costa) LV 90
+Musharna (Musha) LV 90
 
 White, the Dreamer, in Nimbasa City
-Serperior (Amanda) LV 50
-Stunfisk (Dorothy) LV 50
-Duosion (Solly) LV 50
-Vullaby (Barbara) LV 50
-Deerling (Darlene) LV 50
-Alomomola (Nancy) LV 50
+Serperior (Amanda) LV 90
+Stunfisk (Dorothy) LV 90
+Duosion (Solly) LV 90
+Vullaby (Barbara) LV 90
+Deerling (Darlene) LV 90
+Alomomola (Nancy) LV 90
 
 Blake, the Arrester, in Virbank City
-Dewott LV 55
-Genesect LV 55
-Keldeo (Kelden) LV 55
-Gliscor (Glisott) LV 55
-Kabutops (Kabutott) LV 55
-Escavalier LV 55
+Dewott LV 90
+Genesect LV 90
+Keldeo (Kelden) LV 90
+Gliscor (Glisott) LV 90
+Kabutops (Kabutott) LV 90
+Escavalier LV 90
 
 Whitley, the Liberator, in Aspertia City
-Foongus (Foongy) LV 50
-Accelgor LV 50
+Foongus (Foongy) LV 90
+Accelgor LV 90
 
 Gen 6:
 X, the Loner, in Geosenge Town
-Chesnaught (Marisso) LV 55
-Charizard (Salme) LV 55 (Mega)
-Manectric (Elec) LV 55 (Mega)
-Pinsir (Rute) LV 55 (Mega)
-Kangaskhan (Kanga & Lil Kanga) LV 55 (Mega)
-Gengar (Garma) LV 55 (Mega)
+Chesnaught (Marisso) LV 90
+Charizard (Salme) LV 90 (Mega)
+Manectric (Elec) LV 90 (Mega)
+Pinsir (Rute) LV 90 (Mega)
+Kangaskhan (Kanga & Lil Kanga) LV 90 (Mega)
+Gengar (Garma) LV 90 (Mega)
 
 Y, the Flyer, in Shalour City
-Fletchinder (Fletchy) LV 55
-Sylveon (Veevee) LV 55
-Absol (Solsol) LV 55 (Mega)
-Greninja (Croaky) LV 55
-Rhyhorn (Rhyrhy) LV 55
+Fletchinder (Fletchy) LV 90
+Sylveon (Veevee) LV 90
+Absol (Solsol) LV 90 (Mega)
+Greninja (Croaky) LV 90
+Rhyhorn (Rhyrhy) LV 90
 
 Gen 7:
 Sun, the Saver, in Iki Town
-Alolan Meowth (Cent) LV 55
-Wishiwashi (Quarter) LV 55
-Incineroar (Dollar) LV 55
-Mimikyu (Penny) LV 55
-Crabominable (Dong) LV 55
-Stakataka (Lei) LV 55
+Alolan Meowth (Cent) LV 90
+Wishiwashi (Quarter) LV 90
+Incineroar (Dollar) LV 90
+Mimikyu (Penny) LV 90
+Crabominable (Dong) LV 90
+Stakataka (Lei) LV 90
 
 Moon, the Mixer, in Aether Paradise
-Charjabug LV 55
-Mareanie LV 55
-Alolan Muk LV 55
-Decidueye LV 55
+Charjabug LV 90
+Mareanie LV 90
+Alolan Muk LV 90
+Decidueye LV 90
 
 Gen 8:
 Henry, on the Tower Summit. He can Dynamax his Sirfetch’d, Rillaboom or Oranguru, but will Dynamax his Sirfetch’d most of the time.
-Sirfetch’d LV 55 (Lancelot)
-Gurdurr LV 55 (Steeler)
-Oranguru LV 55 (Fanguru)
-Urshifu LV 55 (Rapid Strike)
-Rillaboom LV 55 (Twiggy)
-Mr. Rime LV 55 (Sutekkin)
+Sirfetch’d LV 90 (Lancelot)
+Gurdurr LV 90 (Steeler)
+Oranguru LV 90 (Fanguru)
+Urshifu LV 90 (Rapid Strike)
+Rillaboom LV 90 (Twiggy)
+Mr. Rime LV 90 (Sutekkin)
 
 Casey, in Slumbering Wield
-Arrokuda LV 55 (Kilo)
-Toxtricity LV 55 (Tera, G-Max)
-Falinks LV 55 (Giga)
-Eiscue LV 55 (Peta)
-Cinderace LV 55 (Bit)
-Galarian Stunfisk LV 55 (Mega - that's its nickname!)
+Arrokuda LV 90 (Kilo)
+Toxtricity LV 90 (Tera, G-Max)
+Falinks LV 90 (Giga)
+Eiscue LV 90 (Peta)
+Cinderace LV 90 (Bit)
+Galarian Stunfisk LV 90 (Mega - that's its nickname!)
 
 23 battles in total. After you exit the alternate dimension through the portal, you can come back and fight the champion again.
+
+In addition, there’s another teleporter in the SE corner of the lab, which leads to a new area, the Grandeur Club. There’s so much content and strategy in it that it deserves its own separate guide, rather than being tagged onto the end of the walkthrough.
 
 And we're done with the repeatable battles! Well done for making it all the way through that... or you would be, if there wasn't one section left. The secret, ULTIMATE championship battles. In these you'll face down Ash Ketchum's various teams, each at the outrageously high level of 85. The teams are as follows.
 
@@ -18069,6 +18153,6 @@ Please note that contrary to the rest of this walkthrough, the locations for the
 
 Just remember that if you get too mad or frustrated, it almost always helps to sleep on it and come back later. :)
 
------------------------------
-THE END... FOR REAL THIS TIME
------------------------------
+******************************
+THE END... FOR REAL THIS TIME.
+******************************
