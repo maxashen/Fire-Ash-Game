@@ -7746,7 +7746,7 @@ Pokemon = HATTERENE,59
     Moves = PSYCHOCUT,DAZZLINGGLEAM
     IV = 20
 #-------------------------------
-[RIVAL1,Gary,3]
+[RIVAL2,Gary,2]
 LoseText = "Not bad."
 Pokemon = NIDOQUEEN,97
     Gender = female
@@ -8960,13 +8960,28 @@ Pokemon = FURRET,45
     Moves = DOUBLETEAM,SWIFT,DIG,HEADBUTT
     IV = 20
 #-------------------------------
+[YOUNGSTER,Salvador,1]
+LoseText = "I can't be done already again!"
+Pokemon = FURRET,90
+    Gender = male
+    Moves = DOUBLETEAM,SWIFT,DIG,HEADBUTT
+    IV = 20
+#-------------------------------
 [LASS,Anna]
 LoseText = "Aw."
 Pokemon = MACHOKE,46
 #-------------------------------
+[LASS,Anna,1]
+LoseText = "Aw."
+Pokemon = MACHAMP,90
+#-------------------------------
 [YOUNGSTER,Evans]
 LoseText = "No no no."
 Pokemon = EXEGGUTOR,46
+#-------------------------------
+[YOUNGSTER,Evans,1]
+LoseText = "No no no."
+Pokemon = EXEGGUTOR,90
 #-------------------------------
 [LASS,Macy]
 LoseText = "But, how did that happen?"
@@ -8983,6 +8998,21 @@ Pokemon = ELECTABUZZ,49
     Moves = THUNDERBOLT,LIGHTSCREEN,THUNDERPUNCH,IRONTAIL
     IV = 20
 #-------------------------------
+[LASS,Macy,1]
+LoseText = "But, how did that happen?"
+Pokemon = MAGCARGO,92
+    Gender = female
+    Moves = FLAMETHROWER,DOUBLETEAM,BODYSLAM,AMNESIA
+    IV = 20
+Pokemon = TYPHLOSION,93
+    Gender = female
+    Moves = FLAMEWHEEL,QUICKATTACK,SWIFT,FLAMETHROWER
+    IV = 20
+Pokemon = ELECTIVIRE,94
+    Gender = male
+    Moves = THUNDERBOLT,LIGHTSCREEN,THUNDERPUNCH,IRONTAIL
+    IV = 20
+#-------------------------------
 [COOLTRAINER_M,Jackson]
 LoseText = "What a great battle. Good job."
 Pokemon = AZUMARILL,47
@@ -8993,6 +9023,20 @@ Pokemon = MAGNETON,49
     Shiny = yes
     Moves = TRIATTACK,THUNDERWAVE,THUNDERBOLT,DOUBLETEAM
 Pokemon = MEGANIUM,52
+    Gender = male
+    Moves = SOLARBEAM,RAZORLEAF,VINEWHIP,BODYSLAM
+    IV = 20
+#-------------------------------
+[COOLTRAINER_M,Jackson,1]
+LoseText = "What a great battle. Good job."
+Pokemon = AZUMARILL,92
+    Gender = female
+    Moves = WATERGUN,BUBBLEBEAM,ICYWIND,IRONTAIL
+    IV = 20
+Pokemon = MAGNEZONE,93
+    Shiny = yes
+    Moves = TRIATTACK,THUNDERWAVE,THUNDERBOLT,DOUBLETEAM
+Pokemon = MEGANIUM,94
     Gender = male
     Moves = SOLARBEAM,RAZORLEAF,VINEWHIP,BODYSLAM
     IV = 20
@@ -9050,6 +9094,21 @@ Pokemon = BLAZIKEN,98
     Gender = male
     Moves = QUICKATTACK,FLAMETHROWER,FIREPUNCH,BLAZEKICK
     IV = 20
+#-------------------------------
+[CAMPER,Jon Dickson]
+LoseText = "Incredible!"
+Pokemon = RHYHORN,100
+    IV = 31
+Pokemon = RAPIDASH,100
+    IV = 31
+Pokemon = TAUROS,100
+    IV = 31
+Pokemon = MIGHTYENA,100
+    IV = 31
+Pokemon = ZEBSTRIKA,100
+    IV = 31
+Pokemon = GOGOAT,100
+    IV = 31
 #-------------------------------
 [YOUNGSTER,Calvin,1]
 LoseText = "Am I ready?"
