@@ -2269,7 +2269,7 @@ Nothing too important here, except fishing -- Woopers can be caught in this town
 
 There's also a Move Tutor here out by the beach that will teach your Pokemon the move Gravity and another person who will tell you how trade evolutions in Fire Ash work, but this guy also tells you about trade evolutions of Gen 2 pokemon.
 
-Before we go further…
+Before we go further...
 
 STOP AND FRISK SECTION:
 a.k.a. Thievery for fun and profit.
@@ -3017,7 +3017,7 @@ Ariados LV 24
 Houndour LV 25
 Hypno LV 25
 
-Bug Catcher Doug (huh, we might have seen him before…)
+Bug Catcher Doug (huh, we might have seen him before...)
 Beedrill LV 26
 Yanma LV 24
 Paras LV 24
@@ -6936,7 +6936,7 @@ Fishing (Good Rod): Whiscash and Wooper.
 
 When catching a Combee, make sure you get a female! Only female Combees can evolve. The best way to ensure it is to have a male Pokemon with Cute Charm ability leading the party. The possible Pokemon with this ability that you can have at the moment are Clefairy line, Jigglypuff line, Skitty line, and maybe Sylveon or Lopunny if you've evolved one. All those Pokemon can have another ability and/or be female, so look through your collection to see what you have.
 
-Right at the start, there's a Berry Patch containing 10 Oran Berries. 2/10 patch. Let’s hope that future Sinnoh berry patches are better than this…
+Right at the start, there's a Berry Patch containing 10 Oran Berries. 2/10 patch. Let’s hope that future Sinnoh berry patches are better than this...
 
 This is a big and fairly open route. You'll encounter 8 trainers as you make your way north.
 MINOR ICONIC
@@ -10009,7 +10009,7 @@ Swoobat LV 33
 Unfezant LV 33
 Swanna LV 35
 
-Beat her for the Jet Badge and TM62 (Acrobatics). The Unova teleport system gets updated again. The Tranquil back in Nuvema Town has also evolved into Unfezant and will now give you a Wacan Berry. Upon doing so, it turns into… a Staraptor? Umm, sure. Moving on, progress by going through Mistralton’s NE exit to Route 7.
+Beat her for the Jet Badge and TM62 (Acrobatics). The Unova teleport system gets updated again. The Tranquil back in Nuvema Town has also evolved into Unfezant and will now give you a Wacan Berry. Upon doing so, it turns into... a Staraptor? Umm, sure. Moving on, progress by going through Mistralton’s NE exit to Route 7.
 
 --------
 ROUTE 7:
@@ -13163,7 +13163,7 @@ Now head back to the lab and go to bed, and it's quest time!
 ********************
 * DAY 7 -- GLADION *
 ********************
-The next day, talk to Kukui to find out that you can spend the day off… until Rotom tells you to visit Lillie. Oh well, let’s do that. Go to her mansion in Hau’oli City. Her brother Gladion is there now, so fight him, as one is prone to do with people they see for the first time. No? It's just me? Moving on...
+The next day, talk to Kukui to find out that you can spend the day off... until Rotom tells you to visit Lillie. Oh well, let’s do that. Go to her mansion in Hau’oli City. Her brother Gladion is there now, so fight him, as one is prone to do with people they see for the first time. No? It's just me? Moving on...
 ICONIC BATTLE
 Pokemon Trainer Gladion
 Lycanroc-Night LV 20
@@ -13527,7 +13527,7 @@ Alolan Muk LV 29
 
 The small room to the north contains a Full Restore.
 
-Continue east. The path goes further east, but go south first. Fight a trainer that guards the entrance to another office with a Nugget. Past him is a man next to a desk: he will trade you a Togedemaru for an Alolan Pichu, or so he claims. Unfortunately, due to the removal of Alolan Pichu, this trade doesn’t work anymore, so now the only other way to get Togedemaru in Fire Ash is by catching one in the Alola section of the Safari Zone, which you'll have access to in a bit.
+Continue east. The path goes further east, but go south first. Fight a trainer that guards the entrance to another office with a Nugget. Past him is a man next to a desk who will trade you a Togedemaru for a Pichu.
 Scientist Danny
 Parasect LV 28
 Drifblim LV 28
@@ -14339,7 +14339,7 @@ After you beat him, he leaves. Talk to Kukui, who then tells you to head home.
 ******************************
 * DAY 27: THE KANTONIAN GYM: *
 ******************************
-When you wake up, Rotom Dex tells you to head for the school. In class, Kukui tells you that you're headed for Malie city today. There's reportedly even a gym there. There aren’t meant to be any gyms in Alola… right?
+When you wake up, Rotom Dex tells you to head for the school. In class, Kukui tells you that you're headed for Malie city today. There's reportedly even a gym there. There aren’t meant to be any gyms in Alola... right?
 
 Before we go there, head back to Melemele Forest. A new pokeball containing a Cosmog showed up near the second trainer. Nice! This’ll come in handy if you’re trying to have a full living dex of all the pokemon in the game. Now to go to Malie City, take the boat to Tapu Village, then head east. The boulders that were blocking the path are now gone, allowing us to proceed to Route 12.
 
@@ -14726,7 +14726,7 @@ ICONIC BATTLE
 Pokemon Trainer Kiawe (1v1)
 Charizard LV 50
 
-After you beat him, Rotom Dex announces that it's leaving as well to work with the Aether Foundation. Oh well. I guess that's one less thing following us around, plus you can use your bike and Fly again, so yay? Wait, isn’t there something else I’m forgetting about…? Oh right, you’d be able to use Escape Ropes too!
+After you beat him, Rotom Dex announces that it's leaving as well to work with the Aether Foundation. Oh well. I guess that's one less thing following us around, plus you can use your bike and Fly again, so yay? Wait, isn’t there something else I’m forgetting about...? Oh right, you’d be able to use Escape Ropes too!
 
 Once you've said your goodbyes, head back to Kanto, and talk to Oak again. He'll congratulate you on becoming Champion of Alola but has to cut the reunion short as he has to attend the opening of a new lab in Vermilion City. He invites you to join him, so let’s do that. But first, you can also put the World Cap on Pikachu from the right Cap Drawer in your room. Head to Vermilion City to start Gen 8.
 
@@ -14851,12 +14851,12 @@ Fishing (Old Rod): *Chewtle and *Galarian Slowpoke.
 Fishing (Good Rod): Galarian Slowpoke and Chewtle.
 Fishing (Super Rod): Chewtle and Galarian Slowpoke. (Level 50-60)
 
-Unfortunately, this is the only place you can find Duraludon and it's a 1% chance... good luck. There are also two boulders above the mount at the SW corner of the area - if you interact with them with a Kubfu in your party (multiple of them can be obtained later), they’ll evolve into the Urshifu form which corresponds with that colour.
+Unfortunately, this is the only place you can find Duraludon and it's a 1% chance... good luck. There are also two boulders above the mount at the SW corner of the area - I’ll explain their purpose later when it’s more relevant.
 
 Last but not least, Area 6. It's the area south of the bridge and spans west to the edge of the lake/river under the bridge. It snows here sometimes.
 It contains a Lure Ball, Max Soup (which you can use on Pikachu to allow it to Gigantamax), Focus Sash, Leftovers, a hidden Full Restore in the eastern boulder and a hiker that'll give you a Choice Scarf.
 
-Area 6 Wild Pokémon: *Gossifleur, *Snom, *Galarian Zigzagoon, Clobbopus, *Rolycoly, Boltund. Same levels as Area 5.
+Area 6 Wild Pokémon: *Gossifleur, *Snom, *Galarian Zigzagoon, Clobbopus, *Rolycoly, Joltik, Boltund. Same levels as Area 5.
 Fishing (Old Rod): Galarian Corsola and *Galarian Stunfisk.
 Fishing (Good Rod): Galarian Stunfisk and Galarian Corsola.
 Fishing (Super Rod): Galarian Corsola and Galarian Stunfisk.
@@ -15022,7 +15022,7 @@ MINOR ICONIC WCS BATTLE
 Tamer Hayden
 Tauros LV 23
 
-Then, ignore Cerise and go into the Pokémon Centre and Nurse Joy wants you to take care of an egg that’s refusing to hatch… whatever that means. The egg contains an ICONIC Riolu and will hatch very quickly. If you choose not to take it here though (or can’t because you have a full party), Nurse Joy will spawn outside the Pokémon Centre
+Then, ignore Cerise and go into the Pokémon Centre and Nurse Joy wants you to take care of an egg that’s refusing to hatch... whatever that means. The egg contains an ICONIC Riolu and will hatch very quickly. If you choose not to take it here though (or can’t because you have a full party), Nurse Joy will spawn outside the Pokémon Centre
 
 Return to the lab and talk to Cerise, who tells you to go to the Resort Area in Sinnoh. We can get there by taking the leftmost ship in the pier.
 
@@ -15110,7 +15110,7 @@ WYNDON:
 -------
 Next to the pond outside the train station is now a gift Sobble that you can add to your team. Then, head NE to find Goh and Sonia and talk with the latter to hear her ramble about the Darkest Day (foreshadowing???).
 
-On the bridge on the way to the stadium is an ICONIC LV 25 Galarian Farfetch’d holding… a fourth Leek. Seriously, who needs that many?
+On the bridge on the way to the stadium is an ICONIC LV 25 Galarian Farfetch’d holding... a fourth Leek. Seriously, who needs that many? Anyway, to evolve it, you need it to land 3 critical hits in ONE battle, so the Leek is handy.
 
 Sonia already told us that the match between Leon and Raihan is already over, so talk to Raihan instead. Then head outside to get another WCS battle, this time against Tony in Vermilion City’s Gym.
 MINOR ICONIC WCS BATTLE (1v1)
@@ -15173,7 +15173,7 @@ MINOR ICONIC WCS BATTLE (1v1)
 Lass Val
 Tentacruel LV 26
 
-… and we drop back to the Normal Class. Fantastic. Let’s head back to the lab so that Cerise can tell us about a sandstorm that’s devastating Mauville City. Accept Goh’s offer to fast travel.
+... and we drop back to the Normal Class. Fantastic. Let’s head back to the lab so that Cerise can tell us about a sandstorm that’s devastating Mauville City. Accept Goh’s offer to fast travel.
 
 --------------
 MAUVILLE CITY:
@@ -15239,7 +15239,7 @@ Cool Trainer Carmo (2v2)
 Umbreon LV 27
 Toucannon LV 27
 
-This gets us back into the Great Class again! Nice, but doesn’t feel as meaningful as the first time round… anyway, we get a rematch with Bea at the Cianwood City Gym.
+This gets us back into the Great Class again! Nice, but doesn’t feel as meaningful as the first time round... anyway, we get a rematch with Bea at the Cianwood City Gym.
 
 --------------
 CIANWOOD CITY:
@@ -15350,7 +15350,7 @@ ICONIC BATTLE
 Dynamax Pokémon Coalossal
 Coalossal LV 35 (G-Max)
 
-Head inside into Rose Tower and talk to Oleana (the woman guarding the lift). Then talk to Rose, who essentially wants to sponsor you… given his previous dialogue, that’s shady. Talk to Oleana again to get out of there.
+Head inside into Rose Tower and talk to Oleana (the woman guarding the lift). Then talk to Rose, who essentially wants to sponsor you... given his previous dialogue, that’s shady. Talk to Oleana again to get out of there.
 
 After the phone call, use the Pokémon Centre teleport or go back to the Flying Taxi and go to Hammerlocke.
 
@@ -15408,6 +15408,8 @@ Life Orb - 1000 coins
 Leftovers - 1000 coins
 Lucky Egg - 1600 coins
 Ability Patch - 5000 coins
+
+Going back to Area 5 of the Wild Area, if you interact with one of the coloured boulders with a Kubfu in your party, they’ll evolve into the Urshifu form which corresponds with that colour.
 
 Ability Patches can change a Pokémon’s ability to its hidden ability, then back to its first ability slot.
 
@@ -15542,7 +15544,7 @@ Be sure to grab the Max Revive to the NW before heading back to Cerise’s lab a
 GALAR ROUTE 6:
 --------------
 Weather Forecast: Rarely a Sandstorm
-Wild Pokémon: Silicobra, Rolycoly, Covisquire, Sizzlipede, Galarian Yamask, Torkoal and Falinks. Levels 31-36.
+Wild Pokémon: Silicobra, Rolycoly, Corvisquire, Sizzlipede, Galarian Yamask, Torkoal and Falinks. Levels 31-36.
 
 No new Pokémon here, unfortunately. Head west and battle the first trainer here.
 Scientist Iwan
@@ -15605,6 +15607,8 @@ Dragon Fang - 1000
 Focus Band - 4000
 Galarica Cuff - 3000
 Galarica Wreath - 3000
+
+The Cracked Pot allows Phony Form Sinistea to evolve into Phony Form Polteageist, whereas the Chipped Pot allows Antique Form Sinistea to evolve into Antique Form Polteageist.
 
 There’s a Leavanny south of the first vendor that’ll give you a pair of Safety Goggles and in the house between the two vendors is a guy that’ll give you a Dusk Stone.
 
@@ -15752,7 +15756,7 @@ Cool Trainer Quillon
 Weavile LV 41
 Urshifu LV 43 (Single Strike)
 
-Then talk to Goh and he’ll take you back to the lab. Talk to Cerise to find out that people in Sinnoh are suffering from nightmares… that sounds bad. Let’s let Goh fast travel us to Floaroma Town, though we actually want to be in the Meadow.
+Then talk to Goh and he’ll take you back to the lab. Talk to Cerise to find out that people in Sinnoh are suffering from nightmares... that sounds bad. Let’s let Goh fast travel us to Floaroma Town, though we actually want to be in the Meadow.
 
 ----------------
 FLOAROMA MEADOW:
@@ -16025,7 +16029,7 @@ Pokémon Trainer Sophocles
 Togedemaru LV 50
 Vikavolt LV 52
 
-Then head to Wyndon Stadium for another WCS battle… or uhh, not? It’s in Spikemuth, according to the Team Yell (will be abbreviated TY from now on) grunts…
+Then head to Wyndon Stadium for another WCS battle... or uhh, not? It’s in Spikemuth, according to the Team Yell (will be abbreviated TY from now on) grunts...
 
 Go east to a new area: Route 7!
 
@@ -16118,7 +16122,7 @@ Continue north through the gate into Spikemuth.
 ----------
 SPIKEMUTH:
 ----------
-This town, quite literally, is just made up of a single street leading up to Piers’s “gym”. Yeah, it’s… boring, like how it was in the main series games.
+This town, quite literally, is just made up of a single street leading up to Piers’s “gym”. Yeah, it’s... boring, like how it was in the main series games.
 
 Battle the TY Grunts to get to the gym, where Marnie should be.
 TY Gus
@@ -16142,7 +16146,7 @@ Thievul LV 53 x3
 TY Johnn
 Galarian Linoone LV 53 x2
 
-Then, talk to Piers, who tells you that that battle with Marnie is in Wyndon Stadium after all… sigh. At least Piers is a good sport and takes us back there.
+Then, talk to Piers, who tells you that that battle with Marnie is in Wyndon Stadium after all... sigh. At least Piers is a good sport and takes us back there.
 ICONIC BATTLE
 Pokémon Trainer Marnie
 Grimmsnarl LV 55 (G-Max)
@@ -16447,9 +16451,9 @@ Dragapult LV 75
 Rillaboom LV 75
 Charizard LV 80 (G-Max)
 
-When you beat him, you see all the Pokémon that Ash caught along the way… it really was a long journey, huh. And here, the credits roll…
+When you beat him, you see all the Pokémon that Ash caught along the way... it really was a long journey, huh. And here, the credits roll...
 
-… except that it’s not quite the end of the game yet. First off, now that you’ve defeated Leon, you can now access a Hyper Trainer in the Rose of the Ronderlands hotel. If you give the guy a Bottle Cap, you get to max out one of your Pokémon’s IVs, but if you give him a Gold Bottle Cap, you get to max out all of them! Only catch is that the Pokémon has to be level 100.
+... except that it’s not quite the end of the game yet. First off, now that you’ve defeated Leon, you can now access a Hyper Trainer in the Rose of the Ronderlands hotel. If you give the guy a Bottle Cap, you get to max out one of your Pokémon’s IVs, but if you give him a Gold Bottle Cap, you get to max out all of them! Only catch is that the Pokémon has to be level 100.
 
 Anyway, head back to Vermilion City and talk to Goh, who’s near the pier. Lugia will then show up for you to battle.
 ICONIC BATTLE
@@ -16497,7 +16501,7 @@ ICONIC BATTLE
 Morpeko LV 51
 Wobbuffet LV 57
 
-Talk to Latias and it’ll run off… we’ll see it again, I suppose. Rotom Phone now tells us to go to Kalos Route 8. You can’t access it from the Route 7 side, so you’ll have to go to Cyllage City first.
+Talk to Latias and it’ll run off... we’ll see it again, I suppose. Rotom Phone now tells us to go to Kalos Route 8. You can’t access it from the Route 7 side, so you’ll have to go to Cyllage City first.
 
 --------------
 KALOS ROUTE 8:
@@ -16752,7 +16756,7 @@ Mime Jr. LV 54 -- Carnivine LV 57 -- Inkay LV 55 -- Amoonguss LV 57 -- Morpeko L
 
 Continue west to get Latias to move aside to let you go into the cave. Inside you’ll have to confront a Pokémon Hunter.
 MINOR ICONIC
-Cool Trainer …
+Cool Trainer ...
 Hydreigon LV 63
 
 Then talk to Latios and head back to Pallet Town.
