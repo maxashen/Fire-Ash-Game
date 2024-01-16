@@ -13436,7 +13436,7 @@ Pokemon = DARMANITAN,96
 Pokemon = GALVANTULA,96
 Pokemon = SEISMITOAD,96
 Pokemon = GIGALITH,96
-Pokemon = COGAGRIGUS,96
+Pokemon = COFAGRIGUS,96
 Pokemon = DRUDDIGON,97
 #-------------------------------
 [SUBWAYBOSS_Ingo,Ingo]
