@@ -14953,6 +14953,17 @@ Pokemon = AERODACTYL,49
 Pokemon = FLORGES,49
     Moves = ENERGYBALL,AROMATHERAPY,PETALDANCE,MOONBLAST
 #-------------------------------
+[SUPERNERD,Trevor,3]
+LoseText = "Nice shot."
+Pokemon = AERODACTYL,91
+Pokemon = FLORGES,91
+    Moves = ENERGYBALL,AROMATHERAPY,PETALDANCE,MOONBLAST
+Pokemon = CHARIZARD,92
+    Gender = male
+    Moves = FIRESPIN,DRAGONCLAW,HEATWAVE,DRAGONTAIL
+    Item = CHARIZARDITEY
+    IV = 20
+#-------------------------------
 [LASS,Shauna]
 LoseText = "That was fun!"
 Pokemon = BULBASAUR,24
@@ -15052,6 +15063,22 @@ Pokemon = POLITOED,51
 Pokemon = RAICHU,54
     Gender = female
     Moves = THUNDERBOLT,FOCUSBLAST,DIG,THUNDER
+    IV = 20
+#-------------------------------
+[COOLTRAINER_M,Tierno,4]
+LoseText = "You've got skills."
+Pokemon = LUDICOLO,93
+    Gender = male
+    AbilityIndex = 0
+    Moves = RAINDANCE,HYDROPUMP,SOLARBEAM
+    IV = 20
+Pokemon = RAICHU,93
+    Gender = female
+    Moves = THUNDERBOLT,FOCUSBLAST,DIG,THUNDER
+    IV = 20
+Pokemon = BLASTOISE,94
+    Gender = male
+    Moves = SKULLBASH,HYDROCANNON,ICEBEAM,RAINDANCE
     IV = 20
 #-------------------------------
 [COOLTRAINER_M,Emil]
@@ -15374,6 +15401,34 @@ Pokemon = SLAKING,56
     Moves = SLACKOFF,COUNTER,HAMMERARM
     IV = 20
 #-------------------------------
+[POKEMONTRAINER_Sawyer,Sawyer,6]
+LoseText = "That was perfect."
+Pokemon = SALAMENCE,97
+    Gender = male
+    Moves = DRAGONRUSH,INCINERATE,DRAGONTAIL,PROTECT
+    IV = 20
+Pokemon = CLAWITZER,97
+    Gender = female
+    Moves = DRAGONPULSE,ICEBEAM,AQUAJET,WATERPULSE
+    IV = 20
+Pokemon = SLURPUFF,97
+    Gender = male
+    Moves = FLAMETHROWER,DAZZLINGGLEAM,FAIRYWIND,COTTONGUARD
+    IV = 20
+Pokemon = AEGISLASH,97
+    Gender = male
+    Moves = FURYCUTTER,SWORDSDANCE,KINGSSHIELD,SACREDSWORD
+    IV = 20
+Pokemon = SLAKING,97
+    Gender = female
+    Moves = SLACKOFF,COUNTER,HAMMERARM
+    IV = 20
+Pokemon = SCEPTILE,98
+    Gender = male
+    Moves = LEAFBLADE,LEAFSTORM,FRENZYPLANT,DRAGONCLAW
+    Item = SCEPTILITE
+    IV = 20
+#-------------------------------
 [BEAUTY,Kali]
 LoseText = "Waa."
 Pokemon = DEDENNE,34
@@ -15691,6 +15746,33 @@ Pokemon = CHESNAUGHT,64
     Moves = HAMMERARM,SPIKYSHIELD,GYROBALL,PINMISSILE
     IV = 20
 #-------------------------------
+[POKEMONTRAINER_Alain1,Alain,4]
+LoseText = "As dedicated as always."
+Pokemon = WEAVILE,99
+    Gender = male
+    Moves = PROTECT,NIGHTSLASH,ICEBEAM,DOUBLETEAM
+    IV = 20
+Pokemon = UNFEZANT,99
+    Gender = male
+    Moves = STEELWING,SKYATTACK,AIRSLASH
+    IV = 20
+Pokemon = METAGROSS,100
+    Moves = METALCLAW,METEORMASH,AGILITY,ROCKSLIDE
+    IV = 20
+Pokemon = TYRANITAR,100
+    Gender = male
+    Moves = DARKPULSE,STONEEDGE,CRUNCH
+    IV = 20
+Pokemon = CHESNAUGHT,100
+    Gender = female
+    Moves = HAMMERARM,SPIKYSHIELD,GYROBALL,PINMISSILE
+    IV = 20
+Pokemon = CHARIZARD,100
+    Gender = male
+    Moves = FLAMETHROWER,DRAGONCLAW,FLAREBLITZ,THUNDERPUNCH
+    Item = CHARIZARDITEX
+    IV = 20
+#-------------------------------
 [ENGINEER,Ed]
 LoseText = "See."
 Pokemon = BINACLE,40
@@ -15900,6 +15982,15 @@ Pokemon = ALTARIA,52
 Pokemon = CHESNAUGHT,52
 Pokemon = CRAWDAUNT,52
 #-------------------------------
+[COOLTRAINER_M,Titus,1]
+LoseText = "No. Not so soon again!"
+Pokemon = ALTARIA,90
+    Gender = male
+    Moves = DRAGONPULSE,DRACOMETEOR,PERISHSONG,COTTONGUARD
+    IV = 20
+Pokemon = CHESNAUGHT,90
+Pokemon = CRAWDAUNT,90
+#-------------------------------
 [LASS,Carol]
 LoseText = "Haha. Wait, what?"
 Pokemon = GENGAR,52
@@ -15917,6 +16008,22 @@ Pokemon = MEOWSTIC,54
     Moves = SCRATCH,CHARGEBEAM,STOREDPOWER,FUTURESIGHT
     IV = 20
 Pokemon = ABSOL,55
+    Gender = male
+    Moves = PSYCHOCUT,MEGAHORN,DARKPULSE,SHADOWCLAW
+    Item = ABSOLITE
+    IV = 20
+#-------------------------------
+[COOLTRAINER_F,Astrid,1]
+LoseText = "I've failed..."
+Pokemon = PYROAR,95
+    Gender = male
+    Moves = FLAMETHROWER,FIREFANG,INCINERATE,HYPERVOICE
+    IV = 20
+Pokemon = MEOWSTIC,95
+    Gender = female
+    Moves = SCRATCH,CHARGEBEAM,STOREDPOWER,FUTURESIGHT
+    IV = 20
+Pokemon = ABSOL,95
     Gender = male
     Moves = PSYCHOCUT,MEGAHORN,DARKPULSE,SHADOWCLAW
     Item = ABSOLITE
