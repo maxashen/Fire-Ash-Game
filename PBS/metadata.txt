@@ -1275,6 +1275,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Rain,50
+MapPosition = 1,16,10
 BattleBack = city
 #-------------------------------
 [272]
