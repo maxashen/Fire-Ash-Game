@@ -5665,6 +5665,13 @@ Pokemon = EEVEE,56
 Ball = DIVEBALL
     Moves = TACKLE,DOUBLEEDGE
 #-------------------------------
+[POKEMONTRAINER_Lana,Lana,6]
+LoseText = "Washed out."
+Pokemon = LAPRAS,90
+    Gender = male
+    Moves = SURF,ICEBEAM
+    IV = 20
+#-------------------------------
 [POKEMONTRAINER_Kiawe,Kiawe]
 LoseText = "Amazing! You're a master."
 Pokemon = CHARIZARD,6
@@ -5813,6 +5820,14 @@ Pokemon = MAROWAK,62
     Item = FIRIUMZ
     IV = 20
 #-------------------------------
+[POKEMONTRAINER_Kiawe,Kiawe,8]
+LoseText = "Not there yet."
+Pokemon = CHARIZARD,90
+    Gender = male
+    Moves = FLAMETHROWER,SLASH,FIREPUNCH,AERIALACE
+    Item = FLYINIUMZ
+    IV = 20
+#-------------------------------
 [POKEMONTRAINER_Mallow,Mallow]
 LoseText = "Woah."
 Pokemon = BOUNSWEET,7
@@ -5859,6 +5874,14 @@ Pokemon = TSAREENA,39
 [POKEMONTRAINER_Mallow,Mallow,5]
 LoseText = "Too much salt?"
 Pokemon = TSAREENA,60
+    Gender = female
+    Moves = SWEETSCENT,MAGICALLEAF,STOMP,TROPKICK
+    Item = GRASSIUMZ
+    IV = 20
+#-------------------------------
+[POKEMONTRAINER_Mallow,Mallow,7]
+LoseText = "You're so strong."
+Pokemon = TSAREENA,90
     Gender = female
     Moves = SWEETSCENT,MAGICALLEAF,STOMP,TROPKICK
     Item = GRASSIUMZ
@@ -5962,6 +5985,14 @@ Pokemon = VIKAVOLT,60
     Item = BUGINIUMZ
     IV = 20
 #-------------------------------
+[POKEMONTRAINER_Sophocles,Sophocles,7]
+LoseText = "That was good."
+Pokemon = VIKAVOLT,60
+    Gender = male
+    Moves = STRINGSHOT,SIGNALBEAM,ZAPCANNON,WILDCHARGE
+    Item = BUGINIUMZ
+    IV = 20
+#-------------------------------
 [POKEMONTRAINER_Lillie,Lillie]
 LoseText = "Isn't she cute?"
 Pokemon = VULPIX,19
@@ -6014,6 +6045,15 @@ Pokemon = VULPIX,48
 [POKEMONTRAINER_Lillie,Lillie,6]
 LoseText = "That was fun."
 Pokemon = VULPIX,56
+    Name = Snowy
+    Form = 1
+    Gender = female
+    Moves = POWDERSNOW,HAIL,AURORAVEIL,TACKLE
+    Item = ICIUMZ
+#-------------------------------
+[POKEMONTRAINER_Lillie,Lillie,7]
+LoseText = "That was fun."
+Pokemon = VULPIX,90
     Name = Snowy
     Form = 1
     Gender = female
