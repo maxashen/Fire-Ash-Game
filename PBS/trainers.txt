@@ -3314,15 +3314,34 @@ Pokemon = HYDREIGON,72
 Pokemon = DRAGONITE,75
     Gender = male
     Moves = TWISTER,HYPERBEAM,BODYPRESS,ICEBEAM
-TrainerAce = yes
- Gigantamax = yes
+    TrainerAce = yes
+    Gigantamax = yes
     IV = 20
 Pokemon = GYARADOS,75
     Gender = male
     Moves = HYPERBEAM,AQUATAIL,ICEFANG,DRAGONPULSE
     Shiny = yes
-TrainerAce = yes
- Gigantamax = yes
+    TrainerAce = yes
+    Gigantamax = yes
+#-------------------------------
+[CHAMPION_Lance,Lance,1]
+LoseText = "Just what I expected from you."
+Pokemon = HYDREIGON,100
+    Gender = female
+    Moves = DARKPULSE,TRIATTACK,FLASHCANNON
+    IV = 20
+Pokemon = DRAGONITE,100
+    Gender = male
+    Moves = TWISTER,HYPERBEAM,BODYPRESS,ICEBEAM
+    TrainerAce = yes
+    Gigantamax = yes
+    IV = 20
+Pokemon = GYARADOS,100
+    Gender = male
+    Moves = HYPERBEAM,AQUATAIL,ICEFANG,DRAGONPULSE
+    Shiny = yes
+    TrainerAce = yes
+    Gigantamax = yes
 #-------------------------------
 [CHAMPION_Steven,Steven]
 LoseText = "Haha. You deserve praise for your skill."
@@ -3357,6 +3376,21 @@ Pokemon = CRADILY,74
     Gender = male
     Moves = POWERWHIP,INGRAIN,METEORBEAM,ROCKBLAST
     IV = 20
+#-------------------------------
+[CHAMPION_Steven,Steven,2]
+LoseText = "Haha. You deserve praise for your skill."
+Pokemon = AGGRON,100
+    Gender = female
+    Moves = HYPERBEAM,HEAVYSLAM,SMARTSTRIKE,ROCKTOMB
+    IV = 20
+Pokemon = CRADILY,100
+    Gender = male
+    Moves = POWERWHIP,INGRAIN,METEORBEAM,ROCKBLAST
+    IV = 20
+Pokemon = METAGROSS,100
+    Moves = PSYCHIC,FLASHCANNON,METEORMASH,AGILITY
+    Item = METAGROSSITE
+    Shiny = yes
 #-------------------------------
 [LEADER_Wallace,Wallace]
 LoseText = "Elegant. Excellent. Extravagant!"
@@ -3457,6 +3491,37 @@ Pokemon = TOGEKISS,74
     Moves = AIRSLASH,ZENHEADBUTT,SKYATTACK
     AbilityIndex = 1
 TrainerAce = yes
+    IV = 20
+#-------------------------------
+[CHAMPION_Cynthia,Cynthia,3]
+LoseText = "You and your Pokémon are magnificent."
+Pokemon = SPIRITOMB,100
+    Gender = male
+    Moves = SUCKERPUNCH,HYPNOSIS,DREAMEATER,DESTINYBOND
+    IV = 20
+Pokemon = GASTRODON,100
+    Gender = female
+    Moves = STONEEDGE,MUDDYWATER,RAINDANCE,EARTHPOWER
+    IV = 20
+Pokemon = ROSERADE,100
+    Gender = female
+    Moves = POWERWHIP,BULLETSEED,LEAFSTORM,POISONJAB
+    AbilityIndex = 0
+    IV = 20
+Pokemon = MILOTIC,100
+    Gender = male
+    Moves = HYDROPUMP,DISARMINGVOICE,IRONHEAD
+    IV = 20
+Pokemon = TOGEKISS,100
+    Gender = female
+    Moves = AIRSLASH,ZENHEADBUTT,SKYATTACK
+    AbilityIndex = 1
+    TrainerAce = yes
+    IV = 20
+Pokemon = GARCHOMP,100
+    Gender = female
+    Moves = DRAGONCLAW,DRACOMETEOR,SCALESHOT,STEALTHROCK
+    Item = GARCHOMPITE
     IV = 20
 #-------------------------------
 [CHAMPION_Alder,Alder]
@@ -3575,6 +3640,21 @@ Pokemon = GIBLE,70
     Moves = DIG
     IV = 20
 #-------------------------------
+[CHAMPION_Iris,Iris,2]
+LoseText = "Woah..."
+Pokemon = EXCADRILL,100
+    Gender = male
+    Moves = DIG,DRILLRUN,METALCLAW,FOCUSBLAST
+    IV = 20
+Pokemon = DRAGONITE,100
+    Gender = male
+    Moves = FLAMETHROWER,THUNDERPUNCH,ICEBEAM,DRAGONRUSH
+    IV = 20
+Pokemon = HAXORUS,100
+    Gender = male
+    Moves = OUTRAGE,DRAGONPULSE,PSYCHOCUT,BREAKINGSWIPE
+    IV = 20
+#-------------------------------
 [CHAMPION_Diantha,Diantha]
 LoseText = "You see?"
 Pokemon = GARDEVOIR,25
@@ -3617,6 +3697,34 @@ Pokemon = HAWLUCHA,71
 Pokemon = TYRANTRUM,71
     Gender = female
     Moves = HYPERBEAM,HEADSMASH,DRAGONCLAW
+    IV = 20
+#-------------------------------
+[CHAMPION_Diantha,Diantha,3]
+LoseText = "It's good to see you again."
+Pokemon = AURORUS,100
+    Gender = female
+    Moves = LIGHTSCREEN,BLIZZARD,REFLECT,ROCKSLIDE
+    IV = 20
+Pokemon = GOURGEIST,100
+    Gender = male
+    Moves = TRICKORTREAT,SHADOWSNEAK,PHANTOMFORCE
+    IV = 20
+Pokemon = GOODRA,100
+    Gender = male
+    Moves = FIREBLAST,THUNDERBOLT,SURF
+    IV = 20
+Pokemon = HAWLUCHA,100
+    Gender = female
+    Moves = KARATECHOP,POISONJAB,FEATHERDANCE
+    IV = 20
+Pokemon = TYRANTRUM,100
+    Gender = female
+    Moves = HYPERBEAM,HEADSMASH,DRAGONCLAW
+    IV = 20
+Pokemon = GARDEVOIR,100
+    Gender = female
+    Moves = SHADOWBALL,MOONBLAST,PSYCHIC,THUNDERBOLT
+    Item = GARDEVOIRITE
     IV = 20
 #-------------------------------
 [CHAMPION_Leon,Leon]
@@ -3690,6 +3798,40 @@ Pokemon = INTELEON,80
 Pokemon = MRRIME,80
     Gender = female
     Moves = FREEZEDRY,PSYCHICTERRAIN,EXPANDINGFORCE,TRIPLEAXEL
+    IV = 20
+#-------------------------------
+[CHAMPION_Leon,Leon,3]
+LoseText = "Incredible. I wish it wasn't over yet."
+Pokemon = DRAGAPULT,100
+    Gender = female
+    Moves = DRAGONDARTS,FLAMETHROWER,THUNDERBOLT,DRAGONTAIL
+    IV = 20
+Pokemon = RILLABOOM,100
+    Gender = male
+    TrainerAce = yes
+    Gigantamax = yes
+    Moves = ACROBATICS,DRUMBEATING,HIGHHORSEPOWER,KNOCKOFF
+    IV = 20
+Pokemon = CINDERACE,100
+    Gender = male
+    TrainerAce = yes
+    Gigantamax = yes
+    Moves = SCORCHINGSANDS,HIGHJUMPKICK,PYROBALL,IRONHEAD
+    AbilityIndex = 2
+    IV = 20
+Pokemon = INTELEON,100
+    Gender = male
+    Moves = SNIPESHOT,DARKPULSE,AQUAJET
+    IV = 20
+Pokemon = MRRIME,100
+    Gender = female
+    Moves = FREEZEDRY,PSYCHICTERRAIN,EXPANDINGFORCE,TRIPLEAXEL
+    IV = 20
+Pokemon = CHARIZARD,100
+    Gender = male
+    TrainerAce = yes
+    Gigantamax = yes
+    Moves = AIRSLASH,FIREBLAST,ANCIENTPOWER,DRAGONPULSE
     IV = 20
 #-------------------------------
 [FACTORYHEAD_Noland,Noland]
@@ -15748,6 +15890,33 @@ Pokemon = CHESNAUGHT,64
 #-------------------------------
 [POKEMONTRAINER_Alain1,Alain,4]
 LoseText = "As dedicated as always."
+Pokemon = MALAMAR,100
+    Gender = male
+    Moves = PSYCHOCUT,THROATCHOP,SUPERPOWER
+    IV = 20
+Pokemon = BISHARP,100
+    Gender = male
+    Moves = THUNDERWAVE,GUILLOTINE,IRONHEAD,FOCUSBLAST
+    IV = 20
+Pokemon = METAGROSS,100
+    Moves = METALCLAW,METEORMASH,AGILITY,ROCKSLIDE
+    IV = 20
+Pokemon = TYRANITAR,100
+    Gender = male
+    Moves = DARKPULSE,STONEEDGE,CRUNCH
+    IV = 20
+Pokemon = CHESNAUGHT,100
+    Gender = female
+    Moves = HAMMERARM,SPIKYSHIELD,GYROBALL,PINMISSILE
+    IV = 20
+Pokemon = CHARIZARD,100
+    Gender = male
+    Moves = FLAMETHROWER,DRAGONCLAW,FLAREBLITZ,THUNDERPUNCH
+    Item = CHARIZARDITEX
+    IV = 20
+#-------------------------------
+[POKEMONTRAINER_Alain1,Alain,4]
+LoseText = "As dedicated as always."
 Pokemon = WEAVILE,99
     Gender = male
     Moves = PROTECT,NIGHTSLASH,ICEBEAM,DOUBLETEAM
@@ -16343,6 +16512,11 @@ LoseText = "Waa?"
 Pokemon = MUDBRAY,45
     Moves = DOUBLEKICK
 #-------------------------------
+[YOUNGSTER,Hiroki,2]
+LoseText = "Waa?"
+Pokemon = MUDBRAY,90
+    Moves = DOUBLEKICK
+#-------------------------------
 [ROCKER,DJ Leo]
 LoseText = "Impressed."
 Pokemon = DUGTRIO,20
@@ -16358,6 +16532,15 @@ Pokemon = DIGLETT,19
 [ROCKER,DJ Leo,1]
 LoseText = "Not bad."
 Pokemon = DUGTRIO,45
+    Name = J A & M
+    Form = 1
+    Gender = male
+    Moves = TRIATTACK,IRONHEAD,FISSURE,EARTHQUAKE
+    IV = 20
+#-------------------------------
+[ROCKER,DJ Leo,2]
+LoseText = "Not bad."
+Pokemon = DUGTRIO,92
     Name = J A & M
     Form = 1
     Gender = male
@@ -16454,6 +16637,27 @@ Pokemon = NIHILEGO,60
     Moves = VENOSHOCK,METEORBEAM,PSYSHOCK
     IV = 20
 #-------------------------------
+[POKEMONTRAINER_Gladion,Gladion,6]
+LoseText = "Nice one."
+Pokemon = SILVALLY,97
+    Ball = PREMIERBALL
+    Moves = AIRSLASH,SWORDSDANCE,CRUSHCLAW,MULTIATTACK
+    Item = FIGHTINGMEMORY
+    Form = 1
+    IV = 20
+Pokemon = ZOROARK,97
+    Gender = male
+    Ball = DUSKBALL
+    Moves = NIGHTDAZE,SHADOWCLAW
+    Item = GHOSTIUMZ
+    IV = 20
+Pokemon = LYCANROC,98
+    Form = 1
+    Gender = male
+    Ball = ULTRABALL
+    Moves = STONEEDGE,COUNTER,SWORDSDANCE,OUTRAGE
+    IV = 20
+#-------------------------------
 [GENTLEMAN,Oluolu]
 LoseText = "Struck out."
 Pokemon = SNORLAX,22
@@ -16463,6 +16667,12 @@ Pokemon = SNORLAX,22
 [GENTLEMAN,Oluolu,1]
 LoseText = "Struck out."
 Pokemon = SNORLAX,45
+    Moves = GIGAIMPACT,AMNESIA,SCREECH,REST
+    Item = SNORLIUMZ
+#-------------------------------
+[GENTLEMAN,Oluolu,2]
+LoseText = "Struck out."
+Pokemon = SNORLAX,91
     Moves = GIGAIMPACT,AMNESIA,SCREECH,REST
     Item = SNORLIUMZ
 #-------------------------------
@@ -16898,6 +17108,13 @@ Pokemon = ELECTIVIRE,45
     Moves = WILDCHARGE,LOWKICK,THUNDERPUNCH,SCREECH
     IV = 20
 #-------------------------------
+[BURGLAR,Mr Electric,2]
+LoseText = "But how?"
+Pokemon = ELECTIVIRE,92
+    Gender = male
+    Moves = WILDCHARGE,LOWKICK,THUNDERPUNCH,SCREECH
+    IV = 20
+#-------------------------------
 [BURGLAR,Mad Magmar]
 LoseText = "But why?"
 Pokemon = MAGMORTAR,37
@@ -16908,6 +17125,13 @@ Pokemon = MAGMORTAR,37
 [BURGLAR,Mad Magmar,1]
 LoseText = "But why?"
 Pokemon = MAGMORTAR,45
+    Gender = male
+    Moves = FLAMETHROWER,KARATECHOP,FEINTATTACK,FIREPUNCH
+    IV = 20
+#-------------------------------
+[BURGLAR,Mad Magmar,2]
+LoseText = "But why?"
+Pokemon = MAGMORTAR,92
     Gender = male
     Moves = FLAMETHROWER,KARATECHOP,FEINTATTACK,FIREPUNCH
     IV = 20
@@ -16980,6 +17204,13 @@ Pokemon = PIKACHU,45
     Gender = male
     Moves = ELECTROBALL,AGILITY,THUNDERBOLT,SLAM
 #-------------------------------
+[LASS,Pikala,2]
+LoseText = "Pika?"
+Pokemon = PIKACHU,92
+    Name = Bolt
+    Gender = male
+    Moves = ELECTROBALL,AGILITY,THUNDERBOLT,SLAM
+#-------------------------------
 [POKEMONTRAINER_Hau,Hau]
 LoseText = "What an awesome battle!"
 Pokemon = DARTRIX,40
@@ -17006,6 +17237,14 @@ Pokemon = RAICHU,52
     Form = 1
     Gender = female
     Moves = THUNDERBOLT,QUICKATTACK,FOCUSBLAST
+    IV = 20
+#-------------------------------
+[POKEMONTRAINER_Hau,Hau,3]
+LoseText = "Woah!"
+Pokemon = DECIDUEYE,94
+    Gender = male
+    Moves = RAZORLEAF,LEAFBLADE,SPIRITSHACKLE,SKYATTACK
+    Item = DECIDIUMZ
     IV = 20
 #-------------------------------
 [COOLTRAINER_M,Dia]
@@ -17100,6 +17339,17 @@ Pokemon = SCIZOR,47
     Moves = BULLETPUNCH,AGILITY,XSCISSOR,UTURN
     IV = 20
 Pokemon = GOLISOPOD,48
+    Gender = male
+    Moves = PINMISSILE,LIQUIDATION,POISONJAB
+    IV = 20
+#-------------------------------
+[SKULLBOSS,Guzma,1]
+LoseText = "Hmm. Is this okay?"
+Pokemon = SCIZOR,95
+    Gender = male
+    Moves = BULLETPUNCH,AGILITY,XSCISSOR,UTURN
+    IV = 20
+Pokemon = GOLISOPOD,96
     Gender = male
     Moves = PINMISSILE,LIQUIDATION,POISONJAB
     IV = 20
@@ -17217,6 +17467,10 @@ Pokemon = RAICHU,40
 Pokemon = GARDEVOIR,40
 Pokemon = MUDKIP,45
 #-------------------------------
+# Malalo Royale Trainers
+#-------------------------------
+# Round 1
+#-------------------------------
 [COOLTRAINER_F,Kahili]
 LoseText = "It's already over?"
 Pokemon = TOUCANNON,45
@@ -17224,14 +17478,162 @@ Pokemon = TOUCANNON,45
     Gender = male
     Moves = TAILWIND,DRILLPECK,BULLETSEED,FEATHERDANCE
 #-------------------------------
+[COOLTRAINER_F,Kahili,1]
+LoseText = "It's already over?"
+Pokemon = TOUCANNON,90
+    Name = Touckey
+    Gender = male
+    Moves = TAILWIND,DRILLPECK,BULLETSEED,FEATHERDANCE
+#-------------------------------
+[PAINTER,Carol]
+LoseText = "Tough battle, huh?"
+Pokemon = TORKOAL,45
+#-------------------------------
+[PAINTER,Carol,1]
+LoseText = "Tough battle, huh?"
+Pokemon = TORKOAL,90
+#-------------------------------
+[TAMER,Ron]
+LoseText = "No."
+Pokemon = GRAVELER,45
+    Form = 1
+#-------------------------------
+[TAMER,Ron,1]
+LoseText = "No."
+Pokemon = GRAVELER,90
+    Form = 1
+#-------------------------------
+[PSYCHIC_M,Arin]
+LoseText = "If I knew why did I come?"
+Pokemon = GYARADOS,45
+#-------------------------------
+[PSYCHIC_M,Arin,1]
+LoseText = "If I knew why did I come again?"
+Pokemon = GYARADOS,90
+#-------------------------------
+[SWIMMER_F,Ashley]
+LoseText = "Thank you."
+Pokemon = TALONFLAME,45
+#-------------------------------
+[SWIMMER_F,Ashley,1]
+LoseText = "Thank you."
+Pokemon = TALONFLAME,90
+#-------------------------------
+[HIKER,Q]
+LoseText = "Fun."
+Pokemon = KOMMOO,45
+#-------------------------------
+[HIKER,Q,1]
+LoseText = "Fun."
+Pokemon = KOMMOO,90
+#-------------------------------
+[BUGCATCHER,Sammy]
+LoseText = "..."
+Pokemon = PINSIR,45
+#-------------------------------
+[BUGCATCHER,Sammy,1]
+LoseText = "..."
+Pokemon = PINSIR,90
+#-------------------------------
+# Round 2
+#-------------------------------
+[YOUNGSTER,Roy]
+LoseText = "Now what?"
+Pokemon = SANDSLASH,45
+    Form = 1
+#-------------------------------
+[YOUNGSTER,Roy,1]
+LoseText = "Now what?"
+Pokemon = SANDSLASH,91
+    Form = 1
+#-------------------------------
+[SAILOR,Way]
+LoseText = "No way up."
+Pokemon = PRIMEAPE,45
+    Moves = IRONTAIL,CROSSCHOP,THRASH,WORKUP
+    Item = STEELIUMZ
+#-------------------------------
+[SAILOR,Way,1]
+LoseText = "No way up."
+Pokemon = PRIMEAPE,91
+    Moves = IRONTAIL,CROSSCHOP,THRASH,WORKUP
+    Item = STEELIUMZ
+#-------------------------------
+[POKEMONRANGER_M,Josh]
+LoseText = "Uh..."
+Pokemon = YUNGOOS,45
+#-------------------------------
+[POKEMONRANGER_M,Josh,1]
+LoseText = "Uh..."
+Pokemon = YUNGOOS,91
+#-------------------------------
+[CRUSHGIRL,Amy]
+LoseText = "Sorry."
+Pokemon = SKARMORY,45
+#-------------------------------
+[CRUSHGIRL,Amy,1]
+LoseText = "Sorry."
+Pokemon = SKARMORY,91
+#-------------------------------
+[BEAUTY,Courtney]
+LoseText = "Whatever."
+Pokemon = TROPIUS,45
+    Moves = FLY,RAZORLEAF,MAGICALLEAF,REST
+    Item = FLYINIUMZ
+#-------------------------------
+[BEAUTY,Courtney,1]
+LoseText = "Whatever."
+Pokemon = TROPIUS,91
+    Moves = FLY,RAZORLEAF,MAGICALLEAF,REST
+    Item = FLYINIUMZ
+#-------------------------------
+[POKEMONBREEDER,Caty]
+LoseText = "Oh."
+Pokemon = TAUROS,45
+#-------------------------------
+[POKEMONBREEDER,Caty,1]
+LoseText = "Oh."
+Pokemon = TAUROS,91
+#-------------------------------
+[ENGINEER,Kevin]
+LoseText = "Aw."
+Pokemon = SUDOWOODO,45
+#-------------------------------
+[ENGINEER,Kevin,1]
+LoseText = "Aw."
+Pokemon = SUDOWOODO,91
+#-------------------------------
+[SUPERNERD,Keith]
+LoseText = "My plans are ruined."
+Pokemon = SALAMENCE,45
+#-------------------------------
+[SUPERNERD,Keith,1]
+LoseText = "My plans are ruined."
+Pokemon = SALAMENCE,91
+#-------------------------------
+# Round 3
+#-------------------------------
 [COOLTRAINER_F,Plumeria]
 LoseText = "Tsk."
 Pokemon = SALAZZLE,45
     Moves = SLUDGEWAVE,DRAGONCLAW,DRAGONPULSE
 #-------------------------------
+[COOLTRAINER_F,Plumeria,1]
+LoseText = "Tsk."
+Pokemon = SALAZZLE,92
+    Moves = SLUDGEWAVE,DRAGONCLAW,DRAGONPULSE
+#-------------------------------
 [COOLTRAINER_M,Ackrin]
 LoseText = "This isn't good."
 Pokemon = MINCCINO,45
+    Name = Ada
+    Gender = female
+    Shiny = yes
+    Moves = HYPERVOICE,CAPTIVATE,THUNDERBOLT,SLAM
+#-------------------------------
+[COOLTRAINER_M,Ackrin,1]
+LoseText = "This isn't good."
+Pokemon = MINCCINO,92
     Name = Ada
     Gender = female
     Shiny = yes
@@ -17244,79 +17646,36 @@ Pokemon = SNEASEL,45
     Shiny = yes
     Moves = PUNISHMENT,BLIZZARD,SLASH,SCREECH
 #-------------------------------
-[YOUNGSTER,Roy]
-LoseText = "Now what?"
-Pokemon = SANDSLASH,45
-    Form = 1
-#-------------------------------
-[SAILOR,Way]
-LoseText = "No way up."
-Pokemon = PRIMEAPE,45
-    Moves = IRONTAIL,CROSSCHOP,THRASH,WORKUP
-    Item = STEELIUMZ
-#-------------------------------
-[BUGCATCHER,Sammy]
-LoseText = "..."
-Pokemon = PINSIR,45
+[COOLTRAINER_F,Isana,1]
+LoseText = "Dang it."
+Pokemon = SNEASEL,92
+    Gender = male
+    Shiny = yes
+    Moves = PUNISHMENT,BLIZZARD,SLASH,SCREECH
 #-------------------------------
 [BIKER,Jonny]
 LoseText = "Not bad."
 Pokemon = SEEL,45
 #-------------------------------
-[SUPERNERD,Keith]
-LoseText = "My plans are ruined."
-Pokemon = SALAMENCE,45
-#-------------------------------
-[PAINTER,Carol]
-LoseText = "Tough battle, huh?"
-Pokemon = TORKOAL,45
-#-------------------------------
-[SWIMMER_F,Ashley]
-LoseText = "Thank you."
-Pokemon = TALONFLAME,45
-#-------------------------------
-[HIKER,Q]
-LoseText = "Fun."
-Pokemon = KOMMOO,45
-#-------------------------------
-[PSYCHIC_M,Arin]
-LoseText = "If I knew why did I come?"
-Pokemon = GYARADOS,45
-#-------------------------------
-[TAMER,Ron]
-LoseText = "No."
-Pokemon = GRAVELER,45
-    Form = 1
-#-------------------------------
-[CRUSHGIRL,Amy]
-LoseText = "Sorry."
-Pokemon = SKARMORY,45
-#-------------------------------
-[BEAUTY,Courtney]
-LoseText = "Whatever."
-Pokemon = TROPIUS,45
-    Moves = FLY,RAZORLEAF,MAGICALLEAF,REST
-    Item = FLYINIUMZ
-#-------------------------------
-[ENGINEER,Kevin]
-LoseText = "Aw."
-Pokemon = SUDOWOODO,45
+[BIKER,Jonny,1]
+LoseText = "Not bad."
+Pokemon = SEEL,92
 #-------------------------------
 [POKEMONRANGER_F,Rebecca]
 LoseText = "Too late now."
 Pokemon = BOLDORE,45
 #-------------------------------
-[POKEMONRANGER_M,Josh]
-LoseText = "Uh..."
-Pokemon = YUNGOOS,45
-#-------------------------------
-[POKEMONBREEDER,Caty]
-LoseText = "Oh."
-Pokemon = TAUROS,45
+[POKEMONRANGER_F,Rebecca,1]
+LoseText = "Too late now."
+Pokemon = BOLDORE,92
 #-------------------------------
 [SWIMMER_M,Ren]
 LoseText = "No dice."
 Pokemon = FEEBAS,45
+#-------------------------------
+[SWIMMER_M,Ren,1]
+LoseText = "No dice."
+Pokemon = FEEBAS,92
 #-------------------------------
 [CHANELLER,April]
 LoseText = "No way."
@@ -17324,17 +17683,40 @@ Pokemon = METAGROSS,45
     Moves = PSYCHIC,METEORMASH,BULLETPUNCH,TAKEDOWN
     Item = PSYCHIUMZ
 #-------------------------------
+[CHANELLER,April,1]
+LoseText = "No way."
+Pokemon = METAGROSS,92
+    Moves = PSYCHIC,METEORMASH,BULLETPUNCH,TAKEDOWN
+    Item = PSYCHIUMZ
+#-------------------------------
 [TUBER_M,Alex]
 LoseText = "Not bad."
 Pokemon = CLAWITZER,45
+#-------------------------------
+[TUBER_M,Alex,1]
+LoseText = "Not bad."
+Pokemon = CLAWITZER,92
 #-------------------------------
 [BLACKBELT,Matthew]
 LoseText = "Not fair."
 Pokemon = ARAQUANID,45
 #-------------------------------
+[BLACKBELT,Matthew,1]
+LoseText = "Not fair."
+Pokemon = ARAQUANID,92
+#-------------------------------
+# End of Royale
+#-------------------------------
 [SCIENTIST,Faba]
 LoseText = "This wasn't the plan."
 Pokemon = HYPNO,46
+    Gender = female
+    Moves = REFLECT,HYPNOSIS,PSYCHIC
+    IV = 20
+#-------------------------------
+[SCIENTIST,Faba]
+LoseText = "This wasn't the plan."
+Pokemon = HYPNO,94
     Gender = female
     Moves = REFLECT,HYPNOSIS,PSYCHIC
     IV = 20
@@ -17389,6 +17771,34 @@ Pokemon = EMPOLEON,61
 Pokemon = LUCARIO,61
     Gender = male
     Moves = CLOSECOMBAT,DRAGONPULSE,EXTREMESPEED
+    IV = 20
+#-------------------------------
+[PROFESSOR_Kukui,Kukui,2]
+LoseText = "Haha. I couldn't have asked for better."
+Pokemon = BRAVIARY,99
+    Gender = male
+    Moves = ROCKSLIDE,BRAVEBIRD,STEELWING,SUPERPOWER
+    IV = 20
+Pokemon = VENUSAUR,99
+    Gender = male
+    Moves = SOLARBEAM,SLUDGEBOMB,VINEWHIP
+    IV = 20
+Pokemon = EMPOLEON,99
+    Gender = male
+    Moves = METALCLAW,DRILLPECK,WHIRLPOOL,HYDROPUMP
+    IV = 20
+Pokemon = LUCARIO,99
+    Gender = male
+    Moves = CLOSECOMBAT,DRAGONPULSE,EXTREMESPEED
+    IV = 20
+Pokemon = INCINEROAR,100
+    Gender = male
+    Moves = DARKESTLARIAT,BULKUP,BLASTBURN
+    Item = FIRIUMZ
+    IV = 20
+Pokemon = TAPUKOKO,100
+    Moves = DAZZLINGGLEAM,NATURESMADNESS,DISCHARGE,STEELWING
+    Item = TAPUNIUMZ
     IV = 20
 #-------------------------------
 [POKEMONTRAINER_Goh,Goh,1]
@@ -19896,7 +20306,6 @@ Pokemon = MUDSDALE,90
     Gender = male
     Moves = EARTHQUAKE,HIGHHORSEPOWER,COUNTER,DOUBLEKICK
     Nature = RELAXED
-
 #-------------------------------
 [POKEMONTRAINER_Henry,Henry]
 LoseText = "I need to sharpen my gear."
