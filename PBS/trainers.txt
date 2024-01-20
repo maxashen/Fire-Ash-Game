@@ -5820,7 +5820,7 @@ Pokemon = MAROWAK,62
     Item = FIRIUMZ
     IV = 20
 #-------------------------------
-[POKEMONTRAINER_Kiawe,Kiawe,8]
+[POKEMONTRAINER_Kiawe,Kiawe,10]
 LoseText = "Not there yet."
 Pokemon = CHARIZARD,90
     Gender = male
@@ -5985,7 +5985,7 @@ Pokemon = VIKAVOLT,60
     Item = BUGINIUMZ
     IV = 20
 #-------------------------------
-[POKEMONTRAINER_Sophocles,Sophocles,7]
+[POKEMONTRAINER_Sophocles,Sophocles,9]
 LoseText = "That was good."
 Pokemon = VIKAVOLT,60
     Gender = male
@@ -17383,7 +17383,7 @@ Pokemon = GOLISOPOD,48
     Moves = PINMISSILE,LIQUIDATION,POISONJAB
     IV = 20
 #-------------------------------
-[SKULLBOSS,Guzma,1]
+[SKULLBOSS,Guzma,2]
 LoseText = "Hmm. Is this okay?"
 Pokemon = SCIZOR,95
     Gender = male
@@ -17754,7 +17754,7 @@ Pokemon = HYPNO,46
     Moves = REFLECT,HYPNOSIS,PSYCHIC
     IV = 20
 #-------------------------------
-[SCIENTIST,Faba]
+[SCIENTIST,Faba,1]
 LoseText = "This wasn't the plan."
 Pokemon = HYPNO,94
     Gender = female
