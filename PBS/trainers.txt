@@ -22089,8 +22089,6 @@ Pokemon = CLOYSTER,100
 [SECRET_Ryuki,Ryuki]
 Items = HYPERPOTION,FULLHEAL
 LoseText = "My babies!!"
-NumPkmn = 3
-Guaranteed = 3
 Pokemon = DRAGONITE,75
     Moves = HURRICANE,THUNDERPUNCH,DRAGONRUSH,FIREPUNCH
     Gender = male
@@ -22156,6 +22154,8 @@ Pokemon = DRUDDIGON,100
 [SECRET_Ryuki,Ryuki,3]
 Items = FULLRESTORE
 LoseText = "I've gotta encourage my Pokémon to keep rocking!"
+NumPkmn = 3
+Guaranteed = 3
 Pokemon = NOIVERN,100
     Moves = DRACOMETEOR,HURRICANE,FLAMETHROWER,SWITCHEROO
     Gender = male
