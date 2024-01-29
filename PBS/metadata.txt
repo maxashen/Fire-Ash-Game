@@ -552,7 +552,7 @@ MapPosition = 0,12,8
 BattleBack = field
 #-------------------------------
 [151]
-# EXAMPLE MAP
+# GC Lobby
 #-------------------------------
 [152]
 # Celadon City
@@ -928,11 +928,7 @@ HealingSpot = 213,7,4
 BattleBack = indoor1
 #-------------------------------
 [214]
-# EXAMPLE MAP
-Outdoor = true
-ShowArea = false
-Bicycle = true
-Weather = Sandstorm,10
+# GC Stage
 #-------------------------------
 [215]
 # Mikan Island
