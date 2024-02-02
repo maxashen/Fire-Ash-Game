@@ -6270,7 +6270,7 @@ SAFARI ZONE HOENN:
 ------------------
 Go north to the lake, then west and north to the exit to the Hoenn area of the Safari Zone.
 
-Wild Pokemon: Bagon, Gardevoir, Nuzleaf, Vigoroth, Beldum, Swablu, Vibrava, *Nosepass, *Tropius, Dusclops. Level 30-35.
+Wild Pokemon: Bagon, Gardevoir, Nuzleaf, Vigoroth, Beldum, Swablu, Vibrava, Mawile, *Nosepass, *Tropius, Dusclops. Level 30-35.
 Fishing (Old Rod): Surskit and Barboach.
 Fishing (Good Rod): Lombre, *Spheal, and Clamperl.
 

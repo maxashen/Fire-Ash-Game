@@ -3091,3 +3091,59 @@ Abilities = OVERCOAT
 HiddenAbility = OVERCOAT
 Shape = Quadruped
 BattlerPlayerY = 44
+#-------------------------------
+# Hitsu's Pokémon
+#-------------------------------
+[SIRFETCHD,1]
+FormName = War
+PokedexForm = 1
+Type1 = FIGHTING
+Type2 = DARK
+BaseStats = 95,180,140,150,60,90
+Abilities = CHIVALROUSWILL
+Pokedex = Hitsukid's Sirfetch'd, trained as a Pokémon ready for war.
+#-------------------------------
+[EXCADRILL,1]
+FormName = Famine
+PokedexForm = 1
+Type1 = ICE
+Type2 = POISON
+BaseStats = 2,170,5,160,80,5
+Abilities = DIAMONDSKIN
+Pokedex = Hitsukid's Excadrill, trained as a Pokémon ready for famine.
+#-------------------------------
+[MEWTWO,3]
+FormName = Death
+PokedexForm = 3
+Type1 = GHOST
+Type2 = FAIRY
+BaseStats = 255,60,250,250,60,250
+Abilities = DESTINYREAPING
+Pokedex = Hitsukid's Mewtwo, trained as a Pokémon ready for death.
+#-------------------------------
+[TYRANITAR,2]
+FormName = Disaster
+PokedexForm = 2
+Type1 = WATER
+Type2 = ELECTRIC
+BaseStats = 125,125,125,125,125,125
+Abilities = WEATHERHAVOC
+Pokedex = Hitsukid's Tyranitar, trained as a Pokémon ready for disasters.
+#-------------------------------
+[CHARIZARD,3]
+FormName = Pestilence
+PokedexForm = 3
+Type1 = BUG
+Type2 = DRAGON
+BaseStats = 110,90,105,100,140,135
+Abilities = LOOMINGFRAILTY
+Pokedex = Hitsukid's Charizard, trained as a Pokémon ready for pestilence.
+#-------------------------------
+[LUCARIO,3]
+FormName = Holocaust
+PokedexForm = 3
+Type1 = PSYCHIC
+Type2 = FIRE
+BaseStats = 90,110,70,135,155,130
+Abilities = FOCUSWILL
+Pokedex = Hitsukid's Lucario, trained as a Pokémon ready for holocaust.
