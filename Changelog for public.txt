@@ -1,0 +1,125 @@
+************************
+Version 3.5.2 (x-2-2024)
+************************
+- Gauntlet crashing after getting to 50 trainers
+- Mayhem deleting the player's bag if they won on Ace difficulty
+- Sync/Titan crashing against Erika
+- Fixed an issue with GC Lounge BGM
+- Added credit-money exchange added to GC Lounge Vending Machine
+- Added Master Difficulty for Club, Sync, Titan and Duet
+- Masters 8 crashing in certain scenarios
+- Incorrect badges on the trainer card being shown in azelea town
+- A few unovan towns not showing up on the town map at all
+
+************************
+Version 3.5.1 (6-1-2024)
+************************
+- Fixed berries not being obtainable in certain maps
+- Fixed some missing collisions in Wyndon
+- Corrected Game Corner prices in the Alolan Game Corner
+
+************************
+Version 3.5 (31-12-2023)
+************************
+- Added a reward for completing the national dex
+- Added the Grandeur Club, which can be accessed by a separate teleporter upstairs in Oak's Lab in the postgame
+- Added the ability to rematch the Kanto League in the postgame
+- Kanto legendaries respawn (if they weren't caught before) if you beat the Kanto League in the post game
+- Added Wonder Trade to Pokémon Centers
+- Added a Quick Save Button (Left Alt by default)
+- Updated battle backgrounds
+- Updated art for the game which include but not limited to update sprites for existing characters, updated sprites for both Ash and "Leaf", new move animations
+- Fixed Hawlucha appearing too early in Oak's Lab
+- Fixed Hoopa not being able to to be obtained
+- Fixed Fly still being disabled when talking to the girl outside Mt. Coronet on Route 207
+- Fixed not being able to purchase items in the Veilstone Game Corner
+- Nerfed the Brilliant Judge
+- Fixed Kantonian Exeggutor and Sandslash spawning in Aether Paradise and Mount Lanakila Cave respectively; their Alolan forms now spawn in the respective areas
+- Blue Shellos spawns in Route 210 again
+- Fixed stats not going updating after using a Hyper Trainer (to fix the affected Pokémon in your party talk to the guy next to the Hyper Trainer)
+- Fixed Low Key Toxtricity not being obtainable
+- Fixed Safari Zone Galar being open too early
+- Fixed Olivia's Lycanroc not being in its Midday Form sometimes
+- Fixed being able to go up a cliff face on Route 7 in Galar
+- Fixed Milcery crashing the game
+- If the player's team hasn't been restored or Fly isn't working as intended, they can white out to fix it
+- Fixed the Galar Dex not working as intended for old save files; fix by going upstairs in Oak's lab
+- Fixed Zephyr Badge not showing up properly on the Trainer Card for old save files; fix by going upstairs in Oak's lab
+- Fixed instances where Ability Capsules would only work after a Pokémon evolves
+
+************************
+Version 3.4 (4-17-2023)
+************************
+- Ability Patch can now revert a Pokémon's Hidden Ability back to the ability at its first slot.
+- Flying is no longer disabled by talking to the girl with the Abra on Mt. Coronet.
+- The SS Anne Raticate for Butterfree return trade has been fixed.
+- The reward for showing a Seaking on Route 37 has been fixed to ask for the proper Pokémon.
+- Town map now works in Galar.
+- Team Rocket has wrong team at Route 222 has been corrected to the right team and fixed Jessie's postgame battle.
+- A Hyper Trainer has been added to the Rose of the Roselands hotel that will help you after defeating Leon.
+- Single strike/Rapid flow rocks are now in the correct order.
+Black Augaurite and Peat Block are fixed to work on Scyther and Ursaring respectively.
+- Sheer Force functions properly.
+- A sweet shop for Milcery's evolution are inside Ballonlea Stadium to purchase.
+- The Game Corner items have their prices balanced and added Ability Patch to the Hammerlock one for 5000 coins.
+- Vendor that sells Heart Scales in Seafolk Village now also sells Nectars for Oricorio.
+- Steel Beam move tutor has been added in Hammerlocke gym.
+- The Red Orb, Blue Orb (Route 124, postgame), DNA Splicers (Icirrus Cave, postgame), Kommonium Z (Vast Poni Canyon), Prison Bottle (Lumiose House), Zygarde Cube (Terminus Cave, postgame), N-Solarizer/N-Lunarizer (Alter of the Sunne, after catching Necrozma), Ultranecrozium Z (Ultra Deep Space, postgame) and Reins of Unity (Freezington, postgame) have been added.
+- Added Sweet Apple, Tart Apple, Galarica Cuff, and Galarica Wreath to the Stow-on-Side vendors.
+- Fixed Nature's Madness and some Legends Arceus moves that weren't working like they should've.
+- Vitamin Stat Cap no longer occurs.
+- Multiple issues with characters appearing too early in the plot have been fixed. Using Rotom Phone before Beartic now acts as an in built way to fix Misty not showing up on Kalos Route 8, Hatterene in the Glimwood Tangle, and Beartic on Route 216.
+
+************************
+Version 3.3 (3-24-2023)
+************************
+- Added the Galar region, completing Ash's journey across the anime.
+- Added new items the Game Corner to make each location unique.
+- Added Rotomi, which lets you access the PC from anywhere.
+- Poke Balls have been fixed to show the correct ball when Pokemon enter battle.
+- Multiple save files have been added.
+- New music has been added for Steven, Cynthia, and Jessie & James.
+- Enviornments have been added to allow Burmy to evolve into each form of Wormadam.
+- Movesets have been updated to be a combination of USUM and SWSH.
+- Overworld Pokemon have been added to every town.
+- Multiple visual glitches have been fixed.
+- Zen Mode, Hydration, and Solar Beam are now functioning properly.
+- Clicking F8 to take a screenshot no longer crashes the game.
+- A Move Tutor for Extreme Speed has been added at the Battle Pyramid.
+- Fixed black shadows appearing in some buildings.
+- Added a Teleport between Hau'oli City and Alola Route 1.
+- Added Larvitar and Solgaleo to Ash's postgame battle.
+- Added the Terracotta Contest.
+- New Ribbons have been included upon beating certain Trainers.
+- Hisiuan Pokemon have been added and can be accessed near the end of the Sinnoh journey.
+- Pikachu in a cap has been added at the player's house, which unlocks alongside the players outfits.
+- Postgame teams have been updated to Journeys teams and had their levels increased.
+
+************************
+Version 3.2 (8-15-2022)
+************************
+- Fixed all map issues caused by the overworld improvements for 3.1, including bridges that couldn't be crossed or Pokémon Center doors teleporting you above them.
+- Z-Moves are fixed to again be useable in battle. 
+- Alolan forms show up in the correct places instead of their regional counterparts.
+- Movesets are now a hybrid between USUM and SwSh movesets, so now Pokémon can learn moves from both games. If it learns a move in both games, it will learn the move at the lower level.
+- TM compatibility from 2.28 has been restored.
+- Some routes now have Berry Patches.
+- RKS System and Multi Attack use Arceus Plates to change type, like it did in 2.28 and before. 
+- Pikachu evolves into its Alolan Form in Alola, like Exeggcute and Cubone. 
+- The chance of encountering an Alolan Form outside of Alola has been reduced.
+- Some TMs have had their moves replaced.
+
+************************
+Version 3.1 (5-17-2022)
+************************
+- Ash's outfits now appear as intended in battle. 
+- Z-moves are now fixed so they can be used in battle again 
+- Added ability to use Fly in Kalos and Alola. 
+- Some Pokémon sprites have been improved, as well as sections of the overworld.
+- Added in the Cable Club, which allows for online battling and trading. This can be found in Driftveil City after beating the game.
+
+************************
+Version 3.0 (3-1-2022)
+************************
+- The game has been updated to Pokémon Essentials ver19.
+- Abilities and moves up to Gen 8 have been added.

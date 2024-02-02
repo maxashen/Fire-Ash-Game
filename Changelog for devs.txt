@@ -33,3 +33,21 @@ Added in 3.5 Beta V3:
 - Wonder Trade in Pokémon Centers
 - More NPCs in challenges
 
+# Fixed in 3.5.1:
+- Issue with certain save files not being able to save the game
+- Fixed berries not being obtainable in certain maps
+- Fixed some missing collisions in Wyndon
+- Corrected Game Corner prices in the Alolan Game Corner
+
+# Changed in 3.5.2:
+- Gauntlet crashing after getting to 50 trainers
+- Mayhem deleting the player's bag if they won on Ace difficulty
+- Sync/Titan crashing against Erika
+- Fixed an issue with GC Lounge BGM
+- Added credit-money exchange added to GC Lounge Vending Machine
+- Added Master Difficulty for Club, Sync, Titan and Duet
+- Masters 8 crashing in certain scenarios
+- Incorrect badges on the trainer card being shown in azelea town
+- A few unovan towns not showing up on the town map at all
+
+
