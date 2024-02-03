@@ -1,15 +1,23 @@
-************************
-Version 3.5.2 (x-2-2024)
-************************
-- Gauntlet crashing after getting to 50 trainers
-- Mayhem deleting the player's bag if they won on Ace difficulty
-- Sync/Titan crashing against Erika
-- Fixed an issue with GC Lounge BGM
+*****************************
+Version 3.6 Part 1 (3-2-2024)
+*****************************
+- Added rematches to the rest of the leagues, including a Masters 8 rematch
+- Added a Move Tutor for Eruption in the Sinnoh League for Quilava
+- Hapu acts as a Move Tutor for High Horsepower after beating her Grand Trial
+- The Dragon Pulse Move Tutor in Blackthorn City also teaches Dragon Dance now
+- Added a Move Tutor for the Isle of Armour DLC moves to the GC Lounge
 - Added credit-money exchange added to GC Lounge Vending Machine
+- Added a few trainers into Sync and Titan
 - Added Master Difficulty for Club, Sync, Titan and Duet
-- Masters 8 crashing in certain scenarios
-- Incorrect badges on the trainer card being shown in azelea town
-- A few unovan towns not showing up on the town map at all
+- Rebalanced Mayhem rewards to compensate for the amount of time taken to complete it
+- Gauntlet crashing after getting to 50 trainers
+- Fixed an issue with Mayhem deleting the player's bag if they won on Ace difficulty
+- Fixed Sync and Titan crashing against Erika
+- Fixed an issue with GC Lounge BGM
+- Fixed an issue with Masters 8 crashing in certain scenarios
+- Fixed an issue with incorrect badges on the trainer card being shown in Azelea Town
+- Fixed an issue where a few Unovan towns not showing up on the town map at all
+- Updated graphics for many sprites
 
 ************************
 Version 3.5.1 (6-1-2024)

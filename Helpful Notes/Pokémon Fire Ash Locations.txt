@@ -1126,10 +1126,15 @@ Block-Snowpoint City
 Bounce-Snowbelle City
 Brave Bird-Veilstone City
 Bug Bite-Izabe Forest
+Burning Jealousy-Grandeur Club Lobby
+Coaching-Grandeur Club Lobby
+Corrosive Gas-Grandeur Club Lobby
 Covet-Celadon City
 Draco Meteor-Route 210
 Dragon Ascent-Fallabor Town
+Dragon Dance-Blackthorn City
 Dragon Pulse-Blackthorn City
+Dual Wingbeat-Grandeur Club Lobby
 Torment (Dragon Rush)-Battle Tower
 Drain Punch-Iki Town
 Drill Run-Driftveil City
@@ -1140,17 +1145,21 @@ Electroweb-Nacrene City
 Endeavor-Trovita Island
 Endure-Jubilife City Contest Hall
 Eruption-Sinnoh Pokemon League (Quilava only)
+Expanding Force-Grandeur Club Lobby
 Extreme Speed-Battle Pyramid
 Fire Pledge-Driftveil City
 Fire Punch-Navel Island
+Flip Turn-Grandeur Club Lobby
 Foul Play-Izabe Island
 Frenzy Plant-Pummelo Island
 Fury Cutter-Twinleaf Town
 Gastro Acid-Verdanturf Town Contest Hall
 Giga Drain-Hau'oli City
+Grassy Glide-Grandeur Club Lobby
 Grass Pledge-Driftveil City
 Gravity-Cherrygrove City
 Gunk Shot-Royal Avenue
+High Horsepower-Ancient Poni Path (after beating Grand Trial 4)
 Headbutt-Ilex Forest
 Heal Beal-Solaceon Town
 Heat Wave-Route 45
@@ -1163,25 +1172,33 @@ Iron Defense-Pewter City
 Iron Head-Mount Lanakila
 Iron Tail-Rustboro City
 Knock Off-Shalour City
+Lash Out-Grandeur Club Lobby
 Last Resort-Shopping Mall Nine
 Low Kick-Pacifidlog Town
 Magic Coat-Lilycove City Contest Hall
 Magic Room-Slateport City Contest Hall
 Magnet Rise-Vast Poni Canyon
+Meteor Beam-Grandeur Club Lobby
 Metronome-Indigo Plateau
+Misty Explosion-Grandeur Club Lobby
 Mud Slap-Geosenge Town
 Ominous Wind-Cyllage City
 Pain Split-Fallabor Town Contest Hall
+Poltergeist-Grandeur Club Lobby
 Recycle-Florama Town
 Relic Song-Undella Town
+Rising Voltage-Grandeur Club Lobby
 Role Play-Route U4
 Roost-Pokemon Swap Meet
 Low Sweep (Rollout)-Olivine City
+Scale Shot-Grandeur Club Lobby
+Scorching Sands-Grandeur Club Lobby
 Secret Sword-Aspertia City
 Seed Bomb-Seafolk Village
 Seismic Toss-Cinnabar Island
 Signal Beam-Veilstone City Dept. Store
 Skill Swap-Izabe Island Contest Hall
+Skitter Smack-Grandeur Club Lobby
 Sky Attack-Celadon City Dept. Store
 Sleep Talk-Fortree City
 Snatch-Goldenrod City
@@ -1189,6 +1206,7 @@ Snore-Viridian City
 Spite-Mauville City
 Stealth Rock-Canalave City
 Steel Beam-Hammerlocke
+Steel Roller-Grandeur Club Lobby
 String Shot-Celestic Town
 Sucker Punch-Malie City
 Super Fang-Vermilion City
@@ -1197,8 +1215,10 @@ Super Fang-Kumquat Island
 Swift-Weather Institute
 Synthesis-Fortree City
 Tailwind-Route 222
+Terrain Pulse-Grandeur Club Lobby
 Thunder Punch-Navel Island
 Trick-Battle Factory
+Triple Axel-Grandeur Club Lobby
 Twister-Route A14
 Uproar-Parfum Palace
 Vacuum Wave-Pastoria City
