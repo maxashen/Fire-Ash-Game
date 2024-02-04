@@ -31410,6 +31410,8 @@ Pokemon = MISMAGIUS,100
 [SECRET_Fantina,Fantina,3]
 Items = FULLRESTORE
 LoseText = "You are so fantastically strong. I know why I have lost."
+NumPkmn = 3
+Guaranteed = 3
 Pokemon = FROSLASS,100
     Moves = BLIZZARD,DRAININGKISS,DESTINYBOND,SHADOWBALL
     Gender = female
