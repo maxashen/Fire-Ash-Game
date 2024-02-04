@@ -2,9 +2,10 @@
 Version 3.6 Part 1 (3-2-2024)
 *****************************
 - Added rematches to the rest of the leagues, including a Masters 8 rematch
-- Added a Move Tutor for Eruption in the Sinnoh League for Quilava
-- Hapu acts as a Move Tutor for High Horsepower after beating her Grand Trial
 - The Dragon Pulse Move Tutor in Blackthorn City also teaches Dragon Dance now
+- Added a Move Tutor for Eruption in the Sinnoh League for Quilava
+- Added a Move Tutor for Cut on Route K11
+- Hapu acts as a Move Tutor for High Horsepower after beating her Grand Trial
 - Added a Move Tutor for the Isle of Armour DLC moves to the GC Lounge
 - Added credit-money exchange added to GC Lounge Vending Machine
 - Added a few trainers into Sync and Titan
