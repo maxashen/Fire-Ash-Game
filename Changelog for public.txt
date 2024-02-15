@@ -1,3 +1,34 @@
+********************************
+Version 3.6 Part 1.2 (17-2-2024)
+********************************
+- Pokémon that couldn't learn moves from dlc moves tutor are able to now
+- Fixed Future Sight causing an error message (though it didn't crash the game)
+- Fixed Wonder Trade crashing under certain circumstances
+- Fixed incorrect Game Corner Price being listed
+- Fixed Palkia spawning in Mt. Coronet
+- Fix an issue with Paul's teams getting mixed up in some scenarios
+- Fixed a collision issue in Fuchsia City
+- Removed the teleporter from the double battle room when doing the Hoenn League Rematch and added a check to the guard instead
+- Level of Champion Ash battles have been increased from 85 to 100
+
+Grandeur Club Changes:
+- Fixed rewards not being obtainable on Master Difficulty in some challenges
+- Fixed an issue where the whole team wouldn't be recorded sometimes in Gauntlet Challenge
+- Can't save in Gauntlet anymore
+- Gauntlet rewards now scale exponentially
+- Mayhem Challenge bags have been adjusted
+- Fixed an issue where the player could get stuck in a barrier in Mayhem
+- Added a surprise to the Vending Machine in the Lobby after beating Mayhem
+- Can't use items through Pokémon if items outside of battle have been disabled
+
+*******************************
+Version 3.6 Part 1.1 (4-2-2024)
+*******************************
+- Fixed missing animations caused by 3.6 Part 1
+- Brock being battled instead of Lt. Surge in Grandeur Club Gauntlet Challenge
+- Fixed Grandeur Club Challenge teams being mixed up
+- Fixed 3v6 battles occuring instead of 6v6 battles in Grandeur Club Challenge Master Difficulty
+
 *****************************
 Version 3.6 Part 1 (3-2-2024)
 *****************************
