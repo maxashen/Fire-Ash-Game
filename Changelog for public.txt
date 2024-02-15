@@ -1,13 +1,15 @@
 ********************************
 Version 3.6 Part 1.2 (17-2-2024)
 ********************************
+Main Game Changes:
 - Pokémon that couldn't learn moves from dlc moves tutor are able to now
 - Fixed Future Sight causing an error message (though it didn't crash the game)
 - Fixed Wonder Trade crashing under certain circumstances
 - Fixed incorrect Game Corner Price being listed
 - Fixed Palkia spawning in Mt. Coronet
 - Fix an issue with Paul's teams getting mixed up in some scenarios
-- Fixed a collision issue in Fuchsia City
+- Fixed some collision issues in Fuchsia City, Wyndon and Galar Route 7
+- Fixed an issue where some healing items were healing different amounts based on whether they were in the used in battle or in the overworld
 - Removed the teleporter from the double battle room when doing the Hoenn League Rematch and added a check to the guard instead
 - Level of Champion Ash battles have been increased from 85 to 100
 

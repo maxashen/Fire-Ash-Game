@@ -56,4 +56,30 @@ Added in 3.5 Beta V3:
 - Fixed an issue with incorrect badges on the trainer card being shown in azelea town
 - Fixed an issue where a few unovan towns not showing up on the town map at all
 
+# Changed in 3.6 Part 1.1:
+- Fixed missing animations caused by 3.6 Part 1
+- Brock being battled instead of Lt. Surge in Gauntlet
+- Fixed teams being mixed up in Club
+- Fixed 3v6 battles occuring instead of 6v6 battles in Club Challenge on Master
 
+# Changed in 3.6 Part 1.2:
+- Pokémon that couldn't learn moves from dlc moves tutor are able to now
+- Fixed Future Sight causing an error message (though it didn't crash the game)
+- Fixed Wonder Trade crashing under certain circumstances
+- Fixed incorrect Game Corner Price being listed
+- Fixed Palkia spawning in Mt. Coronet
+- Fix an issue with Paul's teams getting mixed up in some scenarios
+- Fixed some collision issues in Fuchsia City, Wyndon and Galar Route 7
+- Fixed an issue where some healing items were healing different amounts based on whether they were in the used in battle or in the overworld
+- Removed the teleporter from the double battle room when doing the Hoenn League Rematch and added a check to the guard instead
+- Level of Champion Ash battles have been increased from 85 to 100
+
+Grandeur Club Changes:
+- Fixed rewards not being obtainable on Master Difficulty in some challenges
+- Fixed an issue where the whole team wouldn't be recorded sometimes in Gauntlet Challenge
+- Can't save in Gauntlet anymore
+- Gauntlet rewards now scale exponentially
+- Mayhem Challenge bags have been adjusted
+- Fixed an issue where the player could get stuck in a barrier in Mayhem
+- Added a surprise to the Vending Machine in the Lobby after beating Mayhem
+- Can't use items through Pokémon if items outside of battle have been disabled
