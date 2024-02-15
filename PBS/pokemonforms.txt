@@ -842,6 +842,20 @@ Kind = Malevolent
 Pokedex = This Pokémon's sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
 Generation = 8
 #-------------------------------
+[MOLTRES,2]
+FormName = Sphere Mode
+BaseStats = 90,1,250,10,80,250
+Abilities = AWAKEN
+HiddenAbility = AWAKEN
+Pokedex = Moltres in its sealed form.
+#-------------------------------
+[MOLTRES,3]
+FormName = Immortal Phoenix
+BaseStats = 90,1,10,160,170,10
+Abilities = PHOENIXRELEASE
+HiddenAbility = PHOENIXRELEASE
+Pokedex = Moltres in its final form.
+#-------------------------------
 [MEWTWO,1]
 FormName = Mega Mewtwo X
 MegaStone = MEWTWONITEX
