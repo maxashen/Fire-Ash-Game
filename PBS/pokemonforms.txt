@@ -3122,7 +3122,7 @@ FormName = Famine
 PokedexForm = 1
 Type1 = ICE
 Type2 = POISON
-BaseStats = 2,170,5,160,80,5
+BaseStats = 10,190,5,160,80,5
 Abilities = DIAMONDSKIN
 Pokedex = Hitsukid's Excadrill, trained as a Pokémon ready for famine.
 #-------------------------------
@@ -3140,7 +3140,7 @@ FormName = Disaster
 PokedexForm = 2
 Type1 = WATER
 Type2 = ELECTRIC
-BaseStats = 125,125,125,125,125,125
+BaseStats = 200,175,155,40,175,155
 Abilities = WEATHERHAVOC
 Pokedex = Hitsukid's Tyranitar, trained as a Pokémon ready for disasters.
 #-------------------------------
@@ -3149,7 +3149,7 @@ FormName = Pestilence
 PokedexForm = 3
 Type1 = BUG
 Type2 = DRAGON
-BaseStats = 110,90,105,100,140,135
+BaseStats = 180,50,185,60,190,185
 Abilities = LOOMINGFRAILTY
 Pokedex = Hitsukid's Charizard, trained as a Pokémon ready for pestilence.
 #-------------------------------
