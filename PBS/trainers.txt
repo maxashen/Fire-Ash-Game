@@ -53417,6 +53417,20 @@ Pokemon = SHARPEDO,100
     IV = 31,31,31,31,31,31
     EV = 4,252,0,252,0,0
 #-------------------------------
+[SYGNA_Roxie,Roxie]
+LoseText = "That was a jam!"
+Pokemon = TOXTRICITY,100
+    Moves = OVERDRIVE,BSLUDGEWAVE,SSROXIE
+    Form = 0
+    Ability = PUNKROCK3
+    Item = BLACKSLUDGE
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+    DynamaxLvl = 10
+    Gigantamax = yes
+    TrainerAce = yes
+#-------------------------------
 [SYGNA_Hilbert,Hilbert]
 LoseText = "Bummer."
 Pokemon = GENESECT,100
@@ -53534,6 +53548,16 @@ Pokemon = TAPUFINI,100
     IV = 31,31,31,31,31,31
     EV = 4,0,252,0,0,252
 #-------------------------------
+[SYGNA_Gladion,Gladion]
+LoseText = "Heh. Great job, I guess."
+Pokemon = MAGEARNA,100
+    Moves = FLEURCANNON2,BFLEURCANNON,SSGLADION
+    Form = 0
+    Ability = SOULHEART2
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
 [SYGNA_Leon,Leon]
 LoseText = "We've been bested."
 Pokemon = ETERNATUS,100
@@ -53545,6 +53569,183 @@ Pokemon = ETERNATUS,100
     DynamaxLvl = 10
     Gigantamax = yes
     TrainerAce = yes
+#-------------------------------
+[SYGNA_Piers,Piers]
+LoseText = "Sad tune."
+Pokemon = TOXTRICITY,100
+    Moves = BOVERDRIVE,SLUDGEBOMB,SSPIERS
+    Form = 1
+    Ability = PUNKROCK2
+    Item = BLACKSLUDGE
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[DOJO_Gloria,Gloria]
+LoseText = "Haha, that was my full power!"
+Pokemon = URSHIFU,100
+    Moves = SURGINGSTRIKES2
+    Form = 1
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+    DynamaxLvl = 10
+    Gigantamax = yes
+    TrainerAce = yes
+#-------------------------------
+[ANNI_Lillie,Lillie]
+LoseText = "No way!"
+Pokemon = LUNALA,100
+    Moves = MOONGEISTBEAM,MOONBLAST,ANNILILLIE
+    Item = LEFTOVERS
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 252,0,0,4,252,0
+#-------------------------------
+[ANNI_N,N]
+LoseText = "So many variables..."
+Pokemon = RESHIRAM,100
+    Moves = BLUEFLARE2,ANNIN
+    Item = CHARCOAL
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 252,0,0,4,252,0
+#-------------------------------
+[ANNI_Steven,Steven]
+LoseText = "I admire your strength."
+Pokemon = RAYQUAZA,100
+    Moves = DRAGONASCENT2,DRACOMETEOR3,ANNISTEVEN,DRAGONASCENT
+    Item = LUMBERRY
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+    Shiny = yes
+#-------------------------------
+[ANNI_May,May]
+LoseText = "Yay! We're friends now."
+Pokemon = LATIAS,100
+    Moves = MISTBALL2,PSYCHICTERRAIN,ANNIMAY
+    Item = LATIASITE
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[ANNI_Skyla,Skyla]
+LoseText = "Aww... we lost. But it was a really good battle!"
+Pokemon = TORNADUS,100
+    Moves = AIRCUTTER2,FLYINGWISH,ANNISKYLA
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[ANNI_Raihan,Raihan]
+LoseText = "Still got a nice selfie in there."
+Pokemon = FLYGON,100
+    Moves = FIRESPIN2,TWISTER2,SANDSTORM,ANNIRAIHAN
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+    DynamaxLvl = 10
+    TrainerAce = yes
+#-------------------------------
+[NC_Serena,Serena]
+LoseText = "Congratulations! You'll also be a very good rival to have."
+Pokemon = GRENINJA,100
+    Moves = WATERSHURIKEN2,BRUTALSWING2,BQUICKATTACK,NCSERENA
+    Ability = PROTEAN2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[NC_Calem,Calem]
+LoseText = "My journey doesn't end here. I'll carry on, step by step."
+Pokemon = GRENINJA,100
+    Moves = WATERSHURIKEN3,BRUTALSWING,BDOUBLETEAM,NCCALEM
+    Ability = PROTEAN2
+    Nature = HARDY
+    IV = 31,31,31,31,31,31
+    EV = 4,0,252,0,0,252
+    Shiny = yes
+#-------------------------------
+[NC_Marnie,Marnie]
+LoseText = "You're pretty strong, aren't ya?"
+Pokemon = MOLTRES,100
+    Moves = FIERYWRATH,PROTECT,BFIERYWRATH,NCMARNIE
+    Form = 1
+    Ability = BERSERK2
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[NC_Hop,Hop]
+LoseText = "Damn!"
+Pokemon = ZAPDOS,100
+    Moves = THUNDEROUSKICK2,BTHUNDEROUSKICK,NCHOP
+    Form = 1
+    Ability = LIGHTNINGLEGS
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+#-------------------------------
+[NC_Bede,Bede]
+LoseText = "Tsk."
+Pokemon = ARTICUNO,100
+    Moves = FREEZINGGLARE,BFREEZINGGLARE,NCBEDE
+    Form = 1
+    Ability = CONNIVINGWINGS
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 4,0,252,0,0,252
+#-------------------------------
+[NC_Red,Red]
+LoseText = "..."
+Pokemon = ARTICUNO,100
+    Moves = BLIZZARD,BICEBEAM,NCRED
+    Form = 0
+    Ability = PRESSURE2
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+#-------------------------------
+[NC_Leaf,Leaf]
+LoseText = "You love your Pokémon as much as I do, haha."
+Pokemon = MOLTRES,100
+    Moves = LEER2,BFLAREBLITZ,NCLEAF
+    Form = 0
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+#-------------------------------
+[NC_Blue,Blue]
+LoseText = "As the team's leader, I'm fully responsible for the team's loss."
+Pokemon = ZAPDOS,100
+    Moves = DISCHARGE,BROOST,NCBLUE
+    Form = 0
+    Ability = PRESSURE2
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 4,0,252,0,0,252
+#-------------------------------
+[NC_Nate,Nate]
+LoseText = "The bond you and your Pokémon forged is very touching."
+Pokemon = HAXORUS,100
+    Moves = SCALESHOT,BOUTRAGE,NCNATE
+    Ability = MOLDBREAKER2
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+    Shiny = yes
+#-------------------------------
+[NC_Rosa,Rosa]
+LoseText = "What a beautiful melody."
+Pokemon = MELOETTA,100
+    Moves = SING,BRELICSONG,NCROSA
+    Form = 0
+    Ability = SERENEGRACE2
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 4,0,252,0,0,252
 #-------------------------------
 [SECRET_Lucker2,Luc-ker]
 LoseText = "IT'S LUC-KER DAMMIT!"

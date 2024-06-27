@@ -983,19 +983,45 @@
 1124,SSHILDA,For the Win!,ST25,0,NORMAL,Status,0,1,0,User,0,q,"The user maxes its Attack and Crit Rate."
 1125,SSHILBERT,Perfect Aim!,ST26,0,NORMAL,Status,0,2,0,User,0,q,"Sygna Suit Hilbert's signature move."
 1126,SSN,My Formula!,ST27,0,NORMAL,Status,0,1,0,User,0,q,"The user drastically raises its Attack and maxes its Crit Rate."
+1127,SSROXIE,Poison on Stage!,ST28,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Roxie's signature move."
 # Kalos Trainers
-1127,SSSERENA,Feel Our Feelings!,ST28,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Serena's signature move."
-1128,SSKORRINA,Greater Heights!,ST29,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Korrina's signature move."
-1129,SSDIANTHA,The Curtain Rises!,ST30,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Diantha's signature move."
-1130,SSLYSANDRE,Blazing Belief!,ST31,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lysandre's signature move."
+1128,SSSERENA,Feel Our Feelings!,ST29,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Serena's signature move."
+1129,SSKORRINA,Greater Heights!,ST30,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Korrina's signature move."
+1130,SSDIANTHA,The Curtain Rises!,ST31,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Diantha's signature move."
+1131,SSLYSANDRE,Blazing Belief!,ST32,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lysandre's signature move."
 # Alola Trainers
-1131,SSLUSAMINE,Luminous Love!,ST32,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lusamine's signature move."
-1132,SSHAU,Maximum Power!,ST33,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Hau's signature move."
-1133,SSLANA,Cast the Line!,ST34,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lana's signature move."
-1134,SSACEROLA,Now I'm Angry!,ST35,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Acerola's signature move."
-1135,SSMINA,Pretty as a Painting!,ST36,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Mina's signature move."
+1132,SSLUSAMINE,Luminous Love!,ST33,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lusamine's signature move."
+1133,SSHAU,Maximum Power!,ST34,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Hau's signature move."
+1134,SSLANA,Cast the Line!,ST35,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Lana's signature move."
+1135,SSACEROLA,Now I'm Angry!,ST36,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Acerola's signature move."
+1136,SSMINA,Pretty as a Painting!,ST37,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Mina's signature move."
+1137,SSGLADION,My Soul is Shaking!,ST38,0,NORMAL,Status,0,1,0,User,1,q,"Sygna Suit Gladion's signature move."
 # Galar Trainers
-1136,SSLEON,Eternal Power!,ST37,0,NORMAL,Status,0,2,0,User,1,q,"Sygna Suit Leon's signature move."
+1138,SSLEON,Eternal Power!,ST38,0,NORMAL,Status,0,2,0,User,1,q,"Sygna Suit Leon's signature move."
+1139,SSPIERS,The Show Begins!,ST40,0,NORMAL,Status,0,2,0,User,1,q,"Sygna Suit Piers's signature move."
+1140,DOJOGLORIA,Flow Like Water!,ST99,0,NORMAL,Status,0,2,0,User,1,q,"Dojo Gloria's signature move."
+#--------------------------------
+# Anni Trainer Moves (AT)
+#--------------------------------
+1141,ANNILILLIE,Shining Moonlight!,AT01,0,NORMAL,Status,0,1,0,User,1,q,"Anni Lillie's signature move."
+1142,ANNIN,Truth Will Prevail!,AT02,0,NORMAL,Status,0,1,0,User,2,q,"Anni N's signature move."
+1143,ANNISTEVEN,Sky High!,AT03,0,NORMAL,Status,0,1,0,User,2,q,"Anni Steven's signature move."
+1144,ANNIMAY,Best Friends!,AT04,0,NORMAL,Status,0,1,0,User,1,q,"Anni May's signature move."
+1145,ANNISKYLA,Ready for Takeoff!,AT05,0,NORMAL,Status,0,1,0,User,2,q,"Anni Skyla's signature move."
+1146,ANNIRAIHAN,Can't Be Tamed!,AT06,0,NORMAL,Status,0,1,0,User,1,q,"Anni Raihan's signature move."
+#--------------------------------
+# NC Trainer Moves (NT)
+#--------------------------------
+1147,NCSERENA,Glory of Tommorow!,NT01,0,NORMAL,Status,0,1,0,User,1,q,"NC Serena's signature move."
+1148,NCCALEM,Glory of Understanding!,NT02,0,NORMAL,Status,0,1,0,User,1,q,"NC Calem's signature move."
+1149,NCMARNIE,Triumphant Spirit!,NT03,0,NORMAL,Status,0,1,0,User,1,q,"NC Marnie's signature move."
+1150,NCHOP,Triumphant Research!,NT04,0,NORMAL,Status,0,1,0,User,2,q,"NC Hop's signature move."
+1151,NCBEDE,Triumphant Tenacity!,NT05,0,NORMAL,Status,0,1,0,User,2,q,"NC Bede's signature move."
+1152,NCRED,Glory of the Winning Path!,NT06,0,NORMAL,Status,0,1,0,User,1,q,"NC Red's signature move."
+1153,NCLEAF,Glory of the Flame!,NT07,0,NORMAL,Status,0,1,0,User,1,q,"NC Leaf's signature move."
+1154,NCBLUE,Glory of Leadership!,NT08,0,NORMAL,Status,0,1,0,User,1,q,"NC Blue's signature move."
+1155,NCNATE,Glory of the Challenge!,NT09,0,NORMAL,Status,0,1,0,User,2,q,"NC Nate's signature move."
+1156,NCROSA,Ode to Glory!,NT10,0,NORMAL,Status,0,2,0,User,1,q,"NC Rosa's signature move."
 
 #--------------------------------
 # Sygna Pokémon Moves (SP)
@@ -1040,17 +1066,50 @@
 1232,METALSOUND2,Metal Sound,04F,0,STEEL,Status,100,40,0,AllFoes,0,bc,"A horrible sound like scraping metal harshly reduces the target's Sp. Def stat."
 1233,VCREATE2,V-create,SP17,180,FIRE,Physical,95,5,100,NearOther,0,abf,"With a fiery forehead, the user hurls itself at the foe. It lowers the user's Defense, Sp. Def, and Speed."
 1234,FREEZESHOCK2,Freeze Shock,SP18,140,ICE,Physical,90,5,30,NearOther,0,bfs,"On the second turn, the user hits the foe with electrically charged ice. It may also paralyze the foe."
-1235,BNOBLEROAR,Noble Roar,SP19,0,NORMAL,Status,0,30,100,NearOther,0,bck,"Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed."
+1235,BNOBLEROAR,Noble Roar,SP19,0,NORMAL,Status,0,30,0,AllFoes,0,bck,"Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed."
+1236,BSLUDGEWAVE,Frenzied Sludge Wave,SP20,110,POISON,Special,100,10,10,AllFoes,0,f,"It swamps the area around the user with a giant sludge wave. It may also poison those hit."
 # Kalos Trainers
-1236,SPECTRALTHIEF2,Spectral Thief,SP20,90,GHOST,Physical,100,10,0,NearOther,0,abf,"The user hides in the target's shadow, steals the target's stat boosts, and then attacks."
-1237,BDIAMONDSTORM,B Diamond Storm,SP21,100,ROCK,Physical,100,5,100,AllFoes,0,bf,"The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat."
-1238,BHYDROPUMP,B Hydro Pump,SP22,180,WATER,Special,0,1,100,AllFoes,0,f,"A Hydro Pump is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon."
+1237,SPECTRALTHIEF2,Spectral Thief,SP21,90,GHOST,Physical,100,10,0,NearOther,0,abf,"The user hides in the target's shadow, steals the target's stat boosts, and then attacks."
+1238,BDIAMONDSTORM,B Diamond Storm,SP22,100,ROCK,Physical,100,5,100,AllFoes,0,bf,"The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat."
+1239,BHYDROPUMP,B Hydro Pump,SP23,180,WATER,Special,0,1,100,AllFoes,0,f,"A Hydro Pump is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon."
 # Alola Trainers
-1239,PRISMATICLASER2,Prismatic Laser,000,160,PSYCHIC,Special,100,10,0,AllFoes,0,bf,"The user shoots powerful lasers using the power of a prism. This attack hits all opponents."
-1240,BELECTROWEB,B Electroweb,SP23,100,ELECTRIC,Special,100,5,100,AllFoes,0,bf,"The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed."
-1241,BPSYCHOCUT,B Psycho Cut,SP24,100,PSYCHIC,Physical,0,20,0,AllFoes,0,bfhr,"The user tears at the target with blades formed by psychic power. Critical hits land more easily."
-1242,BSWORDSDANCE,B Swords Dance,SP25,0,NORMAL,Status,0,10,0,User,0,do,"A frenetic dance to uplift the fighting spirit. It sharply raises all allies' Attack stat and makes all allies deal more damage with their next physical attack."
-1243,BPROTECT,B Protect,SP26,0,NORMAL,Status,0,10,0,User,4,,"It enables all allies to evade all attacks."
+1240,PRISMATICLASER2,Prismatic Laser,000,160,PSYCHIC,Special,100,10,0,AllFoes,0,bf,"The user shoots powerful lasers using the power of a prism. This attack hits all opponents."
+1241,BELECTROWEB,B Electroweb,SP24,100,ELECTRIC,Special,100,5,100,AllFoes,0,bf,"The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed."
+1242,BPSYCHOCUT,B Psycho Cut,SP25,100,PSYCHIC,Physical,0,20,0,AllFoes,0,bfhr,"The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+1243,BSWORDSDANCE,B Swords Dance,SP26,0,NORMAL,Status,0,10,0,User,0,do,"A frenetic dance to uplift the fighting spirit. It sharply raises all allies' Attack stat and makes all allies deal more damage with their next physical attack."
+1244,BPROTECT,B Protect,SP27,0,NORMAL,Status,0,10,0,User,4,,"It enables all allies to evade all attacks."
+1245,FLEURCANNON2,Fleur Cannon,13D,110,FAIRY,Special,90,5,0,NearOther,0,bf,"The user unleashes a strong beam. The attack's recoil sharply lowers the target's Sp. Atk stat."
+1246,BFLEURCANNON,Piercing Fleur Cannon,SP28,140,FAIRY,Special,0,1,0,AllFoes,0,f,"The user unleashes a strong beam. The attack does more damage based on how much the opponent's Sp. Atk stat has been lowered."
 # Galar Trainers
-1244,ETERNABEAM2,Eternabeam,SP27,160,DRAGON,Special,90,5,100,NearOther,0,bef,"Eternatus's most powerful attack in its original form."
+1247,ETERNABEAM2,Eternabeam,SP29,160,DRAGON,Special,90,5,100,NearOther,0,bef,"Eternatus's most powerful attack in its original form."
+1248,BOVERDRIVE,Sorrowful Echos Overdrive,SP30,110,ELECTRIC,Special,100,10,0,AllFoes,0,fk,"Attacks opposing Pokémon by twanging a guitar or bass guitar."
+1249,SURGINGSTRIKES2,Surging Strikes,SP99,25,WATER,Physical,100,5,0,NearOther,0,abf,"Strikes the target thrice, with mastery of the Water style. Always results in a critical hit."
+#--------------------------------
+# Anni Pokémon Moves (AP)
+#--------------------------------
+1250,BLUEFLARE2,Blue Flare,AP01,130,FIRE,Special,85,5,100,NearOther,0,bf,"The user attacks by engulfing the foe in a beautiful, yet intense, blue flame. It may also burn the foe."
+1251,DRACOMETEOR3,Draco Meteor,032,130,DRAGON,Special,90,5,100,NearOther,0,bf,"Comets are summoned down from the sky. The attack sharply raises the user's Sp. Atk stat."
+1252,DRAGONASCENT2,Dragon Ascent,02A,130,FLYING,Physical,100,5,100,NearOther,0,abf,"The user soars upward and drops at high speeds. Its Defense and Sp. Def stats are raised."
+1253,MISTBALL2,Mist Ball,13D,70,PSYCHIC,Special,100,10,100,NearOther,0,bfn,"A mistlike flurry of down envelops and damages the target. It harshly lowers the target's Sp. Atk."
+1254,AIRCUTTER2,Air Cutter,012,60,FLYING,Special,95,25,50,AllNearFoes,0,bfh,"The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
+1255,FIRESPIN2,Fire Spin,AP02,35,FIRE,Special,85,15,0,NearOther,0,bf,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+1256,TWISTER2,Twister,AP02,40,DRAGON,Special,100,20,20,AllNearFoes,0,b,"The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch."
+#--------------------------------
+# NC Pokémon Moves (NP)
+#--------------------------------
+1257,WATERSHURIKEN2,Water Shuriken,NP01,15,WATER,Special,100,20,0,NearOther,1,bf,"The user hits the target with throwing stars 5 times in a row. This move always goes first."
+1258,BRUTALSWING2,Brutal Swing,NP02,60,DARK,Physical,100,20,100,AllNearOthers,0,abf,"The user swings its body around violently to inflict damage on everything in its vicinity."
+1259,BQUICKATTACK,Boundless Quick Attack,NP03,60,NORMAL,Physical,100,2,100,NearOther,1,af,"The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+1260,WATERSHURIKEN3,Water Shuriken,NP04,15,WATER,Special,100,20,0,NearOther,1,bf,"The user hits the target with throwing stars 5 times in a row. This move always goes first."
+1261,BDOUBLETEAM,Transformational Double Team,NP05,0,NORMAL,Status,0,2,0,User,0,d,"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+1262,BFIERYWRATH,Fierce Fiery Wrath,NP06,130,DARK,Special,100,2,50,AllFoes,0,frs,"The user transforms its wrath into a fire-like aura to attack. It may cause flinching."
+1263,THUNDEROUSKICK2,Thunderous Kick,SP04,90,FIGHTING,Physical,100,10,100,NearOther,0,abf,"The user kicks the target with lightning-like movement. It lowers the target's Defense and Special Defense."
+1264,BTHUNDEROUSKICK,Roaring Thunderous Kick,NP07,130,FIGHTING,Physical,100,10,100,NearOther,0,afrs,"The user kicks the target with lightning-like movement. It drastically lowers the target's Defense and Special Defense."
+1265,BFREEZINGGLARE,Intimidating Freezing Glare,NP08,130,PSYCHIC,Special,100,10,10,NearOther,0,f,"The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
+1266,BICEBEAM,Frozen Wings Ice Beam,NP09,120,ICE,Special,100,10,100,NearOther,0,frs,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+1267,BROOST,Thundering Wings Roost,NP10,0,FLYING,Status,0,10,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
+1268,BFLAREBLITZ,Fiery Wings Flare Blitz,NP11,120,FIRE,Physical,100,15,10,NearOther,0,abefg,"The user cloaks itself in fire and charges at the foe. It may burn the target."
+1269,LEER2,Leer,NP12,0,NORMAL,Status,100,5,0,AllFoes,0,bce,"The user gains an intimidating leer with sharp eyes. The target's Defense stat is reduced."
+1270,BOUTRAGE,Dark Black Outrage,NP13,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
+1271,BRELICSONG,Relic Song of Wonder,NP14,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."
 
