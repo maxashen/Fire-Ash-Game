@@ -558,3 +558,6 @@ Point = 22,13,"Geosenge Town?",,,,,429
 Point = 23,12,"Shalour City?",,,,,429
 Point = 1,16,"Iki Town?",,,,,429
 Point = 2,18,"Aether Paradise?",,,,,429
+[9]
+Filename = mapRegion9.png
+Name = Hisui

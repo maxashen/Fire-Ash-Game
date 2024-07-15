@@ -3618,6 +3618,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Snow,100
+MapPosition = 3,12,9
 BattleBack = snow
 #-------------------------------
 [629]
