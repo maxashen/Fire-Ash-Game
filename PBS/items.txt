@@ -933,7 +933,7 @@
 984,TM134,TM134,TM134s,4,1000,"The user flies up into the sky and then strikes its target on the next turn.",3,0,0,FLY
 985,TM135,TM135,TM135s,4,1000,"A charging attack that may also leave the foe confused. It can also be used to scale rocky walls.",3,0,0,ROCKCLIMB
 986,DRAGONSCROLL,Dragon Scroll,Dragon Scrolls,7,0,"An object of ancient origins. It is used to change Rayquaza's form in battle.",2,0,0,
-987,ROTOMPHONE,Rotom Phone,Rotom Phones,8,0,"A phone enhanced after being possessed by a Rotom. It hosts a multitude of functions.",0,0,6,
+987,ROTOMPHONE,Rotom Phone,Rotom Phones,8,0,"A phone enhanced after being possessed by a Rotom. It hosts a multitude of functions.",2,0,6,
 988,RAINBADGE2,Rain Badge,Rain Badges,6,0,"A badge from the Sootopolis Gym that proves you beat it. You obtained it from Wallace. It looks familiar.",0,0,6,
 989,BLACKAUGURITE,Black Augurite,Black Augurites,1,100,"A glassy black stone that produces a sharp cutting edge when split. It's loved by a certain Pokémon.",1,0,7,
 990,PEATBLOCK,Peat Block,Peat Blocks,1,100,"A block of muddy material that can be used as fuel for burning when it is dried. It's loved by a certain Pokémon.",1,0,7,
@@ -970,11 +970,11 @@
 1018,LIFEORB2,Life Orb,Life Orbs,1,4000,"An item to be held by a Pokémon. It boosts the power of moves, but at the cost of 1HP on each hit.",0,0,0
 1019,LEGENDPLATE,Legend Plate,Legend Plates,1,20000,"A stone tablet to be held by a certain Pokémon. It grants the holder the power of every type there is.",0,0,0
 1020,LUCARIONITE2,Lucarionite,Lucarionites,1,0,"One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will enter battle Mega Evolved.",0,0,0
-1021,VIRUSBREATHTAKER,Virus Code: Breathtaker,Virus Codes: Breathtaker,2,1000,"A set of genetic code that reduces life energy. It sets the IV of HP of a single Pokémon to 0.",1,0,0,
-1022,VIRUSFRAILTY,Virus Code: Frailty,Virus Codes: Frailty,2,1000,"A set of genetic code that resets muscular limits. It sets the IV of Attack of a single Pokémon to 0.",1,0,0,
-1023,VIRUSFRAGILITY,Virus Code: Fragility,Virus Codes: Fragility,2,1000,"A set of genetic code that resets body endurance. It sets the IV of Defense of a single Pokémon to 0.",1,0,0,
-1024,VIRUSDISTORTION,Virus Code: Distortion,Virus Codes: Distortion,2,1000,"A set of genetic code that seals innate powers. It sets the IV of Sp. Attack of a single Pokémon to 0.",1,0,0,
-1025,VIRUSNIHILITY,Virus Code: Nihility,Virus Codes: Nihility,2,1000,"A set of genetic code that discourages tenacious will. It sets the IV of Sp. Defense of a single Pokémon to 0.",1,0,0,
-1026,VIRUSDULL,Virus Code: Dull,Virus Codes: Dull,2,1000,"A set of genetic code that dulls senses and mobility. It sets the IV of Speed of a single Pokémon to 0.",1,0,0,
+1021,VIRUSBREATHTAKER,Virus Code: Breathtaker,Virus Codes: Breathtaker,2,1000,"A set of genetic code that reduces life energy. It lowers the IV of HP of a single Pokémon.",1,0,0,
+1022,VIRUSFRAILTY,Virus Code: Frailty,Virus Codes: Frailty,2,1000,"A set of genetic code that resets muscular limits. It lowers the IV of Attack of a single Pokémon.",1,0,0,
+1023,VIRUSFRAGILITY,Virus Code: Fragility,Virus Codes: Fragility,2,1000,"A set of genetic code that resets body endurance. It lowers the IV of Defense of a single Pokémon.",1,0,0,
+1024,VIRUSDISTORTION,Virus Code: Distortion,Virus Codes: Distortion,2,1000,"A set of genetic code that seals innate powers. It lowers the IV of Sp. Attack of a single Pokémon.",1,0,0,
+1025,VIRUSNIHILITY,Virus Code: Nihility,Virus Codes: Nihility,2,1000,"A set of genetic code that discourages tenacious will. It lowers the IV of Sp. Defense of a single Pokémon.",1,0,0,
+1026,VIRUSDULL,Virus Code: Dull,Virus Codes: Dull,2,1000,"A set of genetic code that dulls senses and mobility. It lowers the IV of Speed of a single Pokémon.",1,0,0,
 1027,BACKSTAGE,VIP Backstage Pass,VIP Backstage Passes,8,0,"A backstage pass to meet and greet one of the developers behind Grandeur Club.",2,0,6
 1028,COMMONCANDY,Common Candy,Common Candies,2,50,"A regular piece of candy packed with sugar. It lowers the level of a single Pokémon by one.",1,0,0,
