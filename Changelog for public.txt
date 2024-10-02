@@ -1,4 +1,32 @@
 ********************************
+Version 3.6 Part 2.0 (--2024)
+********************************
+Qol Changes and Improvements:
+- Added a PC to Kukui's Lab
+- Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish
+- Added Common Candy, which decreases the level of a Pokémon by 1 and added a vendor to Pallet Town after becoming the Orange League Champion
+- Rotom Phone can now tell you where to go during the Journeys arc
+- Furfrou can get trims at Lumiose Art Museum
+- Added animations for the balls burst in battle
+- Reduced the price of PP Maxes in Johto Game Corner
+- Items can be bought in bulk in Game Corners
+- Items in the bag can now be sorted by alphabetical order (use the quick save key, default is left alt)
+- Move animations have been updated yet again
+- New music plays when encountering Team Rocket's Jessie and James in the overworld
+
+Grandeur Club Changes:
+- Added Hisui and Galar as possible regions to challenge
+- Added ??? challenge
+- Items can be bought in bulk in the Vending Machine in the lobby
+- Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
+- Added a Poké Ball changer
+- Changed certain Serperiors to have Contrary than Overgrow
+
+Misc.:
+- Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
+
+
+********************************
 Version 3.6 Part 1.2 (17-2-2024)
 ********************************
 Main Game Changes:

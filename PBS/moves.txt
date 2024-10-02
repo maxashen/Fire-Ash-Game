@@ -834,6 +834,12 @@
 942,BSPACIALREND,Hollow Purple Spacial Rend,000,120,DRAGON,Special,100,5,0,NearOther,0,fh,"The user tears the target along with the space around it. Critical hits land more easily."
 943,GIGAIMPACT2,Giga Impact,000,120,NORMAL,Physical,100,10,0,NearOther,0,af,"The user charges at the target using every bit of its power."
 944,BGIGAIMPACT,GG Giga Impact,LUC8,200,NORMAL,Physical,100,5,100,NearOther,0,af,"The user charges at the target using every bit of its power, lowering the target's Defense by 6 stages."
+945,BROAROFTIME,Roar of Za Warudo's Time,DF00,150,DRAGON,Special,100,5,0,NearOther,0,f,"The user blasts the target with power that distorts even time, causing it to come to a stop for 2 turns."
+946,ROAROFTIME2,Roar of Time,000,110,DRAGON,Special,100,5,0,NearOther,0,bf,"The user blasts the target with power that distorts even time."
+947,STEELBEAM2,Steel Beam,000,120,STEEL,Special,100,5,0,NearOther,0,bf,"Fires a beam of steel that it collected from its entire body."
+948,SINGULARITYPOINT,Singularity Point,00C,150,STEEL,Physical,0,10,100,NearOther,0,f,"The user attacks the target, freezing it with the power of a thousand universes."
+949,BEXTREMESPEED,Infinite Extreme Speed,009,120,NORMAL,Physical,100,10,100,NearOther,2,af,"The user charges the target at blinding speed. This attack always goes before any other move."
+950,HEAVENLYDASH,Heavenly Dash,DF01,80,DRAGON,Physical,0,10,100,NearOther,0,af,"The user accelerates, maxing out its speed."
 #--------------------------------
 # Zone Moves (SZ)
 #--------------------------------

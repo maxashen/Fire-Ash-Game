@@ -60,7 +60,7 @@ Added in 3.5 Beta V3:
 - Fixed missing animations caused by 3.6 Part 1
 - Brock being battled instead of Lt. Surge in Gauntlet
 - Fixed teams being mixed up in Club
-- Fixed 3v6 battles occuring instead of 6v6 battles in Club Challenge on Master
+- Fixed 3v6 battles occurring instead of 6v6 battles in Club Challenge on Master
 
 # Changed in 3.6 Part 1.2:
 - Pokémon that couldn't learn moves from dlc moves tutor are able to now

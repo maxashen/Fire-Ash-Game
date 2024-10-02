@@ -1,0 +1,10 @@
+Exception: NameError
+Message: uninitialized constant Settings::MECHANICS_GENERATION
+BattleSettings:4:in `<module:Settings>'
+BattleSettings:1:in `block in <main>'
+000:script yeetifier pro:307:in `eval'
+000:script yeetifier pro:307:in `block in <main>'
+000:script yeetifier pro:303:in `each'
+000:script yeetifier pro:303:in `each_with_index'
+000:script yeetifier pro:303:in `<main>'
+-e:in `eval'
