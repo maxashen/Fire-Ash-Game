@@ -81,7 +81,7 @@ class PokemonDataBox < SpriteWrapper
     @raidNumbersBitmap.dispose
     _ZUD_dispose
   end
-  
+
   #-----------------------------------------------------------------------------
   # Updates databoxes in battle.
   #-----------------------------------------------------------------------------
@@ -90,12 +90,36 @@ class PokemonDataBox < SpriteWrapper
     return if !@battler.pokemon
     textPos = []
     imagePos = []
+    # Draw background panel
     self.bitmap.blt(0,0,@databoxBitmap.bitmap,Rect.new(0,0,@databoxBitmap.width,@databoxBitmap.height))
+
+    # Draw Pokémon's name
     nameWidth = self.bitmap.text_size(@battler.name).width
-    nameOffset = 0
-    nameOffset = nameWidth-116 if nameWidth>116
+    # Resize pokemon's name, if necessary (Kraegon + Luc-ker edit)
+    xOffset = 0
+    yOffset = 0
+    fontAltered = false
+    # Switch to a narrow font, if the name is too big
+    if nameWidth > 116
+      fontAltered = true
+      self.bitmap.font.name = "Power Green Narrow"
+      nameWidth = self.bitmap.text_size(@battler.name).width
+      # Scale down font.size when the narrow font isn't enough
+      while nameWidth > 122
+        yOffset += 1
+        self.bitmap.font.size -= 1
+        nameWidth = self.bitmap.text_size(@battler.name).width
+      end
+    end
+    xOffset = nameWidth-116 if nameWidth>116
+    if yOffset>=4
+      yOffset/=2
+      yOffset = yOffset.to_i
+    else
+      yOffset = 0
+    end
     if $game_switches[Settings::MAXRAID_SWITCH] && @battler.effects[PBEffects::MaxRaidBoss]
-      textPos.push([@battler.name,@spriteBaseX+8-nameOffset,0,false,Color.new(248,248,248),Color.new(248,32,32)])
+      textPos.push([@battler.name,@spriteBaseX+8-xOffset,yOffset,false,Color.new(248,248,248),Color.new(248,32,32)])
       turncount = @battler.effects[PBEffects::Dynamax]-1
       kocount   = @battler.effects[PBEffects::KnockOutCount]
       kocount   = 0 if kocount<0
@@ -108,18 +132,33 @@ class PokemonDataBox < SpriteWrapper
         self.bitmap.blt(@spriteBaseX+offset,59,@raidBarBitmap.bitmap,Rect.new(0,0,2+shieldLvl*30,12)) 
         self.bitmap.blt(@spriteBaseX+offset,59,@shieldHPBitmap.bitmap,Rect.new(0,0,2+shieldHP*30,12))
       end
+      pbDrawTextPositions(self.bitmap,textPos)
+      if fontAltered
+        textPos.clear
+        self.bitmap.font.name = "Power Green"
+        self.bitmap.font.size = 29
+      end
     else
-      textPos.push([@battler.name,@spriteBaseX+8-nameOffset,0,false,NAME_BASE_COLOR,NAME_SHADOW_COLOR])
+      textPos.push([@battler.name,@spriteBaseX+8-xOffset,yOffset,false,NAME_BASE_COLOR,NAME_SHADOW_COLOR])
+      pbDrawTextPositions(self.bitmap,textPos)
+      if fontAltered
+        textPos.clear
+        self.bitmap.font.name = "Power Green"
+        self.bitmap.font.size = 29
+      end
+      # Draw Pokémon's gender symbol
       case @battler.displayGender
       when 0   # Male
         textPos.push([_INTL("♂"),@spriteBaseX+126,0,false,MALE_BASE_COLOR,MALE_SHADOW_COLOR])
       when 1   # Female
         textPos.push([_INTL("♀"),@spriteBaseX+126,0,false,FEMALE_BASE_COLOR,FEMALE_SHADOW_COLOR])
       end
+      pbDrawTextPositions(self.bitmap,textPos)
+      # Draw Pokémon's level
       imagePos.push(["Graphics/Pictures/Battle/overlay_lv",@spriteBaseX+140,16])
       pbDrawNumber(@battler.level,self.bitmap,@spriteBaseX+162,16)
     end
-    pbDrawTextPositions(self.bitmap,textPos)
+    # Draw shiny icon
     if @battler.shiny?
       shinyX = (@battler.opposes?(0)) ? 206 : -6
       imagePos.push(["Graphics/Pictures/shiny",@spriteBaseX+shinyX,36])

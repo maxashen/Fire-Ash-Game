@@ -863,8 +863,11 @@ class PokeBattle_Scene
     varCommand, mode = _INTL("Cancel"), 1 if !firstAction
     varCommand, mode = _INTL("Call"),   2 if shadowTrainer
     varCommand, mode = _INTL("Cheer"),  5 if maxRaidBattle
+    # truncate the Pokémon's name if it's larger than 12 characters (Luc-ker edit)
+    name = @battle.battlers[idxBattler].name
+    name = name[0..9] + "..." if name.length > 12
     cmds = [
-       _INTL("What will\n{1} do?",@battle.battlers[idxBattler].name),
+       _INTL("What will\n{1} do?",name),
        _INTL("Fight"),
        _INTL("Bag"),
        _INTL("Pokémon"),

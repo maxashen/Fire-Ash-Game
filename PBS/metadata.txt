@@ -436,11 +436,6 @@ MapPosition = 0,13,8
 HealingSpot = 132,7,4
 BattleBack = indoor1
 #-------------------------------
-[133]
-# Cable Club
-MapPosition = 4,3,13
-BattleBack = indoor1
-#-------------------------------
 [134]
 # Silph Co.
 MapPosition = 0,13,8
@@ -3718,21 +3713,25 @@ BattleBack = indoor1
 # Lily Basic
 MapPosition = 3,27,16
 BattleBack = rocky
+BattleBack = indoor1
 #-------------------------------
 [645]
 # Lily Top 16
 MapPosition = 3,27,16
 BattleBack = field
+BattleBack = indoor1
 #-------------------------------
 [646]
 # Lily Top 8
 MapPosition = 3,27,16
 BattleBack = rocky
+BattleBack = indoor1
 #-------------------------------
 [647]
 # Lily Top 4
 MapPosition = 3,27,16
 BattleBack = field
+BattleBack = indoor1
 #-------------------------------
 [648]
 # Old Chateau

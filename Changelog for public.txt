@@ -1,5 +1,5 @@
 ********************************
-Version 3.6 Part 2.0 (--2024)
+Version 3.6 Part 2 (--2025)
 ********************************
 Qol Changes and Improvements:
 - Added a PC to Kukui's Lab
@@ -13,6 +13,19 @@ Qol Changes and Improvements:
 - Items in the bag can now be sorted by alphabetical order (use the quick save key, default is left alt)
 - Move animations have been updated yet again
 - New music plays when encountering Team Rocket's Jessie and James in the overworld
+- Added an animation to when a Poke Ball bursts open in battle
+- Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc
+- Speed up is kept when soft resetting! (thank you Kraegon!)
+
+Issues fixed:
+- The soft lock on Kalos Route 8 in the same arc has been fixed by reducing the offending trainer's line of sight
+- The portal to Ultra Ruin in the postgame has been fixed
+- Enamorus now respawns after beating the Masters 8 rematch
+- Officer Jennys having the wrong speech colour
+- Sun animation not showing up in battle
+- Morrison having the incorrect team when doing his non league rematch in the postgame
+- Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x2)
+- Some nicknames being butchered because of Essentials (thank you Kraegon! x3). this has been fixed by having them be resized or truncated when they're too long
 
 Grandeur Club Changes:
 - Added Hisui and Galar as possible regions to challenge
@@ -23,6 +36,7 @@ Grandeur Club Changes:
 - Changed certain Serperiors to have Contrary than Overgrow
 
 Misc.:
+- The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
 
 
@@ -66,7 +80,7 @@ Version 3.6 Part 1 (3-2-2024)
 - The Dragon Pulse Move Tutor in Blackthorn City also teaches Dragon Dance now
 - Added a Move Tutor for Eruption in the Sinnoh League for Quilava
 - Added a Move Tutor for Cut on Route K11
-- Hapu acts as a Move Tutor for High Horsepower after beating her Grand Trial
+- Hapu (outside her home on Ancient Poni Path) acts as a Move Tutor for High Horsepower after beating her Grand Trial
 - Added a Move Tutor for the Isle of Armour DLC moves to the GC Lounge
 - Added credit-money exchange added to GC Lounge Vending Machine
 - Added a few trainers into Sync and Titan
