@@ -25,6 +25,7 @@ Issues fixed:
 - Sun animation not showing up in battle
 - Morrison having the incorrect team when doing his non league rematch in the postgame
 - If both parents had power items, only 1 of the IVs would be passed down
+- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point of the story
 - Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x2)
 - Some nicknames being butchered because of Essentials (thank you Kraegon! x3). this has been fixed by having them be resized or truncated when they're too long
 
@@ -35,6 +36,7 @@ Grandeur Club Changes:
 - Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
 - Added a Poké Ball changer
 - Changed certain Serperiors to have Contrary than Overgrow
+- Stat buffs/debuffs for the opponents could get skipped in Sync and Titan challenge
 
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
