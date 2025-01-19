@@ -977,4 +977,5 @@
 1025,VIRUSNIHILITY,Virus Code: Nihility,Virus Codes: Nihility,2,1000,"A set of genetic code that discourages tenacious will. It lowers the IV of Sp. Defense of a single Pokémon.",1,0,0,
 1026,VIRUSDULL,Virus Code: Dull,Virus Codes: Dull,2,1000,"A set of genetic code that dulls senses and mobility. It lowers the IV of Speed of a single Pokémon.",1,0,0,
 1027,BACKSTAGE,VIP Backstage Pass,VIP Backstage Passes,8,0,"A backstage pass to meet and greet one of the developers behind Grandeur Club.",2,0,6
-1028,COMMONCANDY,Common Candy,Common Candies,2,50,"A regular piece of candy packed with sugar. It lowers the level of a single Pokémon by one.",1,0,0,
+1028,COMMONCANDY,Common Candy,Common Candies,2,50,"A regular piece of candy packed with sugar. It lowers the level of a single Pokémon by one.",1,0,0
+1029,SHINYSPRAY,Shiny Spray,Shiny Sprays,2,0,"A one-time use spray can to make a Pokémon become shiny.",1,0,0
