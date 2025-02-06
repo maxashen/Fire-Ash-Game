@@ -270,13 +270,13 @@
 #------------------------------------
 # Custom Abilities
 #------------------------------------
-268,SANDFORTRESS,Sand Fortress,"The Pokémon summons a sandstorm in battle. Its stats also can't be lowered."
+268,SANDSTREAM2,Sand Stream,"The Pokémon summons a sandstorm in battle and extends its duration."
 269,CYNTHIASAURA,Cynthia's Aura,"The Pokémon sets up a Fighting Zone when entering the battle."
 270,SCORCHINGTOUCH,Scorching Touch,"Burns the target(s) when attacking."
 271,ELECTRICSURGE2,Electric Surge,"Turns the ground into Electric Terrain and extends its duration."
 272,PSYCHICSURGE2,Psychic Surge,"Turns the ground into Psychic Terrain and extends its duration."
 273,GRASSYSURGE2,Grassy Surge,"Turns the ground into Grassy Terrain and extends its duration."
-274,FAIRYKINGDOM,Fairy Kingdom,"The Pokémon sets up a Fairy Zone when enerting the battle and extends its duration."
+274,FAIRYKINGDOM,Fairy Kingdom,"The Pokémon sets up a Fairy Zone when entering the battle and extends its duration."
 275,SOULHEART2,Soul-Heart,"Boosts Sp. Atk each time a Pokémon faints."
 276,PUNKROCK2,Punk Rock,"Boosts power and resistance of sound moves."
 277,PUNKROCK3,Punk Rock,"Boosts power and resistance of sound moves."
@@ -306,4 +306,4 @@
 415,EPITAPH,Epitaph,"Removes attacks from existence most of the time."
 416,TIMEACCELERATION,Time Acceleration,"Boost user's speed and priority every turn."
 417,PARALLELPROTECTION,Parallel Protection,"Gain/increase substitute after an attack."
-418,CALAMATICMISFORTUNE,Calamatic misfortune,"Reduce target's hp by 25% of its hp after being attacked."
+418,CALAMATICMISFORTUNE,Calamatic Misfortune,"Reduce target's hp by 25% of its hp after being attacked."
