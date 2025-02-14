@@ -16,18 +16,23 @@ Qol Changes and Improvements:
 - Added an animation to when a Poke Ball bursts open in battle
 - Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc
 - Speed up is kept when soft resetting! (thank you Kraegon!)
+- There is now an option to disable weather effects in the overworld! (thank you Kraegon x2!)
 
 Issues fixed:
-- The soft lock on Kalos Route 8 in the same arc has been fixed by reducing the offending trainer's line of sight
+- The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
 - The portal to Ultra Ruin in the postgame has been fixed
-- Enamorus now respawns after beating the Masters 8 rematch
+- Enamorus not respawning after beating the Masters 8 rematch
 - Officer Jennys having the wrong speech colour
 - Sun animation not showing up in battle
 - Morrison having the incorrect team when doing his non league rematch in the postgame
-- If both parents had power items, only 1 of the IVs would be passed down
+- If both parents had power items, both corresponding IVs are passed down instead of just 1 of them
 - Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point of the story
-- Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x2)
-- Some nicknames being butchered because of Essentials (thank you Kraegon! x3). this has been fixed by having them be resized or truncated when they're too long
+- Fix not being able to fish on specific tiles
+- Fix fishing in unintended places (mainly puddles in towns)
+- Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
+- Some nicknames being butchered because of Essentials (thank you Kraegon! x4). this has been fixed by having them be resized or truncated when they're too long
+- Fix only the save file in the first save slot being able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x5!)
+- Fix a graphical issue where, if you were cycling before fishing, fishing after the first time wouldn't update the player's sprite properly (thank you Kay!)
 
 Grandeur Club Changes:
 - Added Hisui and Galar as possible regions to challenge
