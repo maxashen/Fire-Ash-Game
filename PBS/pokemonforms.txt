@@ -3115,7 +3115,7 @@ Type1 = FIGHTING
 Type2 = DARK
 BaseStats = 95,180,140,150,60,90
 Abilities = CHIVALROUSWILL
-Pokedex = Hitsukid's Sirfetch'd, trained as a Pokémon ready for war.
+Pokedex = Hitsukid's Sirfetch'd, embodiment of War, hungry for battles.
 #-------------------------------
 [EXCADRILL,1]
 FormName = Famine
@@ -3124,7 +3124,7 @@ Type1 = ICE
 Type2 = POISON
 BaseStats = 10,190,5,160,80,5
 Abilities = DIAMONDSKIN
-Pokedex = Hitsukid's Excadrill, trained as a Pokémon ready for famine.
+Pokedex = Hitsukid's Muk, insatiable hunger makes this dangerous to contain.
 #-------------------------------
 [MEWTWO,3]
 FormName = Death
@@ -3133,7 +3133,7 @@ Type1 = GHOST
 Type2 = FAIRY
 BaseStats = 255,60,250,250,60,250
 Abilities = DESTINYREAPING
-Pokedex = Hitsukid's Mewtwo, trained as a Pokémon ready for death.
+Pokedex = Hitsukid's Mewtwo, formed out of true despair.
 #-------------------------------
 [TYRANITAR,2]
 FormName = Disaster
@@ -3142,7 +3142,7 @@ Type1 = WATER
 Type2 = ELECTRIC
 BaseStats = 200,175,155,40,175,155
 Abilities = WEATHERHAVOC
-Pokedex = Hitsukid's Tyranitar, trained as a Pokémon ready for disasters.
+Pokedex = Hitsukid's Tyranitar, destruction and chaos pursues closely.
 #-------------------------------
 [CHARIZARD,3]
 FormName = Pestilence
@@ -3151,7 +3151,7 @@ Type1 = BUG
 Type2 = DRAGON
 BaseStats = 180,50,185,60,190,185
 Abilities = LOOMINGFRAILTY
-Pokedex = Hitsukid's Charizard, trained as a Pokémon ready for pestilence.
+Pokedex = Hitsukid's Charizard, the sign of suffering and depression.
 #-------------------------------
 [LUCARIO,3]
 FormName = Holocaust
@@ -3160,4 +3160,4 @@ Type1 = PSYCHIC
 Type2 = FIRE
 BaseStats = 90,110,70,135,155,130
 Abilities = FOCUSWILL
-Pokedex = Hitsukid's Lucario, trained as a Pokémon ready for holocaust.
+Pokedex = Hitsukid's Lucario, its power was never meant to be contained within.
