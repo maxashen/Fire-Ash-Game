@@ -90,7 +90,7 @@
 86,DRAGONRAGE,Dragon Rage,06B,1,DRAGON,Special,100,10,0,NearOther,0,bef,"This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage."
 87,DRAGONDANCE,Dragon Dance,026,0,DRAGON,Status,0,20,0,User,0,do,"The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats."
 88,BREAKINGSWIPE,Breaking Swipe,042,60,DRAGON,Physical,100,15,100,AllNearFoes,0,abef,"The user swings its tail wildly and attacks opposing Pokémon, lowering their Attack stats."
-89,DRAGONDARTS,Dragon Darts,17C,50,DRAGON,Physical,100,10,0,NearOther,0,bef,"The user attacks twice using Dreepy. If there are two targets, it hits each target once."
+89,DRAGONDARTS,Dragon Darts,17C,50,DRAGON,Physical,100,10,0,AllNearFoes,0,bef,"The user attacks twice using Dreepy. If there are two targets, it hits each target once."
 90,DYNAMAXCANNON,Dynamax Cannon,19A,100,DRAGON,Special,100,5,0,NearOther,0,bf,"The user unleashes a strong beam from its core."
 91,ETERNABEAM,Eternabeam,0C2,160,DRAGON,Special,90,5,0,NearOther,0,bef,"Eternatus's most powerful attack in its original form. The user can't move on the next turn."
 92,CLANGOROUSSOUL,Clangorous Soul,179,0,DRAGON,Status,100,5,0,User,0,dk,"The user raises all its stats by using some of its HP."
@@ -795,7 +795,6 @@
 #--------------------------------
 # ??? Challenge
 #--------------------------------
-# Hitsu moves
 900,THOUSANDSEVER,1000000 Sever,DH01,15,DARK,Physical,80,10,0,NearOther,0,abf,"The user attacks the target 5 times."
 901,DISARM,Disarm,DH02,1,FIGHTING,Physical,100,20,100,None,-5,abf,"A retaliation move that counters any physical attack, then disables that attack."
 902,BLOODSHEDJOUST,Bloodshed Joust,DH03,60,FIGHTING,Physical,100,15,0,NearOther,0,abf,"The user jabs at the target, KOing if it has less than 50% health."
@@ -820,7 +819,6 @@
 921,PHALANXSEAL,Phalanx Seal,DH19,0,PSYCHIC,Status,0,10,0,UserSide,0,,"The user sets up a seal, sharply lowering its Evasion by in exchange for halving all damage taken by the user's side for 7 turns."
 922,DEVILSROOM,Devil's Room,DH20,120,FIRE,Special,70,10,0,NearOther,0,b,"The user creates a ring of fire around the target which deals damage to it after 3 turns."
 923,TERASCRAMBLE,Tera Scramble,DH21,90,PSYCHIC,Special,80,10,50,NearOther,0,bf,"The user changes its target's primary type to a random type."
-# Luc moves
 930,RECOVER2,Recover,LUC1,0,NORMAL,Status,0,10,0,User,0,d,"Restoring its own cells, the user restores all its HP."
 931,JUDGMENT2,World-Ending Judgment,LUC2,100,NORMAL,Special,100,10,0,AllNearFoes,0,befp,"The user releases countless shots of light. Its type varies with the kind of Plate the user is holding."
 932,STEALTHROCK2,Ghostly Stealth Rock,LUC3,0,ROCK,Status,0,1,100,FoeSide,0,,"The user turns into a Ghost type in order to stealthily set up Stealth Rocks on the opponent's side."
@@ -836,29 +834,12 @@
 942,BSPACIALREND,Hollow Purple Spacial Rend,000,120,DRAGON,Special,100,5,0,NearOther,0,fh,"The user tears the target along with the space around it. Critical hits land more easily."
 943,GIGAIMPACT2,Giga Impact,000,120,NORMAL,Physical,100,10,0,NearOther,0,af,"The user charges at the target using every bit of its power."
 944,BGIGAIMPACT,GG Giga Impact,LUC8,200,NORMAL,Physical,100,5,100,NearOther,0,af,"The user charges at the target using every bit of its power, lowering the target's Defense by 6 stages."
-# Foul moves
 945,BROAROFTIME,Roar of Za Warudo's Time,DF00,150,DRAGON,Special,100,5,0,NearOther,0,f,"The user blasts the target with power that distorts even time, causing it to come to a stop for 2 turns."
 946,ROAROFTIME2,Roar of Time,000,110,DRAGON,Special,100,5,0,NearOther,0,bf,"The user blasts the target with power that distorts even time."
 947,STEELBEAM2,Steel Beam,000,120,STEEL,Special,100,5,0,NearOther,0,bf,"Fires a beam of steel that it collected from its entire body."
 948,SINGULARITYPOINT,Singularity Point,00C,150,STEEL,Physical,0,10,100,NearOther,0,f,"The user attacks the target, freezing it with the power of a thousand universes."
 949,BEXTREMESPEED,Infinite Extreme Speed,009,120,NORMAL,Physical,100,10,100,NearOther,2,af,"The user charges the target at blinding speed. This attack always goes before any other move."
 950,HEAVENLYDASH,Heavenly Dash,DF01,80,DRAGON,Physical,0,10,100,NearOther,0,af,"The user accelerates, maxing out its speed."
-951,CRAZYDIAMOND,Crazy Diamond,DF02,0,STEEL,Status,100,5,0,NearOther,0,b,"The user heals the target back to full health, but the target's stats are reduced by 2 stages."
-952,THEHAND,The Hand,06C,1,FIGHTING,Special,100,10,0,NearOther,0,b,"The user conjures a hand to shave away at the target, halving its HP."
-953,HEAVENSDOOR,Heaven's Door,DF03,0,FAIRY,Status,0,10,0,NearOther,0,b,"Drop the target's Atk, Sp. Atk or Spd by 1 stage then give it a random status effect."
-954,SHEARTATTACK,S. Heart Attack,DF04,90,FIRE,Special,100,10,0,NearOther,0,bf,"The user uses the target's highest stat to attack the target. Still hits the target if they're switching out."
-955,PURPLEHAZE,Purple Haze,DF05,100,POISON,Special,100,10,100,NearOther,0,bf,"The user spreads out a toxic mist, poisoning the target and laying multiple layers of toxic spikes."
-956,WHITEALBUM,White Album,00C,90,ICE,Special,100,10,100,NearOther,0,bf,"The user spreads out an icy mist, freezing the target."
-957,METALLICA,Metallica,DF06,90,STEEL,Special,100,10,100,NearOther,0,bf,"The user attacks the target uses iron, poisoning and binding the target."
-958,NOTORIOUSBIG,Notorious B.I.G.,000,100,FIGHTING,Physical,100,10,0,NearOther,2,bf,"The user preemtively attacks the target."
-959,LOVETRAIN,Love Train,DF07,0,FAIRY,Status,0,10,0,User,0,,"The user activates Love Train, raising all its stats by 1 stage and taking less damage from all types."
-960,BALLBREAKER,Ball Breaker,DF08,200,STEEL,Special,0,10,0,NearOther,0,frs,"The user charges up energy in their steel ball for 1 turn, ignoring the opponent's stat boosts and destroying Reflect, Light Screen, Protect, etc."
-961,SILENTWAY,Silent Way,00F,90,NORMAL,Special,100,10,40,NearOther,0,bfk,"The user attacks the target with sound waves, with the chance of making it flinch."
-962,SCARYMONSTER,Scary Monster,DF09,0,DARK,Status,0,10,0,NearOther,0,b,"The user lowers the target's attacking stats by 2 stages and raises its own by the same amount."
-963,SPEEDKING,Speed King,00A,80,FIRE,Special,100,10,100,NearOther,0,bf,"The user generates a lot of heat, causing the target to be burned."
-964,FUNFUNFUN,Fun Fun Fun,DF10,90,PSYCHIC,Special,100,10,100,NearOther,0,bf,"The user binds and confuses the target with fun."
-965,SOFTANDWET,Soft & Wet,DF11,90,WATER,Special,100,10,0,NearOther,0,bf,"The user removes the target's item and steals its stat boosts."
-966,VITAMINC,Vitamin C,DF12,0,FAIRY,Status,100,10,0,NearOther,0,b,"The user applies an overdose of vitamins to the target, drastically lowering its Def and Sp. Def."
 #--------------------------------
 # Zone Moves (SZ)
 #--------------------------------
@@ -1071,7 +1052,7 @@
 1215,BTRIPLEAXEL,B Triple Axel,SP06,40,ICE,Physical,90,10,0,NearOther,0,abf,"A consecutive three-kick attack that becomes more powerful with each successful hit.
 # Hoenn Trainers
 1216,LUSTERPURGE2,Luster Purge,04F,70,PSYCHIC,Special,100,10,100,NearOther,0,bf,"The user lets loose a damaging burst of light to reduce the target's Sp. Def stat by 2 stages."
-1217,DRACOMETEOR2,Draco Meteor,SP07,130,DRAGON,Special,90,5,100,NearOther,0,bf,"Comets are summoned down from the sky."
+1217,DRACOMETEOR2,Draco Meteor,SP07,130,DRAGON,Special,90,5,0,NearOther,0,bf,"Comets are summoned down from the sky."
 1218,BLAZEKICK2,Blaze Kick,SP08,105,FIRE,Physical,90,10,10,NearOther,0,abfh,"The user launches a kick with a high critical-hit ratio. It sharply lowers the defense of the target and may also leave the target with a burn."
 1219,BDAZZLINGGLEAM,B Dazzling Gleam,SP09,120,FAIRY,Special,100,1,0,AllFoes,0,fp,"The user lets out a light which lowers the target's attack, Sp. Atk and makes them weaker to Fairy attacks."
 1220,ZENHEADBUTT2,Zen Headbutt,SP10,80,PSYCHIC,Physical,90,15,30,NearOther,0,ab,"The user focuses its willpower to its head and attacks the foe. It may also make the target flinch."
@@ -1117,8 +1098,8 @@
 1252,DRAGONASCENT2,Dragon Ascent,02A,130,FLYING,Physical,100,5,100,NearOther,0,abf,"The user soars upward and drops at high speeds. Its Defense and Sp. Def stats are raised."
 1253,MISTBALL2,Mist Ball,13D,70,PSYCHIC,Special,100,10,100,NearOther,0,bfn,"A mistlike flurry of down envelops and damages the target. It harshly lowers the target's Sp. Atk."
 1254,AIRCUTTER2,Air Cutter,012,60,FLYING,Special,95,25,50,AllNearFoes,0,bfh,"The user launches razor-like wind to slash the opposing team. Critical hits land more easily."
-1255,FIRESPIN2,Fire Spin,AP02,35,FIRE,Special,85,15,100,NearOther,0,bf,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
-1256,TWISTER2,Twister,AP02,40,DRAGON,Special,100,20,100,AllNearFoes,0,b,"The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch."
+1255,FIRESPIN2,Fire Spin,AP02,35,FIRE,Special,85,15,0,NearOther,0,bf,"The target becomes trapped within a fierce vortex of fire that rages for four to five turns."
+1256,TWISTER2,Twister,AP02,40,DRAGON,Special,100,20,20,AllNearFoes,0,b,"The user whips up a vicious tornado to tear at the opposing team. It may also make targets flinch."
 #--------------------------------
 # NC Pokémon Moves (NP)
 #--------------------------------
