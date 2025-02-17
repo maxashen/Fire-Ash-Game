@@ -3117,7 +3117,7 @@ BaseStats = 95,180,140,150,60,90
 Abilities = CHIVALROUSWILL
 Pokedex = Hitsukid's Sirfetch'd, embodiment of War, hungry for battles.
 #-------------------------------
-[EXCADRILL,1]
+[MUK,2]
 FormName = Famine
 PokedexForm = 1
 Type1 = ICE
