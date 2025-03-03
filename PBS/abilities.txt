@@ -307,3 +307,7 @@
 416,TIMEACCELERATION,Time Acceleration,"Boost user's speed and priority every turn."
 417,PARALLELPROTECTION,Parallel Protection,"Gain/increase substitute after an attack."
 418,CALAMATICMISFORTUNE,Calamatic Misfortune,"Reduce target's hp by 25% of its hp after being attacked."
+419,SINNOHSEARTH,Earth of Sinnoh,"Sinnoh's hopes are manifested in the raging earth."
+420,JOHTOSDRACO,Draco of Johto,"Johto's hopes are manifested in this majestic beast."
+421,HOENNSIRON,Iron of Hoenn,"Hoenn's hopes are manifested in this shiny iron."
+422,GALARSFLAME,Flame of Galar,"Galar's hopes are manifested in this bright flame."

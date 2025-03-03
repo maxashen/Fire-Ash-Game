@@ -1137,4 +1137,22 @@
 1269,LEER2,Leer,NP12,0,NORMAL,Status,100,5,0,AllFoes,0,bce,"The user gains an intimidating leer with sharp eyes. The target's Defense stat is reduced."
 1270,BOUTRAGE,Dark Black Outrage,NP13,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
 1271,BRELICSONG,Relic Song of Wonder,NP14,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."
+#--------------------------------
+# aRc Suit TMs (RT)
+#--------------------------------
+1300,ARCCYNTHIA,Greatest Battle!,RT00,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Cynthia's signature move."
+1301,ARCSTEVEN,We're the Strongest!,RT01,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Steven's signature move."
+1302,ARCLANCE,Let's Get Serious!,RT02,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Lance's signature move."
+1303,ARCLEON,Passion Ablaze!,AT01,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Leon's signature move."
+#--------------------------------
+# aRc Suit PMs (RP)
+#--------------------------------
+1304,AEARTHQUAKE,Almighty Rending Earthquake,RP00,120,GROUND,Physical,100,10,100,AllFoes,0,f,"The user sets off an earthquake that strikes all enemy Pokémon."
+1305,DEARTHQUAKE,Catacylsmic Divine Earthquake,SM00,150,GROUND,Physical,100,1,100,NearOther,0,f,"The user sets off an earthquake that strikes all enemy Pokémon."
+1306,ABULLETPUNCH,Almighty Flash Bullet Punch,RP01,50,STEEL,Physical,0,3,100,NearOther,1,abefj,"The user strikes the target with tough punches as fast as bullets. This move always goes first."
+1307,DMETEORMASH,Polished Steel Divine Meteor Mash,SM00,120,STEEL,Physical,100,1,100,NearOther,0,abefj,"The target is hit with a hard punch fired like a meteor."
+1308,HYPERBEAM2,Hyper Beam,000,150,NORMAL,Special,90,5,0,NearOther,0,bef,"The foe is attacked with a powerful beam."
+1309,AHYPERBEAM,Almighty Roar Hyper Beam,RP02,180,NORMAL,Special,0,1,0,NearOther,0,f,"The foe is attacked with a powerful beam."
+1310,AFIREBLAST,Almightly Fire Blast,RP03,140,FIRE,Special,100,1,100,NearOther,0,f,"The foe is attacked with an intense blast of all-consuming fire. It also leaves the target with a burn."
+1311,DFIREBLAST,Fiery Determination Divine Fire Blast,SM00,180,FIRE,Special,100,1,100,NearOther,0,f,"The foe is attacked with an intense blast of all-consuming fire."
 

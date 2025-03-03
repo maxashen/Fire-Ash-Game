@@ -513,3 +513,7 @@
 510,SECRET_Volo,Malicious Worshipper,0,secretvolo.ogg,,,Male,200,
 511,SECRET_HIngo,Amnestic Warden,0,secrethisui.ogg,,,Male,200,
 512,SECRET_Zisu,Fiery Trainer,0,secrethisui.ogg,,,Female,200,
+513,ARC_Cynthia,Arc Suit,0,sygnacynthia.ogg,,,Female,,
+514,ARC_Lance,Arc Suit,0,secretlance.ogg,,,Male,200,
+515,ARC_Steven,Arc Suit,0,sygnasteven.ogg,Battle Victory Leader,,Male,200,
+516,ARC_Leon,Arc Suit,200,secretleon.ogg,,,Male,,

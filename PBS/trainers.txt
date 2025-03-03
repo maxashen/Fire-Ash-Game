@@ -63722,6 +63722,50 @@ Pokemon = MELOETTA,100
     IV = 31,31,31,31,31,31
     EV = 4,0,252,0,0,252
 #-------------------------------
+[ARC_Cynthia,Cynthia]
+LoseText = "What a great battle!"
+Pokemon = GARCHOMP,100
+    Moves = SANDSTORM,AEARTHQUAKE,ARCCYNTHIA,DEARTHQUAKE
+    Ability = SINNOHSEARTH
+    Item = SOFTSAND
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = HARDY
+    Happiness = 255
+#-------------------------------
+[ARC_Lance,Lance]
+LoseText = "I've been bested!"
+Pokemon = DRAGONITE,100
+    Moves = GIGAIMPACT2,HYPERBEAM2,AHYPERBEAM,ARCLANCE
+    Ability = JOHTOSDRACO
+    Item = DRAGONFANG
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = HARDY
+    Happiness = 255
+#-------------------------------
+[ARC_Steven,Steven]
+LoseText = "I'm no longer the strongest there is."
+Pokemon = METAGROSS,100
+    Moves = IRONHEAD,ABULLETPUNCH,ARCSTEVEN,DMETEORMASH
+    Ability = HOENNSIRON
+    Item = METALCOAT
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = HARDY
+    Happiness = 255
+#-------------------------------
+[ARC_Leon,Leon]
+LoseText = "That was a Champion Time!"
+Pokemon = CHARIZARD,100
+    Moves = INFERNO,AFIREBLAST,ARCLEON,DFIREBLAST
+    Ability = GALARSFLAME
+    Item = CHARCOAL
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = TIMID
+    Happiness = 255
+#-------------------------------
 [SECRET_Lucker2,Luc-ker]
 LoseText = "IT'S LUC-KER DAMMIT!"
 Pokemon = LUCARIO,100
