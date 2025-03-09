@@ -63766,6 +63766,17 @@ Pokemon = CHARIZARD,100
     Nature = TIMID
     Happiness = 255
 #-------------------------------
+[ARC_N,N]
+LoseText = "Your love for Pokémon is greater than mine."
+Pokemon = ZOROARK,100
+    Moves = NIGHTDAZE,ANIGHTDAZE,ARCN,DNIGHTDAZE
+    Ability = UNOVASDREAD
+    Item = BLACKGLASSES
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = TIMID
+    Happiness = 255
+#-------------------------------
 [SECRET_Lucker2,Luc-ker]
 LoseText = "IT'S LUC-KER DAMMIT!"
 Pokemon = LUCARIO,100

@@ -516,4 +516,5 @@
 513,ARC_Cynthia,Arc Suit,0,sygnacynthia.ogg,,,Female,,
 514,ARC_Lance,Arc Suit,0,secretlance.ogg,,,Male,200,
 515,ARC_Steven,Arc Suit,0,sygnasteven.ogg,Battle Victory Leader,,Male,200,
-516,ARC_Leon,Arc Suit,200,secretleon.ogg,,,Male,,
+516,ARC_Leon,Arc Suit,0,secretleon.ogg,,,Male,200,
+517,ARC_N,Arc Suit,0,sygnaN.ogg,Battle Victory Leader,,Male,,

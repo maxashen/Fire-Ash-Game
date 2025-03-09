@@ -311,3 +311,4 @@
 420,JOHTOSDRACO,Draco of Johto,"Johto's hopes are manifested in this majestic beast."
 421,HOENNSIRON,Iron of Hoenn,"Hoenn's hopes are manifested in this shiny iron."
 422,GALARSFLAME,Flame of Galar,"Galar's hopes are manifested in this bright flame."
+423,UNOVASDREAD,Dread of Unova,"Unova's hopes are manifested in this dreadful beast."
