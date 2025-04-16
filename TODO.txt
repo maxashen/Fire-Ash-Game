@@ -1,0 +1,32 @@
+- update fly map graphics
+- move anims for z-moves and max moves
+- move anims for "duplicate" moves
+- move anims for customs moves
+- try and cut down on game size by utilising audio looping (idk if the mkxp update has made the looping work, we'll see)
+- utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
+
+- waiting for ow sprites for sync and titan trainers
+Anniversary Lillie
+Anniversary N
+Anniversary Steven
+Anniversary May
+Anniversary Skyla
+Anniversary Raihan
+
+Sygna Suit Roxie
+Sygna Suit Piers
+Sygna Suit Gladion
+Sygna Suit Emmet
+Sygna Suit Ingo
+Sygna Suit Gio (Guzzlord fit) (currently being done by Megshi)
+
+Neo Champion Serena
+Neo Champion Calem
+Neo Champion Marnie
+Neo Champion Hop
+Neo Champion Bede
+Neo Champion Red
+Neo Champion Leaf
+Neo Champion Blue
+Neo Champion Nate
+Neo Champion Rosa
