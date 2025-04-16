@@ -12,6 +12,7 @@ module GameData
       "Moves"        => [:moves,         "*e", :Move],
       "Ability"      => [:ability,       "s"],
       "AbilityIndex" => [:ability_index, "u"],
+      "Passive"      => [:passive,       "s"],
       "Item"         => [:item,          "e", :Item],
       "Gender"       => [:gender,        "e", { "M" => 0, "m" => 0, "Male" => 0, "male" => 0, "0" => 0,
                                                 "F" => 1, "f" => 1, "Female" => 1, "female" => 1, "1" => 1 }],
@@ -54,6 +55,7 @@ module GameData
         end
         pkmn.ability_index = pkmn_data[:ability_index]
         pkmn.ability = pkmn_data[:ability]
+        pkmn.passive = pkmn_data[:passive]
         pkmn.gender = pkmn_data[:gender] || ((trainer.male?) ? 0 : 1)
         pkmn.shiny = (pkmn_data[:shininess]) ? true : false
         if pkmn_data[:nature]

@@ -500,30 +500,36 @@ module Compiler
             raise _INTL("Pokémon hasn't been defined yet!\r\n{1}", FileLineData.linereport)
           end
           case property_name
-		  when "Ability"
-            if property_value[/^\d+$/]
-              current_pkmn[:ability_index] = property_value.to_i
-            elsif !GameData::Ability.exists?(property_value.to_sym)
-              raise _INTL("Value {1} isn't a defined Ability.\r\n{2}", property_value, FileLineData.linereport)
-            else
-              current_pkmn[line_schema[0]] = property_value.to_sym
-            end				
+          when "Ability"
+              if property_value[/^\d+$/]
+                current_pkmn[:ability_index] = property_value.to_i
+              elsif !GameData::Ability.exists?(property_value.to_sym)
+                raise _INTL("Value {1} isn't a defined Ability.\r\n{2}", property_value, FileLineData.linereport)
+              else
+                current_pkmn[line_schema[0]] = property_value.to_sym
+              end
+          when "Passive"
+              if !GameData::Ability.exists?(property_value.to_sym)
+                raise _INTL("Value {1} isn't a defined Ability.\r\n{2}", property_value, FileLineData.linereport)
+              else
+                current_pkmn[line_schema[0]] = property_value.to_sym
+              end
           when "IV", "EV"
-            value_hash = {}
-            GameData::Stat.each_main do |s|
-              next if s.pbs_order < 0
-              value_hash[s.id] = property_value[s.pbs_order] || property_value[0]
-            end
-            current_pkmn[line_schema[0]] = value_hash
-		  when "Ball"
-            if property_value[/^\d+$/]
-              current_pkmn[line_schema[0]] = pbBallTypeToItem(property_value.to_i).id
-            elsif !GameData::Item.exists?(property_value.to_sym) ||
-               !GameData::Item.get(property_value.to_sym).is_poke_ball?
-              raise _INTL("Value {1} isn't a defined Poké Ball.\r\n{2}", property_value, FileLineData.linereport)
-            else
-              current_pkmn[line_schema[0]] = property_value.to_sym
-            end 
+              value_hash = {}
+              GameData::Stat.each_main do |s|
+                next if s.pbs_order < 0
+                value_hash[s.id] = property_value[s.pbs_order] || property_value[0]
+              end
+              current_pkmn[line_schema[0]] = value_hash
+          when "Ball"
+              if property_value[/^\d+$/]
+                current_pkmn[line_schema[0]] = pbBallTypeToItem(property_value.to_i).id
+              elsif !GameData::Item.exists?(property_value.to_sym) ||
+                !GameData::Item.get(property_value.to_sym).is_poke_ball?
+                raise _INTL("Value {1} isn't a defined Poké Ball.\r\n{2}", property_value, FileLineData.linereport)
+              else
+                current_pkmn[line_schema[0]] = property_value.to_sym
+              end 
           else
             current_pkmn[line_schema[0]] = property_value
           end
@@ -627,6 +633,7 @@ module Compiler
           current_pkmn[:dynamax_lvl]  = line_data[17] if line_data[17]
           current_pkmn[:gmaxfactor]   = line_data[18] if line_data[18]
           current_pkmn[:acepkmn]      = line_data[19] if line_data[19]
+          current_pkmn[:passive]      = line_data[20] if line_data[20]
           old_format_current_line = 0 if old_format_current_line >= old_format_expected_lines
         end
       end
@@ -669,6 +676,7 @@ module Compiler
           f.write("    Shadow = yes\r\n") if pkmn[:shadowness]
           f.write(sprintf("    Moves = %s\r\n", pkmn[:moves].join(","))) if pkmn[:moves] && pkmn[:moves].length > 0
           f.write(sprintf("    Ability = %d\r\n", pkmn[:ability_flag])) if pkmn[:ability_flag]
+          f.write(sprintf("    Passive = %s\r\n", pkmn[:passive])) if pkmn[:passive]
           f.write(sprintf("    Item = %s\r\n", pkmn[:item])) if pkmn[:item]
           f.write(sprintf("    Nature = %s\r\n", pkmn[:nature])) if pkmn[:nature]
           ivs_array = []

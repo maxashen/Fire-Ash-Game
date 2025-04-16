@@ -313,7 +313,7 @@
 422,GALARSFLAME,Flame of Galar,"Galar's hopes are manifested in this bright flame."
 423,UNOVASDREAD,Dread of Unova,"Unova's hopes are manifested in this dreadful beast."
 #------------------------------------
-# Passives
+# Player Passives
 #------------------------------------
 500,ACTIVEHEALING,Active Healing,"Restores 2% of user's max HP after it uses a move."
 501,BRAWNGAIN,Brawn Gain,"10% chance to boost Attack stat after using a move."
@@ -360,6 +360,11 @@
 542,CLIMBTOEDGE,Climb To Edge,"Creates a Rock Zone upon entering battle."
 543,HAUNTEDFALLING,Haunted Falling,"Creates a Ghost Zone upon entering battle."
 544,DRACODOMAIN,Draco Domain,"Creates a Dragon Zone upon entering battle."
-545,UMBRALCALL,Umbral Call"Creates a Dark Zone upon entering battle."
+545,UMBRALCALL,Umbral Call,"Creates a Dark Zone upon entering battle."
 546,IRONSURROUNDINGS,Iron Surroundings,"Creates a Steel Zone upon entering battle."
 547,ETHEREALENTRANCE,Ethereal Entrance,"Creates a Fairy Zone upon entering battle."
+#------------------------------------
+# Enemy Passives
+#------------------------------------
+550,HONINGHIT,Honing Hit,"Increase Atk. and Crit Rate when attacking."
+551,SEEKINGHIT,Seeking Hit,"Increase Sp. Atk. and Crit Rate when attacking."

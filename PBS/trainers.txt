@@ -48931,7 +48931,7 @@ Pokemon = GARBODOR,100
 #-------------------------------
 [SECRET_Ingo,Ingo]
 Items = HYPERPOTION,FULLHEAL
-LoseText = "Looks like the end of the line."
+LoseText = "Looks like it's the end of the line."
 Pokemon = MUK,75
     Moves = SLUDGEWAVE,BRICKBREAK,FLAMETHROWER,ROCKSLIDE
     Form = 1
@@ -48975,7 +48975,7 @@ Pokemon = ESCAVALIER,90
     Happiness = 255
 #-------------------------------
 [SECRET_Ingo,Ingo,2]
-LoseText = "Looks like the end of the line."
+LoseText = "Looks like it's the end of the line."
 Pokemon = MUK,100
     Moves = SLUDGEWAVE,BRICKBREAK,FLAMETHROWER,ROCKSLIDE
     Gender = male
@@ -49096,7 +49096,7 @@ Pokemon = EXCADRILL,100
     Happiness = 255
 #-------------------------------
 [SECRET_Ingo,Ingo,4]
-LoseText = "Looks like the end of the line."
+LoseText = "Looks like it's the end of the line."
 Pokemon = MUK,100
     Moves = PURSUIT,GUNKSHOT,KNOCKOFF,FIREPUNCH
     Gender = male
@@ -63392,20 +63392,6 @@ Pokemon = SHARPEDO,100
     IV = 31,31,31,31,31,31
     EV = 4,252,0,252,0,0
 #-------------------------------
-[SYGNA_Roxie,Roxie]
-LoseText = "That was a jam!"
-Pokemon = TOXTRICITY,100
-    Moves = OVERDRIVE,BSLUDGEWAVE,SSROXIE
-    Form = 0
-    Ability = PUNKROCK3
-    Item = BLACKSLUDGE
-    Nature = TIMID
-    IV = 31,31,31,31,31,31
-    EV = 4,0,0,252,252,0
-    DynamaxLvl = 10
-    Gigantamax = yes
-    TrainerAce = yes
-#-------------------------------
 [SYGNA_Hilbert,Hilbert]
 LoseText = "Bummer."
 Pokemon = GENESECT,100
@@ -63555,6 +63541,54 @@ Pokemon = TOXTRICITY,100
     Nature = MODEST
     IV = 31,31,31,31,31,31
     EV = 4,0,0,252,252,0
+#-------------------------------
+[SYGNA_Roxie,Roxie]
+LoseText = "That was a jam!"
+Pokemon = TOXTRICITY,100
+    Moves = OVERDRIVE,BSLUDGEWAVE,SSROXIE
+    Form = 0
+    Ability = PUNKROCK3
+    Item = BLACKSLUDGE
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+    DynamaxLvl = 10
+    Gigantamax = yes
+    TrainerAce = yes
+#-------------------------------
+[SYGNA_Ingo,Ingo]
+LoseText = "Wonderful performance."
+Pokemon = CHANDELURE,100
+    Moves = WILLOWISP,CONFUSERAY,BHEX,SSINGO
+    Passive = SEEKINGHIT
+    Item = ZOOMLENS
+    Nature = TIMID
+    IV = 31,31,31,31,31,31
+    EV = 4,0,0,252,252,0
+    DynamaxLvl = 10
+    TrainerAce = yes
+#-------------------------------
+[SYGNA_Emmet,Emmet]
+LoseText = "Excellent performance."
+Pokemon = EELEKTROSS,100
+    Moves = THUNDERFANG,THUNDERWAVE,BWILDCHARGE,SSEMMET
+    Passive = HONINGHIT
+    Item = MAGNET
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,0,252,0
+    DynamaxLvl = 10
+    TrainerAce = yes
+#-------------------------------
+[SYGNA_Giovanni2,Giovanni]
+LoseText = "Truly despicable."
+Pokemon = GUZZLORD,100
+    Moves = STOCKPILE2,BSWALLOW,BCRUNCH,SSGIOVANNI2
+    Passive = ACTIVEHEALING
+    Item = LEFTOVERS
+    Nature = CAREFUL
+    IV = 31,31,31,31,31,31
+    EV = 252,0,128,0,0,128
 #-------------------------------
 [DOJO_Gloria,Gloria]
 LoseText = "Haha, that was my full power!"
@@ -63722,11 +63756,38 @@ Pokemon = MELOETTA,100
     IV = 31,31,31,31,31,31
     EV = 4,0,252,0,0,252
 #-------------------------------
+[NC_Silver,Silver]
+LoseText = "Darn it... we still aren't strong enough."
+Pokemon = TYRANITAR,100
+    Moves = STONEEDGE,BROCKSLIDE,NCSILVER
+    Nature = ADAMANT
+    Ability = SANDSTREAM2
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+#-------------------------------
+[NC_Cheren,Cheren]
+LoseText = "Still have a lot of learning to do."
+Pokemon = TORNADUS,100
+    Moves = BLEAKWINDSTORM2,FLY,BBLEAKWINDSTORM,NCCHEREN
+    Nature = HARDY
+    AbilityIndex = 2
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,0,252,0
+#-------------------------------
+[NC_Bianca,Bianca]
+LoseText = "Back to the first steps we go."
+Pokemon = VIRIZION,100
+    Moves = SACREDSWORD2,BSACREDSWORD,NCBIANCA
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,252,0,0
+#-------------------------------
 [ARC_Cynthia,Cynthia]
 LoseText = "What a great battle!"
 Pokemon = GARCHOMP,100
     Moves = SANDSTORM,AEARTHQUAKE,ARCCYNTHIA,DEARTHQUAKE
     Ability = SINNOHSEARTH
+    Passive = ACTIVEHEALING
     Item = SOFTSAND
     IV = 31
     EV = 4,0,0,252,252,0

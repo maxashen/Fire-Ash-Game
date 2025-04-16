@@ -139,6 +139,12 @@ module Compiler
             else
               current_pkmn[line_schema[0]] = property_value.to_sym
             end
+          when "Passive"
+              if !GameData::Ability.exists?(property_value.to_sym)
+                raise _INTL("Value {1} isn't a defined Ability.\r\n{2}", property_value, FileLineData.linereport)
+              else
+                current_pkmn[line_schema[0]] = property_value.to_sym
+              end
           when "IV", "EV"
             value_hash = {}
             GameData::Stat.each_main do |s|
@@ -264,6 +270,7 @@ module Compiler
           current_pkmn[:dynamax_lvl]   = line_data[17] if line_data[17]
           current_pkmn[:gmaxfactor]    = line_data[18] if line_data[18]
           current_pkmn[:acepkmn]       = line_data[19] if line_data[19]
+          current_pkmn[:passive]       = line_data[20] if line_data[20]
           # Check if this is the last expected Pokémon
           old_format_current_line = 0 if old_format_current_line >= old_format_expected_lines
         end
@@ -310,6 +317,7 @@ module GameData
       "Moves"        => [:moves,         "*e", :Move],
       "Ability"      => [:ability,       "s"],
       "AbilityIndex" => [:ability_index, "u"],
+      "Passive"      => [:passive,       "s"],
       "Item"         => [:item,          "e", :Item],
       "Gender"       => [:gender,        "e", { "M" => 0, "m" => 0, "Male" => 0, "male" => 0, "0" => 0,
                                                 "F" => 1, "f" => 1, "Female" => 1, "female" => 1, "1" => 1 }],
@@ -452,6 +460,7 @@ module GameData
         end
         pkmn.ability_index = pkmn_data[:ability_index]
         pkmn.ability = pkmn_data[:ability]
+        pkmn.passive = pkmn_data[:passive]
         pkmn.gender = pkmn_data[:gender] || ((trainer.male?) ? 0 : 1)
         pkmn.shiny = (pkmn_data[:shininess]) ? true : false
         if pkmn_data[:nature]

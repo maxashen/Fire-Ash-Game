@@ -1,0 +1,2 @@
+- update fly map graphics
+- waiting for ow sprites for sync and titan trainers

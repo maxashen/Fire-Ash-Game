@@ -114,6 +114,7 @@ module TrainerPokemonProperty
     oldsetting.concat([
       initsetting[:ability],
       initsetting[:ability_index],
+      initsetting[:passive], # Custom attribute
       initsetting[:item],
       initsetting[:nature],
       initsetting[:iv],
@@ -142,20 +143,21 @@ module TrainerPokemonProperty
          MovePropertyForSpecies.new(oldsetting), _INTL("A move known by the Pokémon. Leave all moves blank (use Z key to delete) for a wild moveset.")])
     end
     pkmn_properties.concat([
-       [_INTL("Ability"),       AbilityProperty,                         _INTL("Ability of the Pokémon. Overrides the ability index.")],
-       [_INTL("Ability index"), LimitProperty2.new(99),                  _INTL("Ability index. 0=first ability, 1=second ability, 2+=hidden ability.")],
-       [_INTL("Held item"),     ItemProperty,                            _INTL("Item held by the Pokémon.")],
-       [_INTL("Nature"),        GameDataProperty.new(:Nature),           _INTL("Nature of the Pokémon.")],
-       [_INTL("IVs"),           IVsProperty.new(Pokemon::IV_STAT_LIMIT), _INTL("Individual values for each of the Pokémon's stats.")],
-       [_INTL("EVs"),           EVsProperty.new(Pokemon::EV_STAT_LIMIT), _INTL("Effort values for each of the Pokémon's stats.")],
-       [_INTL("Happiness"),     LimitProperty2.new(255),                 _INTL("Happiness of the Pokémon (0-255).")],
-       [_INTL("Poké Ball"),     BallProperty.new(oldsetting),            _INTL("The kind of Poké Ball the Pokémon is kept in.")],
-	   #------------------------------------------------------------------------
-       # Dynamax values.
-       #------------------------------------------------------------------------
-       [_INTL("Dynamax Lvl"),  LimitProperty2.new(10),               _INTL("The Dynamax level of the Pokémon (0-10).")],
-       [_INTL("G-Max Factor"), BooleanProperty2,                     _INTL("If set to true, the Pokémon has G-Max Factor.")],
-       [_INTL("Trainer Ace"),  BooleanProperty2,                     _INTL("If set to true, the trainer will save Dynamax for this Pokémon.")]
+      [_INTL("Ability"),       AbilityProperty,                         _INTL("Ability of the Pokémon. Overrides the ability index.")],
+      [_INTL("Ability index"), LimitProperty2.new(99),                  _INTL("Ability index. 0=first ability, 1=second ability, 2+=hidden ability.")],
+      [_INTL("Passive"),       AbilityProperty,                         _INTL("Passive of the Pokémon.")], # Custom attribute
+      [_INTL("Held item"),     ItemProperty,                            _INTL("Item held by the Pokémon.")],
+      [_INTL("Nature"),        GameDataProperty.new(:Nature),           _INTL("Nature of the Pokémon.")],
+      [_INTL("IVs"),           IVsProperty.new(Pokemon::IV_STAT_LIMIT), _INTL("Individual values for each of the Pokémon's stats.")],
+      [_INTL("EVs"),           EVsProperty.new(Pokemon::EV_STAT_LIMIT), _INTL("Effort values for each of the Pokémon's stats.")],
+      [_INTL("Happiness"),     LimitProperty2.new(255),                 _INTL("Happiness of the Pokémon (0-255).")],
+      [_INTL("Poké Ball"),     BallProperty.new(oldsetting),            _INTL("The kind of Poké Ball the Pokémon is kept in.")],
+      #------------------------------------------------------------------------
+      # Dynamax values.
+      #------------------------------------------------------------------------
+      [_INTL("Dynamax Lvl"),  LimitProperty2.new(10),               _INTL("The Dynamax level of the Pokémon (0-10).")],
+      [_INTL("G-Max Factor"), BooleanProperty2,                     _INTL("If set to true, the Pokémon has G-Max Factor.")],
+      [_INTL("Trainer Ace"),  BooleanProperty2,                     _INTL("If set to true, the trainer will save Dynamax for this Pokémon.")]
     ])
     pbPropertyList(settingname, oldsetting, pkmn_properties, false)
     return nil if !oldsetting[0]   # Species is nil
@@ -175,12 +177,16 @@ module TrainerPokemonProperty
       :ev            => oldsetting[12 + Pokemon::MAX_MOVES],
       :happiness     => oldsetting[13 + Pokemon::MAX_MOVES],
       :poke_ball     => oldsetting[14 + Pokemon::MAX_MOVES],
-	  #-------------------------------------------------------------------------
+      #-------------------------------------------------------------------------
       # Dynamax values.
       #-------------------------------------------------------------------------
       :dynamax_lvl   => oldsetting[15 + Pokemon::MAX_MOVES],
       :gmaxfactor    => oldsetting[16 + Pokemon::MAX_MOVES],
-      :acepkmn       => oldsetting[17 + Pokemon::MAX_MOVES]
+      :acepkmn       => oldsetting[17 + Pokemon::MAX_MOVES],
+      #-------------------------------------------------------------------------
+      # Custom attributes.
+      #-------------------------------------------------------------------------
+      :passive       => oldsetting[18 + Pokemon::MAX_MOVES]
     }
     moves = []
     Pokemon::MAX_MOVES.times do |i|
