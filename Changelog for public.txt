@@ -6,6 +6,7 @@ Qol Changes and Improvements:
 - Added a PC to Kukui's Lab
 - Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish
 - Added Common Candy, which decreases the level of a Pokémon by 1 and added a vendor to Pallet Town after becoming the Orange League Champion (use with caution - the levels for certain trainers' Pokémon don't reset!)
+- Stopped disabling Fly after beating becoming Orange League Champion
 - Rotom Phone can now tell you where to go during the Journeys arc
 - Furfrou can get trims at Lumiose Art Museum
 - Added animations when Poké Balls open in battle
@@ -49,6 +50,7 @@ Grandeur Club Changes:
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
+- Most trainers will now reserve their last Pokémon until the end of the battle
 
 
 ********************************

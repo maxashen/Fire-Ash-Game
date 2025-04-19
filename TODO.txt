@@ -1,9 +1,12 @@
+- update all ledges (done)
+
 - update fly map graphics
 - move anims for z-moves and max moves
 - move anims for "duplicate" moves
 - move anims for customs moves
 - try and cut down on game size by utilising audio looping (idk if the mkxp update has made the looping work, we'll see)
 - utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
+- could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (e.g. Tierno, Trevor)
 
 - waiting for ow sprites for sync and titan trainers
 Anniversary Lillie

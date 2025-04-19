@@ -6,6 +6,8 @@ Data/Actors.rxdata
 Data/Animations.rxdata
 Data/Armors.rxdata
 Data/Enemies.rxdata
+Data/Items.rxdata
+Data/MapInfos.rxdata
 Data/Skills.rxdata
 Data/States.rxdata
 Data/PokemonSystemSettings.dat
