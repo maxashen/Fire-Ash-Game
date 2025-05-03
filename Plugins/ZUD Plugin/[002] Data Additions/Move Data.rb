@@ -27,6 +27,11 @@ class PokeBattle_Move
 	  else
 	    @battle.pbCommonAnimation("ZPower",user,nil) if Settings::GEN8_COMPAT && @battle.scene.pbCommonAnimationExists?("ZPower")
 	  end
+    # Change form for certain Z-Moves (added by Luc-ker)
+    # Solgaleo: Searing Sunraze Smash, Lunala: Menacing Moonraze Maelstrom, Marshadow: Soul-Stealing 7-Star Strike
+    user.pbChangeForm(1, "") if ((user.isSpecies?(:SOLGALEO) && @id == :SEARINGSUNRAZESMASH) ||
+      (user.isSpecies?(:LUNALA) && @id == :MENACINGMOONRAZEMAELSTROM) ||
+      (user.isSpecies?(:MARSHADOW) && @id == :SOULSTEALING7STARSTRIKE))
 	  PokeBattle_ZMove.from_status_move(@battle, @id, user) if statusMove?
 	  @battle.pbDisplay(_INTL("{1} surrounded itself with its Z-Power!",user.pbThis)) if !statusMove?
       @battle.pbDisplay(_INTL("{1} unleashed its full force Z-Move!",user.pbThis))

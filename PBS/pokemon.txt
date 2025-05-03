@@ -10157,7 +10157,7 @@ BattlerEnemyX = 0
 BattlerEnemyY = 29
 BattlerShadowX = 0
 BattlerShadowSize = 2
-Evolutions = PROBOPASS,Location,393,PROBOPASS,Location,550,PROBOPASS,Location,704,PROBOPASS,Location,705,PROBOPASS,Location,706,PROBOPASS,Location,774,PROBOPASS,Location,832,PROBOPASS,Location,921
+Evolutions = PROBOPASS,Item,THUNDERSTONE,PROBOPASS,Location,393,PROBOPASS,Location,550,PROBOPASS,Location,704,PROBOPASS,Location,705,PROBOPASS,Location,706,PROBOPASS,Location,774,PROBOPASS,Location,832,PROBOPASS,Location,921
 #-------------------------------
 [300]
 Name = Skitty

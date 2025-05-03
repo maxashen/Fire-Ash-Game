@@ -95,6 +95,20 @@ class PokeBattle_ZMove < PokeBattle_Move
     return @type if !@status
     return super(user)
   end
+
+  #-----------------------------------------------------------------------------
+  # Revert the form of the user if it's a specific Z-move from a specific user
+  # (e.g. Solgaleo, Lunala, Marshadow).
+  #-----------------------------------------------------------------------------
+  # NOTE: The form is changed in Move Data.rb, but the form is reverted here.
+  # (Added by Luc-ker)
+  #-----------------------------------------------------------------------------
+  def pbEffectWhenDealingDamage(user,target)
+    return if !((user.isSpecies?(:SOLGALEO) && @id == :SEARINGSUNRAZESMASH) ||
+      (user.isSpecies?(:LUNALA) && @id == :MENACINGMOONRAZEMAELSTROM) ||
+      (user.isSpecies?(:MARSHADOW) && @id == :SOULSTEALING7STARSTRIKE))
+    user.pbChangeForm(0, "")
+  end
   
   #=============================================================================
   # Converts move's power into Z-Move power.
