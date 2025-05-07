@@ -1,28 +1,17 @@
-- update all ledges (done)
+- cut down on game size by utilising audio looping (currently at ghetsis)
+ - current prediction: game should go down to ~700 MB
+ - 101 to go (from 138), game stands at 1.34 GB atm
+ - may need to re-look at the following: secretdespair, secretfoul, secret___
 
-- update fly map graphics
-- move anims for z-moves and max moves
-- move anims for "duplicate" moves
-- move anims for customs moves
-- try and cut down on game size by utilising audio looping (idk if the mkxp update has made the looping work, we'll see)
+- update fly map graphics (just need bg now)
+- move anims for z-moves and max moves (I'll have to check which moves specifically)
+- move anims for customs moves (mainly despair)
+- move anims for "duplicate" moves, or rework the existing trainers (see below)
 - utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
-- could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (e.g. Tierno, Trevor)
+- could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (already done for Tierno, Trevor and Shauna)
+- maybe redo Brooklet Hill into another map (currently map 912)
 
-- waiting for ow sprites for sync and titan trainers
-Anniversary Lillie
-Anniversary N
-Anniversary Steven
-Anniversary May
-Anniversary Skyla
-Anniversary Raihan
-
-Sygna Suit Roxie
-Sygna Suit Piers
-Sygna Suit Gladion
-Sygna Suit Emmet
-Sygna Suit Ingo
-Sygna Suit Gio (Guzzlord fit) (currently being done by Megshi)
-
+- waiting for ow sprites for sync and titan trainers (Vermint unless stated otherwise)
 Neo Champion Serena
 Neo Champion Calem
 Neo Champion Marnie
@@ -33,3 +22,12 @@ Neo Champion Leaf
 Neo Champion Blue
 Neo Champion Nate
 Neo Champion Rosa
+Neo Champion Brendan (currently being done by Megshi)
+Neo Champion May (currently being done by Megshi)
+
+Arc Suit Cynthia
+Arc Suit Lance
+Arc Suit Steven
+Arc Suit Leon
+Arc Suit N
+Arc Suit Alder

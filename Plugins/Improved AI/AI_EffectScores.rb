@@ -136,7 +136,7 @@ class PokeBattle_AI
     end
     #---------------------------------------------------------------------------
     when "167"
-      if user.pbOwnSide.effects[PBEffects::AuroraVeil] > 0 || user.effectiveWeather != :Hail
+      if user.pbOwnSide.effects[PBEffects::AuroraVeil] > 0 || @battle.field.weather != :Hail
         score -= 90
       elsif user.item == :LIGHTCLAY
         score += 90

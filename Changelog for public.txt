@@ -14,6 +14,7 @@ Qol Changes and Improvements:
 - Items can be bought in bulk in Game Corners
 - Items in the bag can now be sorted by alphabetical order (use the quick save key, the default for that is left alt)
 - Move animations have been updated yet again
+- Reshiram, Zekrom, Solgaleo, Lunala, Marshadow, Zacian and Zamazenta change forms while using their signature moves
 - Music plays when encountering Team Rocket's Jessie and James in the overworld
 - Added an animation to when a Poke Ball bursts open in battle
 - Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc
@@ -28,7 +29,8 @@ Issues fixed:
 - Sun animation not showing up in battle
 - Morrison having the incorrect team when doing his non league rematch in the postgame
 - If both parents had power items, both corresponding IVs are passed down instead of just 1 of them
-- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point of the story
+- Fix Delia having the wrong sprite in the Alola League
+- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point of the Journeys arc
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
 - Some nicknames being butchered because of Essentials (thank you Kraegon! x4). this has been fixed by having them be resized or truncated when they're too long
@@ -51,6 +53,7 @@ Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
 - Most trainers will now reserve their last Pokémon until the end of the battle
+- Trimmed down on the game's size massively by making use of ogg metadata to loop BGM
 
 
 ********************************
