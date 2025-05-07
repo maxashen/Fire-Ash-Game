@@ -1,7 +1,8 @@
 ********************************
-Version 3.6 Part 2 (??-04/5?-2025)
+Version 3.6 Part 2 (??-06/7?-2025)
 ********************************
 Qol Changes and Improvements:
+- Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
 - Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh
 - Added a PC to Kukui's Lab
 - Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish

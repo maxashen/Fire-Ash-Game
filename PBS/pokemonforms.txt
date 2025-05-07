@@ -3106,7 +3106,7 @@ HiddenAbility = OVERCOAT
 Shape = Quadruped
 BattlerPlayerY = 44
 #-------------------------------
-[SIRFETCHD,1]
+[SIRFETCHD,2]
 FormName = War
 Type1 = FIGHTING
 Type2 = DARK
