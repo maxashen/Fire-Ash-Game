@@ -244,6 +244,7 @@
 241,POKEMONTRAINER_Tierno,Pokémon Trainer,60,rival-6,,,Male,,
 242,POKEMONTRAINER_Shauna,Pokémon Trainer,20,rival-6,,,Female,,
 243,POKEMONTRAINER_Trevor,Pokémon Trainer,48,rival-6,,,Male,,
+244,BASEBALLFAN,Baseball Fan,16,,,,Female,,
 
 ### Grandeur Club ###
 300,SECRET_Chuck,Roaring Fighter,0,secretjohto.ogg,,,Male,200,

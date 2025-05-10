@@ -7955,7 +7955,7 @@ Pokemon = BLASTOISE,100
     Moves = HYDROPUMP,SKULLBASH,RAPIDSPIN,WATERPULSE
     IV = 20
 #-------------------------------
-[PICNICKER,Casey]
+[BASEBALLFAN,Casey]
 LoseText = "Just how strong are you?"
 Pokemon = CHIKORITA,4
     Gender = male
@@ -7970,7 +7970,7 @@ Pokemon = RATTATA,3
     Moves = TACKLE
     IV = 20
 #-------------------------------
-[PICNICKER,Casey,1]
+[BASEBALLFAN,Casey,1]
 LoseText = "Just how strong are you?"
 Pokemon = BAYLEEF,24
     Gender = male
@@ -7985,7 +7985,7 @@ Pokemon = RATTATA,21
     Moves = TACKLE
     IV = 20
 #-------------------------------
-[PICNICKER,Casey,2]
+[BASEBALLFAN,Casey,2]
 LoseText = "Just how strong are you?"
 Pokemon = MEGANIUM,41
     Gender = male
