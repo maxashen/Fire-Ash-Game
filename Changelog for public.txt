@@ -3,58 +3,63 @@ Version 3.6 Part 2 (??-06/7?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
-- Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh
+- Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh, taken straight from Platinum Dawn (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
 - Added a PC to Kukui's Lab
 - Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish
 - Added Common Candy, which decreases the level of a Pokémon by 1 and added a vendor to Pallet Town after becoming the Orange League Champion (use with caution - the levels for certain trainers' Pokémon don't reset!)
 - Stopped disabling Fly after beating becoming Orange League Champion
-- Rotom Phone can now tell you where to go during the Journeys arc
+- Rotom Phone can now tell you where to go during the Journeys arc by using it
 - Furfrou can get trims at Lumiose Art Museum
-- Added animations when Poké Balls open in battle
 - Reduced the price of PP Maxes in Johto Game Corner
-- Items can be bought in bulk in Game Corners
-- Items in the bag can now be sorted by alphabetical order (use the quick save key, the default for that is left alt)
+- Items can now be bought in bulk in Game Corners
+- Items in the bag can now be sorted by alphabetical order (use the quick save key - default is left alt)
 - Move animations have been updated yet again
 - Reshiram, Zekrom, Solgaleo, Lunala, Marshadow, Zacian and Zamazenta change forms while using their signature moves
-- Music plays when encountering Team Rocket's Jessie and James in the overworld
-- Added an animation to when a Poke Ball bursts open in battle
-- Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc
-- Speed up is kept when soft resetting! (thank you Kraegon!)
-- There is now an option to disable weather effects in the overworld! (thank you Kraegon x2!)
+- Music now plays when encountering Jessie and James in the overworld
+- Play special music when battling/encountering legendaries
+- Added VFX from Essentials v20.1 to the Poké Ball opening animation in battle
+- Gave Dynamax/Legendary Pokémon, Casey, Tierno, Trevor and Shauna battle sprites
+- Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc now
+- The speed up setting is now kept even after soft resetting or closing the game! (thank you Kraegon!)
+- Added an option to disable weather effects in the overworld! (thank you Kraegon x2!)
 
 Issues fixed:
 - The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
-- The portal to Ultra Ruin in the postgame has been fixed
-- Enamorus not respawning after beating the Masters 8 rematch
+- Fix the portal to Ultra Ruin in the postgame, where it could crash the game
+- Fix Enamorus not respawning after beating the Masters 8 rematch
 - Officer Jennys having the wrong speech colour
-- Sun animation not showing up in battle
-- Morrison having the incorrect team when doing his non league rematch in the postgame
-- If both parents had power items, both corresponding IVs are passed down instead of just 1 of them
-- Fix Delia having the wrong sprite in the Alola League
-- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point of the Journeys arc
+- Fix Sun animation not showing up in battle
+- Fix Morrison having the incorrect team when doing his non league rematch in the postgame
+- If both parents had power items, both corresponding IVs are now passed down instead of just 1 of them
+- Fix Delia having the wrong sprite at the Alola League
+- Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point during the Journeys arc
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
-- Graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
-- Some nicknames being butchered because of Essentials (thank you Kraegon! x4). this has been fixed by having them be resized or truncated when they're too long
-- Fix only the save file in the first save slot being able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x5!)
+- Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (i.e. the place where you use your registered items)
+- Fix the game potentially crashing as the Masters 8 opening ceremony starts
+- Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
+- Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
+- Fix some nicknames being butchered because of Essentials (thank you Kraegon! x4). Achieved by having them be resized or truncated when they're too long
+- Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x5!)
 - Fix a graphical issue where, if you were cycling before fishing, fishing after the first time wouldn't update the player's sprite properly (thank you Kay!)
 
 Grandeur Club Changes:
+- Added ??? challenge, which is only unlockable under certain conditions
 - Added Hisui and Galar as possible regions to challenge
 - Added more trainers to Sync and Titan challenges
-- Added ??? challenge
 - Items can be bought in bulk in the Vending Machine in the lobby
 - Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
 - Added a Poké Ball changer (hasn't been done yet oops)
 - Changed certain Serperiors to have Contrary than Overgrow
-- Stat buffs/debuffs for the opponents could get skipped in Sync and Titan challenge
-- SS Hau only buffing his Sp. Atk by 2 stages on his Trainer Move (instead of 4 like in Pokémon Masters)
+- Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
+- SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
 
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
 - Most trainers will now reserve their last Pokémon until the end of the battle
-- Trimmed down on the game's size massively by making use of ogg metadata to loop BGM
+- Changed the title screen's BGM to the first anime opening theme!
+- Massively reduced the game's size by making use of ogg file metadata to loop BGM and to trim down on their length!
 
 
 ********************************
@@ -110,7 +115,7 @@ Version 3.6 Part 1 (3-2-2024)
 - Fixed an issue with Masters 8 crashing in certain scenarios
 - Fixed an issue with incorrect badges on the trainer card being shown in Azelea Town
 - Fixed an issue where a few Unovan towns not showing up on the town map at all
-- Updated graphics for many sprites
+- Updated graphics for many NPCs and trainers
 
 ************************
 Version 3.5.1 (6-1-2024)

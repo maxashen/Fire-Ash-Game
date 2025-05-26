@@ -10,6 +10,7 @@
 - move anims for "duplicate" moves, or rework the existing trainers (see below)
 - utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
 - could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (already done for Tierno, Trevor and Shauna)
+- ^ for legendary and dynamax mons too
 - maybe redo Brooklet Hill into another map (currently map 912)
 
 new website:
