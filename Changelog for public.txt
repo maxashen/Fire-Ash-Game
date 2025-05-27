@@ -31,9 +31,11 @@ Issues fixed:
 - Officer Jennys having the wrong speech colour
 - Fix Sun animation not showing up in battle
 - Fix Morrison having the incorrect team when doing his non league rematch in the postgame
+- Fix the battle against Alain instantly restarting when you lose to him at the Kalos League finals
 - If both parents had power items, both corresponding IVs are now passed down instead of just 1 of them
 - Fix Delia having the wrong sprite at the Alola League
 - Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point during the Journeys arc
+- Fix being able to select other Pokémon other than Milcery for the chefs in Ballonlea Stadium
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (i.e. the place where you use your registered items)
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
