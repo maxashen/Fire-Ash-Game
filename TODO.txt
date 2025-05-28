@@ -1,9 +1,10 @@
-- cut down on game size by utilising audio looping (currently at legendhoenn2)
+- cut down on game size by utilising audio looping (currently at leon)
  - current prediction: game should go down to ~700 MB
- - 59 to go (from 138), game stands at 0.98 GB atm
+ - 51 to go (from 138), game stands at 921 MB atm
  - may need to re-look at the following: secretdespair, secretfoul, secretjuniper, secretkamado, secretlaventon, secret___
  - remove .wav cries
 - loop sygna and nc trainers too
+- update my mayhem theme(s)
 
 - update fly map graphics (just need bg from Hitsu now)
 - move anims for z-moves and max moves (I'll have to check which moves specifically)
@@ -11,7 +12,7 @@
 - move anims for "duplicate" moves, or rework the existing trainers (see below)
 - utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
 - could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (already done for Tierno, Trevor and Shauna)
-- ^ for legendary and dynamax mons too
+- ^ for legendary and dynamax mons too (Done)
 - maybe redo Brooklet Hill into another map (currently map 912)
 
 new website:

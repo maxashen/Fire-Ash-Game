@@ -183,7 +183,7 @@ class PokeBattle_Battle
 	@scene.pbTrainerBattleSpeech(playerBattler?(battler) ? "dynamax" : "dynamaxOpp") if Settings::EBDX_COMPAT
     trainerName = pbGetOwnerName(idxBattler)
     pbDisplay(_INTL("{1} recalled {2}!",trainerName,battler.pbThis(true)))
-    battler.effects[PBEffects::Dynamax]     = Settings::DYNAMAX_TURNS
+    battler.effects[PBEffects::Dynamax]     = ($game_switches[Settings::INFINITE_DMAX]) ? -1 : Settings::DYNAMAX_TURNS
     battler.effects[PBEffects::NonGMaxForm] = battler.form
     battler.effects[PBEffects::Encore]      = 0
     battler.effects[PBEffects::Disable]     = 0

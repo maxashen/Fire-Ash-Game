@@ -38,6 +38,8 @@ module Settings
   NO_PLAYER_DYNAMAX = 571 # The switch number for only disabling Dynamax for the player.
   MAXRAID_SWITCH = 494    # The switch number used to toggle Max Raid battles.
   HARDMODE_RAID  = 495    # The switch number used to toggle Hard Mode raids.
+  INFINITE_DMAX  = 575    # The switch number for making Dynamax last infinitely.
+  
 #-------------------------------------------------------------------------------
 # Variable Numbers
 #-------------------------------------------------------------------------------

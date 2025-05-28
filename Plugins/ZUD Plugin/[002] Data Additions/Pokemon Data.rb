@@ -64,6 +64,7 @@ class Pokemon
   def makeDynamax
     @dynamax  = true
     @reverted = false
+    $game_system.bgm_play_internal(pbResolveAudioFile("Battle! Eternatus - Phase 3.ogg"),0) if eternamax?
   end
   
   def makeUndynamax
