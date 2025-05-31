@@ -472,7 +472,7 @@
 509,SECRET_HIngo,Amnestic Warden,0,secrethisui.ogg,,,Male,200,
 510,SECRET_Zisu,Fiery Trainer,0,secrethisui.ogg,,,Female,200,
 511,SECRET_Hitsu,Grandeur Club Mastermind,0,secrethit.ogg,,,Male,200,
-512,SECRET_Lucker,Grandeur Club Vice,0,secretlucker.ogg,,,Male,200,
+512,SECRET_Lucker,Grandeur Club Vice,0,Under Dimension.ogg,,,Male,200,
 513,SECRET_Lucker2,Sygna Suit,0,secretluc.ogg,Battle Victory Leader,,Male,200,
 514,SECRET_Foul,Grandeur Club Administrator,0,secretfoul.ogg,,,Male,200,
 515,SECRET_Vermint,Grandeur Club Employee,0,secretvermint.ogg,,,Female,200,

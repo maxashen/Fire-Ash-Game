@@ -42,6 +42,7 @@ Issues fixed:
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
+- Fix Gastly having Cloyster's description in the Pokédex
 - Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
 - Fix some nicknames being butchered because of Essentials (thank you Kraegon! x4). Achieved by having them be resized or truncated when they're too long
 - Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x5!)
@@ -55,6 +56,9 @@ Grandeur Club Changes:
 - Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
 - Added a Poké Ball changer (hasn't been done yet oops)
 - Changed certain Serperiors to have Contrary than Overgrow
+- Overhauled the mechanics of Sync challenge:
+ - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
+ - To accommodate for the above, a certain amount of PP will be restored for every Pokémon in your party after every battle
 - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
 - SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
