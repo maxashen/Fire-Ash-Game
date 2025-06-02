@@ -1,9 +1,9 @@
-- cut down on game size by utilising audio looping (currently at shauntal)
- - current prediction: game should go down to ~700 MB
- - 23 to go (from 138), game stands at 782 MB atm
- - may need to re-look at the following: secretdespair, secretfoul, secretjuniper, secretkamado, secretlaventon, secret___
+- cut down on game size by utilising audio looping (finished all secret prefixes minus Jupiter and a few others)
+ - may need to re-look at the following: secretdespair, secretfoul, secretjuniper, secretkamado, secretlaventon, secretvolo
  - remove .wav cries
+
 - loop sygna and nc trainers too
+ - 14 to go (game currently at 632 MB)
 
 - overhaul sync challenge mechanics:
  - add PP restore feature (min 1 per move) (done)
@@ -18,7 +18,7 @@
 - move anims for "duplicate" moves, or rework the existing trainers (see below)
 - utilise passives more for sync and titan trainers (most likely an overhaul to most trainers)
 - could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (already done for Tierno, Trevor and Shauna)
-- ^ for legendary and dynamax mons too (Done)
+- ^ for legendary and dynamax mons too (done)
 - maybe redo Brooklet Hill into another map (currently map 912)
 
 new website:
