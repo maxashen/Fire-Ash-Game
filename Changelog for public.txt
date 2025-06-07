@@ -61,6 +61,7 @@ Grandeur Club Changes:
  - To accommodate for the above, a certain amount of PP will be restored for every Pokémon in your party after every battle
 - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
 - SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
+- Added animations to B-Moves in Sync and Titan Challenge
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
 
 Misc.:

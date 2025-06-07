@@ -110,6 +110,15 @@ class PokeBattle_ZMove < PokeBattle_Move
     user.pbChangeForm(0, "")
   end
   
+  def pbMissMessage(user,target);
+    if (user.isSpecies?(:SOLGALEO) && @id == :SEARINGSUNRAZESMASH) ||
+        (user.isSpecies?(:LUNALA) && @id == :MENACINGMOONRAZEMAELSTROM) ||
+        (user.isSpecies?(:MARSHADOW) && @id == :SOULSTEALING7STARSTRIKE)
+      user.pbChangeForm(0, "")
+    end
+    return false
+  end
+  
   #=============================================================================
   # Converts move's power into Z-Move power.
   #=============================================================================
