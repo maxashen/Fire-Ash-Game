@@ -1058,18 +1058,18 @@
 #--------------------------------
 # Sygna Pokémon Moves (SP)
 #--------------------------------
-1200,BAURASPHERE,B Aura Sphere,SP01,100,FIGHTING,Special,0,2,0,Other,0,fmn,"The user looses a blast of aura power from deep within its body. This move is certain to hit."
+1200,BAURASPHERE,Superior Aura Sphere,SP01,100,FIGHTING,Special,0,2,0,Other,0,fmn,"The user looses a blast of aura power from deep within its body. This move is certain to hit."
 1201,BVOLTTACKLE,Origin Volt Tackle,SP02,120,ELECTRIC,Physical,100,15,0,AllFoes,0,abfrs,"The user electrifies itself, then charges at the foe, ignoring any defensive effects on all opposing Pokémon."
-1202,BDAZZLINGGLEAM,B Dazzling Gleam,SP03,120,FAIRY,Special,100,1,0,AllFoes,0,fp,"The user lets out a light which lowers the target's attack, Sp. Atk and makes them weaker to Fairy attacks."
+1202,BDAZZLINGGLEAM,Ultimate Dazzling Gleam,SP03,120,FAIRY,Special,100,1,0,AllFoes,0,fp,"The user lets out a light which lowers the target's attack, Sp. Atk and makes them weaker to Fairy attacks."
 1203,TECHNOBLAST2,Techno Blast,SP04,120,BUG,Special,100,5,100,NearOther,0,bf,"The user fires a beam of light at its target. The type changes depending on the Drive the user holds."
 1204,BNOBLEROAR,Resonating Noble Roar,SP05,0,NORMAL,Status,0,5,0,AllFoes,0,bck,"Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed."
-1205,BDIAMONDSTORM,B Diamond Storm,SP06,100,ROCK,Physical,100,5,100,AllFoes,0,bf,"The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat."
-1206,BHYDROPUMP,B Hydro Pump,SP07,180,WATER,Special,0,1,100,AllFoes,0,f,"A Hydro Pump that is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon."
-1207,BELECTROWEB,B Electroweb,SP08,100,ELECTRIC,Special,100,5,100,AllFoes,0,bf,"The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed."
-1208,BPSYCHOCUT,B Psycho Cut,SP09,100,PSYCHIC,Physical,0,20,0,AllFoes,0,bfhr,"The user tears at the target with blades formed by psychic power. Critical hits land more easily."
-1209,BSWORDSDANCE,B Swords Dance,SP10,0,NORMAL,Status,0,10,0,User,0,do,"A frenetic dance to uplift the fighting spirit. It sharply raises all allies' Attack stat and makes all allies deal more damage with their next physical attack."
-1210,BPROTECT,B Protect,SP11,0,NORMAL,Status,0,10,0,User,4,,"It enables all allies to evade all attacks."
-1211,BTRIPLEAXEL,B Triple Axel,SP12,40,ICE,Physical,90,10,0,NearOther,0,abf,"A consecutive three-kick attack that becomes more powerful with each successful hit.
+1205,BDIAMONDSTORM,Pink Diamond Storm,SP06,100,ROCK,Physical,100,5,100,AllFoes,0,bf,"The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat."
+1206,BHYDROPUMP,Heat Hydro Pump,SP07,180,WATER,Special,0,1,100,AllFoes,0,f,"A Hydro Pump that is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon."
+1207,BELECTROWEB,Wild Electroweb,SP08,100,ELECTRIC,Special,100,5,100,AllFoes,0,bf,"The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed."
+1208,BPSYCHOCUT,Neo Psycho Cut,SP09,100,PSYCHIC,Physical,0,20,0,AllFoes,0,bfhr,"The user tears at the target with blades formed by psychic power. Critical hits land more easily."
+1209,BSWORDSDANCE,Unbreakable Swords Dance,SP10,0,NORMAL,Status,0,10,0,User,0,do,"A frenetic dance to uplift the fighting spirit. It sharply raises all allies' Attack stat and makes all allies deal more damage with their next physical attack."
+1210,BPROTECT,Sea Deity Protect,SP11,0,NORMAL,Status,0,10,0,User,4,,"It enables all allies to evade all attacks."
+1211,BTRIPLEAXEL,Crushing Triple Axel,SP12,40,ICE,Physical,90,10,0,NearOther,0,abf,"A consecutive three-kick attack that becomes more powerful with each successful hit.
 1212,BSLUDGEWAVE,Frenzied Sludge Wave,SP13,110,POISON,Special,100,10,10,AllFoes,0,f,"It swamps the area around the user with a giant sludge wave. It may also poison those hit."
 1213,BOVERDRIVE,Sorrowful Echos Overdrive,SP14,110,ELECTRIC,Special,100,10,0,AllFoes,0,fk,"Attacks opposing Pokémon by twanging a guitar or bass guitar."
 1214,BFLEURCANNON,Piercing Fleur Cannon,SP15,140,FAIRY,Special,0,1,0,AllFoes,0,f,"The user unleashes a strong beam. The attack does more damage based on how much the opponent's Sp. Atk stat has been lowered."
@@ -1082,26 +1082,19 @@
 #--------------------------------
 # NC Pokémon Moves (NP)
 #--------------------------------
-1262,WATERSHURIKEN2,Water Shuriken,NP01,15,WATER,Special,100,20,0,NearOther,1,bf,"The user hits the target with throwing stars 5 times in a row. This move always goes first."
-1263,BRUTALSWING2,Brutal Swing,NP02,60,DARK,Physical,100,20,100,AllNearOthers,0,abf,"The user swings its body around violently to inflict damage on everything in its vicinity."
-1264,BQUICKATTACK,Boundless Quick Attack,NP03,60,NORMAL,Physical,100,2,100,NearOther,1,af,"The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
-1265,WATERSHURIKEN3,Water Shuriken,NP04,15,WATER,Special,100,20,0,NearOther,1,bf,"The user hits the target with throwing stars 5 times in a row. This move always goes first."
-1266,BDOUBLETEAM,Transformational Double Team,NP05,0,NORMAL,Status,0,2,0,User,0,d,"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
-1267,BFIERYWRATH,Fierce Fiery Wrath,NP06,130,DARK,Special,100,2,50,AllFoes,0,frs,"The user transforms its wrath into a fire-like aura to attack. It may cause flinching."
-1268,THUNDEROUSKICK2,Thunderous Kick,SP04,90,FIGHTING,Physical,100,10,100,NearOther,0,abf,"The user kicks the target with lightning-like movement. It lowers the target's Defense and Special Defense."
-1269,BTHUNDEROUSKICK,Roaring Thunderous Kick,NP07,130,FIGHTING,Physical,100,10,100,NearOther,0,afrs,"The user kicks the target with lightning-like movement. It drastically lowers the target's Defense and Special Defense."
-1270,BFREEZINGGLARE,Intimidating Freezing Glare,NP08,130,PSYCHIC,Special,100,10,10,NearOther,0,f,"The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
-1271,BICEBEAM,Frozen Wings Ice Beam,NP09,120,ICE,Special,100,10,100,NearOther,0,frs,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
-1272,BROOST,Thundering Wings Roost,NP10,0,FLYING,Status,0,10,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
-1273,BFLAREBLITZ,Fiery Wings Flare Blitz,NP11,120,FIRE,Physical,100,15,10,NearOther,0,abefg,"The user cloaks itself in fire and charges at the foe. It may burn the target."
-1274,LEER2,Leer,NP12,0,NORMAL,Status,100,5,0,AllFoes,0,bce,"The user gains an intimidating leer with sharp eyes. The target's Defense stat is reduced."
-1275,BOUTRAGE,Dark Black Outrage,NP13,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
-1276,BRELICSONG,Relic Song of Wonder,NP14,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."
-1277,BROCKSLIDE,Massive Rock Slide,NP15,100,ROCK,Physical,100,5,100,AllFoes,0,frs,"Large boulders are hurled at the foes to inflict damage, making the targets flinch."
-1278,BLEAKWINDSTORM2,Bleakwind Storm,04D,100,FLYING,Special,0,10,60,AllFoes,0,bef,"The user attacks with a gust of chilled air. It also lowers the targets' Speed stat."
-1279,BBLEAKWINDSTORM,Black Gale Bleakwind Storm,NP16,120,FLYING,Special,0,5,100,AllFoes,0,bf,"The user attacks with a gust of chilled air. It also harshly lowers the targets' Speed stat."
-1280,SACREDSWORD2,Sacred Sword,NP17,90,FIGHTING,Physical,100,15,0,NearOther,0,abf,"The user attacks by slicing with its long horns. The target's stat changes don't affect the damage."
-1281,BSACREDSWORD,White Light Sacred Sword,NP17,130,FIGHTING,Physical,0,2,0,NearOther,0,af,"The user attacks by slicing with its long horns. The target's stat changes don't affect the damage."
+1250,BQUICKATTACK,Boundless Quick Attack,NP01,60,NORMAL,Physical,100,2,100,NearOther,1,af,"The user lunges at the target at a speed that makes it almost invisible. It is sure to strike first."
+1251,BDOUBLETEAM,Transformational Double Team,NP02,0,NORMAL,Status,0,2,0,User,0,d,"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+1252,BFIERYWRATH,Fierce Fiery Wrath,NP03,130,DARK,Special,100,2,50,AllFoes,0,frs,"The user transforms its wrath into a fire-like aura to attack. It may cause flinching."
+1253,BTHUNDEROUSKICK,Roaring Thunderous Kick,NP04,130,FIGHTING,Physical,100,10,100,NearOther,0,afrs,"The user kicks the target with lightning-like movement. It drastically lowers the target's Defense and Special Defense."
+1254,BFREEZINGGLARE,Intimidating Freezing Glare,NP05,130,PSYCHIC,Special,100,10,10,NearOther,0,f,"The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
+1255,BICEBEAM,Frozen Wings Ice Beam,NP06,120,ICE,Special,100,10,100,NearOther,0,frs,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+1256,BROOST,Thundering Wings Roost,NP07,0,FLYING,Status,0,10,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
+1257,BFLAREBLITZ,Fiery Wings Flare Blitz,NP08,120,FIRE,Physical,100,15,10,NearOther,0,abefg,"The user cloaks itself in fire and charges at the foe. It may burn the target."
+1258,BOUTRAGE,Dark Black Outrage,NP09,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
+1259,BRELICSONG,Relic Song of Wonder,NP10,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."
+1260,BROCKSLIDE,Massive Rock Slide,NP11,100,ROCK,Physical,100,5,100,AllFoes,0,frs,"Large boulders are hurled at the foes to inflict damage, making the targets flinch."
+1261,BBLEAKWINDSTORM,Black Gale Bleakwind Storm,NP12,120,FLYING,Special,0,5,100,AllFoes,0,bf,"The user attacks with a gust of chilled air. It also harshly lowers the targets' Speed stat."
+1262,BSACREDSWORD,White Light Sacred Sword,NP13,130,FIGHTING,Physical,0,2,100,NearOther,0,af,"The user attacks by slicing with its long horns. The target's stat changes don't affect the damage."
 #--------------------------------
 # aRc Suit TMs (RT)
 #--------------------------------
