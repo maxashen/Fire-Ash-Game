@@ -2,8 +2,7 @@
  - may need to re-look at the following: secretdespair, secretfoul, secretjuniper, secretkamado, secretlaventon, secretvolo
  - remove .wav cries
 
-- loop sygna and nc trainers too
- - 14 to go (game currently at 607 MB)
+- loop sygna and nc trainers too (done, game currently at 588 MB)
 
 - overhaul sync challenge mechanics:
  - all mons take 1/4 damage, instead of only opp. taking 1/2 damage (done)
@@ -12,7 +11,7 @@
  - challenge mode buffs: stat bonuses for opps, prio. for opps, "choice items" (they deal more dmg/are faster but can only use 1 move), sure hit, guaranteed 2ndary effects (if they don't already have them), status cond. immunity, interference immunity (would have to make them activate when challenge mode is on)
  - "duplicate" moves that have been kept: Techno Blast 2, Stockpile 2
 
-- partially do alder arc suit sprite
+- partially do alder arc suit sprite (done, waiting for Hitsu to complete)
 - fix mom healing in pallet town
 - cianwood city gym loss bug?
 - update fly map graphics (just need bg from Hitsu now)
