@@ -64151,6 +64151,26 @@ Pokemon = VIRIZION,100
     IV = 31,31,31,31,31,31
     EV = 4,252,0,252,0,0
 #-------------------------------
+[NC_May,May]
+LoseText = "We got swallowed up!"
+Pokemon = KYOGRE,100
+    Moves = ORIGINPULSE,BORIGINPULSE,THUNDER,NCMAY
+    Passive = NCMAY
+    Item = BLUEORB
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 128,0,0,128,252,0
+#-------------------------------
+[NC_Brendan,Brendan]
+LoseText = "We gotta train harder."
+Pokemon = GROUDON,100
+    Moves = PRECIPICEBLADES,BPRECIPICEBLADES,FIREPUNCH,NCBRENDAN
+    Passive = NCBRENDAN
+    Item = REDORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 128,252,0,128,0,0
+#-------------------------------
 [ARC_Cynthia,Cynthia]
 LoseText = "What a great battle!"
 Pokemon = GARCHOMP,100
