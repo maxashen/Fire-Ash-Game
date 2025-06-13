@@ -546,3 +546,4 @@
 583,ARC_Steven,Arc Suit,0,arcSteven,Battle Victory Leader,,Male,200,
 584,ARC_Leon,Arc Suit,0,arcLeon,,,Male,200,
 585,ARC_N,Arc Suit,0,arcN,Battle Victory Leader,,Male,,
+586,ARC_Alder,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,

@@ -1108,6 +1108,7 @@
 1302,ARCLANCE,Let's Get Serious!,RT02,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Lance's signature move."
 1303,ARCLEON,Passion Ablaze!,AT01,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Leon's signature move."
 1304,ARCN,Behold My Love!,RT03,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit N's signature move."
+1305,ARCALDER,We Are One!,RT04,0,NORMAL,Status,0,1,0,User,1,q,"Arc Suit Alder's signature move."
 #--------------------------------
 # aRc Suit PMs (RP)
 #--------------------------------
@@ -1115,9 +1116,10 @@
 1311,DEARTHQUAKE,Catacylsmic Divine Earthquake,SM00,150,GROUND,Physical,100,1,100,NearOther,0,f,"The user sets off an earthquake that strikes all enemy Pokémon."
 1312,ABULLETPUNCH,Almighty Flash Bullet Punch,RP01,50,STEEL,Physical,0,3,100,NearOther,1,abefj,"The user strikes the target with tough punches as fast as bullets. This move always goes first."
 1313,DMETEORMASH,Polished Steel Divine Meteor Mash,SM00,120,STEEL,Physical,100,1,100,NearOther,0,abefj,"The target is hit with a hard punch fired like a meteor."
-1315,AHYPERBEAM,Almighty Roar Hyper Beam,RP02,180,NORMAL,Special,0,1,0,NearOther,0,f,"The foe is attacked with a powerful beam."
+1315,ARHYPERBEAM,Almighty Roar Hyper Beam,RP02,180,NORMAL,Special,0,1,0,NearOther,0,f,"The foe is attacked with a powerful beam."
 1316,AFIREBLAST,Almighty Fire Blast,RP03,140,FIRE,Special,100,1,100,NearOther,0,f,"The foe is attacked with an intense blast of all-consuming fire. It also leaves the target with a burn."
 1317,DFIREBLAST,Fiery Determination Divine Fire Blast,SM00,180,FIRE,Special,100,1,100,NearOther,0,f,"The foe is attacked with an intense blast of all-consuming fire."
 1318,ANIGHTDAZE,Almighty Obsidian Night Daze,RP04,120,DARK,Special,0,1,100,NearOther,0,bef,"The user lets loose a pitch-black shock wave at its target. It lowers the target's accuracy by 1 stage."
 1319,DNIGHTDAZE,Shape-Shifting Divine Night Daze,SM00,180,DARK,Special,0,1,100,NearOther,0,bef,"The user lets loose a pitch-black shock wave at its target. It lowers the target's stats 10 times."
-
+1320,ASHYPERBEAM,Almighty Sun Hyper Beam,RP05,180,NORMAL,Special,100,1,100,NearOther,0,f,"The foe is attacked with a powerful beam. Sets Bug Zone."
+1321,DBUGBUZZ,Unmatched Talent Divine Bug Buzz,SM00,180,BUG,Special,0,1,100,NearOther,0,befk,"The user vibrates its wings to generate a damaging sound wave, increasing the power of the user's next special move."

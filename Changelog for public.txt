@@ -13,7 +13,7 @@ Qol Changes and Improvements:
 - Reduced the price of PP Maxes in Johto Game Corner
 - Items can now be bought in bulk in Game Corners
 - Items in the bag can now be sorted by alphabetical order (use the quick save key - default is left alt)
-- Move animations have been updated yet again
+- Move animations have been updated yet again, including a new custom animation for Battle Bond's transformation
 - Reshiram, Zekrom, Solgaleo, Lunala, Marshadow, Zacian and Zamazenta change forms while using their signature moves
 - Added "trainer" sprites for battles against Legendary and Dynamax Pokémon during the Journeys arc
 - Different music now when battling/encountering legendaries of different regions
