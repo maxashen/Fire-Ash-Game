@@ -58,9 +58,11 @@ Grandeur Club Changes:
 - Changed certain Serperiors to have Contrary than Overgrow
 - Overhauled the mechanics of Sync challenge:
  - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
- - To accommodate for the above, a certain amount of PP will be restored for every Pokémon in your party after every battle
+ - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy
 - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
 - SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
+- SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
+- SS N's Black Kyurem's Resonating Noble Roar now only has 1 PP instead of 30 PP, but it can be restored by it using Freeze Shock
 - Added animations to B-Moves in Sync and Titan Challenge
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
 
