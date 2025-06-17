@@ -63993,6 +63993,7 @@ LoseText = "Aww... we lost. But it was a really good battle!"
 Pokemon = TORNADUS,100
     Moves = AIRCUTTER,FLYINGWISH,ANNISKYLA
     Passive = ANNISKYLA
+    Form = 1
     Item = KINGSROCK
     Nature = TIMID
     IV = 31,31,31,31,31,31

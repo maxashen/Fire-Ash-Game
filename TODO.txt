@@ -11,6 +11,14 @@
  - challenge mode buffs: stat bonuses for opps, prio. for opps, "choice items" (they deal more dmg/are faster but can only use 1 move), sure hit, guaranteed 2ndary effects (if they don't already have them), status cond. immunity, interference immunity (would have to make them activate when challenge mode is on)
  - "duplicate" moves that have been kept: Techno Blast 2, Stockpile 2
 
+- zone common anims
+normal (fully done)
+fighting (fully done)
+poison (fully done)
+bug (fully done)
+dragon (fully done)
+steel (fully done)
+
 - partially do alder arc suit sprite (done, waiting for Hitsu to complete)
 - fix mom healing in pallet town
 - cianwood city gym loss bug?
