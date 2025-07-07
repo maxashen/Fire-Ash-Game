@@ -19,14 +19,14 @@ bug (fully done)
 dragon (fully done)
 steel (fully done)
 
-- partially do alder arc suit sprite (done, waiting for Hitsu to complete)
+- arc suit alder sprite (done)
 - fix mom healing in pallet town
 - cianwood city gym loss bug?
 - update fly map graphics (just need bg from Hitsu now)
 - move anims for z-moves and max moves (I'll have to check which moves specifically)
 - move anims for customs moves (mainly despair)
-- move anims for "duplicate" moves, or rework the existing trainers (see below)
-- utilise passives more for sync and titan trainers - most likely an overhaul to most trainers (done)
+- move anims for "duplicate" moves, or rework the existing trainers (done, more details below)
+ - utilise passives more for sync and titan trainers - most likely an overhaul to most trainers (done)
 - could use more unique ow and trainer sprites for npcs if they're provided; can already do this if they're in the main series games as they're most likely already in GC (already done for Tierno, Trevor and Shauna)
 - ^ for legendary and dynamax mons too (done)
 - maybe redo Brooklet Hill into another map (currently map 912)
@@ -52,9 +52,4 @@ Neo Champion Rosa
 Neo Champion Brendan (currently being done by Megshi)
 Neo Champion May (currently being done by Megshi)
 
-Arc Suit Cynthia
-Arc Suit Lance
-Arc Suit Steven
-Arc Suit Leon
-Arc Suit N
-Arc Suit Alder
+Dojo Gloria (currently being done by Angel?)

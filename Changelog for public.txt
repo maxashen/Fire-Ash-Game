@@ -1,5 +1,5 @@
 ********************************
-Version 3.6 Part 2 (??-06/7?-2025)
+Version 3.6 Part 2 (??-07/8?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
@@ -28,6 +28,7 @@ Issues fixed:
 - The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
 - Fix the Cut move tutor on Kalos Route 11 talking to the player from a distance
 - Fix the portal to Ultra Ruin in the postgame, where it could crash the game
+- Fix a soft lock occurring when losing to the Red Gyarados at the Lake of Rage
 - Fix Enamorus not respawning after beating the Masters 8 rematch
 - Officer Jennys having the wrong speech colour
 - Fix Sun animation not showing up in battle
@@ -38,7 +39,7 @@ Issues fixed:
 - Fix Gengar in Cerise's Lab not getting turned into an egg at a certain point during the Journeys arc
 - Fix being able to select other Pokémon other than Milcery for the chefs in Ballonlea Stadium
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
-- Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (i.e. the place where you use your registered items)
+- Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
@@ -59,11 +60,13 @@ Grandeur Club Changes:
 - Overhauled the mechanics of Sync challenge:
  - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
  - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy
+ - New buffs have been added which can increase the amount of HP and PP that Nurse Joy restores
+ - The Vending Machine can no longer be used after doing the first battle in the challenge
 - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
 - SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
 - SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
-- SS N's Black Kyurem's Resonating Noble Roar now only has 1 PP instead of 30 PP, but it can be restored by it using Freeze Shock
-- Added animations to B-Moves in Sync and Titan Challenge
+- SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before using Freeze Shock
+- Added animations to B-Moves which correspond to their original move in Sync and Titan Challenge
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
 
 Misc.:

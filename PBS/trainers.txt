@@ -63629,7 +63629,7 @@ Pokemon = LATIOS,100
 [SYGNA_May,May]
 Pokemon = BLAZIKEN,100
 LoseText = "Whaaatt?"
-    Moves = SSMAY,BLAZEKICK
+    Moves = SSMAY,BLAZEKICK,HIGHJUMPKICK
     Passive = SSMAY
     Item = BLAZIKENITE
     Nature = ADAMANT
@@ -63936,7 +63936,7 @@ Pokemon = GUZZLORD,100
 [DOJO_Gloria,Gloria]
 LoseText = "Haha, that was my full power!"
 Pokemon = URSHIFU,100
-    Moves = SURGINGSTRIKES
+    Moves = SURGINGSTRIKES,CLOSECOMBAT,IRONHEAD
     Passive = DOJOGLORIA
     Form = 1
     Item = LIFEORB

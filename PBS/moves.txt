@@ -1064,7 +1064,7 @@
 1201,BVOLTTACKLE,Origin Volt Tackle,SP02,120,ELECTRIC,Physical,100,15,0,AllFoes,0,abfrs,"The user electrifies itself, then charges at the foe, ignoring any defensive effects on all opposing Pokémon."
 1202,BDAZZLINGGLEAM,Ultimate Dazzling Gleam,SP03,120,FAIRY,Special,100,1,0,AllFoes,0,fp,"The user lets out a light which lowers the target's attack, Sp. Atk and makes them weaker to Fairy attacks."
 1203,TECHNOBLAST2,Techno Blast,SP04,120,BUG,Special,100,5,100,NearOther,0,bf,"The user fires a beam of light at its target. The type changes depending on the Drive the user holds."
-1204,BNOBLEROAR,Resonating Noble Roar,SP05,0,NORMAL,Status,0,1,0,AllFoes,0,bck,"Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed."
+1204,BNOBLEROAR,Resonating Noble Roar,SP05,0,NORMAL,Status,0,3,0,AllFoes,0,bck,"Letting out a noble roar, the user intimidates the target and sharply lowers its Attack, Sp. Atk and Speed."
 1205,BDIAMONDSTORM,Pink Diamond Storm,SP06,100,ROCK,Physical,100,5,100,AllFoes,0,bf,"The user whips up a storm of diamonds to damage foes. This sharply raises all allies' Defense stat and shaprly lowers all opponent's Defense stat."
 1206,BHYDROPUMP,Heat Hydro Pump,SP07,180,WATER,Special,0,1,100,AllFoes,0,f,"A Hydro Pump that is fueled by burned Pokémon. Lysandre and Volcanion's ultimate weapon."
 1207,BELECTROWEB,Wild Electroweb,SP08,100,ELECTRIC,Special,100,5,100,AllFoes,0,bf,"The user captures and attacks foes by using an electric net, which harshly lowers their Speed stat and sharply raises ally Pokémon's Speed."
@@ -1077,9 +1077,9 @@
 1214,BFLEURCANNON,Piercing Fleur Cannon,SP15,140,FAIRY,Special,0,1,0,AllFoes,0,f,"The user unleashes a strong beam. The attack does more damage based on how much the opponent's Sp. Atk stat has been lowered."
 1215,BHEX,Rising Flames Hex,SP16,70,GHOST,Special,100,10,100,NearOther,0,bf,"This relentless attack does massive damage to a target affected by status problems."
 1216,BWILDCHARGE,Descending Lightning Wild Charge,SP16,100,ELECTRIC,Physical,100,15,100,NearOther,0,abf,"The user shrouds itself in electricity and smashes into its foe."
-1217,STOCKPILE2,Stockpile,ST02,0,NORMAL,Status,0,20,0,User,0,,"The user charges up power and raises both its Defense and Sp. Def. The move can be used two times."
-1218,BSWALLOW,Guzzling Swallow,SP17,0,NORMAL,Status,0,2,0,User,0,,"The power stored using the move Stockpile is absorbed by the user to heal its HP."
-1219,BCRUNCH,Gorging Crunch,SP18,80,DARK,Physical,100,15,100,NearOther,0,abfi,"The user crunches up the target with sharp fangs. It also lowers the target's Defense and Special Defense stats."
+1217,STOCKPILE2,Stockpile,SP17,0,NORMAL,Status,0,20,0,User,0,,"The user charges up power and raises both its Defense and Sp. Def. The move can be used two times."
+1218,BSWALLOW,Guzzling Swallow,SP18,0,NORMAL,Status,0,2,0,User,0,,"The power stored using the move Stockpile is absorbed by the user to heal its HP."
+1219,BCRUNCH,Gorging Crunch,SP19,80,DARK,Physical,100,15,100,NearOther,0,abfi,"The user crunches up the target with sharp fangs. It also lowers the target's Defense and Special Defense stats."
 #--------------------------------
 # NC Pokémon Moves (NP)
 #--------------------------------
