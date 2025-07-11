@@ -858,7 +858,7 @@
 963,SPEEDKING,Speed King,00A,80,FIRE,Special,100,10,100,NearOther,0,bf,"The user generates a lot of heat, causing the target to be burned."
 964,FUNFUNFUN,Fun Fun Fun,DF10,90,PSYCHIC,Special,100,10,100,NearOther,0,bf,"The user binds and confuses the target with fun."
 965,SOFTANDWET,Soft & Wet,DF11,90,WATER,Special,100,10,0,NearOther,0,bf,"The user removes the target's item and steals its stat boosts."
-966,VITAMINC,Vitamin C,DF12,0,FAIRY,Status,100,10,0,NearOther,0,b,"The user applies an overdose of vitamins to the target, drastically lowering its Def and Sp. Def."
+966,VITAMINC,Vitamin C,DF12,0,FAIRY,Status,100,10,0,NearOther,0,b,"The user turns the target's body extremely soft, drastically lowering its Defense and Sp. Defense."
 #--------------------------------
 # Zone Moves (SZ)
 #--------------------------------
