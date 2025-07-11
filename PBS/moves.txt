@@ -1089,7 +1089,7 @@
 1253,BTHUNDEROUSKICK,Roaring Thunderous Kick,NP04,130,FIGHTING,Physical,100,10,100,NearOther,0,afrs,"The user kicks the target with lightning-like movement. It drastically lowers the target's Defense and Special Defense."
 1254,BFREEZINGGLARE,Intimidating Freezing Glare,NP05,130,PSYCHIC,Special,100,10,10,NearOther,0,f,"The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
 1255,BICEBEAM,Frozen Wings Ice Beam,NP06,120,ICE,Special,100,10,100,NearOther,0,frs,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
-1256,BROOST,Thundering Wings Roost,NP07,0,FLYING,Status,0,10,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
+1256,BROOST,Thundering Wings Roost,NP07,0,FLYING,Status,0,2,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
 1257,BFLAREBLITZ,Fiery Wings Flare Blitz,NP08,120,FIRE,Physical,100,15,10,NearOther,0,abefg,"The user cloaks itself in fire and charges at the foe. It may burn the target."
 1258,BOUTRAGE,Dark Black Outrage,NP09,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
 1259,BRELICSONG,Relic Song of Wonder,NP10,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."

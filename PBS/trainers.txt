@@ -63772,7 +63772,7 @@ Pokemon = ZYGARDE,100
 [SYGNA_Korrina,Korrina]
 LoseText = "They got us."
 Pokemon = MARSHADOW,100
-    Moves = SPECTRALTHIEF,SSKORRINA
+    Moves = SPECTRALTHIEF,DRAINPUNCH,SSKORRINA
     Passive = SSKORRINA
     Item = SPELLTAG
     Nature = ADAMANT
@@ -63936,7 +63936,7 @@ Pokemon = GUZZLORD,100
 [DOJO_Gloria,Gloria]
 LoseText = "Haha, that was my full power!"
 Pokemon = URSHIFU,100
-    Moves = SURGINGSTRIKES,CLOSECOMBAT,IRONHEAD
+    Moves = SURGINGSTRIKES,CLOSECOMBAT,IRONHEAD,DOJOGLORIA
     Passive = DOJOGLORIA
     Form = 1
     Item = LIFEORB

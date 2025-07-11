@@ -81,7 +81,7 @@ Changes from prev vers: Removed custom item which would facilitate the always cr
 
 SS Morty + Shiny Ho-oh
 Passive: Morty's Future
-Effect: Heal user's side after using a move in the Sun and increase team's Atk., Def., Sp. Atk., Sp. Def. and Spd. when using a status move for the first time.
+Effect: Heal user's side after using a move in the Sun and increase team's Atk., Def., Sp. Atk., Sp. Def. and Spd. by 1 when using a status move for the first time.
 Moves: Sunny Day, Sacred Fire, TM
 TM: Raises team's Def., Sp. Def., Spd. and Crit Rate by 1 and sets Tailwind. 2 uses.
 Item: Leftovers
@@ -242,7 +242,7 @@ SS Hilda + Victini
 Passive: Hilda's Victory
 Effect: DU and increase Atk. by 2 on entry.
 Moves: V-Create, Bolt Strike, Zen Headbutt, TM
-TM: Raise Atk. by 6 and max out Crit. Rate. 1 use.
+TM: Raise Sp. Atk. by how much Atk. has been increased, max out Crit Rate and raise team's Acc. by 1. 1 use.
 Changes from prev vers: Replaced buffed Life Orb with Muscle Band and added Atk. increase on entry effect.
 
 
@@ -266,14 +266,14 @@ Changes from prev vers: Starts battle in 50% form rather than Complete (same rea
 SS Korrina + Marshadow
 Passive: Korrina's Shroud
 Effect: Raises stats by 1 from Atk., Def., Sp. Atk., Sp. Def., Spd., Acc. or Eva. 3 times after using a move. Same stat can be raised multiple times.
-Moves: Spectral Thief, TM
+Moves: Spectral Thief, Drain Punch, TM
 TM: Raise Atk. by 4 as well as Spd. and Eva. by 3. 1 use.
-Changes from prev vers: Effectively none.
+Changes from prev vers: Added Drain Punch to its moves.
 
 
 SS Diantha + Mega Diancie
 Passive: Diantha's Nobility
-Effect: Lower opposing team's Spd. by 2 when switched in and increase Atk. by 2 and Crit Rate by 1 after using a move.
+Effect: Lower opposing team's Spd. by 1 when switched in and increase Atk. by 2 and Crit Rate by 1 after using a move.
 Moves: Diamond Storm, Rock Wish, Pink Diamond Storm, TM
 TM: Raise user's Sp. Def. by how much its Def. has been raised, apply gradual healing to user and power up next physical move. 1 use.
 Pink Diamond Storm: 100 BP AoE physical Rock type move. Lower targets' Def. by 2 and raise team's Def. by 2. 5 PP.
@@ -338,8 +338,8 @@ Passive: Gladion's Soul (Master, Spirit)
 Effect: User's stats can't be lowered and lower target's Sp. Atk. by 2 when using a move.
 Moves: Fleur Cannon, Piercing Fleur Cannon, TM
 TM: Raise Sp. Atk. by 6 and max out Crit Rate. Power up user's next special move. 1 use.
-Piercing Fleur Cannon: 140 BP AoE special Fairy move. Increases in power for every -2 Sp. Atk. on all opponents.
-Changes from prev vers: Removed special move power up effect when KO'ing an opponent and added stat loss immunity.
+Piercing Fleur Cannon: 140 BP AoE special Fairy move. Can only be used after Magearna uses a move. Increases in power for every -2 Sp. Atk. on all opponents.
+Changes from prev vers: Removed special move power up effect when KO'ing an opponent and added stat loss immunity. Added restriction to B Move.
 
 
 SS Leon + Eternatus (no EEmax)
@@ -379,7 +379,7 @@ Changes from prev vers: None; new trainer!
 
 SS Emmet + DMax Eelektross
 Passive: Emmet's Departure
-Effect: Trap opponent and increase Atk. by 2 and Crit Rate by 1 after using a move.
+Effect: Trap target and increase Atk. by 2 and Crit Rate by 1 after using a move.
 Moves: Thunder Fang, Thunder Wave, Descending Lightning Wild Charge, TM
 TM: Target becomes immune to Ground attacks for 5 turns. Its moves before the end of the next turn become critical hits. 1 use.
 Descending Lightning Wild Charge: Can only be used if there is an opponent with a status condition or is flinching, trapped or confused. Same additional effect as Rising Flames Hex (above).
@@ -396,10 +396,11 @@ Gorging Crunch: 80 BP 1 target physical Dark move. Can only be used when the use
 Changes from prev vers: None; new trainer!
 
 
-Gloria (Dojo Uniform) + Rapid Strike Urshifu (GMax)
+Gloria (Dojo Uniform) + GMax Urshifu (Rapid Strike)
 Passive: Gloria's Strikes
 Effect: For each hit of a move, lower target's Def. and Spd.
-Moves: Surging Strikes, Close Combat, Iron Head
+Moves: Surging Strikes, Close Combat, Iron Head, TM
+TM: Increase Atk. by 3.
 
 
 
@@ -442,9 +443,9 @@ TM: Raise Sp. Atk. and Crit Rate by 1, then team's Spd. by 2. 2 uses.
 
 Anni (2023) Raihan + DMax Flygon
 Passive: Raihan's Rampage
-Effect: Power up next team's physical and special moves when using a status move. When attacking, lower target's Atk. and Sp. Atk. if it's trapped, confused or flinching.
+Effect: Power up team's next physical and special moves when using a status move. When attacking, lower target's Atk. and Sp. Atk. if it's trapped, confused or flinching.
 Moves: Fire Spin, Twister, Sandstorm, TM
-TM: Raise Sp. Atk. by 4 and Crit Rate by 2, then power up team's next physical and special moves.
+TM: Raise Sp. Atk. by 4 and Crit Rate by 2, then power up team's next physical and special moves. 1 use.
 
 
 NC Serena + Greninja
@@ -469,7 +470,7 @@ TM: Raise team's Atk. by 4, Sp. Atk. and Crit Rate by 2 and sets up Tailwind. 1 
 Transformational Double Team: Normal type status move. Raise team's Eva. by 2. When a Dark type, power up team's next physical attacks and set Dark Zone. When a Water type, power up team's next special attacks and make it rain. 2 PP.
 
 Passive: Calem's Calmness (Master, Pride)
-Effect: Immune to status conditions and chance to restore HP when attacking.
+Effect: Immune to status conditions and chance to restore HP when attacking when raining.
 
 Passive: Calem's Stoicism (Master, Pride)
 Effect: Immune to stat drops and restores team's HP when in a Dark Zone.
@@ -480,6 +481,7 @@ Passive: Marnie's Distaste (Master, Spirit)
 Effect: Max out Crit Rate when switched in and increase damage dealt when below max HP.
 Moves: Fiery Wrath, Protect, Fierce Fiery Wrath, TM
 TM: Raise Sp. Atk. by 6, Spd. by 4 and Eva. by 2, then takes 10% of its max HP as recoil damage. 1 use.
+Fierce Fiery Wrath: 130 BP AoE special Dark move. Can only be used once half of its moves (2) have been used. Flinches the target(s). 2 PP.
 
 
 NC Hop + Galarian Zapdos
@@ -487,13 +489,15 @@ Passive: Hop's Perseverance (Master, Pride)
 Effect: Lower target's Sp. Def. by same amount when lowering its Def. Increase Atk. by 2 on switch in.
 Moves: Thunderous Kick, Roaring Thunderous Kick, TM
 TM: Raise Spd. by 3 and lowers Sp. Def. by 1. Sets up Fighting Zone. 2 uses.
+Roaring Thunderous Kick: 130 BP 1 target physical Fighting move. Can only be used once half of its moves (1) have been used. Lower target's Def. by 3. 10 PP.
 
 
 NC Bede + Galarian Articuno
 Passive: Bede's Intimidation (Master, FB)
-Effect: Raise team's Spd. by 2 when switched in. Immune to critical hits.
+Effect: Raise team's Spd. by 1 when switched in. Immune to critical hits.
 Moves: Freezing Glare, Intimidating Freezing Glare, TM
 TM: Raise team's Atk., Sp. Atk. and Crit Rate by 2 and power up team's next physical and special moves. 2 uses.
+Intimidating Freezing Glare: 130 BP 1 target special Psychic move. Can only be used once half of its moves (1) have been used. Raise team's Def. and Sp. Def. by 1. 10 PP.
 
 
 NC Red + Kantonian Articuno
@@ -501,6 +505,7 @@ Passive: Red's Raging Silence (Master, Spirit)
 Effect: Moves will always land and be critical hits. When a move lands, power up user's next special move equal to no. of targets hit and lower their resistance to Ice moves.
 Moves: Blizzard, Frozen Wings Ice Beam, TM
 TM: Raise Sp. Atk. by 6 and power up next special move. 1 use.
+Frozen Wings Ice Beam: 120 BP 1 target special Ice move. Can only be used when an opponent has been made weaker to a type. Freezes target. 10 PP.
 
 
 NC Leaf + Kantonian Moltres
@@ -508,6 +513,7 @@ Passive: Leaf's Burning Love (Master, Pride)
 Effect: Status moves also lower the target's Atk., Sp. Atk. and Sp. Def. by 1 and its resistance to Fire moves.
 Moves: Leer, Fiery Wings Flare Blitz, TM
 TM: Raise Atk. and Sp. Atk. by 6 and max out Crit Rate. 1 use.
+Fiery Wings Flare Blitz: 120 BP 1 target physical Fire move. Can only be used when an opponent has been made weaker to a type. Doubles stat drops the opponent has. 10% chance to burn target. 10 PP.
 
 
 NC Blue + Kantonian Zapdos
@@ -515,6 +521,7 @@ Passive: Blue's Leadership (Master, FB)
 Effect: Moves lower target's resistance to Electric moves and increase team's Def. and Sp. Def. by 1.
 Moves: Discharge, Thundering Wings Roost, TM
 TM: Raise team's Sp. Atk. by 6 and maxes out Crit Rate. Power up team's next special moves. 1 use.
+Thundering Wings Roost: Flying type status move. Can only be used when an opponent has been made weaker to a type. Heals user and allies for 60% and 30% of their respective max HPs. Removes all status conditions from team and applies Gradual Healing to team. 2 PP.
 
 
 NC Nate + Shiny Haxorus
@@ -522,6 +529,7 @@ Passive: Nate's Resonating Will (Master, Pride)
 Effect: Using trainer moves raises Atk. by 6 and power up its next physical move. Moves will always be critical hits.
 Moves: Scale Shot, Dark Black Outrage, TM
 TM: Return lowered stat stages back to normal, then raise speed by 3. 2 uses.
+Dark Black Outrage: 160 BP 1 target physical Dragon move. Can only be used when user's Atk. has been raised. 1 PP.
 
 
 NC Rosa + Meloetta
@@ -529,6 +537,7 @@ Passive: Rosa's Melody (Master, FB)
 Effect: Normal moves become the user's secondary type. When using a move, raise team's Def. or Sp. Def. by 1 and lower its resistance to its secondary type.
 Moves: Relic Song, Relic Song of Wonder, TM
 TM: Power up team's physical or special moves when Meloetta is in Aria or Pirouette forms respectively. 2 uses.
+Relic Song of Wonder: 80 BP AoE special Psychic move. Can only be used when user's HP is at last 1/3 of its max HP. Changes Meloetta's form. Increases the power of team's next physical and special moves. 10% chance to make target(s) fall asleep. 10 PP.
 
 
 NC Silver + Mega Ttar
@@ -536,6 +545,7 @@ Passive: Silver's Destructive Instinct (Master, Pride)
 Effect: Extend duration of sandstorm and power up user's moves while in a sandstorm. Power up user's next physical move after using a move in a sandstorm.
 Moves: Stone Edge, Massive Rock Slide, TM
 TM: Raise Atk. by 6 and maxes out Crit Rate. Increase Acc. by 1 if in a Sandstorm. 1 use.
+Massive Rock Slide: 100 BP AoE physical Rock move. Can't be used consecutively or on the first turn the user's sent into battle. Flinches the target(s). 5 PP.
 
 
 NC Cheren + Tornadus (Incarnate)
@@ -543,6 +553,7 @@ Passive: Cheren's Teachings (Master, Spirit)
 Effect: Moves will always land and be critical hits. Power up user's next physical and special moves after using a move.
 Moves: Bleakwind Storm, Fly, Black Gale Bleakwind Storm, TM
 TM: Increase Atk. and Sp. Atk. by 4, then power up user's next physical and special move. 1 use.
+Black Gale Bleakwind Storm: 120 BP AoE special Flying move. Can't be used consecutively or on the first turn the user's sent into battle. Increases in power based on how much its next physical move would be powered up. Lower target's Spd. by 2. If used as the user's 2nd move after entering battle, lowers the target's resistance to Flying type moves. 5 PP.
 
 
 NC Bianca + Virizion
@@ -550,4 +561,21 @@ Passive: Bianca's New Path (Master, FB)
 Effect: Raise team's Spd. and Eva. by 1 after using a move and ignore target's enduring effect.
 Moves: Sacred Sword, White Light Sacred Sword, TM
 TM: Raise Atk. by 4 and max out Crit Rate. 1 use.
+White Light Sacred Sword: 130 BP 1 target physical Fighting move. Lowers the target's Atk. and Sp. Atk. by 3 and reduce its resistance to Fighting moves. Ignore target's evasion and defensive boosts. 2 PP.
+
+
+NC May + Shiny Primal Kyogre
+Passive: May's Blue Blessing
+Effect: Raise Sp. Atk. by 2 on entry and power up moves while raining. Moves will always land and be critical hits.
+Moves: Origin Pulse, Blue Origin Pulse, Thunder, TM
+TM: Raise Sp. Atk. by 2. Increase power of user and target's next special move.
+Blue Origin Pulse: 130 BP AoE special Water move. Can only be used in Heavy Rain. Make target(s) flinch and lower its Sp. Def. by 2. 1 PP.
+
+
+NC Brendan + Shiny Primal Groudon
+Passive: Brendan's Red Hype
+Effect: Raise Atk. by 2 on entry and power up moves while sunny. Moves will always land and be critical hits.
+Moves: Precipice Blades, Red Precipice Blades, Fire Punch, TM
+TM: Raise Atk. by 2. Increase power of user and target's next physical move.
+Red Precipice Blades: 150 BP AoE physical Ground move. Can only be used under Harsh Sun and can't be used consecutively or on the user's first turn in battle. Make target(s) flinch and lower its Def. by 3. 3 PP.
 
