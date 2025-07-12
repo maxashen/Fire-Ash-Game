@@ -369,6 +369,8 @@
 #------------------------------------
 550,HONINGHIT,Honing Hit,"Increase Atk. and Crit Rate when attacking."
 551,SEEKINGHIT,Seeking Hit,"Increase Sp. Atk. and Crit Rate when attacking."
+552,EXTENDRANGE,Extend Range,"Turn single target attacks into AoE attacks."
+553,EFFICIENTHEALER,Efficient Healer,"Double HP gained from healing."
 
 560,BROCKSGRIT,Brock's Grit,"Doubles additional effect chance and stats can't be lowered in a sandstorm."
 561,SSMISTY,Misty's Flow,"Gains gradual healing upon entry and 50% chance to increase evasion after using a move."
