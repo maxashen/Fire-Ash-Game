@@ -967,7 +967,7 @@
 1015,DNALUCK,DNA Code: Luck,DNA Codes: Luck,2,0,"A set of genetic code that gives random empowerment. It raises the IV of a random stat of a single Pokémon.",1,0,0,
 1016,GCCARD,Grandeur Club Pad,Grandeur Club Pads,8,0,"A digital pad showing your achievements in the Grandeur Club.",2,0,6
 1017,CRITCLAW,Crit Claw,Crit Claws,1,10000,"A Pokémon holding this item will always land critical hits under normal circumstances.",0,0,0
-1018,LIFEORB2,Life Orb,Life Orbs,1,4000,"An item to be held by a Pokémon. It boosts the power of moves, but at the cost of 1HP on each hit.",0,0,0
+1018,LIFEORB2,Life Orb,Life Orbs,1,4000,"An item to be held by a Pokémon. It boosts the power of moves, but at the cost of 1 HP on each hit.",0,0,0
 1019,LEGENDPLATE,Legend Plate,Legend Plates,1,20000,"A stone tablet to be held by a certain Pokémon. It grants the holder the power of every type there is.",0,0,0
 1020,LUCARIONITE2,Lucarionite,Lucarionites,1,0,"One of a variety of mysterious Mega Stones. Have Lucario hold it, and it will enter battle Mega Evolved.",0,0,0
 1021,VIRUSBREATHTAKER,Virus Code: Breathtaker,Virus Codes: Breathtaker,2,1000,"A set of genetic code that reduces life energy. It sets the IV of HP of a single Pokémon to 0.",1,0,0,

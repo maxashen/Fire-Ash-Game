@@ -1598,6 +1598,7 @@ BattlerEnemyY = 18
 #-------------------------------
 [LUCARIO,2]
 FormName = Luc-ker's Lucario
+MegaStone = LUCARIONITE2
 BaseStats = 70,1,131,112,180,131
 BaseEXP = 500
 Abilities = ADAPTABILITY
@@ -1607,8 +1608,8 @@ Weight = 57.5
 Pokedex = Achieving enlightenment with its partner, its special attacks are now able to save the world!
 Generation = 6
 BattlerPlayerY = 46
-BattlerEnemyX = 3
-BattlerEnemyY = 18
+BattlerEnemyX = 7
+BattlerEnemyY = 16
 #-------------------------------
 [ABOMASNOW,1]
 FormName = Mega Abomasnow
@@ -1711,6 +1712,11 @@ Generation = 8
 BattlerPlayerY = 45
 BattlerEnemyX = -1
 BattlerEnemyY = 12
+#-------------------------------
+[REGIGIGAS,1]
+FormName = Luc-ker's Regigigas
+BaseStats = 110,200,125,100,10,125
+Abilities = MOUNTAINCRUSHER
 #-------------------------------
 [GIRATINA,1]
 FormName = Origin Forme

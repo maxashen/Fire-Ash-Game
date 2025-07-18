@@ -11,6 +11,9 @@
  - challenge mode buffs: stat bonuses for opps, prio. for opps, "choice items" (they deal more dmg/are faster but can only use 1 move), sure hit, guaranteed 2ndary effects (if they don't already have them), status cond. immunity, interference immunity (would have to make them activate when challenge mode is on)
  - "duplicate" moves that have been kept: Techno Blast 2, Stockpile 2
 
+
+# The numbers are listed in the order: BattlerPlayerX, BattlerPlayerY, BattlerEnemyX, BattlerEnemyY, Altitude (unused), BattlerShadowX, BattlerShadowSize
+
 - zone common anims
 normal (fully done)
 fighting (fully done)

@@ -70,7 +70,9 @@ Grandeur Club Changes:
  - The Vending Machine can no longer be used after doing the first battle in the challenge
 - Added a new Vending Machine in Sync and Titan challenges, which can give the opponent buffs to make the battle harder. In return, you gain more GC Credits if you complete the challenge. It can't be used after doing the first battle in the challenge.
 - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
-- SS Hau now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
+- Fix various trainer moves having increased priority when they shouldn't
+- Gave SS Blue, Leaf and Giovanni Trainer Moves
+- SS Hau's Trainer Move now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
 - SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
 - SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before using Freeze Shock
 - Added animations to B-Moves which correspond to their original move in Sync and Titan Challenge

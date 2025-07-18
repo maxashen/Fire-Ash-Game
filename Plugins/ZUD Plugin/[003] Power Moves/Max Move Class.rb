@@ -24,6 +24,7 @@ class PokeBattle_MaxMove < PokeBattle_Move
       pokemon = newpoke if newpoke.gmax? && pokemon.gmaxFactor?
     end
     maxmove_id   = pokemon.get_maxmove(move, move.category)
+    maxmove_id   = :GMAXAURASPHERE if move.id == :AURASPHERESB
     newMove      = Pokemon::Move.new(maxmove_id)
     moveFunction = newMove.function_code || "D000"
     className    = sprintf("PokeBattle_Move_%s",moveFunction)

@@ -58,25 +58,25 @@ SS Blue + Mega Blastoise
 Passive: Blue's Triumph
 Effect: Raise team's Atk. and Sp. Atk. by 1 when hit and raise team's Sp. Def. by 1 after using a move. Skip recharge turns.
 Moves: Water Pulse, Dark Pulse, Aura Sphere, Hydro Cannon
-TM: Uhh I forgot to give him one initially, oops. Will prolly replace Water Pulse when 3.6 Part 2 is publicly released (unless hydro pump is doing too much damage in which case I'll replace that instead). Would be 2 uses.
-Changes from prev vers: Removed team Def. increase when attacking and healing effects when hit and at the end of a round.
+TM: Increase team's Def. by 2 and Crit Rate by 1 and sets Tailwind. 2 uses.
+Changes from prev vers: Removed team Def. increase when attacking and healing effects when hit and at the end of a round. Replaced Water Pulse with TM.
 
 
 SS Leaf + Mega Venusaur
 Passive: Leaf's Tenacity
 Effect: Badly poison target and reduce its Def. and Sp. Def. by 1 after using a move.
-Moves: Razor Leaf, Frenzy Plant, Protect, Leech Seed
-TM: Also none because it's too specific to PoMas. Would be 1 use though.
-Changes from prev vers: Removed healing effect after attacking.
+Moves: Razor Leaf, Frenzy Plant, Protect, TM
+TM: Heals team for 40% HP and applies Gradual Healing. 1 use.
+Changes from prev vers: Removed healing effect after attacking. Replaced Leech Seed with TM.
 
 
 SS Giovanni + DMax Nidoking
 Passive: Giovanni's Cunning
 Effect: The user's moves will always land and are critical hits. Normal-type moves become Ground type.
 Moves: Mega Kick, Poison Jab, Iron Tail, Dynamic Punch
-TM: None, but I don't rmb why I didn't give him one, actually. Maybe I wanted him to have more coverage with Dynamic Punch, or I thought it would be too much power? Would be 1 use.
+TM: Raise attack by 6. 1 use.
 Item: Life Orb
-Changes from prev vers: Removed custom item which would facilitate the always crit part and gave him a Life Orb instead.
+Changes from prev vers: Removed custom item which would facilitate the always crit part and gave him a Life Orb instead. Replaced Dynamic Punch with TM.
 
 
 SS Morty + Shiny Ho-oh
