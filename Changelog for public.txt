@@ -23,6 +23,7 @@ Qol Changes and Improvements:
 - Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc now
 - The speed up setting is now kept even after soft resetting or closing the game! (thank you Kraegon!)
 - Added an option to disable weather effects in the overworld! (thank you Kraegon x2!)
+- Added a search function to the PC so you can find Pokémon easier! (thank you Kraegon x3!)
 
 Issues fixed:
 - The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
@@ -44,19 +45,18 @@ Issues fixed:
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
 - Fix Gastly having Cloyster's description in the Pokédex
-- Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x3)
-- Fix some nicknames being butchered because of Essentials (thank you Kraegon! x4). Achieved by having them be resized or truncated when they're too long
-- Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x5!)
+- Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x4)
+- Fix some nicknames being butchered because of Essentials (thank you Kraegon! x5). Achieved by having them be resized or truncated when they're too long
+- Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x6!)
 - Fix a graphical issue where, if you were cycling before fishing, fishing after the first time wouldn't update the player's sprite properly (thank you Kay!)
 
 Grandeur Club Changes:
 - Added ??? challenge, which is only unlockable under certain conditions
-- Added Hisui and Galar as possible regions to challenge
-- Added more trainers to Sync and Titan challenges
+- Added Hisui and Galar as possible regions to challenge in Practice and Club
 - Items can be bought in bulk in the Vending Machine in the lobby
 - Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
-- Added a Poké Ball changer (hasn't been done yet oops)
 - Changed certain Serperiors to have Contrary than Overgrow
+- Added a check to ensure that the player has a certain pass before being able to do certain battles
 - Overhauled the mechanics of Sync challenge:
  - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
  - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy once buffs have been unlocked
@@ -68,15 +68,15 @@ Grandeur Club Changes:
   - Interference Immunity: Your Pokémon are immune to flinching, being trapped or confused. Costs 3 energy
   - Highest Vigilance: Your Pokémon won't receive critical hits for 999 turns (effectively the whole battle). Costs 3 energy
  - The Vending Machine can no longer be used after doing the first battle in the challenge
-- Added a new Vending Machine in Sync and Titan challenges, which can give the opponent buffs to make the battle harder. In return, you gain more GC Credits if you complete the challenge. It can't be used after doing the first battle in the challenge.
-- Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
-- Fix various trainer moves having increased priority when they shouldn't
-- Gave SS Blue, Leaf and Giovanni Trainer Moves
-- SS Hau's Trainer Move now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
-- SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
-- SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before using Freeze Shock
-- Added animations to B-Moves which correspond to their original move in Sync and Titan Challenge
-- Added a check to ensure that the player has a certain pass before being able to do certain battles
+- More Sync and Titan challenge changes:
+ - Added a new Vending Machine in Sync and Titan challenges, which can give the opponent buffs to make the battle harder. In return, you gain more GC Credits if you complete the challenge. It can't be used after doing the first battle in the challenge.
+ - Fix stat buffs/debuffs for the opponents getting skipped in Sync and Titan challenge
+ - Fix various trainer moves having increased priority when they shouldn't
+ - Gave SS Blue, Leaf and Giovanni Trainer Moves
+ - SS Hau's Trainer Move now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
+ - SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
+ - SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before using Freeze Shock
+ - Added animations to B-Moves which correspond to their original move
 
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
