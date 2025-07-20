@@ -27,9 +27,11 @@ Qol Changes and Improvements:
 
 Issues fixed:
 - The soft lock on Kalos Route 8 in the "To be a Pokémon Master" arc has been fixed by reducing the offending trainer's line of sight
+- Fix a soft lock occurring when trying to enter Stow-on-Side from Glimwood Tangle in the "To be a Pokémon Master" arc
 - Fix the Cut move tutor on Kalos Route 11 talking to the player from a distance
 - Fix the portal to Ultra Ruin in the postgame, where it could crash the game
 - Fix a soft lock occurring when losing to the Red Gyarados at the Lake of Rage
+- Fix the Town Map showing that the player is in Kanto in Cherrygrove Pokémon Center
 - Fix Enamorus not respawning after beating the Masters 8 rematch
 - Officer Jennys having the wrong speech colour
 - Fix Sun animation not showing up in battle

@@ -1170,6 +1170,7 @@ BattleBack = indoor2
 [258]
 # Cherrygrove Pokémon Center
 HealingSpot = 258,7,4
+MapPosition = 1,19,8
 BattleBack = indoor1
 #-------------------------------
 [259]
