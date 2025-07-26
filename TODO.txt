@@ -1,5 +1,5 @@
 - cut down on game size by utilising audio looping (finished all secret prefixes minus Jupiter and a few others)
- - may need to re-look at the following: secretdespair, secretfoul, secretjuniper, secretkamado, secretlaventon, secretvolo
+ - may need to re-look at the following: secretdespair, secretfoul, secretkamado, secretlaventon, secretvolo
  - remove .wav cries
 
 - loop sygna and nc trainers too (done, game currently at 588 MB)
