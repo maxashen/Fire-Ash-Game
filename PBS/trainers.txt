@@ -51282,7 +51282,7 @@ Pokemon = SAMUROTT,90
     Happiness = 255
 #-------------------------------
 [SECRET_Argenta,Argenta,2]
-LoseText = "Oh...I detest how fun times seem to end so quickly."
+LoseText = "Oh... I detest how fun times seem to end so quickly."
 Pokemon = HELIOLISK,100
     Moves = THUNDERBOLT,FIREPUNCH,BREAKINGSWIPE,IRONTAIL
     Gender = male
@@ -51402,7 +51402,7 @@ Pokemon = SAMUROTT,100
     Happiness = 255
 #-------------------------------
 [SECRET_Argenta,Argenta,4]
-LoseText = "Oh...I detest how fun times seem to end so quickly."
+LoseText = "Oh... I detest how fun times seem to end so quickly."
 Pokemon = HELIOLISK,100
     Moves = THUNDERBOLT,HYPERVOICE,SURF,ELECTRICTERRAIN
     Gender = male
@@ -52039,7 +52039,7 @@ Pokemon = CENTISKORCH,100
 #-------------------------------
 [SECRET_Bea,Bea]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I'm disappointed, but I'm not going to dwell on it.
+LoseText = "I'm disappointed, but I'm not going to dwell on it."
 Pokemon = FALINKS,75
     Moves = NORETREAT,BULKUP,CLOSECOMBAT,IRONHEAD
     IV = 20
@@ -52057,7 +52057,7 @@ Pokemon = MACHAMP,75
 #-------------------------------
 [SECRET_Bea,Bea,1]
 Items = MAXPOTION
-LoseText = ...No hard feelings!
+LoseText = "...No hard feelings!"
 Pokemon = FALINKS,90
     Moves = NORETREAT,BULKUP,CLOSECOMBAT,IRONHEAD
     Item = COBABERRY
@@ -52077,7 +52077,7 @@ Pokemon = MACHAMP,90
     Happiness = 255
 #-------------------------------
 [SECRET_Bea,Bea,2]
-LoseText = I'm disappointed, but I'm not going to dwell on it.
+LoseText = "I'm disappointed, but I'm not going to dwell on it."
 Pokemon = FALINKS,100
     Moves = NORETREAT,BULKUP,CLOSECOMBAT,IRONHEAD
     Item = COBABERRY
@@ -52098,7 +52098,7 @@ Pokemon = MACHAMP,100
 #-------------------------------
 [SECRET_Bea,Bea,3]
 Items = FULLRESTORE
-LoseText = ...No hard feelings!
+LoseText = "...No hard feelings!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = PANGORO,100
@@ -52195,7 +52195,7 @@ Pokemon = MACHAMP,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Bea,Bea,4]
-LoseText = I'm disappointed, but I'm not going to dwell on it.
+LoseText = "I'm disappointed, but I'm not going to dwell on it."
 Pokemon = FALINKS,100
     Moves = COACHING,KNOCKOFF,HELPINGHAND,CLOSECOMBAT
     Item = FIGHTINIUMZ
@@ -52228,7 +52228,7 @@ Pokemon = MACHAMP,100
 #-------------------------------
 [SECRET_Allister,Allister]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Crumbs...
+LoseText = "Crumbs..."
 Pokemon = CURSOLA,75
     Moves = HEX,CURSE,ANCIENTPOWER,PSYCHIC
     Gender = Female
@@ -52250,7 +52250,7 @@ Pokemon = GENGAR,75
 #-------------------------------
 [SECRET_Allister,Allister,1]
 Items = MAXPOTION
-LoseText = I'm glad I h...ad my mask...
+LoseText = "I'm glad I h...ad my mask..."
 Pokemon = CURSOLA,90
     Moves = HEX,CURSE,ANCIENTPOWER,PSYCHIC
     Gender = Female
@@ -52274,7 +52274,7 @@ Pokemon = GENGAR,90
     Happiness = 255
 #-------------------------------
 [SECRET_Allister,Allister,2]
-LoseText = Crumbs...
+LoseText = "Crumbs..."
 Pokemon = CURSOLA,100
     Moves = HEX,CURSE,ANCIENTPOWER,PSYCHIC
     Gender = Female
@@ -52299,7 +52299,7 @@ Pokemon = GENGAR,100
 #-------------------------------
 [SECRET_Allister,Allister,3]
 Items = FULLRESTORE
-LoseText = I'm glad I h...ad my mask...
+LoseText = "I'm glad I h...ad my mask..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = COFAGRIGUS,100
@@ -52397,7 +52397,7 @@ Pokemon = GENGAR,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Allister,Allister,4]
-LoseText = Crumbs...
+LoseText = "Crumbs..."
 Pokemon = CURSOLA,100
     Moves = CURSE,STRENGTHSAP,STEALTHROCK,SURF
     Gender = Female
@@ -52431,7 +52431,7 @@ Pokemon = GENGAR,100
 #-------------------------------
 [SECRET_Opal,Opal]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Your pink is still lacking, but you're excellent.
+LoseText = "Your pink is still lacking, but you're excellent."
 Pokemon = AROMATISSE,75
     Moves = MISTYTERRAIN,DRAININGKISS,ENERGYBALL,AROMATHERAPY
     Gender = Female
@@ -52451,7 +52451,7 @@ Pokemon = ALCREMIE,75
 #-------------------------------
 [SECRET_Opal,Opal,1]
 Items = MAXPOTION
-LoseText = I guess I'll have my tea in the stands...
+LoseText = "I guess I'll have my tea in the stands..."
 Pokemon = AROMATISSE,90
     Moves = MISTYTERRAIN,DAZZLINGGLEAM,ENERGYBALL,CALMMIND
     Gender = Female
@@ -52473,7 +52473,7 @@ Pokemon = ALCREMIE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Opal,Opal,2]
-LoseText = Your pink is still lacking, but you're excellent.
+LoseText = "Your pink is still lacking, but you're excellent."
 Pokemon = AROMATISSE,100
     Moves = MISTYTERRAIN,DAZZLINGGLEAM,ENERGYBALL,CALMMIND
     Gender = Female
@@ -52496,7 +52496,7 @@ Pokemon = ALCREMIE,100
 #-------------------------------
 [SECRET_Opal,Opal,3]
 Items = FULLRESTORE
-LoseText = I guess I'll have my tea in the stands...
+LoseText = "I guess I'll have my tea in the stands..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = WIGGLYTUFF,100
@@ -52597,7 +52597,7 @@ Pokemon = ALCREMIE,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Opal,Opal,4]
-LoseText = Your pink is still lacking, but you're excellent.
+LoseText = "Your pink is still lacking, but you're excellent."
 Pokemon = WEEZING,100
     Form = 1
     Moves = TOXIC,VENOSHOCK,PROTECT,STRANGESTEAM
@@ -52632,7 +52632,7 @@ Pokemon = ALCREMIE,100
 #-------------------------------
 [SECRET_Gordie,Gordie]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I just want to climb into a hole...
+LoseText = "I just want to climb into a hole..."
 Pokemon = STONJOURNER,75
     Moves = ROCKTOMB,BRUTALSWING,BULLDOZE,BODYSLAM
     Gender = Male
@@ -52650,7 +52650,7 @@ Pokemon = COALOSSAL,75
 #-------------------------------
 [SECRET_Gordie,Gordie,1]
 Items = MAXPOTION
-LoseText = I thought we had it in the bag!
+LoseText = "I thought we had it in the bag!"
 Pokemon = STONJOURNER,90
     Moves = STEALTHROCK,BODYPRESS,ROCKTOMB,SANDSTORM
     Gender = Male
@@ -52671,7 +52671,7 @@ Pokemon = COALOSSAL,90
     Happiness = 255
 #-------------------------------
 [SECRET_Gordie,Gordie,2]
-LoseText = I just want to climb into a hole...
+LoseText = "I just want to climb into a hole..."
 Pokemon = STONJOURNER,100
     Moves = STEALTHROCK,BODYPRESS,ROCKTOMB,SANDSTORM
     Gender = Male
@@ -52693,7 +52693,7 @@ Pokemon = COALOSSAL,100
 #-------------------------------
 [SECRET_Gordie,Gordie,3]
 Items = FULLRESTORE
-LoseText = I thought we had it in the bag!
+LoseText = "I thought we had it in the bag!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = GIGALITH,100
@@ -52791,7 +52791,7 @@ Pokemon = COALOSSAL,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Gordie,Gordie,4]
-LoseText = I just want to climb into a hole...
+LoseText = "I just want to climb into a hole..."
 Pokemon = STONJOURNER,100
     Moves = STEALTHROCK,WIDEGUARD,ROCKTOMB,SANDSTORM
     Gender = Male
@@ -52825,7 +52825,7 @@ Pokemon = COALOSSAL,100
 #-------------------------------
 [SECRET_Melony,Melony]
 Items = HYPERPOTION,FULLHEAL
-LoseText = It gives me the deepest of chills.
+LoseText = "It gives me the deepest of chills."
 Pokemon = MRRIME,75
     Moves = ENERGYBALL,EXPANDINGFORCE,ICEBEAM,PSYSHOCK
     Gender = Male
@@ -52844,7 +52844,7 @@ Pokemon = LAPRAS,75
 #-------------------------------
 [SECRET_Melony,Melony,1]
 Items = MAXPOTION
-LoseText = I think you took breaking the ice a little too literally...
+LoseText = "I think you took breaking the ice a little too literally..."
 Pokemon = MRRIME,90
     Moves = NASTYPLOT,ENERGYBALL,FREEZEDRY,PSYCHIC
     Gender = Male
@@ -52865,7 +52865,7 @@ Pokemon = LAPRAS,90
     Happiness = 255
 #-------------------------------
 [SECRET_Melony,Melony,2]
-LoseText = It gives me the deepest of chills.
+LoseText = "It gives me the deepest of chills."
 Pokemon = MRRIME,100
     Moves = NASTYPLOT,ENERGYBALL,FREEZEDRY,PSYCHIC
     Gender = Male
@@ -52887,7 +52887,7 @@ Pokemon = LAPRAS,100
 #-------------------------------
 [SECRET_Melony,Melony,3]
 Items = FULLRESTORE
-LoseText = I think you took breaking the ice a little too literally...
+LoseText = "I think you took breaking the ice a little too literally..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CASTFORM,100
@@ -52988,7 +52988,7 @@ Pokemon = LAPRAS,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Melony,Melony,4]
-LoseText = It gives me the deepest of chills.
+LoseText = "It gives me the deepest of chills."
 Pokemon = MRRIME,100
     Moves = PSYCHIC,HAIL,FREEZEDRY,TEETERDANCE
     Gender = Male
@@ -53022,7 +53022,7 @@ Pokemon = LAPRAS,100
 #-------------------------------
 [SECRET_Avery,Avery]
 Items = HYPERPOTION,FULLHEAL
-LoseText = What kind of trick did this kid use?
+LoseText = "What kind of trick did this kid use?"
 Pokemon = ALAKAZAM,75
     Moves = AIRSLASH,PSYBEAM,CHARGEBEAM,ENERGYBALL
     Gender = Male
@@ -53043,7 +53043,7 @@ Pokemon = SLOWKING,75
 #-------------------------------
 [SECRET_Avery,Avery,1]
 Items = MAXPOTION
-LoseText = What is it that I lack? What do I need?
+LoseText = "What is it that I lack? What do I need?"
 Pokemon = ALAKAZAM,90
     Moves = PSYCHIC,SHADOWBALL,TRIATTACK,REFLECT
     Gender = Male
@@ -53066,7 +53066,7 @@ Pokemon = SLOWKING,90
     Happiness = 255
 #-------------------------------
 [SECRET_Avery,Avery,2]
-LoseText = What kind of trick did this kid use?
+LoseText = "What kind of trick did this kid use?"
 Pokemon = ALAKAZAM,100
     Moves = PSYCHIC,SHADOWBALL,TRIATTACK,REFLECT
     Gender = Male
@@ -53090,7 +53090,7 @@ Pokemon = SLOWKING,100
 #-------------------------------
 [SECRET_Avery,Avery,3]
 Items = FULLRESTORE
-LoseText = What is it that I lack? What do I need?
+LoseText = "What is it that I lack? What do I need?"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = HYPNO,100
@@ -53192,7 +53192,7 @@ Pokemon = SLOWKING,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Avery,Avery,4]
-LoseText = What kind of trick did this kid use?
+LoseText = "What kind of trick did this kid use?"
 Pokemon = ALAKAZAM,100
     Moves = PSYCHIC,SHADOWBALL,PSYCHICTERRAIN,REFLECT
     Gender = Male
@@ -53228,7 +53228,7 @@ Pokemon = SLOWKING,100
 #-------------------------------
 [SECRET_Klara,Klara]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Just what have you got that I don't?
+LoseText = "Just what have you got that I don't?"
 Pokemon = SLOWKING,75
     Form = 1
     Moves = EERIESPELL,FLAMETHROWER,SLUDGEBOMB,SHADOWBALL
@@ -53249,7 +53249,7 @@ Pokemon = SLOWBRO,75
 #-------------------------------
 [SECRET_Klara,Klara,1]
 Items = MAXPOTION
-LoseText = But I didn't hold back!
+LoseText = "But I didn't hold back!"
 Pokemon = SLOWKING,90
     Form = 1
     Moves = EERIESPELL,BLIZZARD,POWERGEM,SCALD
@@ -53272,7 +53272,7 @@ Pokemon = SLOWBRO,90
     Happiness = 255
 #-------------------------------
 [SECRET_Klara,Klara,2]
-LoseText = Just what have you got that I don't?
+LoseText = "Just what have you got that I don't?"
 Pokemon = SLOWKING,100
     Form = 1
     Moves = EERIESPELL,BLIZZARD,POWERGEM,SCALD
@@ -53296,7 +53296,7 @@ Pokemon = SLOWBRO,100
 #-------------------------------
 [SECRET_Klara,Klara,3]
 Items = FULLRESTORE
-LoseText = But I didn't hold back!
+LoseText = "But I didn't hold back!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = AMOONGUSS,100
@@ -53398,7 +53398,7 @@ Pokemon = SLOWBRO,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Klara,Klara,4]
-LoseText = Just what have you got that I don't?
+LoseText = "Just what have you got that I don't?"
 Pokemon = SCOLIPEDE,100
     Moves = MEGAHORN,POISONJAB,TOXICSPIKES,VENOMDRENCH
     Gender = Male 
@@ -53434,7 +53434,7 @@ Pokemon = SLOWBRO,100
 #-------------------------------
 [SECRET_Piers,Piers]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Me an' my team gave it our best.
+LoseText = "Me an' my team gave it our best."
 Pokemon = SKUNTANK,75
     Moves = TOXIC,SUCKERPUNCH,SCREECH,POISONJAB
     Gender = Male
@@ -53453,7 +53453,7 @@ Pokemon = TOXTRICITY,75
 #-------------------------------
 [SECRET_Piers,Piers,1]
 Items = MAXPOTION
-LoseText = My throat's ragged from shoutin'.
+LoseText = "My throat's ragged from shoutin'."
 Pokemon = SKUNTANK,90
     Moves = TOXIC,SUCKERPUNCH,SCREECH,POISONJAB
     Gender = Male
@@ -53474,7 +53474,7 @@ Pokemon = TOXTRICITY,90
     Happiness = 255
 #-------------------------------
 [SECRET_Piers,Piers,2]
-LoseText = Me an' my team gave it our best.
+LoseText = "Me an' my team gave it our best."
 Pokemon = SKUNTANK,100
     Moves = TOXIC,SUCKERPUNCH,SCREECH,POISONJAB
     Gender = Male
@@ -53496,7 +53496,7 @@ Pokemon = TOXTRICITY,100
 #-------------------------------
 [SECRET_Piers,Piers,3]
 Items = FULLRESTORE
-LoseText = My throat's ragged from shoutin'.
+LoseText = "My throat's ragged from shoutin'."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = OVERQWIL,100
@@ -53595,7 +53595,7 @@ Pokemon = TOXTRICITY,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Piers,Piers,4]
-LoseText = Me an' my team gave it our best.
+LoseText = "Me an' my team gave it our best."
 Pokemon = SKUNTANK,100
     Moves = TOXIC,SUCKERPUNCH,SCREECH,TOXICSPIKES
     Gender = Male
@@ -53629,7 +53629,7 @@ Pokemon = TOXTRICITY,100
 #-------------------------------
 [SECRET_Mustard,Mustard]
 Items = HYPERPOTION,FULLHEAL
-LoseText = That was everything I hoped for and more!
+LoseText = "That was everything I hoped for and more!"
 Pokemon = KOMMOO,75
     Moves = CLANGINGSCALES,CLANGOROUSSOUL,BOOMBURST,AURASPHERE
     Gender = Male
@@ -53649,7 +53649,7 @@ Pokemon = URSHIFU,75
 #-------------------------------
 [SECRET_Mustard,Mustard,1]
 Items = MAXPOTION
-LoseText = The kid surpasses the old...
+LoseText = "The kid surpasses the old..."
 Pokemon = KOMMOO,90
     Moves = CLANGINGSCALES,CLANGOROUSSOUL,BOOMBURST,AURASPHERE
     Gender = Male
@@ -53671,7 +53671,7 @@ Pokemon = URSHIFU,90
     Happiness = 255
 #-------------------------------
 [SECRET_Mustard,Mustard,2]
-LoseText = That was everything I hoped for and more!
+LoseText = "That was everything I hoped for and more!"
 Pokemon = KOMMOO,100
     Moves = CLANGINGSCALES,CLANGOROUSSOUL,BOOMBURST,AURASPHERE
     Gender = Male
@@ -53694,7 +53694,7 @@ Pokemon = URSHIFU,100
 #-------------------------------
 [SECRET_Mustard,Mustard,3]
 Items = FULLRESTORE
-LoseText = The kid surpasses the old...
+LoseText = "The kid surpasses the old..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CORVIKNIGHT,100
@@ -53796,7 +53796,7 @@ Pokemon = URSHIFU,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Mustard,Mustard,4]
-LoseText = That was everything I hoped for and more!
+LoseText = "That was everything I hoped for and more!"
 Pokemon = KOMMOO,100
     Moves = CLANGINGSCALES,CLANGOROUSSOUL,BOOMBURST,AURASPHERE
     Gender = Male
@@ -53834,7 +53834,7 @@ Pokemon = URSHIFU,100
 #-------------------------------
 [SECRET_Peony,Peony]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Guess it's not my place to be braggin'!
+LoseText = "Guess it's not my place to be braggin'!"
 Pokemon = PERRSERKER,75
     Moves = METALCLAW,THIEF,DIG,UTURN
     Gender = Male
@@ -53853,7 +53853,7 @@ Pokemon = COPPERAJAH,75
 #-------------------------------
 [SECRET_Peony,Peony,1]
 Items = MAXPOTION
-LoseText = Aren't you the brave one!
+LoseText = "Aren't you the brave one!"
 Pokemon = PERRSERKER,90
     Moves = IRONHEAD,UTURN,SEEDBOMB,LASHOUT
     Gender = Male
@@ -53874,7 +53874,7 @@ Pokemon = COPPERAJAH,90
     Happiness = 255
 #-------------------------------
 [SECRET_Peony,Peony,2]
-LoseText = Guess it's not my place to be braggin'!
+LoseText = "Guess it's not my place to be braggin'!"
 Pokemon = PERRSERKER,100
     Moves = IRONHEAD,UTURN,SEEDBOMB,LASHOUT
     Gender = Male
@@ -53896,7 +53896,7 @@ Pokemon = COPPERAJAH,100
 #-------------------------------
 [SECRET_Peony,Peony,3]
 Items = FULLRESTORE
-LoseText = Aren't you the brave one!
+LoseText = "Aren't you the brave one!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = SANDSLASH,100
@@ -53995,7 +53995,7 @@ Pokemon = COPPERAJAH,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Peony,Peony,4]
-LoseText = Guess it's not my place to be braggin'!
+LoseText = "Guess it's not my place to be braggin'!"
 Pokemon = PERRSERKER,100
     Moves = IRONHEAD,FAKETEARS,HELPINGHAND,LASHOUT
     Gender = Male
@@ -54029,7 +54029,7 @@ Pokemon = COPPERAJAH,100
 #-------------------------------
 [SECRET_Raihan,Raihan]
 Items = HYPERPOTION,FULLHEAL
-LoseText = You're really something else.
+LoseText = "You're really something else."
 Pokemon = TURTONATOR,75
     Moves = DRAGONPULSE,SHELLTRAP,FLAMETHROWER,SUNNYDAY
     Gender = Male
@@ -54048,7 +54048,7 @@ Pokemon = DURALUDON,75
 #-------------------------------
 [SECRET_Raihan,Raihan,1]
 Items = MAXPOTION
-LoseText = Beyond anything I'd imagined!
+LoseText = "Beyond anything I'd imagined!"
 Pokemon = TURTONATOR,90
     Moves = DRAGONPULSE,SHELLTRAP,FIREBLAST,SUNNYDAY
     Gender = Male
@@ -54069,7 +54069,7 @@ Pokemon = DURALUDON,90
     Happiness = 255
 #-------------------------------
 [SECRET_Raihan,Raihan,2]
-LoseText = You're really something else.
+LoseText = "You're really something else."
 Pokemon = TURTONATOR,100
     Moves = DRAGONPULSE,SHELLTRAP,FIREBLAST,SUNNYDAY
     Gender = Male
@@ -54091,7 +54091,7 @@ Pokemon = DURALUDON,100
 #-------------------------------
 [SECRET_Raihan,Raihan,3]
 Items = FULLRESTORE
-LoseText = Beyond anything I'd imagined!
+LoseText = "Beyond anything I'd imagined!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = SANDACONDA,100
@@ -54189,7 +54189,7 @@ Pokemon = DURALUDON,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Raihan,Raihan,4]
-LoseText = You're really something else.
+LoseText = "You're really something else."
 Pokemon = TURTONATOR,100
     Moves = RAPIDSPIN,SHELLTRAP,FIREBLAST,SUNNYDAY
     Gender = Male
@@ -54223,7 +54223,7 @@ Pokemon = DURALUDON,100
 #-------------------------------
 [SECRET_Leon,Leon]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I knew you had it in you!
+LoseText = "I knew you had it in you!"
 Pokemon = MRRIME,75
     Moves = REFLECT,PSYCHIC,ICYWIND,GRASSKNOT
     Gender = Male
@@ -54242,7 +54242,7 @@ Pokemon = CHARIZARD,75
 #-------------------------------
 [SECRET_Leon,Leon,1]
 Items = MAXPOTION
-LoseText = My time is over...
+LoseText = "My time is over..."
 Pokemon = MRRIME,90
     Moves = FREEZEDRY,PSYCHIC,THUNDERBOLT,TEETERDANCE
     Gender = Male
@@ -54263,7 +54263,7 @@ Pokemon = CHARIZARD,90
     Happiness = 255
 #-------------------------------
 [SECRET_Leon,Leon,2]
-LoseText = I knew you had it in you!
+LoseText = "I knew you had it in you!"
 Pokemon = MRRIME,100
     Moves = FREEZEDRY,PSYCHIC,THUNDERBOLT,TEETERDANCE
     Gender = Male
@@ -54285,7 +54285,7 @@ Pokemon = CHARIZARD,100
 #-------------------------------
 [SECRET_Leon,Leon,3]
 Items = FULLRESTORE
-LoseText = My time is over...
+LoseText = "My time is over..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = RHYPERIOR,100
@@ -54383,7 +54383,7 @@ Pokemon = CHARIZARD,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Leon,Leon,4]
-LoseText = I knew you had it in you!
+LoseText = "I knew you had it in you!"
 Pokemon = MRRIME,100
     Moves = FREEZEDRY,PSYCHIC,THUNDERBOLT,TEETERDANCE
     Gender = Male
@@ -54417,7 +54417,7 @@ Pokemon = CHARIZARD,100
 #-------------------------------
 [SECRET_Hop,Hop]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Ugh! Gutted!
+LoseText = "Ugh! Gutted!"
 Pokemon = DUBWOOL,75
     Moves = BODYPRESS,HEADBUTT,TOXIC,THUNDERWAVE
     Gender = Male
@@ -54436,7 +54436,7 @@ Pokemon = CINDERACE,75
 #-------------------------------
 [SECRET_Hop,Hop,1]
 Items = MAXPOTION
-LoseText = Thanks, mate. I'm really glad you were the one.
+LoseText = "Thanks, mate. I'm really glad you were the one."
 Pokemon = DUBWOOL,90
     Moves = COTTONGUARD,WILDCHARGE,ZENHEADBUTT,DOUBLEEDGE
     Gender = Male
@@ -54457,7 +54457,7 @@ Pokemon = CINDERACE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Hop,Hop,2]
-LoseText = Ugh! Gutted!
+LoseText = "Ugh! Gutted!"
 Pokemon = DUBWOOL,100
     Moves = COTTONGUARD,WILDCHARGE,ZENHEADBUTT,DOUBLEEDGE
     Gender = Male
@@ -54479,7 +54479,7 @@ Pokemon = CINDERACE,100
 #-------------------------------
 [SECRET_Hop,Hop,3]
 Items = FULLRESTORE
-LoseText = Thanks, mate. I'm really glad you were the one.
+LoseText = "Thanks, mate. I'm really glad you were the one."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = PINCURCHIN,100
@@ -54577,7 +54577,7 @@ Pokemon = CINDERACE,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Hop,Hop,4]
-LoseText = Ugh! Gutted!
+LoseText = "Ugh! Gutted!"
 Pokemon = DUBWOOL,100
     Moves = COTTONGUARD,GUARDSPLIT,GUARDSWAP,DOUBLEEDGE
     Gender = Male
@@ -54611,7 +54611,7 @@ Pokemon = CINDERACE,100
 #-------------------------------
 [SECRET_Bede,Bede]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I suppose you're more able than I thought.
+LoseText = "I suppose you're more able than I thought."
 Pokemon = SYLVEON,75
     Moves = DRAININGKISS,LIGHTSCREEN,OMINOUSWIND,PSYSHOCK
     Gender = Female
@@ -54631,7 +54631,7 @@ Pokemon = HATTERENE,75
 #-------------------------------
 [SECRET_Bede,Bede,1]
 Items = MAXPOTION
-LoseText = It seems I must take back my words.
+LoseText = "It seems I must take back my words."
 Pokemon = SYLVEON,90
     Moves = MOONBLAST,SHADOWBALL,MYSTICALFIRE,PSYSHOCK
     Gender = Female
@@ -54653,7 +54653,7 @@ Pokemon = HATTERENE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Bede,Bede,2]
-LoseText = I suppose you're more able than I thought.
+LoseText = "I suppose you're more able than I thought."
 Pokemon = SYLVEON,100
     Moves = MOONBLAST,SHADOWBALL,MYSTICALFIRE,PSYSHOCK
     Gender = Female
@@ -54676,7 +54676,7 @@ Pokemon = HATTERENE,100
 #-------------------------------
 [SECRET_Bede,Bede,3]
 Items = FULLRESTORE
-LoseText = It seems I must take back my words.
+LoseText = "It seems I must take back my words."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = GOTHITELLE,100
@@ -54776,7 +54776,7 @@ Pokemon = HATTERENE,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Bede,Bede,4]
-LoseText = I suppose you're more able than I thought.
+LoseText = "I suppose you're more able than I thought."
 Pokemon = SYLVEON,100
     Moves = MOONBLAST,LIGHTSCREEN,REFLECT,HELPINGHAND
     Gender = Female
@@ -54811,7 +54811,7 @@ Pokemon = HATTERENE,100
 #-------------------------------
 [SECRET_Marnie,Marnie]
 Items = HYPERPOTION,FULLHEAL
-LoseText = You beat me... What's with that?!
+LoseText = "You beat me... What's with that?!"
 Pokemon = MORPEKO,75
     Moves = POWERTRIP,FLATTER,AURAWHEEL,RAPIDSPIN
     Gender = Female
@@ -54830,7 +54830,7 @@ Pokemon = GRIMMSNARL,75
 #-------------------------------
 [SECRET_Marnie,Marnie,1]
 Items = MAXPOTION
-LoseText = My Pokémon didn't get a chance to really do their thing at all.
+LoseText = "My Pokémon didn't get a chance to really do their thing at all."
 Pokemon = MORPEKO,90
     Moves = AURAWHEEL,SEEDBOMB,TORMENT,RAPIDSPIN
     Gender = Female
@@ -54851,7 +54851,7 @@ Pokemon = GRIMMSNARL,90
     Happiness = 255
 #-------------------------------
 [SECRET_Marnie,Marnie,2]
-LoseText = You beat me... What's with that?!
+LoseText = "You beat me... What's with that?!"
 Pokemon = MORPEKO,100
     Moves = AURAWHEEL,SEEDBOMB,TORMENT,RAPIDSPIN
     Gender = Female
@@ -54873,7 +54873,7 @@ Pokemon = GRIMMSNARL,100
 #-------------------------------
 [SECRET_Marnie,Marnie,3]
 Items = FULLRESTORE
-LoseText = My Pokémon didn't get a chance to really do their thing at all.
+LoseText = "My Pokémon didn't get a chance to really do their thing at all."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = ABSOL,100
@@ -54973,7 +54973,7 @@ Pokemon = GRIMMSNARL,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Marnie,Marnie,4]
-LoseText = You beat me... What's with that?!
+LoseText = "You beat me... What's with that?!"
 Pokemon = SCRAFTY,100
     Moves = CRUNCH,ICEPUNCH,ENCORE,SANDATTACK
     Gender = Male
@@ -55007,7 +55007,7 @@ Pokemon = GRIMMSNARL,100
 #-------------------------------
 [SECRET_Victor,Victor]
 Items = HYPERPOTION,FULLHEAL
-LoseText = You've perfected those flavors!
+LoseText = "You've perfected those flavors!"
 Pokemon = DRACOVISH,75
     Moves = FISHIOUSREND,PSYCHICFANGS,CRUNCH,DRAGONRUSH 
     IV = 20
@@ -55025,7 +55025,7 @@ Pokemon = RILLABOOM,75
 #-------------------------------
 [SECRET_Victor,Victor,1]
 Items = MAXPOTION
-LoseText = Got my desserts handed!
+LoseText = "Got my desserts handed!"
 Pokemon = DRACOVISH,90
     Moves = FISHIOUSREND,PSYCHICFANGS,CRUNCH,DRAGONRUSH 
     Item = MUSCLEBAND
@@ -55045,7 +55045,7 @@ Pokemon = RILLABOOM,90
     Happiness = 255
 #-------------------------------
 [SECRET_Victor,Victor,2]
-LoseText = You've perfected those flavors!
+LoseText = "You've perfected those flavors!"
 Pokemon = DRACOVISH,100
     Moves = FISHIOUSREND,PSYCHICFANGS,CRUNCH,DRAGONRUSH 
     Item = MUSCLEBAND
@@ -55066,7 +55066,7 @@ Pokemon = RILLABOOM,100
 #-------------------------------
 [SECRET_Victor,Victor,3]
 Items = FULLRESTORE
-LoseText = Got my desserts handed!
+LoseText = "Got my desserts handed!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = COPPERAJAH,100
@@ -55164,7 +55164,7 @@ Pokemon = RILLABOOM,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Victor,Victor,4]
-LoseText = You've perfected those flavors!
+LoseText = "You've perfected those flavors!"
 Pokemon = DRACOVISH,100
     Moves = FISHIOUSREND,PSYCHICFANGS,CRUNCH,DRAGONRUSH
     Item = WATERIUMZ
@@ -55197,7 +55197,7 @@ Pokemon = RILLABOOM,100
 #-------------------------------
 [SECRET_Gloria,Gloria]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Gotta bow out.
+LoseText = "Gotta bow out."
 Pokemon = DRAGONITE,75
     Moves = EARTHQUAKE,ICICLECRASH,DRAGONDANCE,ROOST
     Gender = Female
@@ -55215,7 +55215,7 @@ Pokemon = INTELEON,75
 #-------------------------------
 [SECRET_Gloria,Gloria,1]
 Items = MAXPOTION
-LoseText = Next time will be different. You'll see!
+LoseText = "Next time will be different. You'll see!"
 Pokemon = DRAGONITE,90
     Moves = EARTHQUAKE,ICICLECRASH,DRAGONDANCE,ROOST
     Gender = Female
@@ -55235,7 +55235,7 @@ Pokemon = INTELEON,90
     Happiness = 255
 #-------------------------------
 [SECRET_Gloria,Gloria,2]
-LoseText = Gotta bow out.
+LoseText = "Gotta bow out."
 Pokemon = DRAGONITE,100
     Moves = EARTHQUAKE,ICICLECRASH,DRAGONDANCE,ROOST
     Gender = Female
@@ -55256,7 +55256,7 @@ Pokemon = INTELEON,100
 #-------------------------------
 [SECRET_Gloria,Gloria,3]
 Items = FULLRESTORE
-LoseText = Next time will be different. You'll see!
+LoseText = "Next time will be different. You'll see!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = SANDACONDA,100
@@ -55354,7 +55354,7 @@ Pokemon = INTELEON,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Gloria,Gloria,4]
-LoseText = Gotta bow out.
+LoseText = "Gotta bow out."
 Pokemon = DRAGONITE,100
     Moves = EARTHQUAKE,ICICLECRASH,DRAGONDANCE,ROOST
     Gender = Female
@@ -55386,7 +55386,7 @@ Pokemon = INTELEON,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Magnolia,Magnolia,2]
-LoseText = Your intuition is quite sharp.
+LoseText = "Your intuition is quite sharp."
 Pokemon = CINDERACE,100
     Moves = PYROBALL,IRONHEAD,UTURN,ZENHEADBUTT
     Gender = Male
@@ -55408,7 +55408,7 @@ Pokemon = RILLABOOM,100
 #-------------------------------
 [SECRET_Magnolia,Magnolia,3]
 Items = FULLRESTORE
-LoseText = A win certainly to be on your way, my dear.
+LoseText = "A win was certainly on your way, my dear."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CALYREX,100
@@ -55502,7 +55502,7 @@ Pokemon = RILLABOOM,100
     Happiness = 255
 #-------------------------------
 [SECRET_Magnolia,Magnolia,4]
-LoseText = Your intuition is quite sharp.
+LoseText = "Your intuition is quite sharp."
 Pokemon = CINDERACE,100
     Moves = PYROBALL,IRONHEAD,UTURN,ZENHEADBUTT
     Gender = Male
@@ -55532,7 +55532,7 @@ Pokemon = RILLABOOM,100
     Happiness = 255
 #-------------------------------
 [SECRET_Sonia,Sonia,2]
-LoseText = Hold on a tick!
+LoseText = "Hold on a tick!"
 Pokemon = ORBEETLE,100
     Moves = REFLECT,TOXIC,LIGHTSCREEN,UTURN
     Gender = Male
@@ -55554,7 +55554,7 @@ Pokemon = BOLTUND,100
 #-------------------------------
 [SECRET_Sonia,Sonia,3]
 Items = FULLRESTORE
-LoseText = Come on!
+LoseText = "Come on!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = REGIDRAGO,100
@@ -55650,7 +55650,7 @@ Pokemon = BOLTUND,100
     Happiness = 255 
 #-------------------------------
 [SECRET_Sonia,Sonia,4]
-LoseText = Hold on a tick!
+LoseText = "Hold on a tick!"
 Pokemon = ORBEETLE,100
     Moves = REFLECT,TOXIC,LIGHTSCREEN,UTURN
     Gender = Male
@@ -55683,7 +55683,7 @@ Pokemon = BOLTUND,100
     Happiness = 255 
 #-------------------------------
 [SECRET_Oleana,Oleana,2]
-LoseText = My, how cheeky.
+LoseText = "My, how cheeky."
 Pokemon = SALAZZLE,100
     Moves = VENOSHOCK,FLAMETHROWER,POISONGAS,DRAGONPULSE
     Gender = Female
@@ -55705,7 +55705,7 @@ Pokemon = GARBODOR,100
 #-------------------------------
 [SECRET_Oleana,Oleana,3]
 Items = FULLRESTORE
-LoseText = Oleana...you really are a hopeless woman.
+LoseText = "Oleana...you really are a hopeless woman."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = MISMAGIUS,100
@@ -55803,7 +55803,7 @@ Pokemon = GARBODOR,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Oleana,Oleana,4]
-LoseText = My, how cheeky.
+LoseText = "My, how cheeky."
 Pokemon = SALAZZLE,100
     Moves = VENOSHOCK,FLAMETHROWER,POISONGAS,DRAGONPULSE
     Gender = Female
@@ -55836,7 +55836,7 @@ Pokemon = GARBODOR,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Rose,Rose,2]
-LoseText = That sure was satisfying.
+LoseText = "That sure was satisfying."
 Pokemon = PERRSERKER,100
     Moves = METALBURST,NIGHTSLASH,SPITE,TAUNT
     Gender = Male
@@ -55858,7 +55858,7 @@ Pokemon = COPPERAJAH,100
 #-------------------------------
 [SECRET_Rose,Rose,3]
 Items = FULLRESTORE
-LoseText = You're pretty tough... Don't you think that's unfair?
+LoseText = "You're pretty tough... Don't you think that's unfair?"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = MAGNEZONE,100
@@ -55952,7 +55952,7 @@ Pokemon = ETERNATUS,100
     Happiness = 255
 #-------------------------------
 [SECRET_Rose,Rose,4]
-LoseText = That sure was satisfying.
+LoseText = "That sure was satisfying."
 Pokemon = ESCAVALIER,100
     Moves = DRILLPECK,DRILLRUN,IRONHEAD,XSCISSOR
     Gender = Male
@@ -55993,7 +55993,7 @@ Pokemon = ETERNATUS,100
 #-------------------------------
 [SECRET_Calaba,Calaba]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Maybe I ought to prepare more.
+LoseText = "Maybe I ought to prepare more."
 Pokemon = BIBAREL,75
     Moves = CRUNCH,SUPERFANG,SWORDSDANCE,WATERFALL
     Gender = Male
@@ -56012,7 +56012,7 @@ Pokemon = URSALUNA,75
 #-------------------------------
 [SECRET_Calaba,Calaba,1]
 Items = MAXPOTION
-LoseText = I'll admit..
+LoseText = "I'll admit.."
 Pokemon = BIBAREL,90
     Moves = CRUNCH,SUPERFANG,SWORDSDANCE,WATERFALL
     Gender = Male
@@ -56033,7 +56033,7 @@ Pokemon = URSALUNA,90
     Happiness = 255
 #-------------------------------
 [SECRET_Calaba,Calaba,2]
-LoseText = Maybe I ought to prepare more.
+LoseText = "Maybe I ought to prepare more."
 Pokemon = BIBAREL,100
     Moves = CRUNCH,SUPERFANG,SWORDSDANCE,WATERFALL
     Gender = Male
@@ -56055,7 +56055,7 @@ Pokemon = URSALUNA,100
 #-------------------------------
 [SECRET_Calaba,Calaba,3]
 Items = FULLRESTORE
-LoseText = I'll admit..
+LoseText = "I'll admit.."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = WORMADAM,100
@@ -56153,7 +56153,7 @@ Pokemon = URSALUNA,100
     Happiness = 255
 #-------------------------------
 [SECRET_Calaba,Calaba,4]
-LoseText = Maybe I ought to prepare more.
+LoseText = "Maybe I ought to prepare more."
 Pokemon = BIBAREL,100
     Moves = CRUNCH,SUPERFANG,SWORDSDANCE,WATERFALL
     Gender = Male
@@ -56187,7 +56187,7 @@ Pokemon = URSALUNA,100
 #-------------------------------
 [SECRET_Gaeric,Gaeric]
 Items = HYPERPOTION,FULLHEAL
-LoseText = My summit is conquered by your spirit!
+LoseText = "My summit is conquered by your spirit!"
 Pokemon = FROSLASS,75
     Moves = OMINOUSWIND,BLIZZARD,HAIL,THUNDERWAVE
     Gender = Female
@@ -56207,7 +56207,7 @@ Pokemon = AVALUGG,75
 #-------------------------------
 [SECRET_Gaeric,Gaeric,1]
 Items = MAXPOTION
-LoseText = You pulled off quite the feat!
+LoseText = "You pulled off quite the feat!"
 Pokemon = FROSLASS,90
     Moves = OMINOUSWIND,BLIZZARD,HAIL,THUNDERWAVE
     Gender = Female
@@ -56229,7 +56229,7 @@ Pokemon = AVALUGG,90
     Happiness = 255
 #-------------------------------
 [SECRET_Gaeric,Gaeric,2]
-LoseText = My summit is conquered by your spirit!
+LoseText = "My summit is conquered by your spirit!"
 Pokemon = FROSLASS,100
     Moves = OMINOUSWIND,BLIZZARD,HAIL,THUNDERWAVE 
     Gender = Female
@@ -56252,7 +56252,7 @@ Pokemon = AVALUGG,100
 #-------------------------------
 [SECRET_Gaeric,Gaeric,3]
 Items = FULLRESTORE
-LoseText = You pulled off quite the feat!
+LoseText = "You pulled off quite the feat!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = MACHAMP,100
@@ -56348,7 +56348,7 @@ Pokemon = AVALUGG,100
     Happiness = 255
 #-------------------------------
 [SECRET_Gaeric,Gaeric,4]
-LoseText = My summit is conquered by your spirit!
+LoseText = "My summit is conquered by your spirit!"
 Pokemon = FROSLASS,100
     Moves = OMINOUSWIND,BLIZZARD,HAIL,THUNDERWAVE
     Gender = Female
@@ -56383,7 +56383,7 @@ Pokemon = AVALUGG,100
 #-------------------------------
 [SECRET_Lian,Lian]
 Items = HYPERPOTION,FULLHEAL
-LoseText = H-how can this be...
+LoseText = "H-how can this be..."
 Pokemon = KLEAVOR,75
     Moves = STONEAXE,STEALTHROCK,DUALWINGBEAT,XSCISSOR
     Gender = Male
@@ -56403,7 +56403,7 @@ Pokemon = GOODRA,75
 #-------------------------------
 [SECRET_Lian,Lian,1]
 Items = MAXPOTION
-LoseText = Oh, my good sense.
+LoseText = "Oh, my good sense."
 Pokemon = KLEAVOR,90
     Moves = STONEAXE,STEALTHROCK,DUALWINGBEAT,XSCISSOR
     Gender = Male
@@ -56425,7 +56425,7 @@ Pokemon = GOODRA,90
     Happiness = 255
 #-------------------------------
 [SECRET_Lian,Lian,2]
-LoseText = H-how can this be...
+LoseText = "H-how can this be..."
 Pokemon = KLEAVOR,100
     Moves = STONEAXE,STEALTHROCK,DUALWINGBEAT,XSCISSOR
     Gender = Male
@@ -56448,7 +56448,7 @@ Pokemon = GOODRA,100
 #-------------------------------
 [SECRET_Lian,Lian,3]
 Items = FULLRESTORE
-LoseText = Oh, my good sense.
+LoseText = "Oh, my good sense."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = PARASECT,100
@@ -56547,7 +56547,7 @@ Pokemon = GOODRA,100
     Happiness = 255
 #-------------------------------
 [SECRET_Lian,Lian,4]
-LoseText = H-how can this be...
+LoseText = "H-how can this be..."
 Pokemon = KLEAVOR,100
     Moves = STONEAXE,STEALTHROCK,DUALWINGBEAT,XSCISSOR
     Gender = Male
@@ -56582,7 +56582,7 @@ Pokemon = GOODRA,100
 #-------------------------------
 [SECRET_Palina,Palina]
 Items = HYPERPOTION,FULLHEAL
-LoseText = They can always rely on you.
+LoseText = "They can always rely on you."
 Pokemon = NINETALES,75
     Moves = NASTYPLOT,WILLOWISP,EXTRASENSORY,FLAMETHROWER
     Gender = Female
@@ -56602,7 +56602,7 @@ Pokemon = ARCANINE,75
 #-------------------------------
 [SECRET_Palina,Palina,1]
 Items = MAXPOTION
-LoseText = Certainly of course.
+LoseText = "Certainly, of course."
 Pokemon = NINETALES,90
     Moves = NASTYPLOT,WILLOWISP,EXTRASENSORY,FLAMETHROWER
     Gender = Female
@@ -56624,7 +56624,7 @@ Pokemon = ARCANINE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Palina,Palina,2]
-LoseText = They can always rely on you.
+LoseText = "They can always rely on you."
 Pokemon = NINETALES,100
     Moves = NASTYPLOT,WILLOWISP,EXTRASENSORY,FLAMETHROWER
     Gender = Female
@@ -56647,7 +56647,7 @@ Pokemon = ARCANINE,100
 #-------------------------------
 [SECRET_Palina,Palina,3]
 Items = FULLRESTORE
-LoseText = Certainly of course.
+LoseText = "Certainly, of course."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = RAICHU,100
@@ -56746,7 +56746,7 @@ Pokemon = ARCANINE,100
     Happiness = 255
 #-------------------------------
 [SECRET_Palina,Palina,4]
-LoseText = They can always rely on you.
+LoseText = "They can always rely on you."
 Pokemon = NINETALES,100
     Moves = ENERGYBALL,WILLOWISP,EXTRASENSORY,HEATWAVE
     Gender = Female
@@ -56778,9 +56778,9 @@ Pokemon = ARCANINE,100
     Gigantamax = yes
     TrainerAce = yes
 #-------------------------------
-[SECRET_HIngo,HIngo]
+[SECRET_HIngo,Ingo]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Bravo! Excellent!
+LoseText = "Bravo! Excellent!"
 Pokemon = GLISCOR,75
     Moves = EARTHQUAKE,DOUBLETEAM,SWORDSDANCE,FACADE
     Gender = Male
@@ -56797,9 +56797,9 @@ Pokemon = SNEASLER,75
     IV = 20
     Happiness = 255
 #-------------------------------
-[SECRET_HIngo,HIngo,1]
+[SECRET_HIngo,Ingo,1]
 Items = MAXPOTION
-LoseText = Most splendid!
+LoseText = "Most splendid!"
 Pokemon = GLISCOR,90
     Moves = EARTHQUAKE,DOUBLETEAM,SWORDSDANCE,POISONJAB
     Gender = Male
@@ -56819,8 +56819,8 @@ Pokemon = SNEASLER,90
     IV = 20
     Happiness = 255
 #-------------------------------
-[SECRET_HIngo,HIngo,2]
-LoseText = Bravo! Excellent!
+[SECRET_HIngo,Ingo,2]
+LoseText = "Bravo! Excellent!"
 Pokemon = GLISCOR,100
     Moves = EARTHQUAKE,DOUBLETEAM,SWORDSDANCE,POISONJAB
     Gender = Male
@@ -56840,9 +56840,9 @@ Pokemon = SNEASLER,100
     IV = 20
     Happiness = 255
 #-------------------------------
-[SECRET_HIngo,HIngo,3]
+[SECRET_HIngo,Ingo,3]
 Items = FULLRESTORE
-LoseText = Most splendid!
+LoseText = "Most splendid!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = MAGNEZONE,100
@@ -56937,8 +56937,8 @@ Pokemon = SNEASLER,100
     Gigantamax = yes
     TrainerAce = yes
 #-------------------------------
-[SECRET_HIngo,HIngo,4]
-LoseText = Bravo! Excellent!
+[SECRET_HIngo,Ingo,4]
+LoseText = "Bravo! Excellent!"
 Pokemon = GLISCOR,100
     Moves = EARTHQUAKE,DEFOG,SWORDSDANCE,FACADE
     Gender = Male
@@ -56972,7 +56972,7 @@ Pokemon = SNEASLER,100
 #-------------------------------
 [SECRET_Arezu,Arezu]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Wow, you really are strong.
+LoseText = "Wow, you really are strong."
 Pokemon = BRONZONG,75
     Moves = BODYPRESS,GYROBALL,METEORBEAM,CHARGEBEAM
     IV = 20
@@ -56991,7 +56991,7 @@ Pokemon = LILLIGANT,75
 #-------------------------------
 [SECRET_Arezu,Arezu,1]
 Items = MAXPOTION
-LoseText = Thanks a bunch.
+LoseText = "Thanks a bunch."
 Pokemon = BRONZONG,90
     Moves = BODYPRESS,GYROBALL,METEORBEAM,CHARGEBEAM
     Item = LEFTOVERS
@@ -57012,7 +57012,7 @@ Pokemon = LILLIGANT,90
     Happiness = 255
 #-------------------------------
 [SECRET_Arezu,Arezu,2]
-LoseText = Wow, you really are strong.
+LoseText = "Wow, you really are strong."
 Pokemon = BRONZONG,100
     Moves = BODYPRESS,GYROBALL,METEORBEAM,CHARGEBEAM
     Item = LEFTOVERS
@@ -57034,7 +57034,7 @@ Pokemon = LILLIGANT,100
 #-------------------------------
 [SECRET_Arezu,Arezu,3]
 Items = FULLRESTORE
-LoseText = Thanks a bunch.
+LoseText = "Thanks a bunch."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = UMBREON,100
@@ -57133,7 +57133,7 @@ Pokemon = LILLIGANT,100
     Happiness = 255
 #-------------------------------
 [SECRET_Arezu,Arezu,4]
-LoseText = Wow, you really are strong.
+LoseText = "Wow, you really are strong."
 Pokemon = BRONZONG,100
     Moves = BODYPRESS,GYROBALL,HYPNOSIS,GUARDSWAP
     Item = LEFTOVERS
@@ -57167,7 +57167,7 @@ Pokemon = LILLIGANT,100
 #-------------------------------
 [SECRET_Melli,Melli]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Oh, for shame!
+LoseText = "Oh, for shame!"
 Pokemon = CROBAT,75
     Moves = CROSSPOISON,CRUNCH,DUALWINGBEAT,LEECHLIFE
     Gender = Male
@@ -57187,7 +57187,7 @@ Pokemon = ELECTRODE,75
 #-------------------------------
 [SECRET_Melli,Melli,1]
 Items = MAXPOTION
-LoseText = What utter calamity...
+LoseText = "What utter calamity..."
 Pokemon = CROBAT,90
     Moves = CROSSPOISON,CRUNCH,DUALWINGBEAT,LEECHLIFE
     Gender = Male
@@ -57209,7 +57209,7 @@ Pokemon = ELECTRODE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Melli,Melli,2]
-LoseText = Oh, for shame!
+LoseText = "Oh, for shame!"
 Pokemon = CROBAT,100
     Moves = CROSSPOISON,CRUNCH,DUALWINGBEAT,LEECHLIFE
     Gender = Male
@@ -57232,7 +57232,7 @@ Pokemon = ELECTRODE,100
 #-------------------------------
 [SECRET_Melli,Melli,3]
 Items = FULLRESTORE
-LoseText = What utter calamity...
+LoseText = "What utter calamity..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = DUSKNOIR,100
@@ -57332,7 +57332,7 @@ Pokemon = ELECTRODE,100
     Happiness = 255
 #-------------------------------
 [SECRET_Melli,Melli,4]
-LoseText = Oh, for shame!
+LoseText = "Oh, for shame!"
 Pokemon = CROBAT,100
     Moves = CROSSPOISON,TAILWIND,DUALWINGBEAT,SCREECH
     Gender = Male
@@ -57367,7 +57367,7 @@ Pokemon = ELECTRODE,100
 #-------------------------------
 [SECRET_Sabi,Sabi]
 Items = HYPERPOTION,FULLHEAL
-LoseText = And that's that.
+LoseText = "And that's that."
 Pokemon = MAGMORTAR,75
     Moves = BURNINGJEALOUSY,PSYCHIC,THUNDERBOLT,UPROAR
     Gender = Male
@@ -57387,7 +57387,7 @@ Pokemon = BRAVIARY,75
 #-------------------------------
 [SECRET_Sabi,Sabi,1]
 Items = MAXPOTION
-LoseText = Well, however the future turns out...
+LoseText = "Well, however the future turns out..."
 Pokemon = MAGMORTAR,90
     Moves = BURNINGJEALOUSY,PSYCHIC,THUNDERBOLT,UPROAR
     Gender = Male
@@ -57409,7 +57409,7 @@ Pokemon = BRAVIARY,90
     Happiness = 255
 #-------------------------------
 [SECRET_Sabi,Sabi,2]
-LoseText = And that's that.
+LoseText = "And that's that."
 Pokemon = MAGMORTAR,100
     Moves = BURNINGJEALOUSY,PSYCHIC,THUNDERBOLT,UPROAR
     Gender = Male
@@ -57432,7 +57432,7 @@ Pokemon = BRAVIARY,100
 #-------------------------------
 [SECRET_Sabi,Sabi,3]
 Items = FULLRESTORE
-LoseText = Well, however the future turns out...
+LoseText = "Well, however the future turns out..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = ESPEON,100
@@ -57532,7 +57532,7 @@ Pokemon = BRAVIARY,100
     Happiness = 255
 #-------------------------------
 [SECRET_Sabi,Sabi,4]
-LoseText = And that's that.
+LoseText = "And that's that."
 Pokemon = MAGMORTAR,100
     Moves = BURNINGJEALOUSY,SMOKESCREEN,POISONGAS,KNOCKOFF
     Gender = Male
@@ -57567,7 +57567,7 @@ Pokemon = BRAVIARY,100
 #-------------------------------
 [SECRET_Iscan,Iscan]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Waugh! No!
+LoseText = "Waugh! No!"
 Pokemon = GASTRODON,75
     Form = 1
     Moves = ANCIENTPOWER,BLIZZARD,EARTHPOWER,RAINDANCE
@@ -57588,7 +57588,7 @@ Pokemon = BASCULEGION,75
 #-------------------------------
 [SECRET_Iscan,Iscan,1]
 Items = MAXPOTION
-LoseText = Really...just impossible, if I'm being honest...
+LoseText = "Really... just impossible, if I'm being honest..."
 Pokemon = GASTRODON,90
     Form = 1
     Moves = ANCIENTPOWER,BLIZZARD,EARTHPOWER,RAINDANCE
@@ -57610,7 +57610,7 @@ Pokemon = BASCULEGION,90
     Happiness = 255
 #-------------------------------
 [SECRET_Iscan,Iscan,2]
-LoseText = Waugh! No!
+LoseText = "Waugh! No!"
 Pokemon = GASTRODON,100
     Form = 1
     Moves = ANCIENTPOWER,BLIZZARD,EARTHPOWER,RAINDANCE
@@ -57633,7 +57633,7 @@ Pokemon = BASCULEGION,100
 #-------------------------------
 [SECRET_Iscan,Iscan,3]
 Items = FULLRESTORE
-LoseText = Really...just impossible, if I'm being honest...
+LoseText = "Really... just impossible, if I'm being honest..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = VAPOREON,100
@@ -57732,7 +57732,7 @@ Pokemon = BASCULEGION,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Iscan,Iscan,4]
-LoseText = Waugh! No!
+LoseText = "Waugh! No!"
 Pokemon = GASTRODON,100
     Form = 1
     Moves = SURF,BLIZZARD,SLUDGEWAVE,RAINDANCE
@@ -57767,7 +57767,7 @@ Pokemon = BASCULEGION,100
 #-------------------------------
 [SECRET_Mai,Mai]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Hehehe... Well done.
+LoseText = "Hehehe... Well done."
 Pokemon = WYRDEER,75
     Moves = PSYSHIELDBASH,EARTHQUAKE,THUNDERWAVE,MEGAHORN
     Gender = Male
@@ -57787,7 +57787,7 @@ Pokemon = WEAVILE,75
 #-------------------------------
 [SECRET_Mai,Mai,1]
 Items = MAXPOTION
-LoseText = You are doing fine. Good work out there.
+LoseText = "You are doing fine. Good work out there."
 Pokemon = WYRDEER,90
     Moves = PSYSHIELDBASH,EARTHQUAKE,THUNDERWAVE,MEGAHORN
     Gender = Male
@@ -57809,7 +57809,7 @@ Pokemon = WEAVILE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Mai,Mai,2]
-LoseText = Hehehe... Well done.
+LoseText = "Hehehe... Well done."
 Pokemon = WYRDEER,100
     Moves = PSYSHIELDBASH,EARTHQUAKE,THUNDERWAVE,MEGAHORN
     Gender = Male
@@ -57832,7 +57832,7 @@ Pokemon = WEAVILE,100
 #-------------------------------
 [SECRET_Mai,Mai,3]
 Items = FULLRESTORE
-LoseText = You are doing fine. Good work out there.
+LoseText = "You are doing fine. Good work out there."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = DUSTOX,100
@@ -57931,7 +57931,7 @@ Pokemon = ZOROARK,100
     Happiness = 255
 #-------------------------------
 [SECRET_Mai,Mai,4]
-LoseText = Hehehe... Well done.
+LoseText = "Hehehe... Well done."
 Pokemon = WEAVILE,100
     Moves = KNOCKOFF,ICICLECRASH,FAKEOUT,PURSUIT
     Gender = Female
@@ -57966,7 +57966,7 @@ Pokemon = ZOROARK,100
 #-------------------------------
 [SECRET_Coin,Coin]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I'm not fond of this outcome.
+LoseText = "I'm not fond of this outcome."
 Pokemon = GALLADE,75
     Moves = CLOSECOMBAT,EARTHQUAKE,LEAFBLADE,PSYCHOCUT
     Gender = Male
@@ -57985,7 +57985,7 @@ Pokemon = TOXICROAK,75
 #-------------------------------
 [SECRET_Coin,Coin,1]
 Items = MAXPOTION
-LoseText = How could I let myself lose...
+LoseText = "How could I let myself lose..."
 Pokemon = GALLADE,90
     Moves = CLOSECOMBAT,EARTHQUAKE,LEAFBLADE,PSYCHOCUT 
     Gender = Male
@@ -58006,7 +58006,7 @@ Pokemon = TOXICROAK,90
     Happiness = 255
 #-------------------------------
 [SECRET_Coin,Coin,2]
-LoseText = I'm not fond of this outcome.
+LoseText = "I'm not fond of this outcome."
 Pokemon = GALLADE,100
     Moves = CLOSECOMBAT,EARTHQUAKE,LEAFBLADE,PSYCHOCUT
     Gender = Male
@@ -58028,7 +58028,7 @@ Pokemon = TOXICROAK,100
 #-------------------------------
 [SECRET_Coin,Coin,3]
 Items = FULLRESTORE
-LoseText = How could I let myself lose...
+LoseText = "How could I let myself lose..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = LUCARIO,100
@@ -58126,7 +58126,7 @@ Pokemon = TOXICROAK,100
     Happiness = 255
 #-------------------------------
 [SECRET_Coin,Coin,4]
-LoseText = I'm not fond of this outcome.
+LoseText = "I'm not fond of this outcome."
 Pokemon = HERACROSS,100
     Moves = CLOSECOMBAT,EARTHQUAKE,MEGAHORN,THROATCHOP
     Gender = Male
@@ -58160,7 +58160,7 @@ Pokemon = TOXICROAK,100
 #-------------------------------
 [SECRET_Charm,Charm]
 Items = HYPERPOTION,FULLHEAL
-LoseText = What a disgrace...
+LoseText = "What a disgrace..."
 Pokemon = RHYPERIOR,75
     Moves = ROCKWRECKER,EARTHQUAKE,HEATCRASH,MEGAHORN
     Gender = Male
@@ -58179,7 +58179,7 @@ Pokemon = GENGAR,75
 #-------------------------------
 [SECRET_Charm,Charm,1]
 Items = MAXPOTION
-LoseText = Well, you are rather formidable...
+LoseText = "Well, you are rather formidable..."
 Pokemon = RHYPERIOR,90
     Moves = ROCKWRECKER,EARTHQUAKE,HEATCRASH,MEGAHORN
     Gender = Male
@@ -58200,7 +58200,7 @@ Pokemon = GENGAR,90
     Happiness = 255
 #-------------------------------
 [SECRET_Charm,Charm,2]
-LoseText = What a disgrace...
+LoseText = "What a disgrace..."
 Pokemon = RHYPERIOR,100
     Moves = ROCKWRECKER,EARTHQUAKE,HEATCRASH,MEGAHORN
     Gender = Male
@@ -58222,7 +58222,7 @@ Pokemon = GENGAR,100
 #-------------------------------
 [SECRET_Charm,Charm,3]
 Items = FULLRESTORE
-LoseText = Well, you are rather formidable...
+LoseText = "Well, you are rather formidable..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = HIPPOWDON,100
@@ -58321,7 +58321,7 @@ Pokemon = GENGAR,100
     Happiness = 255
 #-------------------------------
 [SECRET_Charm,Charm,4]
-LoseText = What a disgrace...
+LoseText = "What a disgrace..."
 Pokemon = GENGAR,100
     Moves = WILLOWISP,HEX,TOXIC,GIGADRAIN
     Gender = Male 
@@ -58355,7 +58355,7 @@ Pokemon = RHYPERIOR,100
 #-------------------------------
 [SECRET_Clover,Clover]
 Items = HYPERPOTION,FULLHEAL
-LoseText = I don't get it! How'd I lose?!
+LoseText = "I don't get it! How'd I lose?!"
 Pokemon = ABOMASNOW,75
     Moves = BLIZZARD,EARTHPOWER,ENERGYBALL,GIGADRAIN
     Gender = Male
@@ -58374,7 +58374,7 @@ Pokemon = ABOMASNOW,75
 #-------------------------------
 [SECRET_Clover,Clover,1]
 Items = MAXPOTION
-LoseText = Rrrghhh! I can't believe.
+LoseText = "Rrrghhh! I can't believe it."
 Pokemon = ABOMASNOW,90
     Moves = BLIZZARD,EARTHPOWER,ENERGYBALL,GIGADRAIN
     Gender = Male 
@@ -58395,7 +58395,7 @@ Pokemon = ABOMASNOW,90
     Happiness = 255
 #-------------------------------
 [SECRET_Clover,Clover,2]
-LoseText = I don't get it! How'd I lose?!
+LoseText = "I don't get it! How'd I lose?!"
 Pokemon = ABOMASNOW,100
     Moves = BLIZZARD,EARTHPOWER,ENERGYBALL,GIGADRAIN
     Gender = Male
@@ -58417,7 +58417,7 @@ Pokemon = ABOMASNOW,100
 #-------------------------------
 [SECRET_Clover,Clover,3]
 Items = FULLRESTORE
-LoseText = Rrrghhh! I can't believe.
+LoseText = "Rrrghhh! I can't believe it."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = NINETALES,100
@@ -58518,7 +58518,7 @@ Pokemon = ABOMASNOW,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Clover,Clover,4]
-LoseText = I don't get it! How'd I lose?!
+LoseText = "I don't get it! How'd I lose?!"
 Pokemon = ABOMASNOW,100
     Moves = BLIZZARD,WORRYSEED,ENERGYBALL,AURORAVEIL
     Gender = Male
@@ -58552,7 +58552,7 @@ Pokemon = ABOMASNOW,100
 #-------------------------------
 [SECRET_Beni,Beni]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Very good indeed.
+LoseText = "Very good indeed."
 Pokemon = MAGNEZONE,75
     Moves = SUBSTITUTE,THUNDERBOLT,FLASHCANNON,CHARGEBEAM
     IV = 20
@@ -58570,7 +58570,7 @@ Pokemon = GALLADE,75
 #-------------------------------
 [SECRET_Beni,Beni,1]
 Items = MAXPOTION
-LoseText = It seems my ninja techniques will soon be consigned to history...
+LoseText = "It seems my ninja techniques will soon be consigned to history..."
 Pokemon = MAGNEZONE,90
     Moves = SUBSTITUTE,THUNDERBOLT,FLASHCANNON,CHARGEBEAM
     Item = EXPERTBELT
@@ -58590,7 +58590,7 @@ Pokemon = GALLADE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Beni,Beni,2]
-LoseText = Very good indeed.
+LoseText = "Very good indeed."
 Pokemon = MAGNEZONE,100
     Moves = SUBSTITUTE,THUNDERBOLT,FLASHCANNON,CHARGEBEAM
     Item = EXPERTBELT
@@ -58611,7 +58611,7 @@ Pokemon = GALLADE,100
 #-------------------------------
 [SECRET_Beni,Beni,3]
 Items = FULLRESTORE
-LoseText = It seems my ninja techniques will soon be consigned to history...
+LoseText = "It seems my ninja techniques will soon be consigned to history..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = PARASECT,100
@@ -58708,7 +58708,7 @@ Pokemon = GALLADE,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Beni,Beni,4]
-LoseText = Very good indeed.
+LoseText = "Very good indeed."
 Pokemon = MAGNEZONE,100
     Moves = SUBSTITUTE,THUNDERBOLT,EERIEIMPULSE,METALSOUND
     Item = LEFTOVERS
@@ -58741,7 +58741,7 @@ Pokemon = GALLADE,100
 #-------------------------------
 [SECRET_Zisu,Zisu]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Well now, I didn't expect that...
+LoseText = "Well now, I didn't expect that..."
 Pokemon = RAPIDASH,75
     Moves = SMARTSTRIKE,POISONJAB,FLAREBLITZ,HORNLEECH
     Gender = Male
@@ -58760,7 +58760,7 @@ Pokemon = INFERNAPE,75
 #-------------------------------
 [SECRET_Zisu,Zisu,1]
 Items = MAXPOTION
-LoseText = Nothing more for I can teach now.
+LoseText = "Nothing more I can teach for now."
 Pokemon = RAPIDASH,90
     Moves = SMARTSTRIKE,POISONJAB,FLAREBLITZ,HORNLEECH
     Gender = Male
@@ -58781,7 +58781,7 @@ Pokemon = INFERNAPE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Zisu,Zisu,2]
-LoseText = Well now, I didn't expect that...
+LoseText = "Well now, I didn't expect that..."
 Pokemon = RAPIDASH,100
     Moves = SMARTSTRIKE,POISONJAB,FLAREBLITZ,HORNLEECH
     Gender = Male
@@ -58803,7 +58803,7 @@ Pokemon = INFERNAPE,100
 #-------------------------------
 [SECRET_Zisu,Zisu,3]
 Items = FULLRESTORE
-LoseText = Nothing more for I can teach now.
+LoseText = "Nothing more I can teach for now."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = STEELIX,100
@@ -58902,7 +58902,7 @@ Pokemon = INFERNAPE,100
     Happiness = 255
 #-------------------------------
 [SECRET_Zisu,Zisu,4]
-LoseText = Well now, I didn't expect that...
+LoseText = "Well now, I didn't expect that..."
 Pokemon = DRIFBLIM,100
     Moves = TAILWIND,MINIMIZE,OMINOUSWIND,WILLOWISP
     Gender = Female
@@ -58936,7 +58936,7 @@ Pokemon = INFERNAPE,100
 #-------------------------------
 [SECRET_Kamado,Kamado]
 Items = HYPERPOTION,FULLHEAL
-LoseText = The fates have decided. I concede...
+LoseText = "The fates have decided. I concede..."
 Pokemon = GOLEM,75
     Moves = DEFENSECURL,ROLLOUT,GYROBALL,HEAVYSLAM
     Gender = Male
@@ -58955,7 +58955,7 @@ Pokemon = SNORLAX,75
 #-------------------------------
 [SECRET_Kamado,Kamado,1]
 Items = MAXPOTION
-LoseText = The moment has come...
+LoseText = "The moment has come..."
 Pokemon = GOLEM,90
     Moves = DEFENSECURL,ROLLOUT,GYROBALL,HEAVYSLAM
     Gender = Male
@@ -58976,7 +58976,7 @@ Pokemon = SNORLAX,90
     Happiness = 255
 #-------------------------------
 [SECRET_Kamado,Kamado,2]
-LoseText = The fates have decided. I concede...
+LoseText = "The fates have decided. I concede..."
 Pokemon = GOLEM,100
     Moves = DEFENSECURL,ROLLOUT,GYROBALL,HEAVYSLAM
     Gender = Male
@@ -58998,7 +58998,7 @@ Pokemon = SNORLAX,100
 #-------------------------------
 [SECRET_Kamado,Kamado,3]
 Items = FULLRESTORE
-LoseText = The moment has come...
+LoseText = "The moment has come..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CLEFABLE,100
@@ -59097,7 +59097,7 @@ Pokemon = SNORLAX,100
     Happiness = 255
 #-------------------------------
 [SECRET_Kamado,Kamado,4]
-LoseText = The fates have decided. I concede...
+LoseText = "The fates have decided. I concede..."
 Pokemon = GOLEM,100
     Moves = STEALTHROCK,ROLLOUT,GYROBALL,STEAMROLLER
     Gender = Male
@@ -59131,7 +59131,7 @@ Pokemon = SNORLAX,100
 #-------------------------------
 [SECRET_Irida,Irida]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Are there people even stronger than you out in the world?
+LoseText = "Are there people even stronger than you out in the world?"
 Pokemon = FLAREON,75
     Moves = BATONPASS,SUBSTITUTE,WILLOWISP,FIREFANG
     Gender = Male
@@ -59150,7 +59150,7 @@ Pokemon = GLACEON,75
 #-------------------------------
 [SECRET_Irida,Irida,1]
 Items = MAXPOTION
-LoseText = So this is where I stand right now.
+LoseText = "So this is where I stand right now."
 Pokemon = FLAREON,90
     Moves = BATONPASS,SUBSTITUTE,WILLOWISP,FIREFANG
     Gender = Male
@@ -59171,7 +59171,7 @@ Pokemon = GLACEON,90
     Happiness = 255
 #-------------------------------
 [SECRET_Irida,Irida,2]
-LoseText = Are there people even stronger than you out in the world?
+LoseText = "Are there people even stronger than you out in the world?"
 Pokemon = FLAREON,100
     Moves = BATONPASS,SUBSTITUTE,WILLOWISP,FIREFANG
     Gender = Male
@@ -59193,7 +59193,7 @@ Pokemon = GLACEON,100
 #-------------------------------
 [SECRET_Irida,Irida,3]
 Items = FULLRESTORE
-LoseText = So this is where I stand right now.
+LoseText = "So this is where I stand right now."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = ARCHEOPS,100
@@ -59292,7 +59292,7 @@ Pokemon = GLACEON,100
     Happiness = 255
 #-------------------------------
 [SECRET_Irida,Irida,4]
-LoseText = Are there people even stronger than you out in the world?
+LoseText = "Are there people even stronger than you out in the world?"
 Pokemon = FLAREON,100
     Moves = FIRESPIN,SUBSTITUTE,WILLOWISP,FIREFANG
     Gender = Male
@@ -59326,7 +59326,7 @@ Pokemon = GLACEON,100
 #-------------------------------
 [SECRET_Adaman,Adaman]
 Items = HYPERPOTION,FULLHEAL
-LoseText = You're really something...
+LoseText = "You're really something..."
 Pokemon = VAPOREON,75
     Moves = HYDROPUMP,ICEBEAM,SHADOWBALL,SIGNALBEAM
     Gender = Female
@@ -59345,7 +59345,7 @@ Pokemon = LEAFEON,75
 #-------------------------------
 [SECRET_Adaman,Adaman,1]
 Items = MAXPOTION
-LoseText = What, oh, come on!
+LoseText = "What, oh, come on!"
 Pokemon = VAPOREON,90
     Moves = HYDROPUMP,ICEBEAM,SHADOWBALL,SIGNALBEAM
     Gender = Female
@@ -59366,7 +59366,7 @@ Pokemon = LEAFEON,90
     Happiness = 255
 #-------------------------------
 [SECRET_Adaman,Adaman,2]
-LoseText = You're really something...
+LoseText = "You're really something..."
 Pokemon = VAPOREON,100
     Moves = HYDROPUMP,ICEBEAM,SHADOWBALL,SIGNALBEAM
     Gender = Female
@@ -59388,7 +59388,7 @@ Pokemon = LEAFEON,100
 #-------------------------------
 [SECRET_Adaman,Adaman,3]
 Items = FULLRESTORE
-LoseText = What, oh, come on!
+LoseText = "What, oh, come on!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CRADILY,100
@@ -59486,7 +59486,7 @@ Pokemon = LEAFEON,100
     Happiness = 255
 #-------------------------------
 [SECRET_Adaman,Adaman,4]
-LoseText = You're really something...
+LoseText = "You're really something..."
 Pokemon = VAPOREON,100
     Moves = SURF,ICYWIND,MIST,WHIRLPOOL
     Gender = Female
@@ -59520,7 +59520,7 @@ Pokemon = LEAFEON,100
 #-------------------------------
 [SECRET_Cyllene,Cyllene]
 Items = HYPERPOTION,FULLHEAL
-LoseText = The loss is on me.
+LoseText = "The loss is on me."
 Pokemon = BLISSEY,75
     Moves = CALMMIND,HYPERBEAM,REST,SLEEPTALK
     Gender = Female
@@ -59540,7 +59540,7 @@ Pokemon = ALAKAZAM,75
 #-------------------------------
 [SECRET_Cyllene,Cyllene,1]
 Items = MAXPOTION
-LoseText = You've succeeded. No doubt.
+LoseText = "You've succeeded. No doubt."
 Pokemon = BLISSEY,90
     Moves = CALMMIND,HYPERBEAM,REST,SLEEPTALK
     Gender = Female
@@ -59562,7 +59562,7 @@ Pokemon = ALAKAZAM,90
     Happiness = 255
 #-------------------------------
 [SECRET_Cyllene,Cyllene,2]
-LoseText = The loss is on me.
+LoseText = "The loss is on me."
 Pokemon = BLISSEY,100
     Moves = CALMMIND,HYPERBEAM,REST,SLEEPTALK
     Gender = Female
@@ -59585,7 +59585,7 @@ Pokemon = ALAKAZAM,100
 #-------------------------------
 [SECRET_Cyllene,Cyllene,3]
 Items = FULLRESTORE
-LoseText = You've succeeded. No doubt.
+LoseText = "You've succeeded. No doubt."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = CLEFABLE,100
@@ -59684,7 +59684,7 @@ Pokemon = ALAKAZAM,100
     Happiness = 255
 #-------------------------------
 [SECRET_Cyllene,Cyllene,4]
-LoseText = The loss is on me.
+LoseText = "The loss is on me."
 Pokemon = BLISSEY,100
     Moves = HELPINGHAND,REST,HEALBELL,LASTRESORT
     Gender = Female
@@ -59719,7 +59719,7 @@ Pokemon = ALAKAZAM,100
 #-------------------------------
 [SECRET_Akari,Akari]
 Items = HYPERPOTION,FULLHEAL
-LoseText = What incredible strength.
+LoseText = "What incredible strength."
 Pokemon = TORTERRA,75
     Moves = EARTHQUAKE,IRONHEAD,ROCKSLIDE,SEEDBOMB
     Gender = Male
@@ -59739,7 +59739,7 @@ Pokemon = SAMUROTT,75
 #-------------------------------
 [SECRET_Akari,Akari,1]
 Items = MAXPOTION
-LoseText = You are a natural...
+LoseText = "You are a natural..."
 Pokemon = TORTERRA,90
     Moves = EARTHQUAKE,IRONHEAD,ROCKSLIDE,SEEDBOMB
     Gender = Male
@@ -59761,7 +59761,7 @@ Pokemon = SAMUROTT,90
     Happiness = 255
 #-------------------------------
 [SECRET_Akari,Akari,2]
-LoseText = What incredible strength.
+LoseText = "What incredible strength."
 Pokemon = TORTERRA,100
     Moves = EARTHQUAKE,IRONHEAD,ROCKSLIDE,SEEDBOMB
     Gender = Male
@@ -59784,7 +59784,7 @@ Pokemon = SAMUROTT,100
 #-------------------------------
 [SECRET_Akari,Akari,3]
 Items = FULLRESTORE
-LoseText = You are a natural...
+LoseText = "You are a natural..."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = KLEAVOR,100
@@ -59883,7 +59883,7 @@ Pokemon = SAMUROTT,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Akari,Akari,4]
-LoseText = What incredible strength.
+LoseText = "What incredible strength."
 Pokemon = TORTERRA,100
     Moves = EARTHQUAKE,LIGHTSCREEN,SLEEPPOWDER,SEEDBOMB
     Gender = Male
@@ -59918,7 +59918,7 @@ Pokemon = SAMUROTT,100
 #-------------------------------
 [SECRET_Rei,Rei]
 Items = HYPERPOTION,FULLHEAL
-LoseText = Whoa... You seem so in sync with your Pokémon.
+LoseText = "Whoa... You seem so in sync with your Pokémon."
 Pokemon = INFERNAPE,75
     Moves = CLOSECOMBAT,EARTHQUAKE,UTURN,RAGINGFURY
     Gender = Male
@@ -59938,7 +59938,7 @@ Pokemon = DECIDUEYE,75
 #-------------------------------
 [SECRET_Rei,Rei,1]
 Items = MAXPOTION
-LoseText = Oh boy.
+LoseText = "Oh boy."
 Pokemon = INFERNAPE,90
     Moves = CLOSECOMBAT,EARTHQUAKE,UTURN,RAGINGFURY
     Gender = Male
@@ -59960,7 +59960,7 @@ Pokemon = DECIDUEYE,90
     Happiness = 255
 #-------------------------------
 [SECRET_Rei,Rei,2]
-LoseText = Whoa... You seem so in sync with your Pokémon.
+LoseText = "Whoa... You seem so in sync with your Pokémon."
 Pokemon = INFERNAPE,100
     Moves = CLOSECOMBAT,EARTHQUAKE,UTURN,RAGINGFURY
     Gender = Male
@@ -59983,7 +59983,7 @@ Pokemon = DECIDUEYE,100
 #-------------------------------
 [SECRET_Rei,Rei,3]
 Items = FULLRESTORE
-LoseText = Oh boy.
+LoseText = "Oh boy."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = RAICHU,100
@@ -60083,7 +60083,7 @@ Pokemon = DECIDUEYE,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Rei,Rei,4]
-LoseText = Whoa... You seem so in sync with your Pokémon.
+LoseText = "Whoa... You seem so in sync with your Pokémon."
 Pokemon = INFERNAPE,100
     Moves = SCARYFACE,EARTHQUAKE,ENCORE,RAGINGFURY
     Gender = Male
@@ -60117,7 +60117,7 @@ Pokemon = DECIDUEYE,100
     Happiness = 255
 #-------------------------------
 [SECRET_Laventon,Laventon,2]
-LoseText = Whew... Thank goodness...
+LoseText = "Whew... Thank goodness..."
 Pokemon = SAMUROTT,100
     Form = 1
     Moves = CEASELESSEDGE,AVALANCHE,LIQUIDATION,SACREDSWORD
@@ -60142,7 +60142,7 @@ Pokemon = TYPHLOSION,100
 #-------------------------------
 [SECRET_Laventon,Laventon,3]
 Items = FULLRESTORE
-LoseText = I am out. I am done!
+LoseText = "I am out. I am done!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = GOODRA,100
@@ -60242,7 +60242,7 @@ Pokemon = TYPHLOSION,100
     Happiness = 255
 #-------------------------------
 [SECRET_Laventon,Laventon,4]
-LoseText = Whew... Thank goodness...
+LoseText = "Whew... Thank goodness..."
 Pokemon = SAMUROTT,100
     Moves = CEASELESSEDGE,SCARYFACE,FLIPTURN,SCREECH
     Gender = Male
@@ -60274,7 +60274,7 @@ Pokemon = TYPHLOSION,100
     Happiness = 255
 #-------------------------------
 [SECRET_Cogita,Cogita,2]
-LoseText = And you carried out your duty, as you were bid.
+LoseText = "And you carried out your duty, as you were bid."
 Pokemon = ENAMORUS,100
     Moves = SPRINGTIDESTORM,CALMMIND,MYSTICALFIRE,PROTECT
     Gender = Female
@@ -60296,7 +60296,7 @@ Pokemon = GARCHOMP,100
 #-------------------------------
 [SECRET_Cogita,Cogita,3]
 Items = FULLRESTORE
-LoseText = Don't burn too bright, lest it consume you.
+LoseText = "Don't burn too bright, lest it consume you."
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = BLISSEY,100
@@ -60392,7 +60392,7 @@ Pokemon = GARCHOMP,100
     Happiness = 255
 #-------------------------------
 [SECRET_Cogita,Cogita,4]
-LoseText = And you carried out your duty, as you were bid.
+LoseText = "And you carried out your duty, as you were bid."
 Pokemon = ENAMORUS,100
     Moves = SPRINGTIDESTORM,GRASSKNOT,MYSTICALFIRE,SLUDGEBOMB
     Gender = Female
@@ -60425,7 +60425,7 @@ Pokemon = GARCHOMP,100
     Happiness = 255
 #-------------------------------
 [SECRET_Volo,Volo,2]
-LoseText = Why? Why you?!
+LoseText = "Why? Why you?!"
 Pokemon = SPIRITOMB,100
     Moves = WILLOWISP,CALMMIND,HEX,DESTINYBOND
     Gender = Female
@@ -60446,7 +60446,7 @@ Pokemon = GIRATINA,100
 #-------------------------------
 [SECRET_Volo,Volo,3]
 Items = FULLRESTORE
-LoseText = Why do you have the blessing of Arceus?!
+LoseText = "Why do you have the blessing of Arceus?!"
 NumPkmn = 3
 Guaranteed = 3
 Pokemon = DARKRAI,100
@@ -60546,7 +60546,7 @@ Pokemon = GIRATINA,100
     TrainerAce = yes
 #-------------------------------
 [SECRET_Volo,Volo,4]
-LoseText = Why? Why you?!
+LoseText = "Why? Why you?!"
 Pokemon = SPIRITOMB,100
     Moves = WILLOWISP,CALMMIND,HEX,DESTINYBOND
     Gender = Male

@@ -1,5 +1,5 @@
 ********************************
-Version 3.6 Part 2 (??-07/8?-2025)
+Version 3.6 Part 2 (??-08?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
@@ -32,6 +32,7 @@ Issues fixed:
 - Fix the portal to Ultra Ruin in the postgame, where it could crash the game
 - Fix a soft lock occurring when losing to the Red Gyarados at the Lake of Rage
 - Fix the Town Map showing that the player is in Kanto in Cherrygrove Pokémon Center
+- Fix being able to see into another house in Geosenge Town
 - Fix Enamorus not respawning after beating the Masters 8 rematch
 - Officer Jennys having the wrong speech colour
 - Fix Sun animation not showing up in battle
@@ -43,6 +44,7 @@ Issues fixed:
 - Fix being able to select other Pokémon other than Milcery for the chefs in Ballonlea Stadium
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
+- Fix an issue with using an Enigma Berry in battle
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
