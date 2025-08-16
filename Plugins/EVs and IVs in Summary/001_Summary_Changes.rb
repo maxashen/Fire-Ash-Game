@@ -7,7 +7,7 @@ class PokemonSummary_Scene
     statshadows = {}
     GameData::Stat.each_main { |s| statshadows[s.id] = shadow }
     if !@pokemon.shadowPokemon? || @pokemon.heartStage > 3
-      @pokemon.nature_for_stats.stat_changes.each do |change|
+      @pokemon.nature.stat_changes.each do |change|
         statshadows[change[0]] = Color.new(136,96,72) if change[1] > 0
         statshadows[change[0]] = Color.new(64,120,152) if change[1] < 0
       end
