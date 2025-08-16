@@ -45,6 +45,8 @@ Issues fixed:
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
 - Fix an issue with using an Enigma Berry in battle
+- Fix a visual glitch with wild Pokémon using U-turn
+- Fix the stats screen not updating the colour of the stat names when changing a Pokémon's nature
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
