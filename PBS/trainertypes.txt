@@ -234,7 +234,7 @@
 231,LEADER_Allister,Gym Leader,150,gymleader-8,,,Male,,
 232,ELITEFOUR_Drasna,Elite Four,175,elite,,,Female,,
 233,TRAINER_Marnie,Pokémon Trainer,200,rival-8,,,Female,,
-234,CHAIRMAN,Chairman,200,champion-2,,,Male,,
+234,CHAIRMAN,Chairman,200,secretrose.ogg,,,Male,,
 235,LEGENDARYPOKEMON,Legendary Pokémon,150,KyogreGroudon,,,Mixed,,
 236,TEAMYELL,Team Yell,32,TeamYell,,,Mixed,,
 237,POKEMONTRAINER_Henry,Pokémon Trainer,200,rival-8,,,Male,,
