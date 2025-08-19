@@ -196,6 +196,7 @@ BattleBack = indoor1
 #-------------------------------
 [094]
 # Professor Cerise's Lab
+MapPosition = 0,13,14
 ShowArea = true
 BattleBack = indoor2
 #-------------------------------
@@ -2043,6 +2044,7 @@ BattleBack = indoor1
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,13,14
 BattleBack = field
 #-------------------------------
 [391]
