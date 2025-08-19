@@ -19426,7 +19426,7 @@ Pokemon = POLTEAGEIST,59
 Pokemon = AUDINO,59
 Pokemon = TURTONATOR,59
 #-------------------------------
-[YOUNGSTER,Hop]
+[POKEMONTRAINER_Hop,Hop]
 LoseText = "Oh no."
 Pokemon = WOOLOO,12
     Moves = DOUBLEKICK
