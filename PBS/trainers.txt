@@ -21252,7 +21252,7 @@ Pokemon = VILEPLUME,100
 #-------------------------------
 [SECRET_Sabrina,Sabrina]
 Items = HYPERPOTION,FULLHEAL
-LoseText = "I see...you will look for me again someday."
+LoseText = "I see... you will look for me again someday."
 Pokemon = EXEGGUTOR,75
     Moves = PSYCHIC,SLEEPPOWDER,DREAMEATER,ENERGYBALL
     Gender = female
@@ -21294,7 +21294,7 @@ Pokemon = ALAKAZAM,90
     Happiness = 255
 #-------------------------------
 [SECRET_Sabrina,Sabrina,2]
-LoseText = "I see...you will look for me again someday."
+LoseText = "I see... you will look for me again someday."
 Pokemon = EXEGGUTOR,100
     Moves = PSYCHIC,SLEEPPOWDER,DREAMEATER,ENERGYBALL
     Gender = female
@@ -21423,7 +21423,7 @@ Pokemon = EXEGGUTOR,100
     Happiness = 255
 #-------------------------------
 [SECRET_Sabrina,Sabrina,4]
-LoseText = "I see...you will look for me again someday."
+LoseText = "I see... you will look for me again someday."
 Pokemon = SLOWKING,100
     Moves = PSYCHIC,AFTERYOU,SLACKOFF,MUDSPORT
     Gender = male
