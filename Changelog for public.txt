@@ -63,6 +63,7 @@ Grandeur Club Changes:
 - Virus codes have been adjusted to decrease IVs by 1 instead of setting them to 0
 - Changed certain Serperiors to have Contrary than Overgrow
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
+- Fix Frontier trainers causing the player to black out when losing in Gauntlet Challenge
 - Overhauled the mechanics of Sync challenge:
  - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
  - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy once buffs have been unlocked
