@@ -1241,7 +1241,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 1,17,6
-BattleBack = water
+BattleBack = field
 MapSize = 1,1111
 #-------------------------------
 [269]
@@ -3504,7 +3504,7 @@ ShowArea = true
 Bicycle = true
 Weather = Storm,30
 MapPosition = 3,5,10
-BattleBack = water
+BattleBack = field
 #-------------------------------
 [613]
 # Canalave City
