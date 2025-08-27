@@ -516,7 +516,7 @@
 552,SYGNA_Mina,Sygna Suit,0,sygnatapu.ogg,,,Female,200,
 553,SYGNA_Gladion,Sygna Suit,100,secretgladion.ogg,,,Male,,
 554,SYGNA_Leon,Sygna Suit,0,secretleon.ogg,Battle Victory Leader,,Male,200,
-555,SYGNA_Piers,Sygna Suit,0,sygnaPiers.ogg,Battle Victory Leader,,Male,,
+555,SYGNA_Piers,Sygna Suit,0,secretpiers.ogg,Battle Victory Leader,,Male,,
 556,SYGNA_Ingo,Sygna Suit,0,sygnaSubway.ogg,Battle Victory Leader,,Male,,
 557,SYGNA_Emmet,Sygna Suit,0,sygnaSubway.ogg,Battle Victory Leader,,Male,,
 558,SYGNA_Giovanni2,Sygna Suit (Ultra),0,sygnaGiovanni2.ogg,Battle Victory Leader,,Male,,
