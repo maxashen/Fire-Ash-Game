@@ -46,13 +46,13 @@ MapSize = 2,1101
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,6,11
+MapPosition = 0,7,10
 BattleBack = city
 #-------------------------------
 [042]
 # Pallet House
 HealingSpot = 42,8,3
-MapPosition = 0,6,11
+MapPosition = 0,7,10
 BattleBack = indoor2
 #-------------------------------
 [043]
@@ -60,12 +60,12 @@ BattleBack = indoor2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,5,8
+MapPosition = 0,6,7
 BattleBack = city
 #-------------------------------
 [048]
 # Professor Oak's Lab
-MapPosition = 0,6,11
+MapPosition = 0,7,10
 BattleBack = indoor2
 #-------------------------------
 [076]
@@ -73,18 +73,18 @@ BattleBack = indoor2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,5,9
+MapPosition = 0,6,8
 BattleBack = field
 MapSize = 1,111
 #-------------------------------
 [077]
 # Viridian House
-MapPosition = 0,5,8
+MapPosition = 0,6,7
 BattleBack = indoor2
 #-------------------------------
 [078]
 # Viridian Pokémon Center
-MapPosition = 0,5,8
+MapPosition = 0,6,7
 HealingSpot = 78,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -97,9 +97,9 @@ Bicycle = true
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,5,5
+MapPosition = 0,6,3
 BattleBack = field
-MapSize = 1,101
+MapSize = 1,1001
 #-------------------------------
 [081]
 # Viridian Forest
@@ -107,26 +107,28 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Environment = Forest
-MapPosition = 0,5,6
+MapPosition = 0,6,4
 BattleBack = forest
+MapSize = 1,11
 #-------------------------------
 [082]
 # Pewter City
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,5,4
+MapPosition = 0,5,1
 BattleBack = city
+MapSize = 2,1111
 #-------------------------------
 [083]
 # Pewter House
-MapPosition = 0,5,4
+MapPosition = 0,5,2
 BattleBack = indoor3
 #-------------------------------
 [084]
 # Pewter Pokémon Center
-MapPosition = 0,5,4
-HealingSpot = 84,7,4
+MapPosition = 0,6,1
+HealingSpot = 84,5,2
 BattleBack = indoor1
 #-------------------------------
 [085]
@@ -136,7 +138,7 @@ BattleBack = elite1
 #-------------------------------
 [086]
 # Pewter Gym
-MapPosition = 0,5,4
+MapPosition = 0,5,2
 BattleBack = elite6
 #-------------------------------
 [087]
@@ -144,7 +146,7 @@ BattleBack = elite6
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,6,4
+MapPosition = 0,7,2
 BattleBack = field
 MapSize = 3,111
 #-------------------------------
@@ -153,10 +155,10 @@ MapSize = 3,111
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,10,4
+MapPosition = 0,11,2
 Dungeon = false
 BattleBack = field
-MapSize = 2,11
+MapSize = 4,1111
 #-------------------------------
 [089]
 # Cerulean City
@@ -164,45 +166,44 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Storm,5
-MapPosition = 0,12,4
+MapPosition = 0,15,1
 BattleBack = city
-MapSize = 2,11
+MapSize = 2,1111
 #-------------------------------
 [090]
 # Mt Moon B1F
 ShowArea = true
 Environment = Cave
-MapPosition = 0,9,4
+MapPosition = 0,10,2
 BattleBack = cave2
 #-------------------------------
 [091]
 # Cerulean House
-MapPosition = 0,12,4
+MapPosition = 0,15,2
 BattleBack = indoor2
-MapSize = 2,11
 #-------------------------------
 [092]
 # Mt Moon 1F
 ShowArea = true
 Environment = Cave
-MapPosition = 0,9,4
+MapPosition = 0,10,2
 BattleBack = cave1
 #-------------------------------
 [093]
 # Cerulean Pokémon Center
-MapPosition = 0,13,4
+MapPosition = 0,15,1
 HealingSpot = 93,7,4
 BattleBack = indoor1
 #-------------------------------
 [094]
 # Professor Cerise's Lab
-MapPosition = 0,13,14
+MapPosition = 0,16,10
 ShowArea = true
 BattleBack = indoor2
 #-------------------------------
 [095]
 # Cerulean Gym
-MapPosition = 0,13,4
+MapPosition = 0,16,1
 BattleBack = elite2
 #-------------------------------
 [096]
@@ -213,13 +214,13 @@ BattleBack = elite2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,13,5
+MapPosition = 0,16,3
 BattleBack = field
 MapSize = 1,11
 #-------------------------------
 [098]
 # Route 5 Daycare
-MapPosition = 0,13,6
+MapPosition = 0,16,4
 #-------------------------------
 [099]
 # Route 9 Gem Shop
@@ -231,9 +232,9 @@ BattleBack = indoor2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,12,6
-BattleBack = city
-MapSize = 1,1001
+MapPosition = 0,12,4
+BattleBack = field
+MapSize = 4,11111000000010001111
 #-------------------------------
 [101]
 # Route 24
@@ -241,18 +242,17 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Rain,50
-MapPosition = 0,13,9
+MapPosition = 0,16,8
 BattleBack = field
-MapSize = 1,11
 #-------------------------------
 [102]
 # Cinnabar Power Shop
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor2
 #-------------------------------
 [103]
 # Route 24 Pokémon Center
-MapPosition = 0,13,10
+MapPosition = 0,16,8
 HealingSpot = 103,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -261,43 +261,41 @@ BattleBack = indoor1
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,13,11
+MapPosition = 0,16,9
 BattleBack = field
-MapSize = 1,111
 #-------------------------------
 [105]
 # Route 25 House
-MapPosition = 0,13,11
+MapPosition = 0,16,9
 BattleBack = indoor2
 #-------------------------------
 [106]
 # Route 25
-MapPosition = 0,13,11
+MapPosition = 0,16,9
 BattleBack = field
 #-------------------------------
 [107]
 # Bill's Lighthouse
 ShowArea = true
-MapPosition = 0,13,13
+MapPosition = 0,16,9
 #-------------------------------
 [108]
 # Vermilion City
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,13,14
+MapPosition = 0,15,10
 BattleBack = city
-MapSize = 2,11
+MapSize = 2,1111
 #-------------------------------
 [109]
 # Vermilion House
-MapPosition = 0,13,14
+MapPosition = 0,15,10
 BattleBack = indoor2
-MapSize = 2,11
 #-------------------------------
 [110]
 # Vermilion Pokémon Center
-MapPosition = 0,13,14
+MapPosition = 0,15,10
 HealingSpot = 110,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -308,12 +306,12 @@ BattleBack = indoor3
 #-------------------------------
 [112]
 # Vermilion Gym
-MapPosition = 0,13,14
+MapPosition = 0,15,11
 BattleBack = elite6
 #-------------------------------
 [113]
 # Vermilion Pokémon Fan Club
-MapPosition = 0,13,14
+MapPosition = 0,15,11
 BattleBack = indoor2
 #-------------------------------
 [114]
@@ -322,52 +320,52 @@ BattleBack = indoor2
 [115]
 # S.S. Anne 1F
 ShowArea = true
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [116]
 # S.S. Anne Rooms
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [117]
 # S.S. Anne B1F
 ShowArea = true
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [118]
 # S.S. Anne Rooms
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [119]
 # S.S. Anne 2F
 ShowArea = true
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [120]
 # S.S. Anne Rooms
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [121]
 # S.S. Anne Room
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [122]
 # S.S. Anne
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,15
+MapPosition = 0,15,11
 BattleBack = city
 #-------------------------------
 [123]
 # S.S. Anne 3F
 ShowArea = true
-MapPosition = 0,13,14
+MapPosition = 0,15,11
 BattleBack = indoor1
 #-------------------------------
 [124]
@@ -377,28 +375,28 @@ ShowArea = true
 Bicycle = true
 BicycleAlways = false
 Weather = Sun,5
-MapPosition = 0,15,13
+MapPosition = 0,17,11
 BattleBack = field
-MapSize = 1,11
+MapSize = 3,111
 #-------------------------------
 [125]
 # Underground Path
 ShowArea = true
-MapPosition = 0,15,13
+MapPosition = 0,19,11
 BattleBack = indoor3
 #-------------------------------
 [126]
 # Underground Path
 ShowArea = true
 Bicycle = true
-MapPosition = 0,15,8
+MapPosition = 0,19,6
 BattleBack = indoor3
 MapSize = 1,100001
 #-------------------------------
 [127]
 # Underground Path
 ShowArea = true
-MapPosition = 0,15,8
+MapPosition = 0,18,6
 BattleBack = indoor3
 #-------------------------------
 [128]
@@ -407,9 +405,9 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Sun,5
-MapPosition = 0,15,8
+MapPosition = 0,18,6
 BattleBack = indoor3
-MapSize = 2,11
+MapSize = 5,11111
 #-------------------------------
 [129]
 # Laverre Scarf Shop
@@ -421,35 +419,35 @@ BattleBack = indoor2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,13,7
+MapPosition = 0,15,5
 BattleBack = city
-MapSize = 2,1111
+MapSize = 3,111111111
 #-------------------------------
 [131]
 # Saffron House
-MapPosition = 0,13,7
+MapPosition = 0,16,6
 BattleBack = indoor2
 MapSize = 2,1111
 #-------------------------------
 [132]
 # Saffron Pokémon Center
-MapPosition = 0,13,8
+MapPosition = 0,15,7
 HealingSpot = 132,7,4
 BattleBack = indoor1
 #-------------------------------
 [134]
 # Silph Co.
-MapPosition = 0,13,8
+MapPosition = 0,16,6
 BattleBack = indoor2
 #-------------------------------
 [135]
 # Magnet Train
-MapPosition = 0,13,7
+MapPosition = 0,15,5
 BattleBack = indoor1
 #-------------------------------
 [136]
 # Saffron Gym
-MapPosition = 0,14,7
+MapPosition = 0,17,5
 BattleBack = elite4
 #-------------------------------
 [137]
@@ -458,7 +456,7 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Fog,65
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = city
 #-------------------------------
 [138]
@@ -467,12 +465,12 @@ BattleBack = forest
 #-------------------------------
 [139]
 # Lavender House
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor2
 #-------------------------------
 [140]
 # Lavender Pokémon Center
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 HealingSpot = 140,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -489,14 +487,14 @@ MapSize = 2,11
 # Pokémon Tower 1F
 ShowArea = true
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [144]
 # Pokémon Tower 2F
 ShowArea = true
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [145]
@@ -504,7 +502,7 @@ BattleBack = indoor3
 ShowArea = true
 Weather = Fog,100
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [146]
@@ -512,7 +510,7 @@ BattleBack = indoor3
 ShowArea = true
 Weather = Fog,100
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [147]
@@ -520,7 +518,7 @@ BattleBack = indoor3
 ShowArea = true
 Weather = Fog,100
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [148]
@@ -528,7 +526,7 @@ BattleBack = indoor3
 ShowArea = true
 Weather = Fog,100
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [149]
@@ -536,7 +534,7 @@ BattleBack = indoor3
 ShowArea = true
 Weather = Fog,100
 Environment = Graveyard
-MapPosition = 0,20,8
+MapPosition = 0,23,6
 BattleBack = indoor3
 #-------------------------------
 [150]
@@ -544,8 +542,9 @@ BattleBack = indoor3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,12,8
+MapPosition = 0,12,6
 BattleBack = field
+MapSize = 1,111
 #-------------------------------
 [151]
 # GC Lobby
@@ -555,77 +554,78 @@ BattleBack = field
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = city
-MapSize = 2,11
+MapSize = 2,1111
 #-------------------------------
 [153]
 # Celadon House
-MapPosition = 0,11,8
+MapPosition = 0,11,5
 BattleBack = indoor2
 #-------------------------------
 [154]
 # Celadon Pokémon Center
-MapPosition = 0,11,8
+MapPosition = 0,11,5
 HealingSpot = 154,7,4
 BattleBack = indoor1
 #-------------------------------
 [155]
 # Celadon Dept. 1F
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor1
 #-------------------------------
 [156]
 # Celadon Dept. 2F
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor1
 #-------------------------------
 [157]
 # Celadon Dept. 3F
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor1
 #-------------------------------
 [158]
 # Celadon Dept. 4F
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor1
 #-------------------------------
 [159]
 # Celadon Dept. 5F
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor1
 #-------------------------------
 [160]
 # Celadon Dept. Rooftop
 Outdoor = true
 ShowArea = true
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = city
 #-------------------------------
 [161]
 # Celadon Dept. Elevator
+MapPosition = 0,10,5
 #-------------------------------
 [162]
 # Game Corner
 #-------------------------------
 [163]
 # Celadon Gym
-MapPosition = 0,10,8
+MapPosition = 0,10,6
 BattleBack = elite5
 #-------------------------------
 [164]
 # Fighting Dojo
-MapPosition = 0,14,7
+MapPosition = 0,16,5
 BattleBack = indoor3
 #-------------------------------
 [165]
 # P1 Grand Prix
-MapPosition = 0,10,8
+MapPosition = 0,10,5
 BattleBack = indoor3
 #-------------------------------
 [166]
@@ -633,9 +633,8 @@ BattleBack = indoor3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,8,8
+MapPosition = 0,9,5
 BattleBack = rocky
-MapSize = 2,11
 #-------------------------------
 [167]
 # Hoenn Battle Frontier
@@ -647,7 +646,7 @@ BattleBack = field
 [168]
 # Gringey City Power Plant
 ShowArea = true
-MapPosition = 0,8,8
+MapPosition = 0,9,5
 #-------------------------------
 [169]
 # Route 17
@@ -655,18 +654,18 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = true
-MapPosition = 0,8,9
+MapPosition = 0,9,7
 BattleBack = field
-MapSize = 1,1111
+MapSize = 1,11111111
 #-------------------------------
 [170]
 # Route 18
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,8,13
+MapPosition = 0,9,15
 BattleBack = field
-MapSize = 2,11
+MapSize = 4,1111
 #-------------------------------
 [171]
 # Wyndon
@@ -694,19 +693,19 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 BicycleAlways = false
-MapPosition = 0,10,13
+MapPosition = 0,13,14
 BattleBack = city
-MapSize = 2,11
+MapSize = 2,1111
 #-------------------------------
 [175]
 # Fuchsia House
-MapPosition = 0,10,13
+MapPosition = 0,14,15
 BattleBack = indoor2
 MapSize = 2,11
 #-------------------------------
 [176]
 # Fuchsia Pokémon Center
-MapPosition = 0,10,13
+MapPosition = 0,13,15
 HealingSpot = 176,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -717,19 +716,19 @@ BattleBack = indoor1
 #-------------------------------
 [178]
 # Fuchsia Gym
-MapPosition = 0,9,13
+MapPosition = 0,12,15
 BattleBack = elite7
 #-------------------------------
 [179]
 # Safari Zone
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 BattleBack = forest
 #-------------------------------
 [180]
 # Safari Zone Kanto
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -738,13 +737,13 @@ BattleBack = forest
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,9,14
+MapPosition = 0,13,16
 BattleBack = rocky
-MapSize = 3,111
+MapSize = 2,11
 #-------------------------------
 [182]
 # Route 19 House
-MapPosition = 0,10,14
+MapPosition = 0,13,16
 BattleBack = indoor2
 #-------------------------------
 [183]
@@ -761,17 +760,17 @@ BattleBack = field
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = rocky
 #-------------------------------
 [185]
 # Cinnabar House
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor2
 #-------------------------------
 [186]
 # Cinnabar Pokémon Center
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 HealingSpot = 186,7,4
 BattleBack = indoor1
 #-------------------------------
@@ -785,42 +784,42 @@ BattleBack = field
 #-------------------------------
 [188]
 # Pewter Museum of Science
-MapPosition = 0,5,4
+MapPosition = 0,6,1
 BattleBack = indoor1
 #-------------------------------
 [189]
 # Pokémon Mansion 1F
 ShowArea = true
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor3
 #-------------------------------
 [190]
 # Pokémon Mansion 2F
 ShowArea = true
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor3
 #-------------------------------
 [191]
 # Pokémon Mansion 3F
 ShowArea = true
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor3
 #-------------------------------
 [192]
 # Pokémon Mansion B1F
 ShowArea = true
-MapPosition = 0,16,17
+MapPosition = 0,6,18
 BattleBack = indoor3
 #-------------------------------
 [193]
 # Cinnabar Gym
 Environment = Volcano
-MapPosition = 0,18,17
+MapPosition = 0,8,17
 BattleBack = elite3
 #-------------------------------
 [194]
 # Viridian Gym
-MapPosition = 0,5,8
+MapPosition = 0,6,7
 BattleBack = elite6
 #-------------------------------
 [195]
@@ -828,52 +827,51 @@ BattleBack = elite6
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,2,8
+MapPosition = 0,2,7
 BattleBack = field
-MapSize = 3,111
+MapSize = 4,1111
 #-------------------------------
 [196]
 # Indigo Plateau
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = city
-MapSize = 2,11
 #-------------------------------
 [197]
 # Indigo Plateau
-MapPosition = 0,2,7
+MapPosition = 0,2,6
 BattleBack = indoor1
 #-------------------------------
 [198]
 # Kanto Pokemon League
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = indoor1
 #-------------------------------
 [199]
 # Indigo Rock
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = elite6
 #-------------------------------
 [200]
 # Indigo Water
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = elite2
 #-------------------------------
 [201]
 # Indigo Ice
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = elite2
 #-------------------------------
 [202]
 # Indigo Grass
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = elite5
 #-------------------------------
 [203]
 # Indigo Stadium
-MapPosition = 0,2,7
+MapPosition = 0,2,5
 BattleBack = champion1
 #-------------------------------
 [204]
@@ -1589,7 +1587,7 @@ BattleBack = indoor1
 # Safari Zone Johto
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -2044,7 +2042,7 @@ BattleBack = indoor1
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,13,14
+MapPosition = 0,16,10
 BattleBack = field
 #-------------------------------
 [391]
@@ -2159,7 +2157,9 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Storm,10
+MapPosition = 0,19,12
 BattleBack = field
+MapSize = 1,11
 #-------------------------------
 [407]
 # Fallarbor Contest
@@ -2196,6 +2196,7 @@ BattleBack = indoor2
 [412]
 # Kanto Power Plant
 BattleBack = indoor3
+MapPosition = 2,19,13
 #-------------------------------
 [413]
 # Lavaridge Gym
@@ -2585,17 +2586,17 @@ ShowArea = true
 Bicycle = true
 Weather = Sun,40
 BattleBack = field
-MapPosition = 0,10,3
+MapPosition = 0,11,1
 #-------------------------------
 [474]
 # Battle Factory
-MapPosition = 0,10,3
+MapPosition = 0,11,1
 HealingSpot = 474,23,8
 BattleBack = indoor1
 #-------------------------------
 [475]
 # Battle Factory Stage
-MapPosition = 0,10,3
+MapPosition = 0,11,1
 BattleBack = elite2
 #-------------------------------
 [476]
@@ -2603,22 +2604,23 @@ BattleBack = elite2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,11,7
+MapPosition = 0,13,7
 BattleBack = forest
+MapSize = 2,11
 #-------------------------------
 [477]
 # Saffron Contest
-MapPosition = 0,14,8
+MapPosition = 0,17,6
 BattleBack = indoor1
 #-------------------------------
 [478]
 # Battle Arena
-MapPosition = 0,11,7
+MapPosition = 0,14,7
 BattleBack = indoor1
 #-------------------------------
 [479]
 # Battle Arena Stage
-MapPosition = 0,11,7
+MapPosition = 0,14,7
 BattleBack = elite3
 #-------------------------------
 [480]
@@ -2626,13 +2628,13 @@ BattleBack = elite3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,20,9
+MapPosition = 0,23,7
 BattleBack = water
-MapSize = 1,11
+MapSize = 1,111
 #-------------------------------
 [481]
 # Route 12 Breeding Center
-MapPosition = 0,20,10
+MapPosition = 0,23,8
 BattleBack = indoor1
 #-------------------------------
 [482]
@@ -2640,18 +2642,18 @@ BattleBack = indoor1
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,18,11
+MapPosition = 0,21,10
 BattleBack = field
-MapSize = 3,111
+MapSize = 3,100111
 #-------------------------------
 [483]
 # Battle Dome Stage
-MapPosition = 0,18,11
+MapPosition = 0,21,11
 BattleBack = elite6
 #-------------------------------
 [484]
 # Battle Dome
-MapPosition = 0,18,11
+MapPosition = 0,21,11
 HealingSpot = 484,20,20
 BattleBack = indoor2
 #-------------------------------
@@ -2660,23 +2662,24 @@ BattleBack = indoor2
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,18,12
+MapPosition = 0,20,12
 BattleBack = field
-MapSize = 1,11
+MapSize = 2,01010111
 #-------------------------------
 [486]
 # Route 15
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,17,13
+MapPosition = 0,15,15
 BattleBack = field
+MapSize = 5,11111
 #-------------------------------
 [487]
 # Safari Zone Hoenn
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -2684,18 +2687,18 @@ BattleBack = forest
 # Battle Pike
 Outdoor = true
 ShowArea = true
-MapPosition = 0,11,13
+MapPosition = 0,13,13
 BattleBack = forest
 #-------------------------------
 [489]
 # Battle Pike
-MapPosition = 0,11,13
+MapPosition = 0,13,13
 HealingSpot = 489,14,45
 BattleBack = indoor1
 #-------------------------------
 [490]
 # Battle Pike Stage
-MapPosition = 0,11,13
+MapPosition = 0,13,13
 BattleBack = elite7
 #-------------------------------
 [491]
@@ -2704,13 +2707,13 @@ Outdoor = true
 ShowArea = true
 Bicycle = true
 Weather = Sun,90
-MapPosition = 0,22,15
+MapPosition = 0,3,15
 BattleBack = forest
-MapSize = 2,11
+MapSize = 3,111
 #-------------------------------
 [492]
 # Battle Palace
-MapPosition = 0,23,15
+MapPosition = 0,4,15
 HealingSpot = 492,10,13
 BattleBack = indoor3
 #-------------------------------
@@ -2718,7 +2721,7 @@ BattleBack = indoor3
 # Battle Palace Stage
 Outdoor = true
 Weather = Sun,100
-MapPosition = 0,23,15
+MapPosition = 0,5,15
 BattleBack = forest
 #-------------------------------
 [494]
@@ -2726,42 +2729,42 @@ BattleBack = forest
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,2,9
+MapPosition = 0,3,8
 BattleBack = field
 MapSize = 1,1111
 #-------------------------------
 [495]
 # Route 26 House
-MapPosition = 0,2,10
+MapPosition = 0,3,9
 MapSize = 1,11
 BattleBack = indoor1
 #-------------------------------
 [496]
 # Battle Tower
-MapPosition = 0,2,12
+MapPosition = 0,3,11
 HealingSpot = 496,10,13
 BattleBack = indoor3
 #-------------------------------
 [497]
 # Battle Tower Challenge
-MapPosition = 0,2,12
+MapPosition = 0,3,11
 BattleBack = indoor3
 #-------------------------------
 [498]
 # Battle Tower Stage
-MapPosition = 0,2,12
+MapPosition = 0,3,11
 BattleBack = elite4
 #-------------------------------
 [499]
 # Battle Pyramid
 Outdoor = true
 Bicycle = true
-MapPosition = 0,4,4
+MapPosition = 0,4,1
 BattleBack = field
 #-------------------------------
 [500]
 # Battle Pyramid
-MapPosition = 0,4,4
+MapPosition = 0,4,1
 HealingSpot = 500,9,14
 BattleBack = indoor3
 #-------------------------------
@@ -2770,7 +2773,7 @@ BattleBack = indoor3
 #-------------------------------
 [502]
 # Battle Pyramid Stage
-MapPosition = 0,4,4
+MapPosition = 0,4,1
 BattleBack = elite2
 #-------------------------------
 [503]
@@ -2881,7 +2884,9 @@ BattleBack = field
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,23,4
 BattleBack = rocky
+MapSize = 1,11
 #-------------------------------
 [519]
 # Jubilife Pokémon Center
@@ -3395,7 +3400,7 @@ MapSize = 2,1111
 # Safari Zone Sinnoh
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -4467,7 +4472,7 @@ BattleBack = indoor3
 Outdoor = true
 ShowArea = true
 Bicycle = true
-MapPosition = 0,6,11
+MapPosition = 0,7,10
 BattleBack = field
 #-------------------------------
 [765]
@@ -4599,7 +4604,7 @@ BattleBack = distortion
 #-------------------------------
 [788]
 # Route 19 House
-MapPosition = 0,9,14
+MapPosition = 0,13,16
 BattleBack = indoor2
 #-------------------------------
 [789]
@@ -5186,7 +5191,7 @@ BattleBack = indoor1
 # Safari Zone Unova
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -5194,7 +5199,7 @@ BattleBack = forest
 # Safari Zone Kalos
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -5624,7 +5629,7 @@ BattleBack = cave1
 # Safari Zone Alola
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -5784,7 +5789,7 @@ MapPosition = 2,10,5
 #-------------------------------
 [968]
 # Kanto Grand Festival
-MapPosition = 0,3,7
+MapPosition = 0,2,6
 BattleBack = indoor1
 #-------------------------------
 [969]
@@ -5839,6 +5844,7 @@ HealingSpot = 978,7,4
 [979]
 # Seafoam Islands
 ShowArea = true
+MapPosition = 0,12,18
 BattleBack = cave1
 #-------------------------------
 [980]
@@ -5874,7 +5880,7 @@ BattleBack = city
 # Safari Zone Galar
 Outdoor = true
 Bicycle = true
-MapPosition = 0,11,13
+MapPosition = 0,13,14
 SafariMap = true
 BattleBack = forest
 #-------------------------------
@@ -5921,6 +5927,7 @@ BattleBack = snow
 Outdoor = true
 ShowArea = true
 Bicycle = true
+MapPosition = 0,14,17
 BattleBack = rocky
 #-------------------------------
 [992]
@@ -5928,4 +5935,5 @@ BattleBack = rocky
 ShowArea = true
 Bicycle = true
 Environment = Cave
+MapPosition = 0,14,17
 BattleBack = cave1
