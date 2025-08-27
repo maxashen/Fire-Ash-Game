@@ -1,5 +1,5 @@
 ********************************
-Version 3.6 Part 2 (??-08?-2025)
+Version 3.6 Part 2 (??-08/9?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
@@ -21,6 +21,7 @@ Qol Changes and Improvements:
 - Added VFX from Essentials v20.1 to the Poké Ball opening animation in battle
 - Gave Dynamax/Legendary Pokémon, Casey, Tierno, Trevor and Shauna battle sprites
 - Rotom Phone won't unregister itself during the "To be a Pokémon Master" arc now
+- Change the battle BG in certain parts of certain routes
 - The speed up setting is now kept even after soft resetting or closing the game! (thank you Kraegon!)
 - Added an option to disable weather effects in the overworld! (thank you Kraegon x2!)
 - Added a search function to the PC so you can find Pokémon easier! (thank you Kraegon x3!)
@@ -64,6 +65,7 @@ Grandeur Club Changes:
 - Changed certain Serperiors to have Contrary than Overgrow
 - Added a check to ensure that the player has a certain pass before being able to do certain battles
 - Fix Frontier trainers causing the player to black out when losing in Gauntlet Challenge
+- Fix certain instances of the Mayhem Challenge showing that the player obtained a key when they didn't
 - Overhauled the mechanics of Sync challenge:
  - Damage taken by all Pokémon is reduced to 25% of its original value and adjusted trainers to use passives more effectively. This is to change it from being an OHKO or get OHKO'ed fest to more interesting battles where the gimmicks of every trainer can be showcased
  - To accommodate for the above, a certain amount of HP and PP can be restored for every Pokémon in your party after every battle by talking to Nurse Joy once buffs have been unlocked
