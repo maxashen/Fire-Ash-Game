@@ -406,7 +406,7 @@ ShowArea = true
 Bicycle = true
 Weather = Sun,5
 MapPosition = 0,18,6
-BattleBack = indoor3
+BattleBack = field
 MapSize = 5,11111
 #-------------------------------
 [129]
