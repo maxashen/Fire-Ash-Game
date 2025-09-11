@@ -3,8 +3,10 @@ Version 3.6 Part 2 (??-08/9?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
-- Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh, taken straight from Platinum Dawn (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
+- Update graphics for the Town Map for all regions!
+- Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
 - Added a PC to Kukui's Lab
+- Added a move tutor for Focus Punch at Hoenn Battle Frontier
 - Galarian Fossils can be bought at Aether Paradise after doing the event where Ash gets a Dracovish
 - Added Common Candy, which decreases the level of a Pokémon by 1 and added a vendor to Pallet Town after becoming the Orange League Champion (use with caution - the levels for certain trainers' Pokémon don't reset!)
 - Stopped disabling Fly after becoming Orange League Champion
@@ -46,7 +48,8 @@ Issues fixed:
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
 - Fix an issue with using an Enigma Berry in battle
-- Fix a visual glitch with wild Pokémon using U-turn
+- Fix a visual glitch with wild Pokémon using U-turn and Volt Switch
+- Fix a visual glitch when the user misses a 2 turn move where it became semi-invulnerable (e.g. Fly, Dig)
 - Fix the stats screen not updating the colour of the stat names when changing a Pokémon's nature
 - Fix the game potentially crashing as the Masters 8 opening ceremony starts
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
@@ -90,6 +93,7 @@ Grandeur Club Changes:
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
+- Made Lake of Rage bigger
 - Most trainers will now reserve their last Pokémon until the end of the battle
 - Rebalanced the battle against Eternamax Eternatus: It (and Meowth) will stay Dynamaxed for the entire battle, but it is now at level 40 (from 50)
 - Changed the title screen's BGM to the first anime opening theme!
