@@ -3,7 +3,7 @@ Version 3.6 Part 2 (??-08/9?-2025)
 ********************************
 Qol Changes and Improvements:
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
-- Update graphics for the Town Map for all regions!
+- Updated graphics for the Town Map for all regions!
 - Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
 - Added a PC to Kukui's Lab
 - Added a move tutor for Focus Punch at Hoenn Battle Frontier
@@ -55,6 +55,7 @@ Issues fixed:
 - Fix Rillaboom, Cinderace and Inteleon not being able to learn Frenzy Plant, Blast Burn and Hydro Cannon respectively
 - Fix Cramorant not changing form when using Dive
 - Fix Gastly having Cloyster's description in the Pokédex
+- Fix Vivillon's forms having another form's shiny icon
 - Fix graphical issues when immediately entering and exiting a building due to having multiple followers (thank you Kraegon! x4)
 - Fix some nicknames being butchered because of Essentials (thank you Kraegon! x5). Achieved by having them be resized or truncated when they're too long
 - Fix the save file in the first save slot being the only one to able to overwrite game options - game options are now shared across all save files so now any save file can overwrite them! (thank you Kraegon x6!)
@@ -93,7 +94,7 @@ Grandeur Club Changes:
 Misc.:
 - The Cable Club has been nuked as we don't want to fund the servers anymore
 - Put Muk upstairs in Oak's Lab rather than in the Corral to be more anime accurate
-- Made Lake of Rage bigger
+- Made Lake of Rage bigger and changed the pathing of the shortcut on Route 205
 - Most trainers will now reserve their last Pokémon until the end of the battle
 - Rebalanced the battle against Eternamax Eternatus: It (and Meowth) will stay Dynamaxed for the entire battle, but it is now at level 40 (from 50)
 - Changed the title screen's BGM to the first anime opening theme!
