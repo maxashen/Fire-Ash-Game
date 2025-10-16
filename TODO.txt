@@ -1,3 +1,7 @@
+
+- Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
+- Updated graphics for the Town Map for all regions!
+
 - cut down on game size by utilising audio looping (finished all secret prefixes minus Jupiter and a few others)
  - may need to re-look at the following: secretdespair, secretfoul, secretkamado, secretlaventon, secretvolo
  - remove .wav cries
@@ -52,7 +56,5 @@ Neo Champion Leaf
 Neo Champion Blue
 Neo Champion Nate
 Neo Champion Rosa
-Neo Champion Brendan (currently being done by Megshi)
-Neo Champion May (currently being done by Megshi)
 
 Dojo Gloria (currently being done by Angel?)

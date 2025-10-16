@@ -1,9 +1,7 @@
-********************************
-Version 3.6 Part 2 (??-08/9?-2025)
-********************************
+*******************************
+Version 3.6 Part 2 (16-10-2025)
+*******************************
 Qol Changes and Improvements:
-- Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
-- Updated graphics for the Town Map for all regions!
 - Added a way to teleport to towns which don't have Pokémon Centers in Sinnoh (connecting Twinleaf Town, Veilstone City, Valor Lakefront and Celestic Town)
 - Added a PC to Kukui's Lab
 - Added a move tutor for Focus Punch at Hoenn Battle Frontier
@@ -88,7 +86,7 @@ Grandeur Club Changes:
  - Gave SS Blue, Leaf and Giovanni Trainer Moves
  - SS Hau's Trainer Move now buffs Tapu Koko's Sp. Atk by 4 stages (like in Pokémon Masters) rather than 2
  - SS Mina's Tapu Fini's Sea Deity Protect now only has 1 PP instead of 10 PP
- - SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before using Freeze Shock
+ - SS N's Black Kyurem's Resonating Noble Roar now only has 3 PP instead of 30 PP and can't be used before it uses Freeze Shock
  - Added animations to B-Moves which correspond to their original move
 
 Misc.:
