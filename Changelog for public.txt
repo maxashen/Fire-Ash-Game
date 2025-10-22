@@ -1,3 +1,11 @@
+*********************************
+Version 3.6 Part 2.1 (23-10-2025)
+*********************************
+- Fix battles with Trevor causing the game to crash on Route K17 and K22
+- Fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
+- Added healing between certain fights in the ??? challenge
+
+
 *******************************
 Version 3.6 Part 2 (16-10-2025)
 *******************************
@@ -15,7 +23,6 @@ Qol Changes and Improvements:
 - Items in the bag can now be sorted by alphabetical order (use the quick save key - default is left alt)
 - Move animations have been updated yet again, including a new custom animation for Battle Bond's transformation
 - Reshiram, Zekrom, Solgaleo, Lunala, Marshadow, Zacian and Zamazenta change forms while using their signature moves
-- Added "trainer" sprites for battles against Legendary and Dynamax Pokémon during the Journeys arc
 - Different music now when battling/encountering legendaries of different regions
 - Music now plays when encountering Jessie and James in the overworld
 - Added VFX from Essentials v20.1 to the Poké Ball opening animation in battle
