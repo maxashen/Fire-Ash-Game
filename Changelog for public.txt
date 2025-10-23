@@ -1,9 +1,14 @@
 *********************************
 Version 3.6 Part 2.1 (23-10-2025)
 *********************************
+Issues Fixed:
 - Fix battles with Trevor causing the game to crash on Route K17 and K22
 - Fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
+
+Grandeur Club Changes:
+- Fix SS Hilda's Trainer Move
 - Added healing between certain fights in the ??? challenge
+- Nerfed one of the trainers in ??? challenge
 
 
 *******************************
