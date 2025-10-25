@@ -1,3 +1,14 @@
+*************************
+Version 3.7 (??-12?-2025)
+*************************
+Main Game Changes:
+- Changed the layout of Skyarrow Bridge
+
+Grandeur Club Changes:
+- Added Galar and Hisui achievements to the GC Card
+- Added more trainers to Sync + Titan challenges
+
+
 *********************************
 Version 3.6 Part 2.1 (23-10-2025)
 *********************************
@@ -6,7 +17,7 @@ Issues Fixed:
 - Fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
 
 Grandeur Club Changes:
-- Fix SS Hilda's Trainer Move
+- Fix SS Hilda's Trainer Move in Sync + Titan Challenges
 - Added healing between certain fights in the ??? challenge
 - Nerfed one of the trainers in ??? challenge
 
