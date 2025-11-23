@@ -5,8 +5,23 @@ Main Game Changes:
 - Changed the layout of Skyarrow Bridge
 
 Grandeur Club Changes:
-- Added Galar and Hisui achievements to the GC Card
 - Added more trainers to Sync + Titan challenges
+
+
+*********************************
+Version 3.6 Part 2.2 (??-11-2025)
+*********************************
+Issues fixed:
+- Fix Imprison crashing the game
+- Fix Sea of Fire effect (from Fire + Grass Pledge) crashing the game
+- Fix Enigma Berries not working properly in battle
+
+Main Game Changes:
+- The Abra teleport at Valor Lakefront only unlocks after you have met Wallace at Lake Valor
+- The Abra teleport at Celestic Town only unlocks after you have defeated Team Galactic in the town
+
+Grandeur Club Changes:
+- Added Galar and Hisui achievements to the GC Card
 
 
 *********************************
@@ -68,7 +83,6 @@ Issues fixed:
 - Fix being able to select other Pokémon other than Milcery for the chefs in Ballonlea Stadium
 - Fix being able to fish in unintended places (mainly puddles in towns) and not being able to fish on specific tiles
 - Fix an issue, where if you have an egg before having a Pokémon with an OW move, it would cause the wrong sprites to show up in the Ready Menu (the menu where you use your registered items)
-- Fix an issue with using an Enigma Berry in battle
 - Fix a visual glitch with wild Pokémon using U-turn and Volt Switch
 - Fix a visual glitch when the user misses a 2 turn move where it became semi-invulnerable (e.g. Fly, Dig)
 - Fix the stats screen not updating the colour of the stat names when changing a Pokémon's nature
