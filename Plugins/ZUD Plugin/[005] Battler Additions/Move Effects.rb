@@ -95,8 +95,9 @@ class PokeBattle_Battler
   #=============================================================================
   # Prevents Z-Moves/Max Moves from becoming unselectable due to Imprison.
   # Must be added to def pbCanChooseMove?
+  # Added extra parameter showMessages to control message display. (by Luc-ker)
   #-----------------------------------------------------------------------------
-  def _ZUD_Imprison(move,commandPhase)
+  def _ZUD_Imprison(move,commandPhase,showMessages)
     @battle.eachOtherSideBattler(@index) do |b|
       next if move.powerMove?
       basemove = false

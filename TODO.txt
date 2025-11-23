@@ -1,4 +1,4 @@
-
+- Change directory of GameSpeedSetting.dat and PokemonSystem to keybindings folder
 - Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
 - Updated graphics for the Town Map for all regions!
 
