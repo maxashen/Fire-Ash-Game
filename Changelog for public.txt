@@ -1,6 +1,10 @@
 *************************
 Version 3.7 (??-12?-2025)
 *************************
+Issues fixed:
+- Fixed Burn Up crashing the game after knocking out an enemy Pokémon when used by a pure Fire type
+- Fix being able to move through an edge sand tile, e.g. on Tangelo Island
+
 Main Game Changes:
 - Changed the layout of Skyarrow Bridge
 
