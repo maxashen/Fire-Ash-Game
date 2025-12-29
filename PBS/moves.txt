@@ -559,7 +559,7 @@
 545,SPLASH,Splash,001,0,NORMAL,Status,0,40,0,User,0,,"The user just flops and splashes around to no effect at all..."
 546,SPOTLIGHT,Spotlight,16A,0,NORMAL,Status,0,15,0,NearOther,3,bc,"The user shines a spotlight on the target so that only it will be attacked during the turn."
 547,STOCKPILE,Stockpile,112,0,NORMAL,Status,0,20,0,User,0,d,"The user charges up power and raises both its Defense and Sp. Def. The move can be used three times."
-548,SUBSTITUTE,Substitute,10C,0,NORMAL,Status,0,10,0,User,0,d,"The user makes a copy of itself using some of its HP. The copy serves as the user's decoy."
+548,SUBSTITUTE,Substitute,10C,0,NORMAL,Status,0,10,0,User,0,d,"The user creates a substitute for itself using some of its HP, serving as its decoy."
 549,SUPERSONIC,Supersonic,013,0,NORMAL,Status,55,20,0,NearOther,0,bcek,"The user generates odd sound waves from its body. It may confuse the target."
 550,SWAGGER,Swagger,041,0,NORMAL,Status,85,15,0,NearOther,0,bce,"The user enrages and confuses the target. However, it also sharply raises the target's Attack stat."
 551,SWALLOW,Swallow,114,0,NORMAL,Status,0,10,0,User,0,d,"The power stored using the move Stockpile is absorbed by the user to heal its HP."

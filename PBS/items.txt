@@ -375,7 +375,7 @@
 375,TM87,TM87,TM87s,4,10000,"A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.",3,0,0,CROSSPOISON,
 376,TM88,TM88,TM88s,4,20000,"The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",3,0,0,PLUCK,
 377,TM89,TM89,TM89s,4,20000,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",3,0,0,UTURN,
-378,TM90,TM90,TM90s,4,20000,"The user creates a substitute for itself using some of its HP. The substitute serves as the user's decoy.",3,0,0,SUBSTITUTE,
+378,TM90,TM90,TM90s,4,20000,"The user creates a substitute for itself using some of its HP, serving as its decoy.",3,0,0,SUBSTITUTE,
 379,TM91,TM91,TM91s,4,20000,"The user gathers all its light energy and releases it all at once. This may also lower the target's Sp. Def stat.",3,0,0,FLASHCANNON,
 380,TM92,TM92,TM92s,4,10000,"The user creates a bizarre area in which slower Pokémon get to move first for five turns.",3,0,0,TRICKROOM,
 381,TM93,TM93,TM93s,4,10000,"The user shrouds itself in electricity and smashes into its foe. This also damages the user a little.",3,0,0,WILDCHARGE,
