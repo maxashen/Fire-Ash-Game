@@ -1,6 +1,5 @@
 - make Ho-oh move
 - add more shading to "forest entrances" (hidden village, eterna forest)
-- fix top left corner of Lilycove City's map
 - spawn Lance in after defeating Groudon + Kyogre on Route 124
 - fix texture transitions (eterna + more)
 - look into kiawe's Charizard on alola route 1

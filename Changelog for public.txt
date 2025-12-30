@@ -15,10 +15,12 @@ Issues fixed:
 - Fix double battles not triggering properly in Sunnyshore Gym during the WCS
 
 Main Game Changes:
+- Changed some of Lilycove City's textures
 - Changed the layout of Skyarrow Bridge
 
 Grandeur Club Changes:
 - Added more trainers to Sync + Titan challenges
+- Fixed healing triggering an unlimited amount of times in the ??? Challenge
 
 Misc.:
 - Updated graphics for the Town Map for all regions!
