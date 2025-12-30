@@ -1,15 +1,27 @@
 *************************
-Version 3.7 (??-12?-2025)
+Version 3.7 (??-01?-2026)
 *************************
+New features:
+- Added an alternate world version of the Pokémon World Coronation in the postgame, which can be accessed by the portal in Twinleaf Town
+- Added audio packs! On load, the game will check if you have a specific folder and if you do, it'll play alternate tracks
+
 Issues fixed:
-- Fixed Burn Up crashing the game after knocking out an enemy Pokémon when used by a pure Fire type
-- Fix being able to move through an edge sand tile, e.g. on Tangelo Island
+- Fixed Burn Up crashing the game when used by a Fire type Pokémon with no secondary type
+- Fix being able to move through certain edge tiles, which would lead to walking on water, e.g. Tangelo Island, Milos Island
+- Fix TM90 (Substitute) having an incomplete description
+- Fix being kicked out of Ultra Deep Space after saving Lusamine and before Necrozma's event
+- Fix being missing collisions on certain building exits, e.g. Ballonlea Gym
 
 Main Game Changes:
 - Changed the layout of Skyarrow Bridge
 
 Grandeur Club Changes:
 - Added more trainers to Sync + Titan challenges
+
+Misc.:
+- Updated graphics for the Town Map for all regions!
+- Changed the directory of where the game's options and speed are stored to be the same as save files to make it easier to port over to new versions of the game
+- Change Butterfree, Unown and Seaking to select a Pokémon from party rather than just checking the 1st Pokémon in your party
 
 
 *********************************

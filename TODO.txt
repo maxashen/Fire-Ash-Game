@@ -1,6 +1,23 @@
-- Change directory of GameSpeedSetting.dat and PokemonSystem to keybindings folder
-- Updated MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
-- Updated graphics for the Town Map for all regions!
+- change unown and butterfree guys to select a mon from party rather than checking the 1st mon
+- make Ho-oh move
+- add more shading to "forest entrances" (hidden village, eterna forest)
+- make wall maps in Pokémon Centers show the town map of the region
+- fix top left corner of Lilycove City's map
+- spawn Lance in after defeating Groudon + Kyogre on Route 124
+- edit destination options of hoenn/sinnoh ship in vermillion
+- fix texture transitions (eterna + more)
+- change fade-through black transition on valor lakefront/route whatever it is to be on the house door rather than below
+- look into kiawe's Charizard on alola route 1
+- make 1st Goh disappear in Oak's Corral (Moltres event)
+- look into Sunnyshore gym double battles during WCS
+- fix glitching Rotom Phone if player doesn't return to Cerise Lab
+
+- fix more sailor menus (waiting on a list)
+
+
+- Change directory of GameSpeedSetting.dat and PokemonSystem to keybindings folder (ideally, rn it's in the Save Files folder) so it doesn't need to be updated for every redownload
+- Update MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!
+- Update graphics for the Town Map for all regions (waiting on Hitsu)
 
 - cut down on game size by utilising audio looping (finished all secret prefixes minus Jupiter and a few others)
  - may need to re-look at the following: secretdespair, secretfoul, secretkamado, secretlaventon, secretvolo
@@ -54,7 +71,5 @@ Neo Champion Bede
 Neo Champion Red
 Neo Champion Leaf
 Neo Champion Blue
-Neo Champion Nate
-Neo Champion Rosa
 
 Dojo Gloria (currently being done by Angel?)
