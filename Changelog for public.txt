@@ -4,6 +4,7 @@ Version 3.7 (??-01?-2026)
 New features:
 - Added an alternate world version of the Pokémon World Coronation in the postgame, which can be accessed by the portal in Twinleaf Town
 - Added audio packs! On load, the game will check if you have a specific folder and if you do, it'll play alternate tracks
+- Enabled wall maps to show the region's map
 
 Issues fixed:
 - Fixed Burn Up crashing the game when used by a Fire type Pokémon with no secondary type
@@ -21,7 +22,8 @@ Grandeur Club Changes:
 Misc.:
 - Updated graphics for the Town Map for all regions!
 - Changed the directory of where the game's options and speed are stored to be the same as save files to make it easier to port over to new versions of the game
-- Change Butterfree, Unown and Seaking to select a Pokémon from party rather than just checking the 1st Pokémon in your party
+- Changed Butterfree, Unown and Seaking events to select a Pokémon from party rather than just checking the 1st Pokémon in your party
+- Changed the transition between Valor Lakefront and Route 213 - you are now on Route 213 after you exit the house, rather than below the stairs
 
 
 *********************************
