@@ -12,6 +12,7 @@ Issues fixed:
 - Fix TM90 (Substitute) having an incomplete description
 - Fix being kicked out of Ultra Deep Space after saving Lusamine and before Necrozma's event
 - Fix being missing collisions on certain building exits, e.g. Ballonlea Gym
+- Fix double battles not triggering properly in Sunnyshore Gym during the WCS
 
 Main Game Changes:
 - Changed the layout of Skyarrow Bridge

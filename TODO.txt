@@ -5,7 +5,6 @@
 - fix texture transitions (eterna + more)
 - look into kiawe's Charizard on alola route 1
 - make 1st Goh disappear in Oak's Corral (Moltres event)
-- look into Sunnyshore gym double battles during WCS
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
 
 - fix more sailor menus (waiting on a list)
