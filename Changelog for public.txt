@@ -24,6 +24,7 @@ Misc.:
 - Changed the directory of where the game's options and speed are stored to be the same as save files to make it easier to port over to new versions of the game
 - Changed Butterfree, Unown and Seaking events to select a Pokémon from party rather than just checking the 1st Pokémon in your party
 - Changed the transition between Valor Lakefront and Route 213 - you are now on Route 213 after you exit the house, rather than below the stairs
+- The ship that takes you to Hoenn and Sinnoh from Vermillion City will now dynamically update the names of the location it takes you to
 
 
 *********************************
