@@ -1,8 +1,8 @@
 - make Ho-oh move
-- add more shading to "forest entrances" (hidden village, eterna forest)
+- add more shading to "forest entrances" (pinwheel forest)
+- need to make shaded forest entrance texture for sides + back
 - spawn Lance in after defeating Groudon + Kyogre on Route 124
-- fix texture transitions (eterna + more)
-- look into kiawe's Charizard on alola route 1
+- fix texture transitions (stow-on-side, routes)
 - make 1st Goh disappear in Oak's Corral (Moltres event)
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
 
