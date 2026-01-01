@@ -1,13 +1,7 @@
 - make Ho-oh move
-- add more shading to "forest entrances" (pinwheel forest)
-- need to make shaded forest entrance texture for sides + back
 - spawn Lance in after defeating Groudon + Kyogre on Route 124
-- fix texture transitions (stow-on-side, routes)
 - make 1st Goh disappear in Oak's Corral (Moltres event)
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
-
-- fix more sailor menus (waiting on a list)
-
 
 - Change directory of GameSpeedSetting.dat and PokemonSystem to keybindings folder (ideally, rn it's in the Save Files folder) so it doesn't need to be updated for every redownload
 - Update MKXP to use the version that Pokémon Essentials v21.1 uses - this should hopefully make the game lag less!

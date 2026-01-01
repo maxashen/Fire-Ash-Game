@@ -13,6 +13,7 @@ Issues fixed:
 - Fix being kicked out of Ultra Deep Space after saving Lusamine and before Necrozma's event
 - Fix being missing collisions on certain building exits, e.g. Ballonlea Gym
 - Fix double battles not triggering properly in Sunnyshore Gym during the WCS
+- Fix a sailor in Vermillion City taking you to Valencia Island when attempting to cancel under certain circumstances
 
 Main Game Changes:
 - Changed some of Lilycove City's textures
@@ -25,6 +26,7 @@ Grandeur Club Changes:
 
 Misc.:
 - Updated graphics for the Town Map for all regions!
+- Updated textures for various towns and routes
 - Changed the directory of where the game's options and speed are stored to be the same as save files to make it easier to port over to new versions of the game
 - Changed Butterfree, Unown and Seaking events to select a Pokémon from party rather than just checking the 1st Pokémon in your party
 - Changed the transition between Valor Lakefront and Route 213 - you are now on Route 213 after you exit the house, rather than below the stairs
