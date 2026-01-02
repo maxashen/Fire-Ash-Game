@@ -1,6 +1,5 @@
 - make Ho-oh move
-- spawn Lance in after defeating Groudon + Kyogre on Route 124
-- make 1st Goh disappear in Oak's Corral (Moltres event)
+- make duplicates of characters disappear (mainly journeys events?)
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
 
 - Change directory of GameSpeedSetting.dat and PokemonSystem to keybindings folder (ideally, rn it's in the Save Files folder) so it doesn't need to be updated for every redownload

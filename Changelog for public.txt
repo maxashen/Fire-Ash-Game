@@ -17,8 +17,10 @@ Issues fixed:
 
 Main Game Changes:
 - Changed some of Lilycove City's textures
+- Lance shows up properly after catching or defeating Groudon and Kyogre on Route 124
 - Changed the layout of Skyarrow Bridge
 - Kiawe's Charizard on Route 1 doesn't show up until reaching a certain point in the Alola story
+- Removed duplicates of the same character during events
 
 Grandeur Club Changes:
 - Added more trainers to Sync + Titan challenges
