@@ -1,4 +1,3 @@
-- make Ho-oh move
 - make duplicates of characters disappear (mainly journeys events?)
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
 

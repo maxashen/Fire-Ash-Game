@@ -14,6 +14,7 @@ Issues fixed:
 - Fix being missing collisions on certain building exits, e.g. Ballonlea Gym
 - Fix double battles not triggering properly in Sunnyshore Gym during the WCS
 - Fix a sailor in Vermillion City taking you to Valencia Island when attempting to cancel under certain circumstances
+- Fix Magearna having incorrect icons for its shiny
 
 Main Game Changes:
 - Changed some of Lilycove City's textures
