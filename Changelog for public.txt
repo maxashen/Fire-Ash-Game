@@ -7,6 +7,7 @@ New features:
 - Enabled wall maps to show the region's map
 
 Issues fixed:
+- Properly fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
 - Fixed Burn Up crashing the game when used by a Fire type Pokémon with no secondary type
 - Fix being able to move through certain edge tiles, which would lead to walking on water, e.g. Tangelo Island, Milos Island
 - Fix TM90 (Substitute) having an incomplete description

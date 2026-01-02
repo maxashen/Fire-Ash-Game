@@ -1,3 +1,13 @@
+audio packs:
+- edit function which gets name of:
+ - poke center healing (done)
+ - gym badge, mega stone and z-crystal
+ - cycling music
+ - item + key item + berries (maybe?)
+- update various map bgms in metadata.txt
+- loop audios (could skip tbf)
+
+
 - make duplicates of characters disappear (mainly journeys events?)
 - fix glitching Rotom Phone if player doesn't return to Cerise Lab
 
