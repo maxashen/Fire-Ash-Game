@@ -1054,6 +1054,8 @@
 1165,NCBIANCA,First Step to Glory,ST27,0,NORMAL,Status,0,1,0,User,0,q,"Neo Champion Bianca's signature move."
 1166,NCMAY,Starry Sky of Glory,NT13,0,NORMAL,Status,0,2,0,UserOrNearAlly,0,q,"Neo Champion May's signature move."
 1167,NCBRENDAN,Blue Sky of Glory,NT14,0,NORMAL,Status,0,2,0,UserOrNearAlly,0,q,"Neo Champion Brendan's signature move."
+1168,NCELIO,Sunward Glory,NT15,0,NORMAL,Status,0,2,0,User,0,q,"Neo Champion Elio's signature move."
+1169,NCSELENE,Moonlit Glory,NT16,0,NORMAL,Status,0,2,0,User,0,q,"Neo Champion Selene's signature move."
 
 #--------------------------------
 # Sygna Pokémon Moves (SP)
@@ -1089,13 +1091,15 @@
 1255,BICEBEAM,Frozen Wings Ice Beam,NP06,120,ICE,Special,100,10,100,NearOther,0,frs,"The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
 1256,BROOST,Thundering Wings Roost,NP07,0,FLYING,Status,0,2,0,User,0,d,"The user lands and rests its body. It restores the user's HP by up to 60% of its max HP."
 1257,BFLAREBLITZ,Fiery Wings Flare Blitz,NP08,120,FIRE,Physical,100,15,10,NearOther,0,abefg,"The user cloaks itself in fire and charges at the foe. It may burn the target."
-1258,BOUTRAGE,Dark Black Outrage,NP09,160,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
+1258,BOUTRAGE,Dark Black Outrage,NP09,150,DRAGON,Physical,0,1,50,AllFoes,0,fr,"The user rampages and attacks all enemies."
 1259,BRELICSONG,Relic Song of Wonder,NP10,80,NORMAL,Special,100,10,10,AllFoes,0,bfk,"An ancient song appeals to the hearts of those listening. It may also induce sleep."
 1260,BROCKSLIDE,Massive Rock Slide,NP11,100,ROCK,Physical,100,5,100,AllFoes,0,frs,"Large boulders are hurled at the foes to inflict damage, making the targets flinch."
 1261,BBLEAKWINDSTORM,Black Gale Bleakwind Storm,NP12,120,FLYING,Special,0,5,100,AllFoes,0,bf,"The user attacks with a gust of chilled air. It also harshly lowers the targets' Speed stat."
 1262,BSACREDSWORD,White Light Sacred Sword,NP13,130,FIGHTING,Physical,0,2,100,NearOther,0,af,"The user attacks by slicing with its long horns. The target's stat changes don't affect the damage."
 1263,BORIGINPULSE,Blue Origin Pulse,NP14,130,WATER,Special,100,1,100,AllFoes,0,fm,"The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue."
 1264,BPRECIPICEBLADES,Red Precipice Blades,NP15,150,GROUND,Physical,100,3,100,AllFoes,0,bf,"The user attacks its foes by manifesting the power of the land in fearsome blades of stone."
+1265,BSUNSTEELSTRIKE,Solar Sunsteel Strike,NP16,110,STEEL,Physical,100,5,100,AllFoes,0,abf,"The user slams into the target with the force of a meteor. Can't be stopped by the target's Ability."
+1266,BMOONGEISTBEAM,Lunar Moongeist Beam,NP17,130,GHOST,Special,100,1,100,AllFoes,0,f,"The user emits a sinister ray. This move can be used on the target regardless of its Abilities."
 
 #--------------------------------
 # aRc Suit TMs (RT)

@@ -1,3 +1,6 @@
+gc stuff:
+- nc elio and selene battle bgm + dialogue
+
 audio packs:
 - edit function which gets name of:
  - poke center healing (done)
@@ -58,14 +61,16 @@ new website:
 - downloads
 - discord
 
-- waiting for ow sprites for sync and titan trainers (Vermint unless stated otherwise)
+- waiting for ow sprites for sync and titan trainers (Oolert unless stated otherwise)
 Neo Champion Serena
 Neo Champion Calem
 Neo Champion Marnie
 Neo Champion Hop
 Neo Champion Bede
+Neo Champion Elio
+Neo Champion Selene
+
+(currently being done by Megshi, might take like 3 months tho)
 Neo Champion Red
 Neo Champion Leaf
 Neo Champion Blue
-
-Dojo Gloria (currently being done by Angel?)

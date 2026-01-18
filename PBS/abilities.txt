@@ -443,3 +443,5 @@
 626,NCBIANCA,Bianca's New Path,"Raise team's speed and evasion after using a move and ignore target's enduring effect."
 627,NCMAY,May's Blue Blessing,"Increase Sp. Atk. by 2 on entry and power up moves while raining. Moves will always land and be critical hits."
 628,NCBRENDAN,Brendan's Red Hype,"Increase Atk. by 2 on entry and power up moves while sunny. Moves will always land and be critical hits."
+629,NCELIO,Elio's Gentle Power,"Increase Atk. by 2 on entry. Moves will always be critical hits. Automatically use Morning Sun when below 50% HP."
+630,NCSELENE,Selene's Continuous Warmth,"Increase Sp. Atk. by 2 on entry. Moves will always be critical hits. Automatically use Moonlight when below 50% HP."

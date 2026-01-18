@@ -63794,6 +63794,7 @@ Pokemon = DIANCIE,100
 LoseText = "It's... over."
 Pokemon = VOLCANION,100
     Moves = STEAMERUPTION,HEATWAVE,BHYDROPUMP,SSLYSANDRE
+    AbilityIndex = 0
     Passive = SCORCHINGTOUCH
     Item = WEAKNESSPOLICY
     Nature = MODEST
@@ -64172,6 +64173,28 @@ Pokemon = GROUDON,100
     Nature = ADAMANT
     IV = 31,31,31,31,31,31
     EV = 128,252,0,128,0,0
+#-------------------------------
+[NC_Elio,Elio]
+LoseText = "..."
+Pokemon = NECROZMA,100
+    Moves = SUNSTEELSTRIKE,BSUNSTEELSTRIKE,MORNINGSUN,NCELIO
+    Passive = NCELIO
+    Form = 1
+    Item = METALCOAT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 128,252,0,128,0,0
+#-------------------------------
+[NC_Selene,Selene]
+LoseText = "..."
+Pokemon = NECROZMA,100
+    Moves = MOONGEISTBEAM,BMOONGEISTBEAM,MOONLIGHT,NCSELENE
+    Passive = NCSELENE
+    Form = 2
+    Item = SPELLTAG
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 128,0,0,128,252,0
 #-------------------------------
 [ARC_Cynthia,Cynthia]
 LoseText = "What a great battle!"
