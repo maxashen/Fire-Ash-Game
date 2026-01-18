@@ -9,6 +9,7 @@ New features:
 Issues fixed:
 - Properly fix not being able to return to Cianwood City if the player didn't heal in its Pokémon Center and blacked out there
 - Fixed Burn Up crashing the game when used by a Fire type Pokémon with no secondary type
+- Fixed Dire Claw not working properly when trying to put a Pokémon to sleep
 - Fix being able to move through certain edge tiles, which would lead to walking on water, e.g. Tangelo Island, Milos Island
 - Fix TM90 (Substitute) having an incomplete description
 - Fix being kicked out of Ultra Deep Space after saving Lusamine and before Necrozma's event
