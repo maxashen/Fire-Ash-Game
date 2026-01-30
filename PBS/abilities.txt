@@ -313,6 +313,11 @@
 422,GALARSFLAME,Flame of Galar,"Galar's hopes are manifested in this bright flame."
 423,UNOVASDREAD,Dread of Unova,"Unova's hopes are manifested in this dreadful beast."
 424,UNOVASINSECT,Insect of Unova,"Unova's hopes are manifested in this beautiful insect."
+425,JOHTOSFLAME,Flame of Johto,"Johto's hopes are manifested in this bright flame."
+426,JOHTOSSKY,Sky of Johto,"Johto's hopes are manifested in these high-flying wings."
+427,KANTOSSKY,Sky of Kanto,"Kanto's hopes are manifested in these high-flying wings."
+428,KANTOSSTONE,Stone of Kanto,"Kanto's hopes are manifested in this sturdy stone."
+429,KANTOSSPLASH,Splash of Kanto,"Kanto's hopes are manifested in this aquatic creature."
 #------------------------------------
 # Player Passives
 #------------------------------------

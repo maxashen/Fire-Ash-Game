@@ -550,3 +550,8 @@
 586,ARC_Leon,Arc Suit,0,arcLeon,,,Male,200,
 587,ARC_N,Arc Suit,0,arcN,Battle Victory Leader,,Male,,
 588,ARC_Alder,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,
+589,ARC_Silver,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,
+590,ARC_Ethan,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,
+591,ARC_Blue,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,
+592,ARC_Brock,Arc Suit,0,arcAlder,Battle Victory Leader,,Male,,
+593,ARC_Misty,Arc Misty,0,arcAlder,Battle Victory Leader,,Female,,

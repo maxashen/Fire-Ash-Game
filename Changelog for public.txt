@@ -26,7 +26,9 @@ Main Game Changes:
 - Removed duplicates of the same character during events
 
 Grandeur Club Changes:
-- Added more trainers to Sync + Titan challenges
+- Added more trainers to Sync, Titan and ??? challenges and rebalanced some trainers
+- Fixed Hisui and Galar achievement not tracking properly
+- Fixed SS Mina's Trainer Move making the opponents unable to use moves
 - Fixed healing triggering an unlimited amount of times in the ??? Challenge
 
 Misc.:

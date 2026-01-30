@@ -63,7 +63,6 @@ new website:
 
 - waiting for ow sprites for sync and titan trainers (Oolert unless stated otherwise)
 Neo Champion Serena
-Neo Champion Calem
 Neo Champion Marnie
 Neo Champion Hop
 Neo Champion Bede
@@ -74,3 +73,10 @@ Neo Champion Selene
 Neo Champion Red
 Neo Champion Leaf
 Neo Champion Blue
+
+need in-battle sprite:
+Arc Suit Ethan
+Arc Suit Silver
+Arc Suit Blue
+Arc Suit Brock
+Arc Suit Misty

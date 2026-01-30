@@ -64210,7 +64210,7 @@ Pokemon = GARCHOMP,100
 [ARC_Lance,Lance]
 LoseText = "I've been bested!"
 Pokemon = DRAGONITE,100
-    Moves = GIGAIMPACT,HYPERBEAM,ARHYPERBEAM,ARCLANCE
+    Moves = GIGAIMPACT,HYPERBEAM,ARCLANCE,ARHYPERBEAM
     AbilityIndex = 2
     Passive = JOHTOSDRACO
     Item = DRAGONFANG
@@ -64261,6 +64261,39 @@ Pokemon = VOLCARONA,100
     Moves = HYPERBEAM,ASHYPERBEAM,ARCALDER,DBUGBUZZ
     Passive = UNOVASINSECT
     Item = SILVERPOWDER
+    IV = 31
+    EV = 4,0,0,252,252,0
+    Nature = TIMID
+    Happiness = 255
+#-------------------------------
+[ARC_Silver,Silver]
+LoseText = "We've been bested."
+Pokemon = HOOH,100
+    Moves = SACREDFIRE,ASACREDFIRE,RECOVER,ARCSILVER
+    Passive = JOHTOSFLAME
+    Item = LEFTOVERS
+    IV = 31
+    EV = 128,0,0,128,252,0
+    Nature = TIMID
+    Happiness = 255
+#-------------------------------
+[ARC_Ethan,Ethan]
+LoseText = "We've been bested."
+Pokemon = LUGIA,100
+    Moves = AEROBLAST,THUNDERWAVE,AAEROBLAST,ARCETHAN
+    Passive = JOHTOSSKY
+    Item = LEFTOVERS
+    IV = 31
+    EV = 128,0,0,128,252,0
+    Nature = TIMID
+    Happiness = 255
+#-------------------------------
+[ARC_Blue,Blue]
+LoseText = "We're still at the top."
+Pokemon = PIDGEOT,100
+    Moves = BHURRICANE,PROTECT,AIRSLASH,ARCBLUE
+    Passive = KANTOSSKY
+    Item = PIDGEOTITE
     IV = 31
     EV = 4,0,0,252,252,0
     Nature = TIMID
