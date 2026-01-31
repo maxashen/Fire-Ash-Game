@@ -1140,6 +1140,6 @@
 1339,AROCKSLIDE,Almighty Rock Slide,RP09,100,ROCK,Physical,0,10,100,AllFoes,0,b,"Large boulders are hurled at the foes to inflict damage. It may also make the targets flinch."
 1340,ASTONEEDGE,Almighty Stone Edge,RP10,150,ROCK,Physical,0,1,100,NearOther,0,fh,"The user stabs the foe with sharpened stones from below. It always results in a critical hit."
 1341,DROCKSLIDE,Unbreakable Loyalty Divine Rock Slide,SM00,180,ROCK,Physical,0,1,100,AllFoes,0,fp,"Large boulders are hurled at the foes to inflict damage."
-1342,ABUBBLEBEAM,Bubble Beam,RP11,80,WATER,Special,0,20,100,NearOther,0,bf,"A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat."
-1343,AHYDROPUMP,Hydro Pump,RP12,150,WATER,Special,0,1,100,AllFoes,0,f,"The target is blasted by a huge volume of water launched under great pressure."
+1342,ABUBBLEBEAM,Almighty Bubble Beam,RP11,80,WATER,Special,0,20,100,NearOther,0,bf,"A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat."
+1343,AHYDROPUMP,Almighty Hydro Pump,RP12,150,WATER,Special,0,1,100,AllFoes,0,f,"The target is blasted by a huge volume of water launched under great pressure."
 1344,DBUBBLEBEAM,Piercing Droplets Divine Bubble Beam,SM00,180,WATER,Special,0,1,100,NearOther,0,fp,"A spray of bubbles is forcefully ejected at the target. It may also lower its Speed stat."
