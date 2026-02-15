@@ -64271,7 +64271,7 @@ Pokemon = VOLCARONA,100
     Happiness = 255
 #-------------------------------
 [ARC_Silver,Silver]
-LoseText = "We've been bested."
+LoseText = "Ours hearts will keep growing stronger."
 Pokemon = HOOH,100
     Moves = SACREDFIRE,ASACREDFIRE,RECOVER,ARCSILVER
     AbilityIndex = 0
@@ -64283,7 +64283,7 @@ Pokemon = HOOH,100
     Happiness = 255
 #-------------------------------
 [ARC_Ethan,Ethan]
-LoseText = "We've been bested."
+LoseText = "We'll soar even higher next time."
 Pokemon = LUGIA,100
     Moves = AEROBLAST,THUNDERWAVE,AAEROBLAST,ARCETHAN
     AbilityIndex = 2
@@ -64295,7 +64295,7 @@ Pokemon = LUGIA,100
     Happiness = 255
 #-------------------------------
 [ARC_Blue,Blue]
-LoseText = "We're still at the top."
+LoseText = "You kept up! No way!"
 Pokemon = PIDGEOT,100
     Moves = BHURRICANE,PROTECT,AIRSLASH,ARCBLUE
     AbilityIndex = 2
@@ -64319,7 +64319,7 @@ Pokemon = ONIX,100
     Happiness = 255
 #-------------------------------
 [ARC_Misty,Misty]
-LoseText = "Wasn't our policy still good?"
+LoseText = "Wasn't our policy still pretty good?"
 Pokemon = STARMIE,100
     Moves = ABUBBLEBEAM,AHYDROPUMP,ARCMISTY,DBUBBLEBEAM
     AbilityIndex = 2
